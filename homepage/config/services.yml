@@ -1,0 +1,28 @@
+- Management:
+    - Portainer:
+        href: https://port.dandelionkos.site
+        icon: portainer.png
+        description: portainer
+        widget:
+            type: portainer
+            url: https://port.dandelionkos.site
+            env: 2
+        
+- Monitoring:
+    - UptimeKuma:
+        href: https://kuma.dandelionkos.site
+        description: uptimekuma
+        icon: https://cdn.jsdelivr.net/gh/louislam/uptime-kuma@642136780fcaefed1a66bedc2309de831cabac16/public/icon.svg
+        widget:
+            type: uptimekuma
+            url: https://kuma.dandelionkos.site
+            slug: publicservices
+
+
+- Automation:
+    - N8N:
+        href: https://node.dandelionkos.site
+        description: n8n node workflow
+        icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/n8n.png
+
+   

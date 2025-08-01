@@ -1,0 +1,52 @@
+name: kuma
+services:
+  kuma:
+    cpu_shares: 90
+    command: []
+    container_name: kuma
+    deploy:
+      resources:
+        limits:
+          memory: 1865M
+    hostname: kuma
+    image: louislam/uptime-kuma:1
+    labels:
+      icon: https://cdn.jsdelivr.net/gh/louislam/uptime-kuma@642136780fcaefed1a66bedc2309de831cabac16/public/icon.svg
+    ports:
+      - mode: ingress
+        target: 3001
+        published: "3001"
+        protocol: tcp
+    restart: unless-stopped
+    volumes:
+      - type: bind
+        source: /home/hibhaqqi/kuma/uptime-kuma-data
+        target: /app/data
+        bind:
+          create_host_path: true
+      - type: bind
+        source: /var/run/docker.sock
+        target: /var/run/docker.sock
+        bind:
+          create_host_path: true
+    devices: []
+    cap_add: []
+    environment: []
+    networks:
+      - private-net
+    privileged: false
+networks:
+  private-net:
+    name: private-net
+    external: true
+x-casaos:
+  author: self
+  category: self
+  hostname: ""
+  icon: https://cdn.jsdelivr.net/gh/louislam/uptime-kuma@642136780fcaefed1a66bedc2309de831cabac16/public/icon.svg
+  index: /
+  is_uncontrolled: false
+  port_map: ""
+  scheme: http
+  title:
+    custom: Kuma

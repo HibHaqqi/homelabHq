@@ -1,0 +1,67 @@
+name: big-bear-homepage
+services:
+  app:
+    cpu_shares: 90
+    command: []
+    container_name: homepage
+    deploy:
+      resources:
+        limits:
+          memory: 1865M
+    environment:
+      - HOMEPAGE_ALLOWED_HOSTS=homelab.dandelionkos.site
+    hostname: homepage
+    image: ghcr.io/gethomepage/homepage:v1.4.0
+    labels:
+      icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/homepage.png
+    ports:
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+    restart: unless-stopped
+    volumes:
+      - type: bind
+        source: /DATA/AppData/big-bear-homepage/config
+        target: /app/config
+        bind:
+          create_host_path: true
+      - type: bind
+        source: /var/run/docker.sock
+        target: /var/run/docker.sock
+        bind:
+          create_host_path: true
+    devices: []
+    cap_add: []
+    networks:
+      - default
+    privileged: false
+networks:
+  default:
+    name: big-bear-homepage_default
+x-casaos:
+  architectures:
+    - amd64
+    - arm64
+  author: BigBearTechWorld
+  category: BigBearCasaOS
+  description:
+    en_us: A modern, fully static, fast, secure fully proxied, highly customizable
+      application dashboard with integrations for over 100 services and
+      translations into multiple languages. Easily configured via YAML files or
+      through docker label discovery.
+  developer: gethomepage
+  hostname: ""
+  icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/homepage.png
+  index: /
+  is_uncontrolled: false
+  main: app
+  port_map: "3022"
+  scheme: http
+  store_app_id: big-bear-homepage
+  tagline:
+    en_us: Homepage
+  thumbnail: ""
+  title:
+    custom: ""
+    en_us: Homepage
