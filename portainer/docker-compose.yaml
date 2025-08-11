@@ -1,0 +1,37 @@
+version: "3.8"
+
+networks:
+  internal:
+    driver: bridge
+
+services:
+  # -------------------------------------------------
+  # Portainer – UI for managing Docker
+  # -------------------------------------------------
+  portainer:
+    image: portainer/portainer-ce:latest    # Official CE image
+    restart: always
+    ports:
+      - "9020:9000"                         # Host 9020 → Container 9000
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - internal
+
+  # -------------------------------------------------
+  # Cloudflare Tunnel (cloudflared)
+  # -------------------------------------------------
+  cloudflared:
+    image: cloudflare/cloudflared:2022.5.1   # Official cloudflared image
+    restart: unless-stopped
+    command: >
+      tunnel --no-autoupdate run
+      --token ${CLOUDFLARED_TOKEN}
+    environment:
+      - CLOUDFLARED_TOKEN=YOUR_TUNNEL_TOKEN   # ❗ Replace with your token
+    networks:
+      - internal
+    # Expose the tunnel service to Portainer (internal port 8080)
+    # Cloudflare will forward traffic from your domain to this port.
+    expose:
+      - "8080"
