@@ -1,0 +1,41 @@
+# Stack name: monitoring
+version: "3.9"
+
+networks:
+  frontend:
+    external: true
+  backend:
+    external: true
+
+volumes:
+  grafana-data:
+    driver: local
+  prometheus-data:
+    driver: local
+
+services:
+  grafana:
+    image: grafana/grafana-oss:11.0.0
+    container_name: grafana-prod-1
+    volumes:
+      - grafana-data:/var/lib/grafana
+    networks:
+      - frontend
+    restart: unless‑stopped
+    ports:
+      - "3004:3000"   # expose Grafana UI on host port 3000
+
+  prometheus:
+    image: prom/prometheus:v2.37.9
+    container_name: prometheus-prod-1
+    command: "--config.file=/etc/prometheus/prometheus.yaml"
+    volumes:
+      - ./config/prometheus.yaml:/etc/prometheus/prometheus.yaml:ro
+      - prometheus-data:/prometheus
+    networks:
+      - frontend
+      - backend
+    restart: unless‑stopped
+    ports:
+      - "3005:9090"  
+
