@@ -7,7 +7,7 @@
     pg_password: "rahasia"
     pg_database: "financetrack"
     container_name: "financetrack-postgres-1"
-    backup_dir: "/home/haqqi/app/homelabHq/ansible/data"
+    backup_dir: "/home/haqqi/app/Financetrack/backup"
     backup_file: "financetrack_backup.dump"
 
   tasks:
