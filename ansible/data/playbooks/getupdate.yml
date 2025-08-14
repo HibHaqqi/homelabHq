@@ -1,13 +1,12 @@
-.---
-- hosts: all
-  become: yes  # Ensure privilege escalation to run apt commands as root
+---
+- name: Simple update and upgrade package cache
+  hosts: all
+  become: yes
 
   tasks:
     - name: Update apt package cache and upgrade packages
       apt:
-        update_cache: yes    # Update the package cache
-        upgrade: dist        # Perform a distribution upgrade (recommended for full upgrade)
-        cache_valid_time: 3600  # Optional: only update cache if older than an hour
-
-
+        update_cache: yes
+        upgrade: dist
+        cache_valid_time: 3600
 
