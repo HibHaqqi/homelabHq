@@ -1,10 +1,11 @@
 ---
 - name: Simple update package cache
   hosts: all
-  become: yes
+  become: true
 
   tasks:
     - name: Update apt package cache
       apt:
+        upgrade: yes
         update_cache: yes
 
