@@ -1,6 +1,5 @@
 .---
-- name: Simple update and upgrade package cache
-  hosts: all
+- hosts: all
   become: yes  # Ensure privilege escalation to run apt commands as root
 
   tasks:
