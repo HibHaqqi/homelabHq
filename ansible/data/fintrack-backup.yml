@@ -21,8 +21,9 @@
 
     - name: Set current date for backup filename
       set_fact:
-        backup_date: "{{ '%02d%02d%02d' | format(ansible_date_time.day|int, ansible_date_time.month|int, ansible_date_time.year|string[-2:]|int) }}"
+        backup_date: "{{ '%02d%02d%s' | format(ansible_date_time.day|int, ansible_date_time.month|int, ansible_date_time.year | regex_replace('^..', '')) }}"
         backup_file: "{{ backup_date }}_{{ backup_file_prefix }}{{ backup_file_suffix }}"
+
 
     - name: Run pg_dump inside the Docker container
       command: >
