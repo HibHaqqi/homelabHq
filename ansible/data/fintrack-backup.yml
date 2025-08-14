@@ -1,0 +1,41 @@
+---
+- name: Backup PostgreSQL database from financetrack-postgres-1 container
+  hosts: all
+  become: yes
+  vars:
+    pg_user: "postgres"
+    pg_password: "rahasia"
+    pg_database: "financetrack"
+    container_name: "financetrack-postgres-1"
+    backup_dir: "/home/haqqi/app/homelabHq/ansible/data"
+    backup_file: "financetrack_backup.dump"
+
+  tasks:
+    - name: Create backup directory on host if not exists
+      file:
+        path: "{{ backup_dir }}"
+        state: directory
+        mode: '0755'
+
+    - name: Run pg_dump inside the Docker container
+      command: >
+        docker exec {{ container_name }}
+        pg_dump -U {{ pg_user }}
+        -F c -b -v
+        -f /tmp/{{ backup_file }}
+        {{ pg_database }}
+      environment:
+        PGPASSWORD: "{{ pg_password }}"
+
+    - name: Copy backup file from container to host
+      command: >
+        docker cp {{ container_name }}:/tmp/{{ backup_file }} {{ backup_dir }}/{{ backup_file }}
+
+    - name: Remove backup file inside container to clean up
+      command: >
+        docker exec {{ container_name }} rm -f /tmp/{{ backup_file }}
+
+    - name: Show backup file location
+      debug:
+        msg: "Backup file saved at {{ backup_dir }}/{{ backup_file }}"
+
