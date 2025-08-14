@@ -21,7 +21,7 @@
 
     - name: Set current date for backup filename
       set_fact:
-        backup_date: "{{ '%02d%02d%s' | format(ansible_date_time.day|int, ansible_date_time.month|int, ansible_date_time.year | string | slice(-2)) }}"
+        backup_date: "{{ '%02d%02d%s' | format(ansible_date_time.day|int, ansible_date_time.month|int, ansible_date_time.year }}"
     
     - name: Set backup file name with date
       set_fact:
