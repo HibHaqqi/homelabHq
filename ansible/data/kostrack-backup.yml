@@ -8,7 +8,9 @@
     pg_database: "kosmanage"
     container_name: "bizkos-db"
     backup_dir: "/home/haqqi/app/biztrackkos-2/backup"
-    backup_file: "bizkos_backup.dump"
+    backup_file_prefix: "bizkos_backup"
+    backup_file_suffix: ".dump"
+    retention_days: 7
 
   tasks:
     - name: Create backup directory on host if not exists
@@ -16,6 +18,11 @@
         path: "{{ backup_dir }}"
         state: directory
         mode: '0755'
+
+    - name: Set current date for backup filename
+      set_fact:
+        backup_date: "{{ '%02d%02d%02d' | format(ansible_date_time.day|int, ansible_date_time.month|int, ansible_date_time.year|string[-2:]|int) }}"
+        backup_file: "{{ backup_date }}_{{ backup_file_prefix }}{{ backup_file_suffix }}"
 
     - name: Run pg_dump inside the Docker container
       command: >
@@ -34,6 +41,21 @@
     - name: Remove backup file inside container to clean up
       command: >
         docker exec {{ container_name }} rm -f /tmp/{{ backup_file }}
+
+    - name: Remove backup files older than retention period
+      find:
+        paths: "{{ backup_dir }}"
+        patterns: "{{ backup_file_prefix }}*.dump"
+        age: "{{ retention_days }}d"
+        age_stamp: "mtime"
+      register: old_backups
+
+    - name: Delete old backup files
+      file:
+        path: "{{ item.path }}"
+        state: absent
+      loop: "{{ old_backups.files }}"
+      when: old_backups.matched > 0
 
     - name: Show backup file location
       debug:
