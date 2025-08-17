@@ -50,3 +50,18 @@ services:
       - "${GITEA_SSH_PORT}:22"      # SSH Git
     networks:
       - gitea-net
+  gitea-runner:
+    image: gitea/act_runner:latest
+    environment:
+      GITEA_INSTANCE_URL: "http://192.168.1.5:3020"
+      GITEA_RUNNER_REGISTRATION_TOKEN: "acxcCqHnZgvyoGIZHtuNE6UvyuSGaNdGMDsEKUW7"
+      GITEA_RUNNER_NAME: "Gitea Runner"
+
+    depends_on:
+     - gitea
+     - gitea-db
+    volumes:
+     - ./runner:/data
+     - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+     - gitea-net 
