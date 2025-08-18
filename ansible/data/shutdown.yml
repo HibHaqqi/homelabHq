@@ -1,6 +1,6 @@
 ---
 - name: Shut down server immediately without password prompt
-  hosts: your_ubuntu_server_group
+  hosts: all
   become: yes
   tasks:
     - name: Shutdown server
