@@ -1,7 +1,10 @@
 ---
-- name: Shutdown server gracefully
+- name: Schedule server shutdown
   hosts: all
   become: yes
   tasks:
-    - name: Shutdown server immediately
-      ansible.builtin.command: /sbin/shutdown now
+    - name: Shut down the server immediately using systemctl
+      ansible.builtin.command: systemctl poweroff
+      async: 1
+      poll: 0
+
