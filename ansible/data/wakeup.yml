@@ -1,6 +1,6 @@
 ---
-- name: Schedule server shutdown and wake-up
-  hosts: your_ubuntu_server_group
+- name: Schedule server wake-up
+  hosts: all
   become: yes  # <--- This is the key
   tasks:
     - name: Set RTC wake-up time for tomorrow at 4 AM
