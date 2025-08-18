@@ -1,8 +1,10 @@
 ---
-- name: Schedule RTC Wake-Up
+- name: Set RTC wake-up
   hosts: all
   become: yes
   tasks:
-    - name: Set RTC wake-up alarm
-      command: rtcwake -m no -t 1755554400
+    - name: Schedule server wake-up for 4 AM
+      ansible.builtin.shell: /usr/sbin/rtcwake -m no -t $(date -d "tomorrow 04:00" +%s)
+      args:
+        executable: /bin/bash
 
