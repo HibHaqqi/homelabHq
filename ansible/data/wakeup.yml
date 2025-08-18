@@ -1,9 +1,8 @@
 ---
-- name: Schedule  Wake-Up
+- name: Schedule RTC Wake-Up
   hosts: all
   become: yes
   tasks:
     - name: Set RTC wake-up alarm
-      command: >
-        rtcwake -m no -t 1755554400
+      command: rtcwake -m no -t 1755554400
 
