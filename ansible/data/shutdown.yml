@@ -1,0 +1,7 @@
+---
+- name: Shutdown server gracefully
+  hosts: all
+  become: yes
+  tasks:
+    - name: Shutdown server immediately
+      ansible.builtin.command: /sbin/shutdown now
