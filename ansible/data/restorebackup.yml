@@ -6,9 +6,9 @@
     pg_user: "postgres"
     pg_password: "rahasia"
     pg_database: "financetrack"       # Change accordingly to your database to restore
-    container_name: "financetrack-postgres-1"  # Change to the container where you want to restore
-    backup_dir: "/home/haqqi/app/homelabHq/ansible/data"  # Directory on host where backup resides
-    backup_file: "financetrack_backup.dump"              # Backup filename
+    container_name: "bizkos-db"  # Change to the container where you want to restore
+    backup_dir: "/home/haqqi/app/Financetrack/backup"  # Directory on host where backup resides
+    backup_file: "18082025_financetrack_backup.dump"              # Backup filename
 
   tasks:
     - name: Copy backup file from host to container
