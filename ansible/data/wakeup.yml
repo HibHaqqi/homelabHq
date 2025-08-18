@@ -3,10 +3,11 @@
   hosts: all
   become: yes  # <--- This is the key
   tasks:
-   - name: Check current user id
-     command: whoami
-     become: yes 
-   - name: Set RTC wake-up time for tomorrow at 4 AM
+    - name: Check current user id
+      command: whoami
+      become: yes
+
+    - name: Set RTC wake-up time for tomorrow at 4 AM
       ansible.builtin.shell: /usr/sbin/rtcwake -m no -t $(date -d "tomorrow 04:00" +%s)
       args:
         executable: /bin/bash
