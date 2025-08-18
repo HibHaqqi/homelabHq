@@ -5,6 +5,4 @@
   tasks:
     - name: Shut down the server immediately using systemctl
       ansible.builtin.command: systemctl poweroff
-      async: 1
-      poll: 0
-
+      
