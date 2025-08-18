@@ -1,8 +1,8 @@
 ---
-- name: Schedule server shutdown
-  hosts: all
+- name: Shut down server immediately without password prompt
+  hosts: your_ubuntu_server_group
   become: yes
   tasks:
-    - name: Shut down the server immediately using systemctl
-      ansible.builtin.command: systemctl poweroff
-      
+    - name: Shutdown server
+      ansible.builtin.command: /sbin/shutdown -h now "Scheduled shutdown"
+
