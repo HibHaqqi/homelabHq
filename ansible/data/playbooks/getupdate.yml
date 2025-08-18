@@ -2,7 +2,7 @@
 ---
 - name: Simple update and upgrade package cache
   hosts: all
-  become: yes
+  become: true
 
   tasks:
     - name: Update apt package cache and upgrade packages

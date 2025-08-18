@@ -1,7 +1,7 @@
 ---
 - name: Shut down server immediately without password prompt
   hosts: all
-  become: yes
+  become: true
   tasks:
     - name: Shutdown server
       ansible.builtin.command: /sbin/shutdown -h now "Scheduled shutdown"
