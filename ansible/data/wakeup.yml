@@ -1,14 +1,16 @@
 ---
 - name: Schedule server wake-up
   hosts: all
-  become: yes  # <--- This is the key
+  become: yes
+  become_user: root
   tasks:
     - name: Check current user id
       command: whoami
-      become: yes
+
+    - name: Get tomorrow 4 AM timestamp
+      command: date -d "tomorrow 04:00" +%s
+      register: wakeup_time
 
     - name: Set RTC wake-up time for tomorrow at 4 AM
-      ansible.builtin.shell: /usr/sbin/rtcwake -m no -t $(date -d "tomorrow 04:00" +%s)
-      args:
-        executable: /bin/bash
+      command: /usr/sbin/rtcwake -m no -t {{ wakeup_time.stdout }}
 
