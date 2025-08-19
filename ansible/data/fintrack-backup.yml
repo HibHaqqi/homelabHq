@@ -6,7 +6,7 @@
     pg_user: "postgres"
     pg_password: "rahasia"
     pg_database: "financetrack"
-    container_name: "financetrack-postgres-1"
+    container_name: "bizkos-db"
     backup_dir: "/home/haqqi/app/Financetrack/backup"
     backup_file_prefix: "financetrack_backup"
     backup_file_suffix: ".dump"
