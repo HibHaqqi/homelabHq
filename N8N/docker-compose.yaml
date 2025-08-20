@@ -20,9 +20,9 @@ services:
       - DB_POSTGRESDB_USER=bigbearcasaos
       - DB_TYPE=postgresdb
       - N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true
-      - N8N_HOST=node.dandelionkos.site
+      - N8N_HOST=node.3devnest.site
       - N8N_SECURE_COOKIE=false
-      - WEBHOOK_URL=https://node.dandelionkos.site
+      - WEBHOOK_URL=https://node.3devnest.site
     hostname: n8n
     image: n8nio/n8n:latest
     labels:
@@ -37,8 +37,8 @@ services:
     restart: unless-stopped
     volumes:
       - type: bind
-        source: /DATA/AppData/big-bear-n8n/.n8n
-        target: /home/hibhaqqi/n8n
+        source: /home/haqqi/app/homelabHq/N8N/.n8n
+        target: /home/haqqi/n8n
         bind:
           create_host_path: true
     devices: []
@@ -72,12 +72,12 @@ services:
     restart: on-failure
     volumes:
       - type: bind
-        source: /DATA/AppData/big-bear-n8n/pgdata
+        source: /home/haqqi/app/homelabHq/N8N/pgdata
         target: /var/lib/postgresql/data-n8n
         bind:
           create_host_path: true
       - type: bind
-        source: /DATA/AppData/big-bear-n8n/db/init-data.sh
+        source: /home/haqqi/app/homelabHq/db/init-data.sh
         target: /docker-entrypoint-initdb.d/init-data.sh
         bind:
           create_host_path: true

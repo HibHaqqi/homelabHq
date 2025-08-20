@@ -1,0 +1,9 @@
+2025-08-20 06:45:10|INFO    |root                            |Scheduler will use this timezone: Asia/Jakarta|
+2025-08-20 06:45:12|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-08-20 06:45:12|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-08-20 08:55:03|INFO    |root                            |Scheduler will use this timezone: Asia/Jakarta|
+2025-08-20 08:55:05|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-08-20 08:55:05|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-08-20 10:42:06|INFO    |root                            |Scheduler will use this timezone: Asia/Jakarta|
+2025-08-20 10:42:07|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-08-20 10:42:07|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|

@@ -1,0 +1,57 @@
+services:
+  semaphore:
+    container_name: semaphore
+    image: semaphoreui/semaphore:latest
+    ports:
+      - "3024:3000"
+    environment:
+      - SEMAPHORE_DB_USER=${SEMAPHORE_DB_USER:?err}
+      - SEMAPHORE_DB_PASS=${SEMAPHORE_DB_PASS:?err}
+      - SEMAPHORE_DB_HOST=db
+      - SEMAPHORE_DB_PORT=3306
+      - SEMAPHORE_DB_DIALECT=mysql
+      - SEMAPHORE_DB=${SEMAPHORE_DB:?err}
+      - SEMAPHORE_ADMIN_PASSWORD=${SEMAPHORE_ADMIN_PASSWORD:?err}
+      - SEMAPHORE_ADMIN_NAME=${SEMAPHORE_ADMIN_NAME:-admin}
+      - SEMAPHORE_ADMIN_EMAIL=${SEMAPHORE_ADMIN_EMAIL:-admin@localhost}
+      - SEMAPHORE_ADMIN=${SEMAPHORE_ADMIN:-admin}
+      - SEMAPHORE_ACCESS_KEY_ENCRYPTION=${SEMAPHORE_ACCESS_KEY_ENCRYPTION:?err}
+      - ANSIBLE_HOST_KEY_CHECKING=false
+    volumes:
+      - semaphore_config:/etc/semaphore:rw
+      - ./data:/data:ro
+    depends_on:
+      - db
+    restart: unless-stopped
+    networks:
+      - backend
+      - frontend
+
+  db:
+    container_name: semaphore-db
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:?err}
+      MYSQL_DATABASE: ${SEMAPHORE_DB:?err}
+      MYSQL_USER: ${SEMAPHORE_DB_USER:?err}
+      MYSQL_PASSWORD: ${SEMAPHORE_DB_PASS:?err}
+    volumes:
+      - mysql_data:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    restart: unless-stopped
+    networks:
+      - backend
+
+networks:
+  frontend:
+    driver: bridge
+  backend:
+    driver: bridge
+
+volumes:
+  semaphore_config:
+    driver: local
+  mysql_data:
+    driver: local
+

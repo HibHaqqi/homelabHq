@@ -1,0 +1,173 @@
+(N) 2025-08-20T06:45:33 - qBittorrent v5.1.2 started. Process ID: 149
+(N) 2025-08-20T06:45:33 - Using config directory: /config/qBittorrent
+(N) 2025-08-20T06:45:33 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-20T06:45:33 - Peer ID: "-qB5120-"
+(I) 2025-08-20T06:45:33 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-20T06:45:33 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-20T06:45:33 - Local Peer Discovery support: ON
+(I) 2025-08-20T06:45:33 - Peer Exchange (PeX) support: ON
+(I) 2025-08-20T06:45:33 - Anonymous mode: OFF
+(I) 2025-08-20T06:45:33 - Encryption support: ON
+(I) 2025-08-20T06:45:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-20T06:45:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-20T06:45:33 - Successfully listening on IP. IP: "172.39.0.2". Port: "TCP/6881"
+(I) 2025-08-20T06:45:33 - Successfully listening on IP. IP: "172.39.0.2". Port: "UTP/6881"
+(I) 2025-08-20T06:45:33 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-20T06:45:33 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2025-08-20T06:45:33 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2025-08-20T06:45:33 - Using built-in WebUI.
+(W) 2025-08-20T06:45:33 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-20T06:45:33 - WebUI: Now listening on IP: *, port: 9091
+(I) 2025-08-20T06:45:34 - Detected external IP. IP: "180.253.172.135"
+(I) 2025-08-20T06:45:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 08:25:11 2025.
+(I) 2025-08-20T06:45:34 - Successfully updated IP geolocation database.
+(N) 2025-08-20T07:17:53 - qBittorrent termination initiated
+(N) 2025-08-20T07:17:53 - Saving resume data completed.
+(N) 2025-08-20T07:17:53 - BitTorrent session successfully finished.
+(N) 2025-08-20T07:17:53 - qBittorrent is now ready to exit
+(N) 2025-08-20T08:54:52 - qBittorrent v5.1.2 started. Process ID: 144
+(N) 2025-08-20T08:54:52 - Using config directory: /config/qBittorrent
+(N) 2025-08-20T08:54:52 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-20T08:54:52 - Peer ID: "-qB5120-"
+(I) 2025-08-20T08:54:52 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-20T08:54:52 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-20T08:54:52 - Local Peer Discovery support: ON
+(I) 2025-08-20T08:54:52 - Peer Exchange (PeX) support: ON
+(I) 2025-08-20T08:54:52 - Anonymous mode: OFF
+(I) 2025-08-20T08:54:52 - Encryption support: ON
+(I) 2025-08-20T08:54:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-20T08:54:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-20T08:54:52 - Successfully listening on IP. IP: "172.39.0.2". Port: "TCP/6881"
+(I) 2025-08-20T08:54:52 - Successfully listening on IP. IP: "172.39.0.2". Port: "UTP/6881"
+(I) 2025-08-20T08:54:52 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-20T08:54:52 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-08-20T08:54:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 08:25:11 2025.
+(N) 2025-08-20T08:54:52 - Using built-in WebUI.
+(W) 2025-08-20T08:54:52 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-20T08:54:52 - WebUI: Now listening on IP: *, port: 9091
+(I) 2025-08-20T08:54:53 - Detected external IP. IP: "180.253.172.135"
+(N) 2025-08-20T08:57:32 - qBittorrent termination initiated
+(N) 2025-08-20T08:57:32 - Saving resume data completed.
+(N) 2025-08-20T08:57:32 - BitTorrent session successfully finished.
+(N) 2025-08-20T08:57:32 - qBittorrent is now ready to exit
+(N) 2025-08-20T08:57:36 - qBittorrent v5.1.2 started. Process ID: 146
+(N) 2025-08-20T08:57:36 - Using config directory: /config/qBittorrent
+(N) 2025-08-20T08:57:36 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-20T08:57:36 - Peer ID: "-qB5120-"
+(I) 2025-08-20T08:57:36 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-20T08:57:36 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-20T08:57:36 - Local Peer Discovery support: ON
+(I) 2025-08-20T08:57:36 - Peer Exchange (PeX) support: ON
+(I) 2025-08-20T08:57:36 - Anonymous mode: OFF
+(I) 2025-08-20T08:57:36 - Encryption support: ON
+(I) 2025-08-20T08:57:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-20T08:57:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-20T08:57:36 - Successfully listening on IP. IP: "172.39.0.2". Port: "TCP/6881"
+(I) 2025-08-20T08:57:36 - Successfully listening on IP. IP: "172.39.0.2". Port: "UTP/6881"
+(I) 2025-08-20T08:57:36 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-20T08:57:36 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-08-20T08:57:36 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 08:25:11 2025.
+(N) 2025-08-20T08:57:36 - Using built-in WebUI.
+(W) 2025-08-20T08:57:36 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-20T08:57:36 - WebUI: Now listening on IP: *, port: 8081
+(I) 2025-08-20T08:57:37 - Detected external IP. IP: "180.253.172.135"
+(N) 2025-08-20T09:03:21 - qBittorrent termination initiated
+(N) 2025-08-20T09:03:21 - Saving resume data completed.
+(N) 2025-08-20T09:03:21 - BitTorrent session successfully finished.
+(N) 2025-08-20T09:03:21 - qBittorrent is now ready to exit
+(N) 2025-08-20T09:03:25 - qBittorrent v5.1.2 started. Process ID: 146
+(N) 2025-08-20T09:03:25 - Using config directory: /config/qBittorrent
+(N) 2025-08-20T09:03:25 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-20T09:03:25 - Peer ID: "-qB5120-"
+(I) 2025-08-20T09:03:25 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-20T09:03:25 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-20T09:03:25 - Local Peer Discovery support: ON
+(I) 2025-08-20T09:03:25 - Peer Exchange (PeX) support: ON
+(I) 2025-08-20T09:03:25 - Anonymous mode: OFF
+(I) 2025-08-20T09:03:25 - Encryption support: ON
+(I) 2025-08-20T09:03:25 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-20T09:03:25 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-20T09:03:25 - Successfully listening on IP. IP: "172.39.0.2". Port: "TCP/6881"
+(I) 2025-08-20T09:03:25 - Successfully listening on IP. IP: "172.39.0.2". Port: "UTP/6881"
+(I) 2025-08-20T09:03:25 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-20T09:03:25 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-08-20T09:03:25 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 08:25:11 2025.
+(N) 2025-08-20T09:03:26 - Using built-in WebUI.
+(W) 2025-08-20T09:03:26 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-20T09:03:26 - WebUI: Now listening on IP: *, port: 8081
+(I) 2025-08-20T09:03:26 - Detected external IP. IP: "180.253.172.135"
+(N) 2025-08-20T09:07:47 - qBittorrent termination initiated
+(N) 2025-08-20T09:07:47 - Saving resume data completed.
+(N) 2025-08-20T09:07:47 - BitTorrent session successfully finished.
+(N) 2025-08-20T09:07:47 - qBittorrent is now ready to exit
+(N) 2025-08-20T09:07:51 - qBittorrent v5.1.2 started. Process ID: 146
+(N) 2025-08-20T09:07:51 - Using config directory: /config/qBittorrent
+(N) 2025-08-20T09:07:51 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-20T09:07:51 - Peer ID: "-qB5120-"
+(I) 2025-08-20T09:07:51 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-20T09:07:51 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-20T09:07:51 - Local Peer Discovery support: ON
+(I) 2025-08-20T09:07:51 - Peer Exchange (PeX) support: ON
+(I) 2025-08-20T09:07:51 - Anonymous mode: OFF
+(I) 2025-08-20T09:07:51 - Encryption support: ON
+(I) 2025-08-20T09:07:51 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-20T09:07:51 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-20T09:07:51 - Successfully listening on IP. IP: "172.39.0.2". Port: "TCP/6881"
+(I) 2025-08-20T09:07:51 - Successfully listening on IP. IP: "172.39.0.2". Port: "UTP/6881"
+(I) 2025-08-20T09:07:51 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-20T09:07:51 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-08-20T09:07:51 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 08:25:11 2025.
+(N) 2025-08-20T09:07:51 - Using built-in WebUI.
+(W) 2025-08-20T09:07:51 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-20T09:07:51 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-08-20T09:07:53 - Detected external IP. IP: "180.253.172.135"
+(N) 2025-08-20T09:09:07 - WebAPI login success. IP: ::ffff:192.168.1.11
+(N) 2025-08-20T09:09:32 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-20T09:09:49 - WebAPI login success. IP: ::ffff:192.168.1.11
+(W) 2025-08-20T09:23:09 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.39.0.1, username: hibhaqqi
+(W) 2025-08-20T09:23:29 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.39.0.1, username: lianal
+(N) 2025-08-20T09:23:45 - WebAPI login success. IP: ::ffff:172.39.0.1
+(N) 2025-08-20T09:29:25 - WebAPI login success. IP: ::ffff:172.39.0.1
+(N) 2025-08-20T09:38:04 - Downloading torrent... Source: "https://releases.ubuntu.com/24.04/ubuntu-24.04.3-live-server-amd64.iso.torrent?_gl=1*150wrqp*_gcl_au*MTY1MTc4NDcwNi4xNzU1NjU3NDUy"
+(N) 2025-08-20T09:38:06 - Added new torrent. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(W) 2025-08-20T09:38:09 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(N) 2025-08-20T09:38:15 - Torrent stopped. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T09:38:32 - Torrent resumed. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(W) 2025-08-20T09:38:33 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(W) 2025-08-20T09:38:36 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(N) 2025-08-20T09:38:47 - Torrent removed. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T09:38:47 - Torrent content removed. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T09:39:00 - Downloading torrent... Source: "https://releases.ubuntu.com/24.04/ubuntu-24.04.3-live-server-amd64.iso.torrent?_gl=1*150wrqp*_gcl_au*MTY1MTc4NDcwNi4xNzU1NjU3NDUy"
+(N) 2025-08-20T09:39:02 - Added new torrent. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(W) 2025-08-20T09:39:04 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(W) 2025-08-20T09:49:05 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(W) 2025-08-20T09:59:06 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(W) 2025-08-20T10:09:07 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(W) 2025-08-20T10:19:09 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(N) 2025-08-20T10:24:09 - WebAPI login success. IP: ::ffff:192.168.1.11
+(W) 2025-08-20T10:29:10 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(W) 2025-08-20T10:39:11 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(N) 2025-08-20T10:42:00 - WebAPI login success. IP: ::ffff:172.39.0.1
+(W) 2025-08-20T10:47:46 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(N) 2025-08-20T10:47:57 - Torrent removed. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T10:47:57 - Torrent content removed. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T10:48:33 - WebAPI login success. IP: ::ffff:172.39.0.1
+(N) 2025-08-20T10:50:16 - WebAPI login success. IP: ::ffff:172.39.0.1
+(N) 2025-08-20T10:57:11 - Added new torrent. Torrent: "A Star is Born 1937 REMASTERED 1080p BluRay x264 DTS FGT ORARBG"
+(W) 2025-08-20T10:57:16 - File error alert. Torrent: "A Star is Born 1937 REMASTERED 1080p BluRay x264 DTS FGT ORARBG". File: "/data/downloads/qbittorrent/incomplete/A.Star.is.Born.1937.REMASTERED.1080p.BluRay.x264.DTS-FGT/A.Star.is.Born.1937.REMASTERED.1080p.BluRay.x264.DTS-FGT.mkv". Reason: "A.Star.is.Born.1937.REMASTERED.1080p.BluRay.x264.DTS-FGT file_open (/data/downloads/qbittorrent/incomplete/A.Star.is.Born.1937.REMASTERED.1080p.BluRay.x264.DTS-FGT/A.Star.is.Born.1937.REMASTERED.1080p.BluRay.x264.DTS-FGT.mkv) error: Permission denied"
+(N) 2025-08-20T11:00:51 - Torrent stopped. Torrent: "A Star is Born 1937 REMASTERED 1080p BluRay x264 DTS FGT ORARBG"
+(N) 2025-08-20T11:01:32 - Torrent removed. Torrent: "A Star is Born 1937 REMASTERED 1080p BluRay x264 DTS FGT ORARBG"
+(N) 2025-08-20T11:01:32 - Torrent content removed. Torrent: "A Star is Born 1937 REMASTERED 1080p BluRay x264 DTS FGT ORARBG"
+(N) 2025-08-20T11:04:04 - Downloading torrent... Source: "https://releases.ubuntu.com/24.04/ubuntu-24.04.3-live-server-amd64.iso.torrent"
+(N) 2025-08-20T11:04:06 - Added new torrent. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(W) 2025-08-20T11:04:08 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(W) 2025-08-20T11:04:26 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(N) 2025-08-20T11:04:36 - Torrent stopped. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T11:07:08 - Torrent resumed. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(W) 2025-08-20T11:07:09 - File error alert. Torrent: "ubuntu-24.04.3-live-server-amd64.iso". File: "/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso". Reason: "ubuntu-24.04.3-live-server-amd64.iso file_open (/data/downloads/qbittorrent/incomplete/ubuntu-24.04.3-live-server-amd64.iso) error: Permission denied"
+(N) 2025-08-20T11:10:44 - Torrent stopped. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T11:10:51 - Torrent resumed. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T11:11:45 - Torrent stopped. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T11:11:54 - Torrent removed. Torrent: "ubuntu-24.04.3-live-server-amd64.iso"
+(N) 2025-08-20T11:12:23 - Added new torrent. Torrent: "A Bugs Life 1998 PROPER 720p BluRay H264 AAC RARBG ORARBG"
+(N) 2025-08-20T11:13:12 - Torrent removed. Torrent: "A Bugs Life 1998 PROPER 720p BluRay H264 AAC RARBG ORARBG"
