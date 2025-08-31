@@ -9378,3 +9378,384 @@
 2025-08-31 20:27:45.5|Debug|Parser|Release Group parsed: 
 2025-08-31 20:27:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
 2025-08-31 20:27:45.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'The.Witcher.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. The Witcher - Season 01 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'The.Witcher.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: GalaxyTV
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Wednesday S02E02 720p x264-FENiX'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Wednesday - S02E02 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E02 720p x264-FENiX'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: FENiX
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Squid Game S02E02 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Squid Game - S02E02 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E02 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Tulsa.King.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Tulsa King - Season 01 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: GalaxyTV
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Wednesday S02E03 720p x264-FENiX'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Wednesday - S02E03 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E03 720p x264-FENiX'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: FENiX
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Wednesday S02E05 1080p WEB H264-SuccessfulCrab'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Wednesday - S02E05 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E05 1080p WEB H264-SuccessfulCrab'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: SuccessfulCrab
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'The Witcher S03 S03 2023 1080p NF WEBRip AAC5.1 10bits x265-Rapta'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. The Witcher - Season 03 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'The Witcher S03 S03 2023 1080p NF WEBRip AAC5.1 10bits x265-Rapta'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: Rapta
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Squid Game S02E03 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Squid Game - S02E03 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E03 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Wednesday S02E05 1080p WEB H264-SuccessfulCrab'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Wednesday - S02E05 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E05 1080p WEB H264-SuccessfulCrab'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: SuccessfulCrab
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Tulsa King S02 480p x264 RUBiK'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Tulsa King - Season 02 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Tulsa King S02 480p x264 RUBiK'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Vigilante.S01.2023.Complete.1080p.DNSP.WEBRip.x264'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Vigilante - Season 01 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Vigilante.S01.2023.Complete.1080p.DNSP.WEBRip.x264'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Wednesday S02E04 720p x264-FENiX'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Wednesday - S02E04 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E04 720p x264-FENiX'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: FENiX
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.4|Debug|Parser|Parsing string 'Wednesday S01 WEBRip x264 ION10 EZTV'
+2025-08-31 20:29:15.4|Debug|Parser|Episode Parsed. Wednesday - Season 01 
+2025-08-31 20:29:15.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S01 WEBRip x264 ION10 EZTV'
+2025-08-31 20:29:15.4|Debug|Parser|Quality parsed: WEBRip-480p v1
+2025-08-31 20:29:15.4|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'Hierarchy S01 DUAL AUDIO KOR ENG 1080p 10bit WEBRip 6CH x265 HEVC'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. Hierarchy - Season 01 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: English
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'Hierarchy S01 DUAL AUDIO KOR ENG 1080p 10bit WEBRip 6CH x265 HEVC'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'Wednesday S02E01 720p x264 FENiX EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. Wednesday - S02E01 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E01 720p x264 FENiX EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'Squid.Game.S02E05.720p.WEB.H264-SYLiX'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. Squid Game - S02E05 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'Squid.Game.S02E05.720p.WEB.H264-SYLiX'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: SYLiX
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'Squid Game S02E04 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. Squid Game - S02E04 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E04 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'Squid Game S02E07 FINAL MULTI 480p x264 mSD EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. Squid Game - S02E07 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E07 FINAL MULTI 480p x264 mSD EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'Squid Game S02E06 MULTI 1080p WEB X264 HiggsBoson EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. Squid Game - S02E06 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E06 MULTI 1080p WEB X264 HiggsBoson EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'Squid Game S02E01 480p x264 mSD EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. Squid Game - S02E01 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E01 480p x264 mSD EZTV'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'A.Shop.for.Killers.KOREAN.S01.2024.1080p.WEBRip.x265.HEVC-kkolev33'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. A Shop for Killers KOREAN - Season 01 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'A.Shop.for.Killers.KOREAN.S01.2024.1080p.WEBRip.x265.HEVC-kkolev33'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: kkolev33
+2025-08-31 20:29:15.5|Debug|ParsingService|No matching series A Shop for Killers KOREAN
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'A.Shop.for.Killers.KOREAN.S01.2024.1080p.WEBRip.x265.HEVC-kkolev33'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. A Shop for Killers KOREAN - Season 01 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'A.Shop.for.Killers.KOREAN.S01.2024.1080p.WEBRip.x265.HEVC-kkolev33'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: kkolev33
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'The.Witcher.S02.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. The Witcher - Season 02 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'The.Witcher.S02.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: GalaxyTV
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:29:15.5|Debug|Parser|Parsing string 'Squid Game S03 Season 3 2025 1080p NF WEBRip Dual Audio AAC5 1 10'
+2025-08-31 20:29:15.5|Debug|Parser|Episode Parsed. Squid Game - Season 03 
+2025-08-31 20:29:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:29:15.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S03 Season 3 2025 1080p NF WEBRip Dual Audio AAC5 1 10'
+2025-08-31 20:29:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:29:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:29:15.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'The.Witcher.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. The Witcher - Season 01 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'The.Witcher.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: GalaxyTV
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Wednesday S02E02 720p x264-FENiX'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Wednesday - S02E02 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E02 720p x264-FENiX'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: FENiX
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Squid Game S02E02 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Squid Game - S02E02 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E02 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Tulsa.King.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Tulsa King - Season 01 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: GalaxyTV
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Wednesday S02E03 720p x264-FENiX'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Wednesday - S02E03 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E03 720p x264-FENiX'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: FENiX
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Wednesday S02E05 1080p WEB H264-SuccessfulCrab'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Wednesday - S02E05 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E05 1080p WEB H264-SuccessfulCrab'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: SuccessfulCrab
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'The Witcher S03 S03 2023 1080p NF WEBRip AAC5.1 10bits x265-Rapta'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. The Witcher - Season 03 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'The Witcher S03 S03 2023 1080p NF WEBRip AAC5.1 10bits x265-Rapta'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: Rapta
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Squid Game S02E03 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Squid Game - S02E03 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E03 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Wednesday S02E05 1080p WEB H264-SuccessfulCrab'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Wednesday - S02E05 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E05 1080p WEB H264-SuccessfulCrab'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: SuccessfulCrab
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Tulsa King S02 480p x264 RUBiK'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Tulsa King - Season 02 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Tulsa King S02 480p x264 RUBiK'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Vigilante.S01.2023.Complete.1080p.DNSP.WEBRip.x264'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Vigilante - Season 01 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Vigilante.S01.2023.Complete.1080p.DNSP.WEBRip.x264'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.4|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.4|Debug|Parser|Parsing string 'Wednesday S02E04 720p x264-FENiX'
+2025-08-31 20:30:45.4|Debug|Parser|Episode Parsed. Wednesday - S02E04 
+2025-08-31 20:30:45.4|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.4|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E04 720p x264-FENiX'
+2025-08-31 20:30:45.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-08-31 20:30:45.4|Debug|Parser|Release Group parsed: FENiX
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'Wednesday S01 WEBRip x264 ION10 EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. Wednesday - Season 01 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'Wednesday S01 WEBRip x264 ION10 EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: WEBRip-480p v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'Hierarchy S01 DUAL AUDIO KOR ENG 1080p 10bit WEBRip 6CH x265 HEVC'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. Hierarchy - Season 01 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: English
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'Hierarchy S01 DUAL AUDIO KOR ENG 1080p 10bit WEBRip 6CH x265 HEVC'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'Wednesday S02E01 720p x264 FENiX EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. Wednesday - S02E01 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'Wednesday S02E01 720p x264 FENiX EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'Squid.Game.S02E05.720p.WEB.H264-SYLiX'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. Squid Game - S02E05 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'Squid.Game.S02E05.720p.WEB.H264-SYLiX'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: SYLiX
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'Squid Game S02E04 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. Squid Game - S02E04 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E04 MULTI 480p x264 mSD EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'Squid Game S02E07 FINAL MULTI 480p x264 mSD EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. Squid Game - S02E07 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E07 FINAL MULTI 480p x264 mSD EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'Squid Game S02E06 MULTI 1080p WEB X264 HiggsBoson EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. Squid Game - S02E06 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E06 MULTI 1080p WEB X264 HiggsBoson EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'Squid Game S02E01 480p x264 mSD EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. Squid Game - S02E01 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S02E01 480p x264 mSD EZTV'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: SDTV v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'A.Shop.for.Killers.KOREAN.S01.2024.1080p.WEBRip.x265.HEVC-kkolev33'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. A Shop for Killers KOREAN - Season 01 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'A.Shop.for.Killers.KOREAN.S01.2024.1080p.WEBRip.x265.HEVC-kkolev33'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: kkolev33
+2025-08-31 20:30:45.5|Debug|ParsingService|No matching series A Shop for Killers KOREAN
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'A.Shop.for.Killers.KOREAN.S01.2024.1080p.WEBRip.x265.HEVC-kkolev33'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. A Shop for Killers KOREAN - Season 01 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'A.Shop.for.Killers.KOREAN.S01.2024.1080p.WEBRip.x265.HEVC-kkolev33'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: kkolev33
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'The.Witcher.S02.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. The Witcher - Season 02 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'The.Witcher.S02.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: GalaxyTV
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:30:45.5|Debug|Parser|Parsing string 'Squid Game S03 Season 3 2025 1080p NF WEBRip Dual Audio AAC5 1 10'
+2025-08-31 20:30:45.5|Debug|Parser|Episode Parsed. Squid Game - Season 03 
+2025-08-31 20:30:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:30:45.5|Debug|QualityParser|Trying to parse quality for 'Squid Game S03 Season 3 2025 1080p NF WEBRip Dual Audio AAC5 1 10'
+2025-08-31 20:30:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:30:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Korean
+2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: Korean
+2025-08-31 20:31:15.4|Debug|ImportListSyncService|No import lists with automatic add enabled
