@@ -1,0 +1,32 @@
+1
+01:03:51,208 --> 01:03:54,916
+<font size="20">I am sure you miss her.</font>
+
+2
+01:03:55,500 --> 01:03:57,083
+<font size="20">And she misses you.</font>
+
+3
+01:03:59,791 --> 01:04:02,791
+<font size="20">I miss her… every single day.</font>
+
+4
+01:11:26,250 --> 01:11:27,916
+<font size="20">So why are you here?</font>
+
+5
+01:11:29,125 --> 01:11:31,000
+<font size="20">I have something to show you.</font>
+
+6
+01:11:31,583 --> 01:11:33,000
+<font size="20">Tonight.</font>
+
+7
+01:11:33,083 --> 01:11:34,791
+<font size="20">After dark.</font>
+
+8
+01:11:35,291 --> 01:11:38,375
+<font size="20">Meet me in the cemetery. Come alone.</font>
+

@@ -58,57 +58,68 @@ general:
   branch: master
   chmod: '0640'
   chmod_enabled: false
-  days_to_upgrade_subs: 7
+  days_to_upgrade_subs: 16
   debug: false
   default_und_audio_lang: ''
-  default_und_embedded_subtitles_lang: ''
+  default_und_embedded_subtitles_lang: en
   dont_notify_manual_actions: false
   embedded_subs_show_desired: true
   embedded_subtitles_parser: ffprobe
   enabled_integrations: []
-  enabled_providers: []
+  enabled_providers:
+  - tvsubtitles
+  - opensubtitlescom
+  - embeddedsubtitles
+  - subdl
+  - wizdom
+  - yifysubtitles
   flask_secret_key: 6283ebf626b11b9ab768327cddcf68f1
   hi_extension: hi
   ignore_ass_subs: false
   ignore_pgs_subs: false
   ignore_vobsub_subs: false
   ip: '*'
-  language_equals: []
+  language_equals:
+  - eng:eng
   minimum_score: 90
-  minimum_score_movie: 70
-  movie_default_enabled: false
-  movie_default_profile: ''
-  movie_tag_enabled: false
+  minimum_score_movie: 86
+  movie_default_enabled: true
+  movie_default_profile: 2
+  movie_tag_enabled: true
   multithreading: true
   page_size: 25
-  parse_embedded_audio_track: false
-  path_mappings: []
-  path_mappings_movie: []
+  parse_embedded_audio_track: true
+  path_mappings:
+  - - /data/downloads/qbittorrent/complete/
+    - /data/downloads/qbittorrent/completed/
+  path_mappings_movie:
+  - - ''
+    - ''
   port: 6767
   postprocessing_cmd: ''
   postprocessing_threshold: 90
   postprocessing_threshold_movie: 70
   remove_profile_tags: []
-  serie_default_enabled: false
-  serie_default_profile: ''
-  serie_tag_enabled: false
+  serie_default_enabled: true
+  serie_default_profile: 2
+  serie_tag_enabled: true
   single_language: false
   skip_hashing: false
   subfolder: current
   subfolder_custom: ''
-  subzero_mods: ''
+  subzero_mods: remove_tags,OCR_fixes,common,fix_uppercase
   theme: auto
   upgrade_frequency: 12
-  upgrade_manual: true
+  upgrade_manual: false
   upgrade_subs: true
   use_embedded_subs: true
   use_plex: false
   use_postprocessing: false
   use_postprocessing_threshold: false
   use_postprocessing_threshold_movie: false
-  use_radarr: false
+  use_radarr: true
   use_scenename: true
-  use_sonarr: false
+  use_sonarr: true
   utf8_encode: true
   wanted_search_frequency: 6
   wanted_search_frequency_movie: 6
@@ -168,9 +179,9 @@ opensubtitles:
   vip: false
 opensubtitlescom:
   include_ai_translated: false
-  password: ''
+  password: '301045'
   use_hash: true
-  username: ''
+  username: hibhaqqi
 plex:
   apikey: ''
   ip: 127.0.0.1
@@ -201,17 +212,17 @@ proxy:
   url: ''
   username: ''
 radarr:
-  apikey: ''
-  base_url: /
-  defer_search_signalr: false
+  apikey: bea7617816674d36b012b94283d904ee
+  base_url: ''
+  defer_search_signalr: true
   excluded_tags: []
   full_update: Daily
   full_update_day: 6
   full_update_hour: 4
   http_timeout: 60
-  ip: 127.0.0.1
+  ip: 192.168.1.5
   movies_sync: 60
-  only_monitored: false
+  only_monitored: true
   port: 7878
   ssl: false
   sync_only_monitored_movies: false
@@ -230,8 +241,8 @@ series_scores:
   video_codec: 2
   year: 90
 sonarr:
-  apikey: ''
-  base_url: /
+  apikey: 94305b147f90459c87657ebc1e7bf1c6
+  base_url: ''
   defer_search_signalr: false
   exclude_season_zero: false
   excluded_series_types: []
@@ -240,7 +251,7 @@ sonarr:
   full_update_day: 6
   full_update_hour: 4
   http_timeout: 60
-  ip: 127.0.0.1
+  ip: 192.168.1.5
   only_monitored: false
   port: 8989
   series_sync: 60
@@ -262,11 +273,11 @@ subsync:
   gss: true
   max_offset_seconds: 60
   no_fix_framerate: true
-  subsync_movie_threshold: 70
-  subsync_threshold: 90
-  use_subsync: false
-  use_subsync_movie_threshold: false
-  use_subsync_threshold: false
+  subsync_movie_threshold: 61
+  subsync_threshold: 61
+  use_subsync: true
+  use_subsync_movie_threshold: true
+  use_subsync_threshold: true
 titlovi:
   password: ''
   username: ''

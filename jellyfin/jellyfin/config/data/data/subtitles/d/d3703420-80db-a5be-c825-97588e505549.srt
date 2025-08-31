@@ -1,0 +1,25 @@
+1
+00:00:41,499 --> 00:00:45,003
+Hierarchy
+
+2
+00:02:28,690 --> 00:02:32,026
+Secret: Within a secret
+
+3
+00:29:13,752 --> 00:29:19,257
+Principal's Office
+
+4
+00:44:48,686 --> 00:44:51,939
+Incheol Corner Store
+
+5
+00:51:26,208 --> 00:51:29,544
+Sukhaana
+
+6
+00:56:02,859 --> 00:56:06,738
+Personal Information Record
+Kang Ha
+

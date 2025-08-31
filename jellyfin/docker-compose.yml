@@ -1,0 +1,72 @@
+services:
+  jellyfin:
+    image: lscr.io/linuxserver/jellyfin:latest
+    container_name: jellyfin
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Jakarta       # WIB timezone
+      - JELLYFIN_PublishedServerUrl=http://198.168.1.5 #optional, set your actual IP or domain
+    volumes:
+      - ./jellyfin/config:/config
+      - /mnt/hdd/:/mnt/hdd
+    devices:
+      - /dev/dri:/dev/dri # Use for Intel QuickSync hardware acceleration if available
+    ports:
+      - 8096:8096
+      - 7359:7359/udp  # Service Discovery
+      - 1900:1900/udp  # Client Discovery
+    restart: unless-stopped
+    networks:
+      -  servarrnetwork    # Static IP, adjust to your subnet
+
+  jellyseerr:
+    image: fallenbagel/jellyseerr:latest
+    container_name: jellyseerr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Jakarta       # WIB timezone
+    volumes:
+      - ./jellyseerr/config:/app/config
+    ports:
+      - 5055:5055
+    restart: unless-stopped
+    networks:
+      - servarrnetwork
+
+  jellystat-db:
+    image: postgres:15.2
+    container_name: jellystat-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: rahasia
+    volumes:
+      - ./jellystat/postgres:/var/lib/postgresql/data
+    networks:
+      - servarrnetwork
+  jellystat:
+    image: cyfershepard/jellystat:latest
+    container_name: jellystat
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: rahasia
+      POSTGRES_IP: jellystat-db
+      POSTGRES_PORT: 5432
+      JWT_SECRET: "xjfjrisnsyqydg"
+      TZ: Asia/Jakarta
+    volumes:
+      - ./jellystat/backup-data:/app/backend/backup-data
+    ports:
+      - "3032:3000"
+    depends_on:
+      - jellystat-db
+    networks:
+      - servarrnetwork
+
+networks:
+  servarrnetwork:
+    external: true
+

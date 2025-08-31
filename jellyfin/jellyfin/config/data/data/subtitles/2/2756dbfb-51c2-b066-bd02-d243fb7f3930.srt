@@ -1,0 +1,8157 @@
+1
+00:00:20,166 --> 00:00:25,791
+<font size="20">Gure azken kasu irekia
+1973ko maiatzaren 11n gertatu zen.</font>
+
+2
+00:00:27,125 --> 00:00:32,333
+<font size="20">Gutxi gora behera 00:48etan,
+Ekialdeko Londreseko Brick Lane inguruan,</font>
+
+3
+00:00:32,416 --> 00:00:34,583
+<font size="20">gizon bat bueltatzen ari zen</font>
+
+4
+00:00:34,666 --> 00:00:37,666
+<font size="20">bere neska-lagun Angela Hughesen etxera,</font>
+
+5
+00:00:37,750 --> 00:00:41,458
+<font size="20">bigarren solairuko bere leihotik
+bi ahots entzun zituenean.</font>
+
+6
+00:00:51,166 --> 00:00:52,708
+<font size="20">E! Geldi! Aizu!</font>
+
+7
+00:00:54,541 --> 00:00:55,583
+<font size="20">Geldi!</font>
+
+8
+00:01:00,458 --> 00:01:04,250
+<font size="20">Polizia heldu zenerako,
+Angela Hughes hilda zegoen jada.</font>
+
+9
+00:01:05,083 --> 00:01:08,083
+<font size="20">Bere pisua miatu zuten,
+baina ez zuten ezer lapurtu.</font>
+
+10
+00:01:08,166 --> 00:01:09,666
+<font size="20">Ez dit usain onik ematen.</font>
+
+11
+00:01:10,208 --> 00:01:11,541
+<font size="20">Zergatik diozu, Ron?</font>
+
+12
+00:01:11,625 --> 00:01:13,875
+<font size="20">Zein da zioa? Lapurtzea?</font>
+
+13
+00:01:13,958 --> 00:01:16,166
+<font size="20">Bikote pobrea zen. Ez du zentzurik.</font>
+
+14
+00:01:16,250 --> 00:01:17,208
+<font size="20">Zuzen zaude.</font>
+
+15
+00:01:17,291 --> 00:01:20,416
+<font size="20">Eta, ondo ulertu badut, gizon maskaraduna</font>
+
+16
+00:01:20,500 --> 00:01:23,708
+<font size="20">ikusi zuen bakarra mutil-laguna izan zen?</font>
+
+17
+00:01:24,625 --> 00:01:28,333
+<font size="20">- Polizia-txostenaren arabera, bai.
+- Nor zen mutil-laguna?</font>
+
+18
+00:01:29,791 --> 00:01:31,208
+<font size="20">Izenik badu?</font>
+
+19
+00:01:32,333 --> 00:01:35,708
+<font size="20">Peter Mercer. 25 urte, mekanikaria.</font>
+
+20
+00:01:35,791 --> 00:01:39,708
+<font size="20">Armadatik lizentziatua lesioagatik
+gudu-zelaian tiro egin eta gero.</font>
+
+21
+00:01:39,791 --> 00:01:41,750
+<font size="20">Agian prozesatu gabeko trauma.</font>
+
+22
+00:01:41,833 --> 00:01:43,791
+<font size="20">Jarrerari eragin diezaioke.</font>
+
+23
+00:01:43,875 --> 00:01:46,625
+<font size="20">Maskaradunari jarraitu zion,
+baina alferrik.</font>
+
+24
+00:01:46,708 --> 00:01:50,583
+<font size="20">Desagertu egin zen
+eta ez zuten berriz ikusi.</font>
+
+25
+00:01:50,666 --> 00:01:54,041
+<font size="20">Ikusten? Usain txarra. Nazkagarria.</font>
+
+26
+00:01:54,625 --> 00:01:57,916
+<font size="20">Uste duzu neska gaixoa salbatu zatekeela?</font>
+
+27
+00:01:58,000 --> 00:01:59,625
+<font size="20">Ez dakit, zaila da.</font>
+
+28
+00:01:59,708 --> 00:02:03,666
+<font size="20">Txostenak dio
+sastakadak hil zuela, ez erorketak.</font>
+
+29
+00:02:03,750 --> 00:02:04,916
+<font size="20">Hori hilketa da.</font>
+
+30
+00:02:05,000 --> 00:02:08,291
+<font size="20">Mercerrek lehen laguntza jakingo zuen.</font>
+
+31
+00:02:08,791 --> 00:02:11,291
+<font size="20">Zergatik ez zuen salbatu? Tentel hori.</font>
+
+32
+00:02:11,375 --> 00:02:15,708
+<font size="20">Poliziari esan zion bat-batean hil zela,
+baina odolusteak luze jotzen du.</font>
+
+33
+00:02:16,791 --> 00:02:18,208
+<font size="20">Ni harrituta nago.</font>
+
+34
+00:02:18,291 --> 00:02:20,500
+<font size="20">- Bai?
+- Baina kasu bereziki zaila da.</font>
+
+35
+00:02:20,583 --> 00:02:24,083
+<font size="20">Honen aldean,
+postontziko gorpu zatitua erraz-erraza da.</font>
+
+36
+00:02:24,166 --> 00:02:28,291
+<font size="20">Bai. Orain behar duguna da
+aditu mediku bat.</font>
+
+37
+00:02:49,375 --> 00:02:51,625
+<font size="20">Hauxe da Coopers Chase famatua, beraz.</font>
+
+38
+00:02:52,125 --> 00:02:53,333
+<font size="20">Erakutsiko dizut.</font>
+
+39
+00:02:53,416 --> 00:02:58,291
+<font size="20">Han hospizio-hegala dago,
+gauzak, tira, gertatzen direnerako.</font>
+
+40
+00:02:58,375 --> 00:03:00,125
+<font size="20">A, arku-tiro klaseak ditugu,</font>
+
+41
+00:03:00,208 --> 00:03:03,875
+<font size="20">eta bertako batek zilarrezko domina
+irabazi zuen 72ko Olinpiadetan.</font>
+
+42
+00:03:04,750 --> 00:03:08,750
+<font size="20">Primeran! Hori duk eta.</font>
+
+43
+00:03:08,833 --> 00:03:11,625
+<font size="20">Onartu behar duzu, Joanna, ederra dela.</font>
+
+44
+00:03:12,208 --> 00:03:15,083
+<font size="20">Eta llamak ere baditugu
+konpainia-animalia gisa.</font>
+
+45
+00:03:15,166 --> 00:03:17,458
+<font size="20">Orain denek dituzte llamak, ama.</font>
+
+46
+00:03:17,541 --> 00:03:18,791
+<font size="20">- A.
+- Kontuz ibili.</font>
+
+47
+00:03:18,875 --> 00:03:23,083
+<font size="20">Llamak oso aldartetsuak dira.
+Hosk eta tu egiten dizute.</font>
+
+48
+00:03:25,166 --> 00:03:28,916
+<font size="20">Bai, estresatuta daudenean
+gizaki batzuek ere hori egiten dute.</font>
+
+49
+00:03:29,000 --> 00:03:31,333
+<font size="20">Puzzle-gela erakutsi nahi dizut.</font>
+
+50
+00:03:31,916 --> 00:03:35,041
+<font size="20">Sastakadarengatik edo erorketagatik
+odolustu zen?</font>
+
+51
+00:03:35,125 --> 00:03:36,333
+<font size="20">Ama maitea.</font>
+
+52
+00:03:38,333 --> 00:03:39,333
+<font size="20">A, kaixo.</font>
+
+53
+00:03:40,583 --> 00:03:43,000
+<font size="20">Gela hau ez da puzzleetarako erabiltzen?</font>
+
+54
+00:03:43,083 --> 00:03:44,916
+<font size="20">Ez, ostegunetan ez.</font>
+
+55
+00:03:48,000 --> 00:03:50,125
+<font size="20">Ados. Sentitzen dut.</font>
+
+56
+00:03:52,708 --> 00:03:54,208
+<font size="20">Bakean utziko zaituztegu.</font>
+
+57
+00:03:55,916 --> 00:03:56,750
+<font size="20">Ama?</font>
+
+58
+00:04:00,125 --> 00:04:02,875
+<font size="20">Agatha Christieren kluba izango da.</font>
+
+59
+00:04:06,500 --> 00:04:08,458
+<font size="20">Bueltatu behar dut jada.</font>
+
+60
+00:04:08,541 --> 00:04:12,083
+<font size="20">Trafiko pila dago eta operara
+eraman behar dut bezero garrantzitsu bat.</font>
+
+61
+00:04:12,750 --> 00:04:14,000
+<font size="20">Entzun, ama.</font>
+
+62
+00:04:14,083 --> 00:04:16,541
+<font size="20">- Akatsa iruditzen zait zu hemen bizitzea.
+- Zer?</font>
+
+63
+00:04:16,625 --> 00:04:18,625
+<font size="20">Eta pisutxo bat erosten badizut?</font>
+
+64
+00:04:18,708 --> 00:04:20,375
+<font size="20">Nire etxetik gertu.</font>
+
+65
+00:04:21,083 --> 00:04:25,458
+<font size="20">Joanna, lagunak egin ditzakedan
+leku batean egon behar dut.</font>
+
+66
+00:04:26,000 --> 00:04:28,875
+<font size="20">Nola egingo dut
+Hackneyn bakarrik bizi banaiz,</font>
+
+67
+00:04:28,958 --> 00:04:33,708
+<font size="20">modernoz eta gozotegi beganoz inguratuta?</font>
+
+68
+00:04:34,333 --> 00:04:37,541
+<font size="20">- Ez dute inguruan emakume zaharrik nahi.
+- Bale, ados.</font>
+
+69
+00:04:38,875 --> 00:04:40,708
+<font size="20">Pozik egon zaitezen nahi dut.</font>
+
+70
+00:04:41,500 --> 00:04:42,625
+<font size="20">Aita hil zenetik…</font>
+
+71
+00:04:43,250 --> 00:04:46,000
+<font size="20">- Zugatik kezkatuta nago.
+- Ondo nago.</font>
+
+72
+00:04:50,708 --> 00:04:52,458
+<font size="20">- Kontuz ibili.
+- Noski.</font>
+
+73
+00:04:54,291 --> 00:04:56,541
+<font size="20">Espero dut zuzen egotea, Gerry.</font>
+
+74
+00:04:57,041 --> 00:04:59,750
+<font size="20">Ez nago ohituta erabaki handiak hartzera.</font>
+
+75
+00:05:01,125 --> 00:05:04,958
+<font size="20">Zorionak zuri,</font>
+
+76
+00:05:05,041 --> 00:05:07,291
+<font size="20">zorionak zuri…</font>
+
+77
+00:05:07,375 --> 00:05:08,833
+<font size="20">A, hor dago.</font>
+
+78
+00:05:08,916 --> 00:05:10,375
+<font size="20">Zorionak…</font>
+
+79
+00:05:10,458 --> 00:05:12,833
+<font size="20">- Ez dut uste.
+- Hemen bi bat egongo da.</font>
+
+80
+00:05:12,916 --> 00:05:15,333
+<font size="20">- Erizaina zara?
+- Barka, zer?</font>
+
+81
+00:05:15,416 --> 00:05:18,166
+<font size="20">Lehen ez duzu keinurik egin
+argazkiak ikustean.</font>
+
+82
+00:05:18,250 --> 00:05:20,750
+<font size="20">Beraz, trebakuntza medikoa izango duzu.</font>
+
+83
+00:05:20,833 --> 00:05:22,083
+<font size="20">Medikua izan zinatekeen,</font>
+
+84
+00:05:22,166 --> 00:05:25,041
+<font size="20">baina emakumezkoak
+ezohikoak ziren gure garaian,</font>
+
+85
+00:05:25,125 --> 00:05:28,666
+<font size="20">zauri hilgarri asko
+ikusitako traumatologia-erizaina akaso.</font>
+
+86
+00:05:29,166 --> 00:05:30,083
+<font size="20">Asmatu dut?</font>
+
+87
+00:05:30,166 --> 00:05:31,958
+<font size="20">Bete-betean.</font>
+
+88
+00:05:33,333 --> 00:05:35,083
+<font size="20">Ai, barka. Elizabeth naiz.</font>
+
+89
+00:05:35,166 --> 00:05:36,000
+<font size="20">Ibrahim.</font>
+
+90
+00:05:37,333 --> 00:05:38,375
+<font size="20">Ron.</font>
+
+91
+00:05:38,958 --> 00:05:40,583
+<font size="20">- Ni Joyce naiz.
+- Joyce.</font>
+
+92
+00:05:40,666 --> 00:05:43,583
+<font size="20">Esan, Joyce, begirada bat
+emango diozu, mesedez?</font>
+
+93
+00:05:45,541 --> 00:05:47,000
+<font size="20">Jainko maitea.</font>
+
+94
+00:05:47,833 --> 00:05:50,833
+<font size="20">Xehetasun txikienak
+gerorako utz genitzake akaso.</font>
+
+95
+00:05:50,916 --> 00:05:54,041
+<font size="20">Neska bizirik atera zatekeen
+horrelako zauritik?</font>
+
+96
+00:05:54,791 --> 00:05:58,083
+<font size="20">Tira, hein batean
+pisuaren araberakoa litzateke.</font>
+
+97
+00:05:58,708 --> 00:06:00,041
+<font size="20">Odol mordoa da, gero.</font>
+
+98
+00:06:00,125 --> 00:06:01,791
+<font size="20">46 kilo.</font>
+
+99
+00:06:01,875 --> 00:06:05,208
+<font size="20">Bai, orduan bizirik atera zatekeen,
+baldin eta…</font>
+
+100
+00:06:05,291 --> 00:06:08,958
+<font size="20">Aizue, zenbat luzatuko da zalaparta hau?</font>
+
+101
+00:06:09,041 --> 00:06:11,583
+<font size="20">Sudoku estrazaila egiten ari gara.</font>
+
+102
+00:06:11,666 --> 00:06:15,208
+<font size="20">Joyce, gurekin etorri nahi duzu
+hitz egiten jarraitzeko?</font>
+
+103
+00:06:15,791 --> 00:06:16,833
+<font size="20">Pribatuan.</font>
+
+104
+00:06:16,916 --> 00:06:18,375
+<font size="20">A, noski.</font>
+
+105
+00:06:19,083 --> 00:06:20,083
+<font size="20">Baina nortzuk zarete?</font>
+
+106
+00:06:20,166 --> 00:06:21,750
+<font size="20">Barka, ni bai lotsagabea.</font>
+
+107
+00:06:22,708 --> 00:06:24,666
+<font size="20">Ostegunetako Hilketen Kluba gara.</font>
+
+108
+00:06:35,875 --> 00:06:37,250
+<font size="20">Berri onik, Lloyd?</font>
+
+109
+00:06:37,333 --> 00:06:39,916
+<font size="20">Ez dizut dirutza ordaintzen izorratzeko.</font>
+
+110
+00:06:40,000 --> 00:06:42,791
+<font size="20">Egun on, Ian. Bale, hona berriak.</font>
+
+111
+00:06:42,875 --> 00:06:47,833
+<font size="20">Ventham andreak dio autoa, etxea
+eta Mallorcako pisua nahi dituela.</font>
+
+112
+00:06:48,375 --> 00:06:50,083
+<font size="20">Txortaldi bakarra izan zen!</font>
+
+113
+00:06:50,166 --> 00:06:52,875
+<font size="20">Egundoko esajerazioa da, ostia!</font>
+
+114
+00:06:53,458 --> 00:06:57,041
+<font size="20">Eta bera ere ez da aingerua.
+Frogak ditut. Aprobetxatuko dut.</font>
+
+115
+00:06:57,125 --> 00:07:00,250
+<font size="20">Esajerazioa edo ez, prestatu zaitez.</font>
+
+116
+00:07:00,333 --> 00:07:02,291
+<font size="20">Gemmak dibortzioa nahi du
+kosta ahala kosta,</font>
+
+117
+00:07:02,375 --> 00:07:04,916
+<font size="20">eta aurka egingo dizu
+ahal duen guztiarekin.</font>
+
+118
+00:07:20,666 --> 00:07:22,041
+<font size="20">- Bale.
+- Ian.</font>
+
+119
+00:07:27,708 --> 00:07:32,416
+<font size="20">Esan, zergatik gabiltza horren larri?
+Zergatik biltzen gara pribatuan?</font>
+
+120
+00:07:32,500 --> 00:07:35,166
+<font size="20">Aktiboak maximizatu behar ditut,
+inoiz baino gehiago.</font>
+
+121
+00:07:35,250 --> 00:07:38,291
+<font size="20">Hilerri-garbiketa bizkortuko dugu,
+agiriekin edo gabe.</font>
+
+122
+00:07:38,375 --> 00:07:41,666
+<font size="20">Hobe barkamena eskatzea
+baimena baino, ezta?</font>
+
+123
+00:07:41,750 --> 00:07:44,708
+<font size="20">Eliza bota eta lursaila baliatu
+luxuzko pisuetarako.</font>
+
+124
+00:07:45,500 --> 00:07:49,083
+<font size="20">A, ez. Eta adinekoak? Ez zaie gustatuko.</font>
+
+125
+00:07:49,166 --> 00:07:51,166
+<font size="20">Berdin zaie. Ez dira egongo.</font>
+
+126
+00:07:51,250 --> 00:07:53,458
+<font size="20">Eta jatorrizko eraikina ekitaldietarako.</font>
+
+127
+00:07:53,541 --> 00:07:55,208
+<font size="20">Baina ez dira erraz joango.</font>
+
+128
+00:07:55,291 --> 00:07:59,083
+<font size="20">Aizu, asko oso indartsuak, oso ahaltsuak
+izan ziren bere garaian.</font>
+
+129
+00:07:59,166 --> 00:08:02,583
+<font size="20">Baina ez da bere garaia.
+Neure garaia da. Neure lursaila.</font>
+
+130
+00:08:03,333 --> 00:08:06,333
+<font size="20">Agure ipurterre horiek ez naute kezkatzen.</font>
+
+131
+00:08:07,208 --> 00:08:10,083
+<font size="20">Benetako oztopo bakarra Tony Curran da.</font>
+
+132
+00:08:12,125 --> 00:08:12,958
+<font size="20">Zergatik?</font>
+
+133
+00:08:16,083 --> 00:08:18,916
+<font size="20">- Tori, Ventham jauna.
+- Eskerrik asko.</font>
+
+134
+00:08:20,333 --> 00:08:24,125
+<font size="20">Tony Coopers jabea da.
+Berak ere diru asko irabaziko luke, ezta?</font>
+
+135
+00:08:24,208 --> 00:08:27,541
+<font size="20">Bai, hala da.
+Baina kaiku burugogorra da, beti bezala.</font>
+
+136
+00:08:27,625 --> 00:08:30,541
+<font size="20">Bere izeba Maud han bizi da
+eta ez du gogaitzea nahi.</font>
+
+137
+00:08:30,625 --> 00:08:32,916
+<font size="20">Beraz, ukatzen badu, "nor" egingo du?</font>
+
+138
+00:08:36,958 --> 00:08:37,916
+<font size="20">A, "ni"?</font>
+
+139
+00:08:38,625 --> 00:08:41,875
+<font size="20">Nagusia izan nahiko zenuke?
+Gehiago irabazi?</font>
+
+140
+00:08:43,625 --> 00:08:45,583
+<font size="20">Bai, noski.</font>
+
+141
+00:08:46,375 --> 00:08:48,166
+<font size="20">Bai, eskertuko nuke.</font>
+
+142
+00:08:48,250 --> 00:08:50,125
+<font size="20">Ama oso gaixorik dago Polonian</font>
+
+143
+00:08:50,208 --> 00:08:54,083
+<font size="20">eta, bai, diru gehiago
+bidali behar dut zaintzeko, baina…</font>
+
+144
+00:08:54,166 --> 00:08:57,166
+<font size="20">Bogdan, hondeamakinak
+astelehenean etorriko dira.</font>
+
+145
+00:08:57,250 --> 00:09:00,291
+<font size="20">Hilerrira bazoaz obra hastera,</font>
+
+146
+00:09:00,375 --> 00:09:01,625
+<font size="20">dirutza emango dizut.</font>
+
+147
+00:09:02,208 --> 00:09:05,583
+<font size="20">Errumanian zure amaz soberan arduratzeko.</font>
+
+148
+00:09:05,666 --> 00:09:07,666
+<font size="20">- Polonian.
+- Polonian, bale.</font>
+
+149
+00:09:07,750 --> 00:09:12,166
+<font size="20">Tony Curran tipo arriskutsua da,
+kontu arriskutsuetan sartuta dago.</font>
+
+150
+00:09:13,166 --> 00:09:14,250
+<font size="20">Kaleratzen baduzu,</font>
+
+151
+00:09:15,958 --> 00:09:17,083
+<font size="20">agian hilko "dizu".</font>
+
+152
+00:09:18,375 --> 00:09:19,208
+<font size="20">Bogdan,</font>
+
+153
+00:09:20,458 --> 00:09:23,125
+<font size="20">eskarmentua dut arte martzialetan, bale?</font>
+
+154
+00:09:23,208 --> 00:09:24,333
+<font size="20">Erregionalean.</font>
+
+155
+00:09:24,416 --> 00:09:27,041
+<font size="20">Bai, ni ere nahiko arriskutsua naiz.</font>
+
+156
+00:09:29,750 --> 00:09:31,291
+<font size="20">Esan, tratua dugu edo ez?</font>
+
+157
+00:09:33,125 --> 00:09:34,583
+<font size="20">Bale, bale, egingo dut.</font>
+
+158
+00:09:35,166 --> 00:09:36,625
+<font size="20">- Tratua dugu.
+- Bai.</font>
+
+159
+00:09:37,458 --> 00:09:39,166
+<font size="20">Egun on, izeba Maud.</font>
+
+160
+00:09:39,750 --> 00:09:41,333
+<font size="20">Nire gogokoenak!</font>
+
+161
+00:09:41,416 --> 00:09:43,083
+<font size="20">Gaur zoragarri zaude, neska.</font>
+
+162
+00:09:43,166 --> 00:09:44,833
+<font size="20">A ze jatorra zaren, Tony.</font>
+
+163
+00:09:44,916 --> 00:09:48,416
+<font size="20">- Egun on, Tony. Zer moduz?
+- A, Ron. Egun on, motel.</font>
+
+164
+00:09:48,500 --> 00:09:51,291
+<font size="20">Joyce aurkeztu nahi dizut.
+Heldu berria da.</font>
+
+165
+00:09:51,375 --> 00:09:53,375
+<font size="20">- Ongi etorri.
+- Eskerrik asko.</font>
+
+166
+00:09:53,458 --> 00:09:54,500
+<font size="20">Egun on, Maud.</font>
+
+167
+00:09:57,541 --> 00:09:58,500
+<font size="20">Nor da?</font>
+
+168
+00:09:58,583 --> 00:10:01,958
+<font size="20">Tony Curran, Coopers Chaseko jabea
+Ian Venthamekin batera.</font>
+
+169
+00:10:02,041 --> 00:10:04,875
+<font size="20">Komentua erosi zuen erortzear zegoela.</font>
+
+170
+00:10:04,958 --> 00:10:06,541
+<font size="20">Prezio onean erosi zuen.</font>
+
+171
+00:10:06,625 --> 00:10:07,750
+<font size="20">Bai horixe.</font>
+
+172
+00:10:07,833 --> 00:10:11,458
+<font size="20">Lehen berriketak berak egin zituen,
+laguntzarik gabe.</font>
+
+173
+00:10:11,541 --> 00:10:14,833
+<font size="20">Gero Venthamek dirua utzi zion
+lana amaitzeko.</font>
+
+174
+00:10:14,916 --> 00:10:17,083
+<font size="20">- Beraz, negoziokideak dira?
+- Bai.</font>
+
+175
+00:10:17,166 --> 00:10:20,041
+<font size="20">- Itxura…
+- Itsusia dauka, bai, baina ez kezkatu.</font>
+
+176
+00:10:20,125 --> 00:10:23,041
+<font size="20">Tony gure alde dago.
+Hori da garrantzitsuena.</font>
+
+177
+00:10:23,125 --> 00:10:25,208
+<font size="20">Nola gure alde dagoela?</font>
+
+178
+00:10:25,291 --> 00:10:29,583
+<font size="20">Diotenez, Ian Venthamek
+gainetik kendu nahi du Coopers Chase.</font>
+
+179
+00:10:30,375 --> 00:10:32,416
+<font size="20">Zer? Zergatik?</font>
+
+180
+00:10:32,500 --> 00:10:35,333
+<font size="20">Luxuzko pisuak egiteko.
+Bota egin nahi gaitu.</font>
+
+181
+00:10:35,416 --> 00:10:37,375
+<font size="20">Baina ni heldu berria naiz.</font>
+
+182
+00:10:37,458 --> 00:10:41,833
+<font size="20">Baina Tonyk ez du onartuko, ezta?
+Ez izeba Maud bizirik dagoen bitartean.</font>
+
+183
+00:10:41,916 --> 00:10:44,875
+<font size="20">Beraz, Tony Curran
+oso garrantzitsua da guretzat.</font>
+
+184
+00:10:46,125 --> 00:10:47,458
+<font size="20">Eta izeba Maud ere.</font>
+
+185
+00:10:49,000 --> 00:10:51,541
+<font size="20">- Tarta jan dezakegu?
+- Bai.</font>
+
+186
+00:10:56,625 --> 00:11:00,875
+<font size="20">Ostegunetako Hilketen Klubak
+aspalditik behar du aditu mediko bat.</font>
+
+187
+00:11:00,958 --> 00:11:05,875
+<font size="20">Horregatik nahi dugu bat egin dezazun,
+baina, e, aldi baterako.</font>
+
+188
+00:11:06,500 --> 00:11:08,083
+<font size="20">Dibertigarria dirudi.</font>
+
+189
+00:11:08,708 --> 00:11:12,625
+<font size="20">Tarta egundokoa da, Joyce.
+Honetara ohitu ninteke, bai.</font>
+
+190
+00:11:12,708 --> 00:11:16,750
+<font size="20">Ez zaitez gehiegi ohitu, Ron.
+Emaiezu aukera bat estatinei.</font>
+
+191
+00:11:16,833 --> 00:11:19,000
+<font size="20">Baina tarta guztiz bikaina da.</font>
+
+192
+00:11:19,083 --> 00:11:21,500
+<font size="20">- Hori onartuko dizut.
+- Eskerrik asko.</font>
+
+193
+00:11:21,583 --> 00:11:25,500
+<font size="20">Alabarentzat egin dut, baina dirudienez
+perimenopausiko dago eta ezin du jan.</font>
+
+194
+00:11:25,583 --> 00:11:30,208
+<font size="20">Mesedez, utzi tarta alde batera
+eta adi egon zaitezte unetxo batez.</font>
+
+195
+00:11:30,291 --> 00:11:31,750
+<font size="20">- Joyce?
+- Bai?</font>
+
+196
+00:11:34,458 --> 00:11:37,250
+<font size="20">Ikusi duzun neska hilaren argazkia</font>
+
+197
+00:11:37,333 --> 00:11:40,041
+<font size="20">orain daukagun kasu irekikoa da.</font>
+
+198
+00:11:40,125 --> 00:11:43,750
+<font size="20">Angela Hughes, "leihotik erori zen
+zurizko emakumearen kasua".</font>
+
+199
+00:11:44,750 --> 00:11:45,583
+<font size="20">Bai.</font>
+
+200
+00:11:46,125 --> 00:11:49,333
+<font size="20">Polizia-txostenaren arabera,
+Angelaren mutil-lagun Peter Mercer</font>
+
+201
+00:11:49,416 --> 00:11:52,041
+<font size="20">galdekatu zuten
+eta laster aske utzi zuten.</font>
+
+202
+00:11:52,125 --> 00:11:56,291
+<font size="20">Gazte jatorra iruditu zitzaien
+eta sarkinaren istorioa sinetsi zuten.</font>
+
+203
+00:11:56,375 --> 00:12:00,333
+<font size="20">Dena dela, agente batek,
+Penny Gray inspektoreak,</font>
+
+204
+00:12:00,416 --> 00:12:02,708
+<font size="20">garaiko emakumezko polizia bakarrak,</font>
+
+205
+00:12:02,791 --> 00:12:06,125
+<font size="20">berriz galdekatu zuen, baina ukatu zioten.</font>
+
+206
+00:12:06,208 --> 00:12:08,375
+<font size="20">Gizonek bat egin zuten</font>
+
+207
+00:12:08,458 --> 00:12:10,291
+<font size="20">eta dakigun hurrengoa da</font>
+
+208
+00:12:10,375 --> 00:12:13,250
+<font size="20">Peter desagertu zela
+eta ez zutela berriz ikusi.</font>
+
+209
+00:12:13,333 --> 00:12:14,541
+<font size="20">Kasu itxia.</font>
+
+210
+00:12:15,125 --> 00:12:16,041
+<font size="20">Orain arte.</font>
+
+211
+00:12:16,625 --> 00:12:19,166
+<font size="20">Bide batez, nondik atera dituzue kasuak?</font>
+
+212
+00:12:19,250 --> 00:12:22,083
+<font size="20">Dokumentu hauek guztiak
+isilpekoak izango ziren.</font>
+
+213
+00:12:22,166 --> 00:12:26,458
+<font size="20">Ba, zera, taldeko beste sortzaileak
+eskuratu zituen,</font>
+
+214
+00:12:26,541 --> 00:12:29,291
+<font size="20">Pennyk, nire lagun-minak.</font>
+
+215
+00:12:29,375 --> 00:12:34,166
+<font size="20">A, Penny Gray inspektorea,
+Peter Mercer birgaldekatu nahi zuena.</font>
+
+216
+00:12:34,250 --> 00:12:35,833
+<font size="20">Hain zuzen ere.</font>
+
+217
+00:12:35,916 --> 00:12:38,833
+<font size="20">Hau zirrara. Hurrengo astean etorriko da?</font>
+
+218
+00:12:40,458 --> 00:12:42,125
+<font size="20">Ez, ez da etorriko.</font>
+
+219
+00:12:43,083 --> 00:12:45,208
+<font size="20">Penny hospizio-hegalean dago.</font>
+
+220
+00:12:51,333 --> 00:12:52,375
+<font size="20">Sentitzen dut.</font>
+
+221
+00:12:53,416 --> 00:12:54,250
+<font size="20">Eskerrik asko.</font>
+
+222
+00:12:56,000 --> 00:12:59,791
+<font size="20">Egunean jarri nahi zaitut
+gure azken kasu irekiaren inguruan.</font>
+
+223
+00:12:59,875 --> 00:13:02,041
+<font size="20">Ibrahim tematu da deitzean</font>
+
+224
+00:13:02,125 --> 00:13:05,208
+<font size="20">"leihotik erori zen
+zurizko emakumearen kasua".</font>
+
+225
+00:13:05,708 --> 00:13:07,791
+<font size="20">Benetan? Gogoraerraza.</font>
+
+226
+00:13:08,541 --> 00:13:10,416
+<font size="20">Baina nahasia da.</font>
+
+227
+00:13:10,916 --> 00:13:12,166
+<font size="20">Gustatuko litzaizuke.</font>
+
+228
+00:13:13,208 --> 00:13:17,000
+<font size="20">Gakoa da zenbat denbora
+behar izan zuen neskak odolusteko.</font>
+
+229
+00:13:17,500 --> 00:13:19,125
+<font size="20">Baina zortea izan dugu.</font>
+
+230
+00:13:19,625 --> 00:13:22,541
+<font size="20">- Zortea?
+- Bai. Laguntzaile sutsu bat.</font>
+
+231
+00:13:22,625 --> 00:13:25,583
+<font size="20">Heldu berri den erizain ohia, Joyce.</font>
+
+232
+00:13:25,666 --> 00:13:29,041
+<font size="20">Nahiko atsegina, pixka bat xaloa akaso.</font>
+
+233
+00:13:29,125 --> 00:13:32,291
+<font size="20">Baina, tira, aditua da labana-zaurietan.</font>
+
+234
+00:13:32,375 --> 00:13:34,375
+<font size="20">Baliotsuak gara denok.</font>
+
+235
+00:13:34,458 --> 00:13:38,125
+<font size="20">A, Penny, kasu honekin lagunduko bazenigu.</font>
+
+236
+00:13:38,208 --> 00:13:42,416
+<font size="20">Oso ona da.
+Nolatan ez zenuen zuk zeuk iradoki?</font>
+
+237
+00:13:47,458 --> 00:13:49,625
+<font size="20">John, uste duzu entzun diezagukeela?</font>
+
+238
+00:13:51,375 --> 00:13:53,333
+<font size="20">Batzuetan otoitz egiten dut entzuteko,</font>
+
+239
+00:13:54,416 --> 00:13:56,583
+<font size="20">eta beste batzuetan ez egiteko.</font>
+
+240
+00:13:56,666 --> 00:13:58,333
+<font size="20">Irakurtzen diot badaezpada.</font>
+
+241
+00:13:59,166 --> 00:14:01,875
+<font size="20">- Hilketa-eleberri pila bat, ezta?
+- Jakina.</font>
+
+242
+00:14:01,958 --> 00:14:05,875
+<font size="20">Izugarri aspertuta zegoen
+zu hona aldatu zinen arte.</font>
+
+243
+00:14:05,958 --> 00:14:08,541
+<font size="20">Ostegunetako Hilketen Klubak
+ondo egin zion.</font>
+
+244
+00:14:09,416 --> 00:14:11,000
+<font size="20">Egundokoak zineten.</font>
+
+245
+00:14:14,625 --> 00:14:15,708
+<font size="20">Zer moduz Stephen?</font>
+
+246
+00:14:16,666 --> 00:14:17,666
+<font size="20">A, badakizu.</font>
+
+247
+00:14:19,750 --> 00:14:22,958
+<font size="20">Bere dementzia-mota aldapan behera doa.</font>
+
+248
+00:14:23,041 --> 00:14:24,875
+<font size="20">Eta ez da hobetuko.</font>
+
+249
+00:14:24,958 --> 00:14:26,750
+<font size="20">Egun onak eta txarrak dauzka.</font>
+
+250
+00:14:26,833 --> 00:14:31,875
+<font size="20">Eta batzuetan maite dudan Stephen da.
+Argia, bere baitan.</font>
+
+251
+00:14:32,750 --> 00:14:35,250
+<font size="20">Eta buelta ematean berriz joan zait.</font>
+
+252
+00:14:36,625 --> 00:14:37,458
+<font size="20">Guztiz.</font>
+
+253
+00:14:39,125 --> 00:14:40,916
+<font size="20">Gozatu une onez.</font>
+
+254
+00:14:45,041 --> 00:14:47,458
+<font size="20">- Stephen, bueltan nago.
+- Kaixo, maitea.</font>
+
+255
+00:14:48,125 --> 00:14:49,375
+<font size="20">Egun ona izan duzu?</font>
+
+256
+00:14:49,458 --> 00:14:51,875
+<font size="20">Bai, eskerrik asko. Eta zuk?</font>
+
+257
+00:14:52,458 --> 00:14:53,291
+<font size="20">Bai.</font>
+
+258
+00:14:53,833 --> 00:14:56,541
+<font size="20">- Andreak bazkaria ekarri dit.
+- Zer izan da?</font>
+
+259
+00:14:58,041 --> 00:14:59,208
+<font size="20">Ene maitea.</font>
+
+260
+00:15:00,041 --> 00:15:01,083
+<font size="20">Ahaztu zait. E…</font>
+
+261
+00:15:01,916 --> 00:15:05,000
+<font size="20">Dena dela, gozo-gozoa zegoen.</font>
+
+262
+00:15:05,083 --> 00:15:09,000
+<font size="20">Gaur bazkaltzeko, oilasko-pastela
+porruekin eta patata egosiekin.</font>
+
+263
+00:15:10,125 --> 00:15:11,000
+<font size="20">Gozo-gozoa.</font>
+
+264
+00:15:11,083 --> 00:15:12,291
+<font size="20">Itxura bikaina.</font>
+
+265
+00:15:12,375 --> 00:15:14,708
+<font size="20">- Zer irakurtzen ari zara?
+- Ba lehen…</font>
+
+266
+00:15:16,125 --> 00:15:21,125
+<font size="20">lorategira begira
+mika bat ikusi dut, bat bakarrik.</font>
+
+267
+00:15:21,916 --> 00:15:27,791
+<font size="20">Eta kezkatu naiz. Beraz, bilatu dut
+eta badakizu betiko parekatzen direla?</font>
+
+268
+00:15:28,458 --> 00:15:29,625
+<font size="20">Ez al da ederra?</font>
+
+269
+00:15:30,375 --> 00:15:31,333
+<font size="20">Gu bezala.</font>
+
+270
+00:15:36,458 --> 00:15:40,541
+<font size="20">Ene, a ze berandu den.
+Berandu nabil, bilera dut editorearekin.</font>
+
+271
+00:15:40,625 --> 00:15:41,916
+<font size="20">- Ez, lasai.
+- Zer?</font>
+
+272
+00:15:42,000 --> 00:15:45,083
+<font size="20">Ez larritu.
+Katilukada bat te egingo dizut, e?</font>
+
+273
+00:15:45,166 --> 00:15:48,208
+<font size="20">- Eta gero siestatxo bat.
+- Bai, bikain.</font>
+
+274
+00:16:24,416 --> 00:16:25,750
+<font size="20">Kaixo guztioi. E…</font>
+
+275
+00:16:26,958 --> 00:16:28,291
+<font size="20">Barka berandutzea. E…</font>
+
+276
+00:16:29,125 --> 00:16:33,625
+<font size="20">Donna de Freitas agentea naiz,
+Fairhaveneko komisariakoa.</font>
+
+277
+00:16:34,208 --> 00:16:39,750
+<font size="20">Etxe-segurtasunerako aholku praktikoak
+ematera nator.</font>
+
+278
+00:16:39,833 --> 00:16:41,625
+<font size="20">Benetako polizia zara?</font>
+
+279
+00:16:42,333 --> 00:16:46,041
+<font size="20">Jakina benetako polizia dela, Marjorie.
+Ondo portatu.</font>
+
+280
+00:16:46,125 --> 00:16:49,666
+<font size="20">Bai, hala da, benetako polizia naiz.</font>
+
+281
+00:16:50,208 --> 00:16:53,041
+<font size="20">Primeran.
+Ba nik galdera bat dut, galdera on bat.</font>
+
+282
+00:16:53,125 --> 00:16:54,375
+<font size="20">- Esan.
+- Bale.</font>
+
+283
+00:16:55,041 --> 00:16:58,875
+<font size="20">Gizon bat desagertzen bada
+neska-laguna hil eta gero,</font>
+
+284
+00:16:58,958 --> 00:17:00,916
+<font size="20">zenbat itxarongo zenukete</font>
+
+285
+00:17:01,000 --> 00:17:03,583
+<font size="20">desagertutzat jotzeko?</font>
+
+286
+00:17:07,958 --> 00:17:09,708
+<font size="20">E…</font>
+
+287
+00:17:10,958 --> 00:17:14,791
+<font size="20">Ez dut ulertzen zer lotura duen
+etxeko segurtasunarekin.</font>
+
+288
+00:17:16,458 --> 00:17:21,166
+<font size="20">Guztiok espero dugu hau ez izatea
+sarrailei buruzko hitzaldi aspergarria.</font>
+
+289
+00:17:22,166 --> 00:17:24,375
+<font size="20">Bai, badakigu agiria eskatzearena.</font>
+
+290
+00:17:24,458 --> 00:17:28,208
+<font size="20">"Benetan zatoz gas-konpainiaren partetik
+edo lapurra al zara?".</font>
+
+291
+00:17:29,833 --> 00:17:30,666
+<font size="20">Noski.</font>
+
+292
+00:17:30,750 --> 00:17:32,250
+<font size="20">Nik sartzen utziko nioke.</font>
+
+293
+00:17:32,750 --> 00:17:34,500
+<font size="20">Bisita eskertuko nuke.</font>
+
+294
+00:17:40,416 --> 00:17:43,208
+<font size="20">Ba, egiatan, hitz egin nahi dizuet</font>
+
+295
+00:17:44,125 --> 00:17:46,416
+<font size="20">telelaguntza botoiaz.</font>
+
+296
+00:17:52,625 --> 00:17:54,041
+<font size="20">Ez.</font>
+
+297
+00:17:54,750 --> 00:17:55,583
+<font size="20">Ez!</font>
+
+298
+00:17:56,958 --> 00:17:58,916
+<font size="20">- Nire autoa da.
+- Sentitzen dut.</font>
+
+299
+00:17:59,000 --> 00:18:02,458
+<font size="20">Aparkaleku-batzordeak
+oso serio hartzen ditu zereginak.</font>
+
+300
+00:18:02,541 --> 00:18:05,125
+<font size="20">- Faxista hutsak.
+- Ezin dute egin, polizia naiz.</font>
+
+301
+00:18:05,208 --> 00:18:07,583
+<font size="20">Erregea bazina ere, bost axola.</font>
+
+302
+00:18:07,666 --> 00:18:11,500
+<font size="20">Bai, gutxienez ordu bat
+geratuko zara hemen.</font>
+
+303
+00:18:14,541 --> 00:18:16,666
+<font size="20">Gurekin bazkaldu nahi duzu?</font>
+
+304
+00:18:19,208 --> 00:18:21,416
+<font size="20">- Botila bana eskatuko dugu?
+- Noski.</font>
+
+305
+00:18:21,500 --> 00:18:24,500
+<font size="20">- Botila bana zer?
+- Ardo. Gorria eta zuria.</font>
+
+306
+00:18:24,583 --> 00:18:26,583
+<font size="20">Zera, niretzat garaizegi da.</font>
+
+307
+00:18:26,666 --> 00:18:30,041
+<font size="20">A, ez da garaiz
+bost eta erdietatik esna bazabiltza.</font>
+
+308
+00:18:30,125 --> 00:18:31,541
+<font size="20">Ezetz asmatu nire adina.</font>
+
+309
+00:18:33,208 --> 00:18:34,541
+<font size="20">Hirurogeita hemezortzi?</font>
+
+310
+00:18:34,625 --> 00:18:37,000
+<font size="20">- Baina ez dirudi.
+- Pilates egiten dut.</font>
+
+311
+00:18:37,083 --> 00:18:40,291
+<font size="20">Itxuragatik, 65 esango nuke askoz jota,</font>
+
+312
+00:18:40,375 --> 00:18:43,166
+<font size="20">baina eskuetan beti nabaritzen da.</font>
+
+313
+00:18:43,250 --> 00:18:44,875
+<font size="20">A, polizia-lan ona, bai.</font>
+
+314
+00:18:44,958 --> 00:18:48,083
+<font size="20">Esan, De Freitas agentea,
+zeure lehen lana da?</font>
+
+315
+00:18:48,166 --> 00:18:52,208
+<font size="20">Ez, Londreseko Polizia Metropolitanoan
+ibili nintzen,</font>
+
+316
+00:18:52,291 --> 00:18:54,458
+<font size="20">eta gero hona aldatu egin nintzen.</font>
+
+317
+00:18:54,541 --> 00:18:56,916
+<font size="20">Eta gustatzen zaizu? Aspertzen zaitu?</font>
+
+318
+00:18:59,666 --> 00:19:01,833
+<font size="20">Lasai. Gurekin salbu zaude.</font>
+
+319
+00:19:03,250 --> 00:19:04,083
+<font size="20">Tira, ba.</font>
+
+320
+00:19:05,166 --> 00:19:09,833
+<font size="20">Bai, bai, gogaituta nago
+egun osoa trafiko-isunak jartzen emateaz.</font>
+
+321
+00:19:12,583 --> 00:19:14,791
+<font size="20">Esan, ezkongabe zaudete? Ezkonduta?</font>
+
+322
+00:19:14,875 --> 00:19:16,250
+<font size="20">Betiereko ezkongabea.</font>
+
+323
+00:19:16,916 --> 00:19:18,458
+<font size="20">Dibortziatuta. Birritan.</font>
+
+324
+00:19:20,666 --> 00:19:21,500
+<font size="20">Alarguna.</font>
+
+325
+00:19:22,416 --> 00:19:25,666
+<font size="20">Baina Elizabeth ezkonduta dago
+Stephen zoragarriarekin.</font>
+
+326
+00:19:25,750 --> 00:19:28,416
+<font size="20">Benetan? Bazkaltzera etorriko da?</font>
+
+327
+00:19:29,083 --> 00:19:30,833
+<font size="20">Ez, erloju kontra dabil.</font>
+
+328
+00:19:30,916 --> 00:19:32,666
+<font size="20">Stephen idazlea da.</font>
+
+329
+00:19:32,750 --> 00:19:35,833
+<font size="20">Benetan?
+Eta zer zenbiltzaten erretiratu aurretik?</font>
+
+330
+00:19:35,916 --> 00:19:39,500
+<font size="20">Psikiatra. Gerra-beteranoen
+trauma osteko estresean espezializatuta.</font>
+
+331
+00:19:39,583 --> 00:19:41,708
+<font size="20">Eta zu, Ron?</font>
+
+332
+00:19:42,416 --> 00:19:43,916
+<font size="20">A, ni sindikalista.</font>
+
+333
+00:19:44,000 --> 00:19:47,083
+<font size="20">Ez edozein sindikalista, Ron.</font>
+
+334
+00:19:47,166 --> 00:19:51,375
+<font size="20">Bikaina zen.
+Garaian Ron Gorria deitzen zioten.</font>
+
+335
+00:19:51,458 --> 00:19:55,833
+<font size="20">Bai, bai, egia da.
+Edozein piketetan, grebatan, eserialditan</font>
+
+336
+00:19:55,916 --> 00:19:58,875
+<font size="20">han nengoen ni hitzez adoretzen,
+jendea animatzen.</font>
+
+337
+00:20:00,000 --> 00:20:01,375
+<font size="20">Egun ederrak, bai.</font>
+
+338
+00:20:02,541 --> 00:20:03,791
+<font size="20">Eta zu, Joyce?</font>
+
+339
+00:20:03,875 --> 00:20:05,625
+<font size="20">Ezer berezirik ez.</font>
+
+340
+00:20:05,708 --> 00:20:08,291
+<font size="20">Erizaina, gero ama, gero erizaina berriro.</font>
+
+341
+00:20:08,375 --> 00:20:11,541
+<font size="20">Nire alaba, Joanna,
+familiako interesgarriena da.</font>
+
+342
+00:20:11,625 --> 00:20:14,750
+<font size="20">Estaldura funtsa bateko zuzendaria,
+badakizue zer den?</font>
+
+343
+00:20:14,833 --> 00:20:15,833
+<font size="20">- Ez.
+- Batere ez.</font>
+
+344
+00:20:15,916 --> 00:20:16,833
+<font size="20">Ezta nik ere.</font>
+
+345
+00:20:17,750 --> 00:20:18,875
+<font size="20">Eta zu, Elizabeth?</font>
+
+346
+00:20:19,458 --> 00:20:20,541
+<font size="20">Zertan zenbiltzan?</font>
+
+347
+00:20:22,833 --> 00:20:24,166
+<font size="20">Nazioarteko gaiak.</font>
+
+348
+00:20:24,250 --> 00:20:26,875
+<font size="20">Diplomatiko moduan?</font>
+
+349
+00:20:29,375 --> 00:20:32,291
+<font size="20">Nahikoa da esatea
+hainbat gaitasun dauzkadala.</font>
+
+350
+00:20:32,375 --> 00:20:34,416
+<font size="20">- Barka.
+- A, ardoa, eskerrik asko.</font>
+
+351
+00:20:34,500 --> 00:20:38,750
+<font size="20">Pixka bat hartuko dut.
+Tira, zer daukagu gaur? Ikus dezagun.</font>
+
+352
+00:20:38,833 --> 00:20:41,000
+<font size="20">- Zugatik eskatuko dut.
+- Benetan?</font>
+
+353
+00:20:41,083 --> 00:20:42,583
+<font size="20">Bizkortu zaitez, Jackie!</font>
+
+354
+00:20:43,791 --> 00:20:45,125
+<font size="20">Leku aparta da.</font>
+
+355
+00:20:45,625 --> 00:20:47,916
+<font size="20">Honela zahartzeko irrikan nago.</font>
+
+356
+00:20:49,583 --> 00:20:53,333
+<font size="20">Tira, bueno,
+bizitzako azken ataletara heltzean.</font>
+
+357
+00:20:53,416 --> 00:20:55,416
+<font size="20">Bai, Coopers Chase aparta da.</font>
+
+358
+00:20:55,500 --> 00:20:57,250
+<font size="20">- E!
+- Oso zorionekoak gara…</font>
+
+359
+00:20:57,333 --> 00:20:59,583
+<font size="20">- Hemen dago.
+- A, Jason da.</font>
+
+360
+00:20:59,666 --> 00:21:00,750
+<font size="20">Zer moduz, aita?</font>
+
+361
+00:21:00,833 --> 00:21:02,958
+<font size="20">Ondo, seme. Askoz hobeto zu ikusita.</font>
+
+362
+00:21:03,541 --> 00:21:07,166
+<font size="20">- Jason Ritchie da?
+- Bai, bertako famatua. Ronen semea da.</font>
+
+363
+00:21:07,250 --> 00:21:09,250
+<font size="20">Aita bisitatzen du astero.</font>
+
+364
+00:21:09,833 --> 00:21:11,041
+<font size="20">A, Ibra.</font>
+
+365
+00:21:11,125 --> 00:21:12,916
+<font size="20">- Jason.
+- Kaixo, Jason.</font>
+
+366
+00:21:13,000 --> 00:21:16,541
+<font size="20">- Elizabeth.
+- Hau Donna De Freitas agentea da.</font>
+
+367
+00:21:16,625 --> 00:21:18,333
+<font size="20">- Kaixo. Zer moduz?
+- Kaixo.</font>
+
+368
+00:21:18,416 --> 00:21:19,916
+<font size="20">Oso pozik zu ezagutzeaz.</font>
+
+369
+00:21:20,000 --> 00:21:24,333
+<font size="20">Zera, o-oso zale a-amorratua nintzen.
+Zure borroka guztiak ikusi ditut.</font>
+
+370
+00:21:25,375 --> 00:21:28,666
+<font size="20">E, eta zertan zabiltza orain,
+lesioaren ondoren?</font>
+
+371
+00:21:29,583 --> 00:21:31,833
+<font size="20">Telebistan ateratzen naiz batzuetan.</font>
+
+372
+00:21:31,916 --> 00:21:33,083
+<font size="20">A, bai.</font>
+
+373
+00:21:33,166 --> 00:21:36,041
+<font size="20">Txapeldun paregabea
+izan zen garaian, ezta, seme?</font>
+
+374
+00:21:36,125 --> 00:21:37,541
+<font size="20">- Badaki, aita.
+- Bai.</font>
+
+375
+00:21:37,625 --> 00:21:40,541
+<font size="20">E, e, Jason, hau Joyce da.
+Heldu berria da.</font>
+
+376
+00:21:40,625 --> 00:21:41,625
+<font size="20">Bide batez,</font>
+
+377
+00:21:41,708 --> 00:21:44,958
+<font size="20">zoragarri egon zinen
+MasterChef Celebrityn.</font>
+
+378
+00:21:45,041 --> 00:21:47,291
+<font size="20">Eskerrik asko, Joyce.</font>
+
+379
+00:21:47,375 --> 00:21:50,291
+<font size="20">Eta zer egingo duzu ondoren, Jason?</font>
+
+380
+00:21:50,375 --> 00:21:53,125
+<font size="20">Izotz gainean dantzanerako
+entseatzen hasi naiz.</font>
+
+381
+00:21:54,541 --> 00:21:56,708
+<font size="20">Hori kirol modukoa da, ezta?</font>
+
+382
+00:21:59,000 --> 00:21:59,833
+<font size="20">Bai.</font>
+
+383
+00:22:01,583 --> 00:22:06,083
+<font size="20">Ba milesker bazkariagatik.</font>
+
+384
+00:22:07,458 --> 00:22:09,916
+<font size="20">- Eskerrik asko. Ondo izan.
+- Ondo ibili.</font>
+
+385
+00:22:10,000 --> 00:22:12,208
+<font size="20">- Agur.
+- IIkusi arte.</font>
+
+386
+00:22:16,500 --> 00:22:17,791
+<font size="20">Atsegina da.</font>
+
+387
+00:22:19,000 --> 00:22:20,625
+<font size="20">Erabilgarria akaso.</font>
+
+388
+00:22:20,708 --> 00:22:22,166
+<font size="20">Tony, uzteko, aizu.</font>
+
+389
+00:22:22,250 --> 00:22:25,916
+<font size="20">- Ez dizut zeurea egiten utziko.
+- Ez dago inorena egiterik.</font>
+
+390
+00:22:26,000 --> 00:22:28,708
+<font size="20">Geure alde daukagu guztia,
+irakurri kontratua.</font>
+
+391
+00:22:28,791 --> 00:22:29,916
+<font size="20">- Kontratua?
+- Bai.</font>
+
+392
+00:22:30,000 --> 00:22:32,666
+<font size="20">Bogdan ekarriko duzu, poloniarra, ezta?</font>
+
+393
+00:22:32,750 --> 00:22:35,625
+<font size="20">Ez duzu ezer egingo nire izeba Maud
+bizirik dagoen bitartean.</font>
+
+394
+00:22:35,708 --> 00:22:38,000
+<font size="20">- Auzitegian ikusiko zaitut!
+- Nahi duzunean.</font>
+
+395
+00:22:38,083 --> 00:22:39,625
+<font size="20">- Ene.
+- Prest egongo naiz.</font>
+
+396
+00:22:39,708 --> 00:22:41,583
+<font size="20">Zertaz arituko ziren?</font>
+
+397
+00:22:42,375 --> 00:22:43,208
+<font size="20">Diruaz.</font>
+
+398
+00:22:44,333 --> 00:22:46,166
+<font size="20">Azkenean beti da dirua.</font>
+
+399
+00:22:47,541 --> 00:22:49,000
+<font size="20">Tony, zer gertatzen da?</font>
+
+400
+00:22:49,083 --> 00:22:50,708
+<font size="20">Zer gertatzen den? Bera.</font>
+
+401
+00:22:51,208 --> 00:22:52,916
+<font size="20">Ventham, horixe gertatzen da.</font>
+
+402
+00:22:53,000 --> 00:22:56,666
+<font size="20">Hilerria garbitu nahi duela
+luxuzko pisuak egiteko.</font>
+
+403
+00:22:56,750 --> 00:22:59,625
+<font size="20">- Beraz, egia da?
+- Zarata izugarria izango da.</font>
+
+404
+00:22:59,708 --> 00:23:03,041
+<font size="20">Zer egingo du eraikin nagusiarekin?
+Eta gure apartamentuekin?</font>
+
+405
+00:23:04,083 --> 00:23:07,000
+<font size="20">- Ekitaldietarako tokia.
+- Ene.</font>
+
+406
+00:23:07,583 --> 00:23:08,458
+<font size="20">- Ron.
+- Bai.</font>
+
+407
+00:23:08,541 --> 00:23:11,166
+<font size="20">- Zer egin daiteke?
+- Bertakoekin bilera bat.</font>
+
+408
+00:23:11,250 --> 00:23:14,875
+<font size="20">Gure kontratuetan dago.
+Lehenik galdetu behar digu.</font>
+
+409
+00:23:14,958 --> 00:23:17,666
+<font size="20">Baina ezin duzu ezer egin jabekide gisa?</font>
+
+410
+00:23:17,750 --> 00:23:19,166
+<font size="20">A, pila bat.</font>
+
+411
+00:23:19,250 --> 00:23:20,666
+<font size="20">Pila bat egin dezaket.</font>
+
+412
+00:23:21,250 --> 00:23:22,333
+<font size="20">Lasai egon,</font>
+
+413
+00:23:22,416 --> 00:23:25,666
+<font size="20">ahal dudan guztia egingo dut
+lekua eta zuek salbatzeko.</font>
+
+414
+00:23:25,750 --> 00:23:28,083
+<font size="20">Ez zaie kontra egiten Curranei.</font>
+
+415
+00:23:29,041 --> 00:23:30,666
+<font size="20">Ikusiko du zergatik.</font>
+
+416
+00:23:31,333 --> 00:23:32,166
+<font size="20">Ziur egon.</font>
+
+417
+00:23:35,083 --> 00:23:37,083
+<font size="20">Borroka daukagu, beraz.</font>
+
+418
+00:23:52,625 --> 00:23:57,583
+<font size="20">COOPERS CHASE SALBATU</font>
+
+419
+00:23:58,083 --> 00:24:01,583
+<font size="20">- E, zer zabiltza? E!
+- Babo hori!</font>
+
+420
+00:24:01,666 --> 00:24:02,708
+<font size="20">Tira, bale.</font>
+
+421
+00:24:03,916 --> 00:24:05,291
+<font size="20">Pila bat etorri zarete.</font>
+
+422
+00:24:05,375 --> 00:24:08,041
+<font size="20">E, hasteko, Konfuzioren hitzetan…</font>
+
+423
+00:24:08,125 --> 00:24:10,125
+<font size="20">A, nik ere baditut.</font>
+
+424
+00:24:11,125 --> 00:24:13,666
+<font size="20">Zure hitzak, Ventham jauna, ez nireak.</font>
+
+425
+00:24:13,750 --> 00:24:17,666
+<font size="20">"Ventham Inbertsioak, S. A.k
+kontsulta egin beharko die bertakoei</font>
+
+426
+00:24:17,750 --> 00:24:21,666
+<font size="20">etxebizitza-aukerak
+zabaldu nahi izanez gero".</font>
+
+427
+00:24:22,958 --> 00:24:24,708
+<font size="20">Bai, hau kontsulta da.</font>
+
+428
+00:24:24,791 --> 00:24:28,291
+<font size="20">eta zuek bertakoak.
+Kontsultatu nahi adina hamar minututan.</font>
+
+429
+00:24:28,375 --> 00:24:31,458
+<font size="20">Hau ez da kontsulta bat,
+segada bat baizik!</font>
+
+430
+00:24:31,541 --> 00:24:35,875
+<font size="20">Badakigu erretiratze-komunitatea
+guztiz kendu nahi duzula.</font>
+
+431
+00:24:35,958 --> 00:24:40,625
+<font size="20">- Bai, eta gu kalean utzi.
+- E, tira, ez.</font>
+
+432
+00:24:41,125 --> 00:24:44,708
+<font size="20">Kalean ez.
+Ordaindu eta ostatu emango zaizue.</font>
+
+433
+00:24:44,791 --> 00:24:48,750
+<font size="20">Baina Coopers Chasen egon nahi dugu.
+Kontratuak sinatu ditugu.</font>
+
+434
+00:24:48,833 --> 00:24:50,250
+<font size="20">Biziartekoak.</font>
+
+435
+00:24:50,333 --> 00:24:54,583
+<font size="20">Bai, eta antza hilezkorrak zarete.
+Baina kontratua irakurtzen baduzue,</font>
+
+436
+00:24:54,666 --> 00:24:56,666
+<font size="20">klausula batek dio…</font>
+
+437
+00:24:56,750 --> 00:24:59,250
+<font size="20">Kontua da, jauna, hemen pozik gaudela.</font>
+
+438
+00:24:59,333 --> 00:25:02,458
+<font size="20">- Bai!
+- Geure etxea da, gure lagunak dira.</font>
+
+439
+00:25:02,541 --> 00:25:06,583
+<font size="20">Eta bertako batzuen bikotekideek
+arreta berezia behar dute.</font>
+
+440
+00:25:06,666 --> 00:25:08,375
+<font size="20">Edo ez dute seniderik herrialdean.</font>
+
+441
+00:25:09,208 --> 00:25:11,208
+<font size="20">Zer egingo duzu llamekin?</font>
+
+442
+00:25:11,875 --> 00:25:14,625
+<font size="20">Kontrolik gabe daude erabat,
+untxien antzera.</font>
+
+443
+00:25:14,708 --> 00:25:16,916
+<font size="20">Dirua eman diot asto-santutegiari</font>
+
+444
+00:25:17,000 --> 00:25:18,291
+<font size="20">haiek har ditzaten.</font>
+
+445
+00:25:18,375 --> 00:25:21,875
+<font size="20">A, eta gauza bera egin nahi duzu
+gurekin ere, ezta?</font>
+
+446
+00:25:23,416 --> 00:25:25,916
+<font size="20">Dena den, ni bere albaitaria naiz.
+Neuk artatzen ditut.</font>
+
+447
+00:25:26,000 --> 00:25:29,500
+<font size="20">Eta ezin duzu horrelakorik egin
+niri aurretik galdetu gabe.</font>
+
+448
+00:25:29,583 --> 00:25:32,166
+<font size="20">Entzun, kontua da neure lursaila dela.</font>
+
+449
+00:25:32,250 --> 00:25:34,916
+<font size="20">Eskubide guztia daukat
+nahi dudana egiteko.</font>
+
+450
+00:25:35,000 --> 00:25:38,125
+<font size="20">Ez zenituzke hilobi sakratuak
+zulatu eta gogaitu behar</font>
+
+451
+00:25:38,208 --> 00:25:40,208
+<font size="20">dirua irabazteko.</font>
+
+452
+00:25:40,291 --> 00:25:41,583
+<font size="20">Bekatua da.</font>
+
+453
+00:25:45,041 --> 00:25:47,458
+<font size="20">Ez nekien aita Mackie
+haserretu zitekeenik.</font>
+
+454
+00:25:47,541 --> 00:25:51,750
+<font size="20">Hilerriaz arduratzen da.
+Bere fedea gutxiesten duela sentituko du.</font>
+
+455
+00:25:51,833 --> 00:25:52,875
+<font size="20">Hori izango da.</font>
+
+456
+00:25:52,958 --> 00:25:56,000
+<font size="20">Jainkoa bera ez denez etorri,
+hemen utziko dugu.</font>
+
+457
+00:25:56,083 --> 00:25:59,166
+<font size="20">Denbora amaitu da.
+Astelehenean zulatzen hasiko dira.</font>
+
+458
+00:26:11,250 --> 00:26:14,750
+<font size="20">Bai, tipo okerra zirikatu du
+berea egingo duela uste badu.</font>
+
+459
+00:26:14,833 --> 00:26:17,041
+<font size="20">- Argi eta garbi utzi diot.
+- Benetan?</font>
+
+460
+00:26:17,833 --> 00:26:20,125
+<font size="20">Bai, esan diot: "Entzun adi, Ventham.</font>
+
+461
+00:26:20,208 --> 00:26:23,083
+<font size="20">Babo poloniar horrekin
+ordezkatu nazakezulakoan?</font>
+
+462
+00:26:23,166 --> 00:26:24,541
+<font size="20">Zureak egin du".</font>
+
+463
+00:26:24,625 --> 00:26:25,583
+<font size="20">Lasai, Tony.</font>
+
+464
+00:26:25,666 --> 00:26:29,541
+<font size="20">Ez zaitez bizkortu.
+Zeure burua kontrolatu behar duzu.</font>
+
+465
+00:26:29,625 --> 00:26:32,958
+<font size="20">- Entzun, gero deituko dizut, bale?
+- Bale, agur.</font>
+
+466
+00:26:47,541 --> 00:26:49,000
+<font size="20">Zer zabiltza zu hemen?</font>
+
+467
+00:26:53,500 --> 00:26:57,083
+<font size="20">Dirudienez, biktima hil arte jo zuten.</font>
+
+468
+00:26:57,666 --> 00:26:59,291
+<font size="20">Ez dago armaren zantzurik.</font>
+
+469
+00:27:09,250 --> 00:27:13,291
+<font size="20">Gosalordua KNT1en, Kenteko irratian.</font>
+
+470
+00:27:13,791 --> 00:27:18,916
+<font size="20">Azken berriak. Tony Curran,
+bertako enpresaria eta kontratista,</font>
+
+471
+00:27:19,000 --> 00:27:21,875
+<font size="20">hilda aurkitu zuten
+bere etxean atzo goizean.</font>
+
+472
+00:27:21,958 --> 00:27:24,541
+<font size="20">Dirudienez, hil arte jo zuten.</font>
+
+473
+00:27:24,625 --> 00:27:26,916
+<font size="20">Oraingoz ez dago susmagarririk.</font>
+
+474
+00:27:27,000 --> 00:27:29,708
+<font size="20">Poliziak dio
+ikerketa irekita dagoela oraindik.</font>
+
+475
+00:27:33,083 --> 00:27:34,791
+<font size="20">Elizabeth?</font>
+
+476
+00:27:35,375 --> 00:27:38,458
+<font size="20">Puzzle-gelan bildu behar gara
+oraintxe bertan!</font>
+
+477
+00:27:39,541 --> 00:27:41,916
+<font size="20">Larrialdi-bilera oraintxe bertan!</font>
+
+478
+00:27:42,000 --> 00:27:43,083
+<font size="20">Ze demontre?</font>
+
+479
+00:27:43,166 --> 00:27:49,041
+<font size="20">Bai, segi! Ezkerrera, eskuinera!</font>
+
+480
+00:27:51,916 --> 00:27:52,875
+<font size="20">- Ron!
+- Bai?</font>
+
+481
+00:27:52,958 --> 00:27:55,791
+<font size="20">Bilera behar dugu.
+Atera igerilekutik oraintxe!</font>
+
+482
+00:27:57,250 --> 00:27:59,541
+<font size="20">Zer da? Yoga egiten ari nintzen.</font>
+
+483
+00:27:59,625 --> 00:28:01,750
+<font size="20">Ezin da eguzkiari agurra bitan egin.</font>
+
+484
+00:28:01,833 --> 00:28:05,416
+<font size="20">Aldi baterako kideek
+ezin dituzte aparteko bilerak deitu.</font>
+
+485
+00:28:05,500 --> 00:28:07,791
+<font size="20">Hilketa bat egon da! Benetako hilketa!</font>
+
+486
+00:28:07,875 --> 00:28:08,750
+<font size="20">- Zer?
+- Nor?</font>
+
+487
+00:28:08,833 --> 00:28:11,750
+<font size="20">Tony Curran!
+Atzo goizean hil zuten bere etxean.</font>
+
+488
+00:28:12,375 --> 00:28:15,333
+<font size="20">Benetako kasu bat argitu behar dugu.
+Ez al da zoragarria?</font>
+
+489
+00:28:16,583 --> 00:28:20,041
+<font size="20">- Ez, Joyce, ez da zoragarria.
+- Tony Curran hilda badago…</font>
+
+490
+00:28:20,125 --> 00:28:23,083
+<font size="20">Nork babestuko du
+Coopers Chase suntsipenaz</font>
+
+491
+00:28:23,166 --> 00:28:24,833
+<font size="20">Venthamek nahi duena egin lezake.</font>
+
+492
+00:28:24,916 --> 00:28:28,458
+<font size="20">Jakina, izugarri sentitzen dut Tonyrena,
+goian bego eta hori guztia.</font>
+
+493
+00:28:28,541 --> 00:28:32,375
+<font size="20">- Nork hil nahiko luke Tony Curran?
+- Eta nola harrapatuko dugu?</font>
+
+494
+00:28:32,875 --> 00:28:36,166
+<font size="20">Polizia susmagarrien zerrenda
+egiten arituko da.</font>
+
+495
+00:28:36,250 --> 00:28:41,416
+<font size="20">Gizon bat edo emakume bat behar dugu,
+hantxe barruan.</font>
+
+496
+00:28:43,708 --> 00:28:46,583
+<font size="20">Uste dut pertsona egokia ezagutzen dugula.</font>
+
+497
+00:28:47,208 --> 00:28:49,000
+<font size="20">Bale, entzun, jaunok.</font>
+
+498
+00:28:49,083 --> 00:28:51,416
+<font size="20">Heriotzaren kausa itsusia da,</font>
+
+499
+00:28:51,500 --> 00:28:54,541
+<font size="20">traumatismoa buruaren eskuinaldean.</font>
+
+500
+00:28:54,625 --> 00:28:57,708
+<font size="20">Etxea hankaz gora zegoen.
+Lapurreta izan liteke,</font>
+
+501
+00:28:57,791 --> 00:29:00,375
+<font size="20">baina ez zegoen
+sarrera bortxatu zuten zantzurik.</font>
+
+502
+00:29:00,458 --> 00:29:03,583
+<font size="20">Egin zuen azken deia
+zenbaki ezezagun bati egin zion,</font>
+
+503
+00:29:03,666 --> 00:29:05,291
+<font size="20">ziurrenik erabili eta botatzekoa.</font>
+
+504
+00:29:05,375 --> 00:29:08,916
+<font size="20">Hainbat gauza zeuden lurrean eta arasan:</font>
+
+505
+00:29:09,000 --> 00:29:13,916
+<font size="20">agiriak, fakturak,
+kontraktuak, eta argazki hau.</font>
+
+506
+00:29:14,000 --> 00:29:14,875
+<font size="20">Kontua da…</font>
+
+507
+00:29:16,041 --> 00:29:18,458
+<font size="20">Utzi erretilua, agente.</font>
+
+508
+00:29:18,541 --> 00:29:21,166
+<font size="20">Zeregin garrantzitsu gehiago
+izango dituzu.</font>
+
+509
+00:29:21,666 --> 00:29:22,500
+<font size="20">Bai.</font>
+
+510
+00:29:23,208 --> 00:29:24,208
+<font size="20">Noski.</font>
+
+511
+00:29:26,083 --> 00:29:27,875
+<font size="20">- Oso garrantzitsuak.
+- Bale.</font>
+
+512
+00:29:27,958 --> 00:29:29,666
+<font size="20">Tea ez da bere kabuz egingo.</font>
+
+513
+00:29:33,916 --> 00:29:35,833
+<font size="20">- Bai?
+- Joyce, prest zaude?</font>
+
+514
+00:29:35,916 --> 00:29:36,958
+<font size="20">Ia-ia.</font>
+
+515
+00:29:38,750 --> 00:29:40,625
+<font size="20">- Geltokira segituan.
+- Ados.</font>
+
+516
+00:30:00,666 --> 00:30:03,041
+<font size="20">Prest nago. Zer iruditzen, gehiegi?</font>
+
+517
+00:30:03,125 --> 00:30:06,750
+<font size="20">Ez, ez, ez, batere ez.
+Oso itxura, e, errealista daukazu.</font>
+
+518
+00:30:07,541 --> 00:30:08,375
+<font size="20">Bai, esan?</font>
+
+519
+00:30:09,500 --> 00:30:12,208
+<font size="20">Fairhaveneko Polizia-etxea. Noski.</font>
+
+520
+00:30:12,291 --> 00:30:14,166
+<font size="20">Ibrahim Arif doktorea naiz.</font>
+
+521
+00:30:14,708 --> 00:30:15,708
+<font size="20">Hain zuzen.</font>
+
+522
+00:30:15,791 --> 00:30:18,208
+<font size="20">Nire lagun min Ron Ritchiek</font>
+
+523
+00:30:18,291 --> 00:30:22,375
+<font size="20">informazio garrantzitsua dauka
+Tony Curranen hilketaren inguruan.</font>
+
+524
+00:30:23,166 --> 00:30:24,750
+<font size="20">Coopers Chasen gaude.</font>
+
+525
+00:30:24,833 --> 00:30:27,000
+<font size="20">E, ez, ez da posible, sentitzen dut.</font>
+
+526
+00:30:27,083 --> 00:30:29,791
+<font size="20">Ez, ezin gara polizia-etxera gerturatu.</font>
+
+527
+00:30:29,875 --> 00:30:34,541
+<font size="20">Egia esan, Ron azkenaldian
+oso gaixorik eta ahul dago,</font>
+
+528
+00:30:34,625 --> 00:30:36,916
+<font size="20">inkontinentzia eta guzti.</font>
+
+529
+00:30:37,000 --> 00:30:38,166
+<font size="20">Ez, ez hori esan.</font>
+
+530
+00:30:39,416 --> 00:30:41,750
+<font size="20">Norbait bidaltzeko aukera legoke?</font>
+
+531
+00:30:43,208 --> 00:30:46,458
+<font size="20">- Zoragarri. Milesker. Primeran.
+- Itzel. Prest gaude?</font>
+
+532
+00:30:46,541 --> 00:30:49,416
+<font size="20">Bai, baina ez guztiz, Ron.
+Dotoreegi zaude.</font>
+
+533
+00:30:49,916 --> 00:30:51,083
+<font size="20">- Bale.
+- Baldrestu.</font>
+
+534
+00:30:51,583 --> 00:30:52,958
+<font size="20">Baldrestu, baldrestu.</font>
+
+535
+00:31:02,958 --> 00:31:05,625
+<font size="20">E, atera egingo naiz.
+Behar banauzu, deitu.</font>
+
+536
+00:31:05,708 --> 00:31:08,250
+<font size="20">A, lasai, ondo egongo naiz.
+Ez nitaz kezkatu.</font>
+
+537
+00:31:09,083 --> 00:31:10,125
+<font size="20">Baina zer…</font>
+
+538
+00:31:11,500 --> 00:31:13,291
+<font size="20">Zer demontre jantzi duzu?</font>
+
+539
+00:31:14,208 --> 00:31:15,833
+<font size="20">Erregina dirudizu.</font>
+
+540
+00:31:16,500 --> 00:31:18,125
+<font size="20">- Benetan?
+- Bai.</font>
+
+541
+00:31:22,041 --> 00:31:23,458
+<font size="20">Egun tristea izan zen.</font>
+
+542
+00:31:24,208 --> 00:31:25,041
+<font size="20">Hilotzarena.</font>
+
+543
+00:31:26,125 --> 00:31:28,083
+<font size="20">- Gogoratzen duzu?
+- Jakina.</font>
+
+544
+00:31:28,750 --> 00:31:31,541
+<font size="20">2022ko irailaren 19a.</font>
+
+545
+00:31:31,625 --> 00:31:33,500
+<font size="20">Telebistan ikusi genuen.</font>
+
+546
+00:31:34,000 --> 00:31:36,208
+<font size="20">Tematuta zeunden segurtasunarekin.</font>
+
+547
+00:31:36,291 --> 00:31:37,333
+<font size="20">Egia da.</font>
+
+548
+00:31:38,708 --> 00:31:39,833
+<font size="20">Zertan zabiltza?</font>
+
+549
+00:31:39,916 --> 00:31:42,541
+<font size="20">A, badakizu, kontutxoetan.
+Plan bat daukat.</font>
+
+550
+00:31:42,625 --> 00:31:46,625
+<font size="20">A, nire Elisabet maitea,
+beti daukazu plan bat.</font>
+
+551
+00:31:49,291 --> 00:31:50,166
+<font size="20">Eskuinera.</font>
+
+552
+00:32:02,000 --> 00:32:03,291
+<font size="20">Zure jaka gogoko dut.</font>
+
+553
+00:32:04,375 --> 00:32:05,458
+<font size="20">Eta orain zer?</font>
+
+554
+00:32:05,541 --> 00:32:06,500
+<font size="20">Jarrai iezadazu.</font>
+
+555
+00:32:07,666 --> 00:32:09,125
+<font size="20">A ze zirraragarria.</font>
+
+556
+00:32:09,208 --> 00:32:11,583
+<font size="20">Igande gaueko film bat dirudi,</font>
+
+557
+00:32:11,666 --> 00:32:14,166
+<font size="20">begi azkarreko
+bi emakume zahar liskarzale,</font>
+
+558
+00:32:14,250 --> 00:32:15,958
+<font size="20">polizia baino adimentsuagoak.</font>
+
+559
+00:32:16,041 --> 00:32:17,125
+<font size="20">Ezta?</font>
+
+560
+00:32:17,208 --> 00:32:19,125
+<font size="20">- Ez. Eta, Joyce.
+- Bai?</font>
+
+561
+00:32:19,208 --> 00:32:22,958
+<font size="20">Ez berriz esan "begi azkarreko
+bi emakume zahar liskarzale" nire aurrean.</font>
+
+562
+00:32:23,041 --> 00:32:23,875
+<font size="20">Bale.</font>
+
+563
+00:32:29,708 --> 00:32:31,750
+<font size="20">Gazte, lagundu iezadazu, mesedez.</font>
+
+564
+00:32:31,833 --> 00:32:35,833
+<font size="20">- Poltsoa lapurtu didate.
+- Marks and Spencerrekoa.</font>
+
+565
+00:32:35,916 --> 00:32:37,625
+<font size="20">Bai, Marks and Spencerrekoa.</font>
+
+566
+00:32:37,708 --> 00:32:42,291
+<font size="20">Guztia neraman barruan.
+Pentsioa, eskudirua, guztia. Lagundu.</font>
+
+567
+00:32:42,375 --> 00:32:45,666
+<font size="20">A, bai, noski. Zure datuak jasoko ditut.</font>
+
+568
+00:32:45,750 --> 00:32:48,875
+<font size="20">Ez, emakumezko agente batekin
+hitz egin nahi dut.</font>
+
+569
+00:32:48,958 --> 00:32:52,791
+<font size="20">Guztiz trebatuta nago
+eta oso jarrera atsegina daukat.</font>
+
+570
+00:32:52,875 --> 00:32:54,458
+<font size="20">- Emakumea izan behar du.
+- Baina…</font>
+
+571
+00:32:54,541 --> 00:32:55,750
+<font size="20">Moja da!</font>
+
+572
+00:32:58,125 --> 00:32:58,958
+<font size="20">Bai.</font>
+
+573
+00:33:00,416 --> 00:33:02,458
+<font size="20">Bai, moja naiz.</font>
+
+574
+00:33:03,500 --> 00:33:06,916
+<font size="20">Botoa egin dut gizonekin ez hitz egiteko,
+edozein gizon.</font>
+
+575
+00:33:07,833 --> 00:33:09,500
+<font size="20">Jesusekin izan ezik, noski.</font>
+
+576
+00:33:10,750 --> 00:33:11,916
+<font size="20">Bale.</font>
+
+577
+00:33:12,958 --> 00:33:14,458
+<font size="20">- Itxaron.
+- Bizkor.</font>
+
+578
+00:33:14,541 --> 00:33:16,250
+<font size="20">Bale, itxaron hemen.</font>
+
+579
+00:33:19,791 --> 00:33:22,625
+<font size="20">Moja, oso ona. Ez zait okurritu.</font>
+
+580
+00:33:24,666 --> 00:33:26,666
+<font size="20">Esan, andreak, zertan lagun…</font>
+
+581
+00:33:30,916 --> 00:33:31,750
+<font size="20">diezazueket?</font>
+
+582
+00:33:35,416 --> 00:33:37,750
+<font size="20">GALDEKETA-GELA</font>
+
+583
+00:33:38,333 --> 00:33:41,541
+<font size="20">- Benetan lapurtu dizute poltsoa?
+- Ez.</font>
+
+584
+00:33:41,625 --> 00:33:45,125
+<font size="20">Zorte on lapurtzen saiatzen denari.
+Imajina dezakezu?</font>
+
+585
+00:33:47,041 --> 00:33:49,958
+<font size="20">Orduan zertan zabiltzate zuek biak hemen?</font>
+
+586
+00:33:50,041 --> 00:33:53,166
+<font size="20">Gaizkileak harrapatzen jarraitu behar dut.</font>
+
+587
+00:33:53,250 --> 00:33:55,833
+<font size="20">Primeran. Lehenik hauxe esango dut.</font>
+
+588
+00:33:55,916 --> 00:33:57,916
+<font size="20">Ez egin pozten ez zaren plantak,</font>
+
+589
+00:33:58,000 --> 00:34:01,125
+<font size="20">badakidalako baietz,
+eta gu ere pozten gara.</font>
+
+590
+00:34:01,208 --> 00:34:04,375
+<font size="20">Hau askoz atseginagoa izango da
+hau onartzen badugu.</font>
+
+591
+00:34:08,083 --> 00:34:12,041
+<font size="20">Grabaketari dagokionez,
+agenteak uko egiten dio erantzuteari,</font>
+
+592
+00:34:12,125 --> 00:34:14,583
+<font size="20">baina irri txikia ezkutatzen ari da.</font>
+
+593
+00:34:16,125 --> 00:34:18,291
+<font size="20">Bigarrenik,
+ez dakigu zertaz urrundu zaitugun,</font>
+
+594
+00:34:18,375 --> 00:34:21,791
+<font size="20">baina ziur nago
+ez dela gaizkileak harrapatzeaz.</font>
+
+595
+00:34:22,541 --> 00:34:24,333
+<font size="20">Zeregin aspergarria da.</font>
+
+596
+00:34:27,458 --> 00:34:28,500
+<font size="20">Iruzkinik ez.</font>
+
+597
+00:34:29,625 --> 00:34:31,375
+<font size="20">Galdera bat daukagu.</font>
+
+598
+00:34:33,041 --> 00:34:34,041
+<font size="20">Aurrera.</font>
+
+599
+00:34:34,625 --> 00:34:38,166
+<font size="20">Tony Curranen hilketa
+ikertu nahiko zenuke?</font>
+
+600
+00:34:42,041 --> 00:34:44,250
+<font size="20">Hori ez da inoiz gertatuko.</font>
+
+601
+00:34:44,333 --> 00:34:47,208
+<font size="20">Gertarazi ahal bagenu,
+interesatuko litzaizuke?</font>
+
+602
+00:34:48,875 --> 00:34:50,625
+<font size="20">"Gertarazi ahal bagenu"?</font>
+
+603
+00:34:51,166 --> 00:34:53,375
+<font size="20">Nor zarelakoan, MI5eko burua?</font>
+
+604
+00:34:55,833 --> 00:34:56,666
+<font size="20">Ez.</font>
+
+605
+00:34:57,500 --> 00:35:02,000
+<font size="20">Ez, ni ezezkorik onartzen ez duen
+emakumea baino ez naiz, zu bezala.</font>
+
+606
+00:35:05,375 --> 00:35:06,416
+<font size="20">Zergatik?</font>
+
+607
+00:35:07,250 --> 00:35:09,416
+<font size="20">Zure mesfidantza miresten dut.</font>
+
+608
+00:35:09,500 --> 00:35:12,208
+<font size="20">Beste edozer baino gehiago.</font>
+
+609
+00:35:12,291 --> 00:35:13,458
+<font size="20">A, ondo.</font>
+
+610
+00:35:14,083 --> 00:35:18,250
+<font size="20">Orduan ez zaizu axola izango esatea
+zer irabaziko zenuketen, ezta?</font>
+
+611
+00:35:19,625 --> 00:35:23,750
+<font size="20">Tira, galderaren bat izan genezake
+ikerketa aurreratu ahala.</font>
+
+612
+00:35:25,000 --> 00:35:27,375
+<font size="20">Ezin dut partekatu ezer konfidentzialik.</font>
+
+613
+00:35:27,458 --> 00:35:30,250
+<font size="20">Ez, agintzen dizut,
+profesionala ez den ezer.</font>
+
+614
+00:35:31,125 --> 00:35:32,541
+<font size="20">Emakume jainkozale gisa.</font>
+
+615
+00:35:36,500 --> 00:35:38,375
+<font size="20">Onartuko banu</font>
+
+616
+00:35:38,458 --> 00:35:41,625
+<font size="20">Tony Curranen ikerketan sartzeko laguntza,</font>
+
+617
+00:35:43,125 --> 00:35:44,500
+<font size="20">zenbat beharko zenukete?</font>
+
+618
+00:35:44,583 --> 00:35:46,166
+<font size="20">- Ordu bat.
+- Ordu bat?</font>
+
+619
+00:35:46,250 --> 00:35:47,208
+<font size="20">Trafikoaren arabera.</font>
+
+620
+00:35:47,291 --> 00:35:51,041
+<font size="20">- Taldea prest dago, zain.
+- Hau da, Ron eta Ibrahim.</font>
+
+621
+00:35:51,125 --> 00:35:54,041
+<font size="20">Hona nire datuak.
+Bidali mezu bat ahal baduzu.</font>
+
+622
+00:35:54,541 --> 00:35:58,750
+<font size="20">- Elkarrizketa 12:47etan amaitu da.
+- Grabagailua itzalita dago.</font>
+
+623
+00:35:58,833 --> 00:36:00,416
+<font size="20">- A, bai, egia da.
+- Bai.</font>
+
+624
+00:36:08,625 --> 00:36:09,666
+<font size="20">Dena prest dago.</font>
+
+625
+00:36:09,750 --> 00:36:10,583
+<font size="20">Ados.</font>
+
+626
+00:36:18,208 --> 00:36:21,333
+<font size="20">Arratsalde on.
+E, Ron Ritchierekin hitz egitera nator.</font>
+
+627
+00:36:21,416 --> 00:36:23,666
+<font size="20">- Hemendik, inspektore.
+- Milesker.</font>
+
+628
+00:36:26,375 --> 00:36:29,166
+<font size="20">Ron? Agente jator bat etorri da.</font>
+
+629
+00:36:29,250 --> 00:36:33,208
+<font size="20">Ez! Poliziarik ez!</font>
+
+630
+00:36:33,291 --> 00:36:35,208
+<font size="20">Zer nahi duzu?</font>
+
+631
+00:36:35,291 --> 00:36:37,208
+<font size="20">- Protesta egin dezaket.
+- Lasai.</font>
+
+632
+00:36:37,291 --> 00:36:40,583
+<font size="20">Barka Ronen jarrera.
+Ez dabil ondo aginteengandik gertu.</font>
+
+633
+00:36:40,666 --> 00:36:43,875
+<font size="20">- Ron, lasaitu zaitez, mesedez.
+- Bai, bale.</font>
+
+634
+00:36:43,958 --> 00:36:46,708
+<font size="20">Zurekin hitz egin nahi du ikusi zenuen</font>
+
+635
+00:36:46,791 --> 00:36:48,583
+<font size="20">Ventham eta Curranen arteko liskarraz.</font>
+
+636
+00:36:48,666 --> 00:36:51,500
+<font size="20">Lasai, Ritchie jauna,
+ez zara arazoetan sartu.</font>
+
+637
+00:36:51,583 --> 00:36:54,333
+<font size="20">- Galdera batzuk baino ez ditut.
+- Ez!</font>
+
+638
+00:36:54,416 --> 00:36:57,583
+<font size="20">Ez. Andrearekin
+hitz egin nahi dut, ez berarekin.</font>
+
+639
+00:36:58,166 --> 00:37:01,458
+<font size="20">- Ze andre?
+- A, etorri zen andre polit hura.</font>
+
+640
+00:37:02,041 --> 00:37:03,583
+<font size="20">A, De Freita agentea.</font>
+
+641
+00:37:03,666 --> 00:37:07,958
+<font size="20">Sarrailez hitz egitera etorri zen.
+Ronek txera hartu zion.</font>
+
+642
+00:37:10,250 --> 00:37:16,083
+<font size="20">A, bai. A, bai, bera oso berria da.</font>
+
+643
+00:37:16,166 --> 00:37:19,916
+<font size="20">Ez dauka eskarmentu handirik.
+Izan ere, ez da hilketa-ikerketaren…</font>
+
+644
+00:37:20,000 --> 00:37:22,625
+<font size="20">Andrea nahi dut!</font>
+
+645
+00:37:22,708 --> 00:37:26,333
+<font size="20">Andrearekin bakarrik hitz egingo dut.</font>
+
+646
+00:37:27,166 --> 00:37:29,750
+<font size="20">Barka. De Freitas agentearekin hitz egin…</font>
+
+647
+00:37:31,000 --> 00:37:33,958
+<font size="20">Zure taldera aldatzeko aukerarik badago?</font>
+
+648
+00:37:40,333 --> 00:37:41,666
+<font size="20">Saiatuko naiz.</font>
+
+649
+00:37:46,916 --> 00:37:47,875
+<font size="20">Bikain, Ibra.</font>
+
+650
+00:37:48,375 --> 00:37:50,250
+<font size="20">Kontxo, benetan bikaina.</font>
+
+651
+00:37:52,958 --> 00:37:54,125
+<font size="20">De Freitas agentea.</font>
+
+652
+00:37:54,916 --> 00:37:57,541
+<font size="20">Giza baliabideen arabera, aldatu zaituzte.</font>
+
+653
+00:37:58,250 --> 00:38:00,166
+<font size="20">- Nora?
+- KISera.</font>
+
+654
+00:38:00,833 --> 00:38:02,833
+<font size="20">Krimen Ikerketen Saila.</font>
+
+655
+00:38:03,333 --> 00:38:06,250
+<font size="20">Tony Curranen hilketan arituko zara.</font>
+
+656
+00:38:06,958 --> 00:38:07,791
+<font size="20">Ez da izango.</font>
+
+657
+00:38:08,958 --> 00:38:09,791
+<font size="20">Benetan?</font>
+
+658
+00:38:17,625 --> 00:38:20,375
+<font size="20">DONNA: 20 MINUTUTAN EGIN DUZU! WTF?</font>
+
+659
+00:38:21,750 --> 00:38:23,500
+<font size="20">Zer esan nahi du "WTF"k?</font>
+
+660
+00:38:23,583 --> 00:38:24,500
+<font size="20">"Ze ostia".</font>
+
+661
+00:38:24,583 --> 00:38:25,458
+<font size="20">Zer?</font>
+
+662
+00:38:25,541 --> 00:38:26,375
+<font size="20">"Ze ostia".</font>
+
+663
+00:38:29,208 --> 00:38:30,041
+<font size="20">Barka.</font>
+
+664
+00:38:32,833 --> 00:38:34,208
+<font size="20">Nire alabak esan zidan.</font>
+
+665
+00:38:34,708 --> 00:38:36,916
+<font size="20">Sentitzen dut lagunarena. Pixka bat…</font>
+
+666
+00:38:40,083 --> 00:38:41,000
+<font size="20">Ez, ba.</font>
+
+667
+00:38:48,500 --> 00:38:52,000
+<font size="20">URTEKO TXOSTENA 2023
+COOPERS CHASE ERRETIRO-KOMUNITATEA</font>
+
+668
+00:38:58,666 --> 00:39:00,958
+<font size="20">Kontxo, interesgarria.</font>
+
+669
+00:39:08,500 --> 00:39:13,541
+<font size="20">COOPERS CHASEK
+EZKUTUKO HIRUGARREN INBERTSOREA DAUKA</font>
+
+670
+00:39:13,625 --> 00:39:15,083
+<font size="20">ZER ZABILTZA ESNA?</font>
+
+671
+00:39:33,041 --> 00:39:37,583
+<font size="20">Joyce, lagun batek lortu du
+Coopers Chasen kontuetan sartzea.</font>
+
+672
+00:39:37,666 --> 00:39:40,791
+<font size="20">Baina ia-ia ezinezkoa da kontuak argitzea.</font>
+
+673
+00:39:40,875 --> 00:39:43,166
+<font size="20">- Bururatu zait zure alabak…
+- Joanna.</font>
+
+674
+00:39:43,250 --> 00:39:45,666
+<font size="20">Joanna. Finantzan dabil, ezta?</font>
+
+675
+00:39:45,750 --> 00:39:48,875
+<font size="20">Begirada bat eman diezaiekeela
+argi azaltzeko?</font>
+
+676
+00:39:49,541 --> 00:39:51,416
+<font size="20">Isilean, noski.</font>
+
+677
+00:39:51,500 --> 00:39:55,666
+<font size="20">Ez dakit. Izugarri lanpetuta dabil,
+ez dauka ezta deitzeko denborarik ere.</font>
+
+678
+00:39:55,750 --> 00:39:57,250
+<font size="20">Saiatu, mesedez.</font>
+
+679
+00:39:58,041 --> 00:40:00,791
+<font size="20">Profesionalak eta eraginkorrak
+izan nahi badugu,</font>
+
+680
+00:40:00,875 --> 00:40:03,583
+<font size="20">gure baliabide guztiak behar ditugu.</font>
+
+681
+00:40:04,541 --> 00:40:05,958
+<font size="20">- Saiatuko naiz.
+- Ondo.</font>
+
+682
+00:40:09,000 --> 00:40:10,458
+<font size="20">Dohain bat daukazu.</font>
+
+683
+00:40:14,416 --> 00:40:17,500
+<font size="20">Ea ulertzen dudan.
+Hilketei buruzko klub bat da?</font>
+
+684
+00:40:18,083 --> 00:40:20,125
+<font size="20">True crimeko podcasten antzera?</font>
+
+685
+00:40:20,208 --> 00:40:24,000
+<font size="20">Tira, hein batean,
+baina hilketak ikertzen ditugu.</font>
+
+686
+00:40:25,166 --> 00:40:26,666
+<font size="20">Itxura makabroa dauka.</font>
+
+687
+00:40:26,750 --> 00:40:29,208
+<font size="20">Onartzen dut itxura zoroa daukala,</font>
+
+688
+00:40:29,291 --> 00:40:32,083
+<font size="20">baina multzo zoragarria da. Taldea gara.</font>
+
+689
+00:40:32,666 --> 00:40:35,666
+<font size="20">Esan, kontuak begiratu zenitzake?</font>
+
+690
+00:40:35,750 --> 00:40:38,458
+<font size="20">Ez dakit konturatu zaren,
+baina lanpetuta nago.</font>
+
+691
+00:40:38,541 --> 00:40:40,208
+<font size="20">Jainkoarren, Joanna.</font>
+
+692
+00:40:40,708 --> 00:40:42,458
+<font size="20">Astean behin deitzen didazu.</font>
+
+693
+00:40:42,541 --> 00:40:45,000
+<font size="20">Askoz jota 47 minutu bisitatzen nauzu.</font>
+
+694
+00:40:45,083 --> 00:40:46,625
+<font size="20">Eta ez duzu tarta jaten.</font>
+
+695
+00:40:46,708 --> 00:40:51,666
+<font size="20">Eskatzen dizudan gauza bakarra da
+milioidunak bi minutuz alde batera uzteko</font>
+
+696
+00:40:51,750 --> 00:40:55,083
+<font size="20">eta zeure amari
+laguntzeko behingoz, demontre.</font>
+
+697
+00:40:57,791 --> 00:40:59,708
+<font size="20">- Saiatuko naiz.
+- Eskerrik asko.</font>
+
+698
+00:41:01,166 --> 00:41:02,416
+<font size="20">Curranen aurrekariak:</font>
+
+699
+00:41:02,500 --> 00:41:06,166
+<font size="20">ausarkeriaz gidatzea,
+eraso arrunta, legez kanpoko arma izatea.</font>
+
+700
+00:41:06,250 --> 00:41:07,125
+<font size="20">Eta abar.</font>
+
+701
+00:41:07,208 --> 00:41:09,750
+<font size="20">Bai, pertsona askotxok nahiko zuten hilda.</font>
+
+702
+00:41:09,833 --> 00:41:13,208
+<font size="20">Baina jakin behar dugu
+nor den argazkian agertzen dena.</font>
+
+703
+00:41:13,291 --> 00:41:14,166
+<font size="20">Ze argazki?</font>
+
+704
+00:41:14,250 --> 00:41:18,375
+<font size="20">Curran hil zuten lekuan zegoena.
+Argazki batzuk zeuden sakabanatuta.</font>
+
+705
+00:41:18,458 --> 00:41:20,708
+<font size="20">Oporretakoak, ezkontzak eta abar.</font>
+
+706
+00:41:20,791 --> 00:41:24,000
+<font size="20">Honetan identifikatu ez dugun
+beste gizon batekin dago.</font>
+
+707
+00:41:24,083 --> 00:41:27,958
+<font size="20">Forentseek bueltatu berri dute.
+Ikusi nahi duzu?</font>
+
+708
+00:41:28,833 --> 00:41:29,791
+<font size="20">Bai, mesedez.</font>
+
+709
+00:41:30,791 --> 00:41:31,666
+<font size="20">Barka.</font>
+
+710
+00:41:31,750 --> 00:41:34,041
+<font size="20">Ez da egokia "bai, mesedez" esatea?</font>
+
+711
+00:41:34,125 --> 00:41:36,458
+<font size="20">Ez niri galdetu zer den egokia.</font>
+
+712
+00:41:36,541 --> 00:41:38,541
+<font size="20">Tira, tori argazkia, De Freitas.</font>
+
+713
+00:41:39,333 --> 00:41:42,375
+<font size="20">Deitu iezadazu Donna. Bestela arraroa da.</font>
+
+714
+00:41:43,500 --> 00:41:44,333
+<font size="20">Donna?</font>
+
+715
+00:41:45,250 --> 00:41:46,083
+<font size="20">Nire izena.</font>
+
+716
+00:41:47,500 --> 00:41:48,500
+<font size="20">Nire ponte-izena.</font>
+
+717
+00:41:49,125 --> 00:41:54,375
+<font size="20">Noski, saiatuko naiz,
+baina ez naiz ona ponte-izenekin.</font>
+
+718
+00:41:54,916 --> 00:41:57,500
+<font size="20">Egia esan, ez dakit zein den
+Griffithsen izena,</font>
+
+719
+00:41:57,583 --> 00:41:59,375
+<font size="20">eta zazpi urte daramatza.</font>
+
+720
+00:41:59,916 --> 00:42:02,041
+<font size="20">Ez dakizue nor den Curranen ondokoa?</font>
+
+721
+00:42:02,125 --> 00:42:04,541
+<font size="20">Ez, Griffiths dabil horretan.</font>
+
+722
+00:42:04,625 --> 00:42:07,500
+<font size="20">Esaiozu uzteko,
+argazkiko gizona Bobby Tanner da.</font>
+
+723
+00:42:07,583 --> 00:42:08,416
+<font size="20">Zer?</font>
+
+724
+00:42:08,916 --> 00:42:10,166
+<font size="20">Mafiaburu famatua.</font>
+
+725
+00:42:10,708 --> 00:42:13,833
+<font size="20">Londreseko poliziak
+aspalditik darama bere atzetik.</font>
+
+726
+00:42:14,333 --> 00:42:15,333
+<font size="20">Eta hemen dago.</font>
+
+727
+00:42:15,916 --> 00:42:16,958
+<font size="20">A ze ironikoa.</font>
+
+728
+00:42:17,041 --> 00:42:21,333
+<font size="20">- Beraz, Londresen ez zuten aurkitu?
+- Ez. Eta are gehiago.</font>
+
+729
+00:42:21,916 --> 00:42:24,333
+<font size="20">Hirugarren bat dago,
+baina ozta-ozta ikusten da.</font>
+
+730
+00:42:24,416 --> 00:42:25,291
+<font size="20">Zer?</font>
+
+731
+00:42:26,000 --> 00:42:26,833
+<font size="20">Begira.</font>
+
+732
+00:42:26,916 --> 00:42:29,250
+<font size="20">Ispiluan besoa ikusten diozu?</font>
+
+733
+00:42:29,958 --> 00:42:30,875
+<font size="20">A, bai.</font>
+
+734
+00:42:32,625 --> 00:42:33,458
+<font size="20">A ze argia.</font>
+
+735
+00:42:35,666 --> 00:42:37,208
+<font size="20">Griffithsi abisatuko diot.</font>
+
+736
+00:42:38,333 --> 00:42:39,750
+<font size="20">Ahalik eta beroen.</font>
+
+737
+00:42:44,541 --> 00:42:46,083
+<font size="20">Heldu dira. Prest?</font>
+
+738
+00:42:46,166 --> 00:42:47,000
+<font size="20">- Prest.
+- Prest.</font>
+
+739
+00:42:47,083 --> 00:42:48,375
+<font size="20">- Gogoratu.
+- Egin lekua.</font>
+
+740
+00:42:48,458 --> 00:42:51,458
+<font size="20">Ateratzen diegun edozein informazio
+eskertuko dugu.</font>
+
+741
+00:42:51,541 --> 00:42:52,375
+<font size="20">Noski.</font>
+
+742
+00:42:52,875 --> 00:42:55,000
+<font size="20">Hudson itxia izango da.</font>
+
+743
+00:42:55,083 --> 00:42:59,083
+<font size="20">Deseroso sentiarazi behar diogu,
+ahalik eta deserosoen.</font>
+
+744
+00:42:59,166 --> 00:43:02,125
+<font size="20">Nire esperientziagatik,
+hausteko edo hitz egiteko</font>
+
+745
+00:43:02,208 --> 00:43:03,500
+<font size="20">joera handiagoa dago.</font>
+
+746
+00:43:03,583 --> 00:43:07,416
+<font size="20">Nire ustez, gehiago lortzen da
+adeitasuna eta tartari esker.</font>
+
+747
+00:43:08,375 --> 00:43:09,208
+<font size="20">Bai.</font>
+
+748
+00:43:09,291 --> 00:43:14,041
+<font size="20">Inoiz galdekatu duzu etsai espioia
+Ekialdeko Alemania zenekoan, Joyce?</font>
+
+749
+00:43:14,625 --> 00:43:15,500
+<font size="20">Ba ez.</font>
+
+750
+00:43:18,166 --> 00:43:19,583
+<font size="20">Kaixo, Joanna, maitea.</font>
+
+751
+00:43:19,666 --> 00:43:23,125
+<font size="20">- Ian Venthamen kontuak aztertu ditut.
+- Entzun.</font>
+
+752
+00:43:23,208 --> 00:43:25,833
+<font size="20">Kontua da
+oso gauza bitxiak agertzen direla.</font>
+
+753
+00:43:26,416 --> 00:43:28,083
+<font size="20">PDFak bidali dizkizut.</font>
+
+754
+00:43:28,166 --> 00:43:29,958
+<font size="20">Badakizu zer den PDF bat?</font>
+
+755
+00:43:30,041 --> 00:43:31,708
+<font size="20">Zuk zer uste duzu, Jo?</font>
+
+756
+00:43:31,791 --> 00:43:34,750
+<font size="20">Ibrahimek badaki. Edozertan da ona.</font>
+
+757
+00:43:36,375 --> 00:43:37,208
+<font size="20">PDF.</font>
+
+758
+00:43:37,750 --> 00:43:38,833
+<font size="20">A, bingo.</font>
+
+759
+00:43:42,625 --> 00:43:44,541
+<font size="20">IAN VENTHAMEK 12 MILIOI ESKURATUKO DITU</font>
+
+760
+00:43:44,625 --> 00:43:45,583
+<font size="20">Jainko maitea.</font>
+
+761
+00:43:54,916 --> 00:43:58,958
+<font size="20">Jainko maitea, Joyce.
+A ze alaba azkarra daukazun.</font>
+
+762
+00:43:59,041 --> 00:44:02,958
+<font size="20">Informazio hau erabakigarria da.
+Orain badaukagu, bai, abantaila.</font>
+
+763
+00:44:03,041 --> 00:44:04,291
+<font size="20">- Primeran.
+- Bikain.</font>
+
+764
+00:44:04,375 --> 00:44:05,875
+<font size="20">Milesker. Joan behar dut.</font>
+
+765
+00:44:07,333 --> 00:44:08,291
+<font size="20">Goazen.</font>
+
+766
+00:44:10,875 --> 00:44:12,666
+<font size="20">- Sartu.
+- Eskerrik asko.</font>
+
+767
+00:44:15,791 --> 00:44:19,708
+<font size="20">Arratsalde on.
+De Freitas inspektorea ezagutzen duzue.</font>
+
+768
+00:44:19,791 --> 00:44:22,208
+<font size="20">Tony Curranen hilketa ikertzen ari gara.</font>
+
+769
+00:44:23,583 --> 00:44:26,208
+<font size="20">Tira, esan didatenez, informazioa daukazue</font>
+
+770
+00:44:26,958 --> 00:44:29,208
+<font size="20">Curran jaunari buruz, prestatzen ari…</font>
+
+771
+00:44:29,291 --> 00:44:31,833
+<font size="20">Manerak ahaztu ditugu, inspektoreburu.</font>
+
+772
+00:44:31,916 --> 00:44:34,333
+<font size="20">- Mesedez, eseri zaitez.
+- Bai, eseri.</font>
+
+773
+00:44:34,416 --> 00:44:36,500
+<font size="20">Jarri eroso. Hori da.</font>
+
+774
+00:44:36,583 --> 00:44:38,208
+<font size="20">Jarri eroso, bai horixe.</font>
+
+775
+00:44:41,208 --> 00:44:43,958
+<font size="20">- Ez al du bero egiten hemen?
+- Noski baietz.</font>
+
+776
+00:44:44,041 --> 00:44:45,375
+<font size="20">76 urte ditut.</font>
+
+777
+00:44:46,958 --> 00:44:49,250
+<font size="20">A ze heldualdi sendoa, Ritchie jauna.</font>
+
+778
+00:44:49,333 --> 00:44:51,125
+<font size="20">Ez zeunden gaixo eta ahul?</font>
+
+779
+00:44:51,208 --> 00:44:56,000
+<font size="20">Adin honekin egun onak eta txarrak dituzu.
+Badakizu, onak eta txarrak.</font>
+
+780
+00:44:56,083 --> 00:44:58,416
+<font size="20">Eta falta zitzaizun hortza hazi zaizu.</font>
+
+781
+00:44:59,000 --> 00:45:01,583
+<font size="20">Zer? A, bai, begira, miraria da.</font>
+
+782
+00:45:01,666 --> 00:45:04,541
+<font size="20">Hau lotsagabekeria.
+Ez dizugu terik eskaini.</font>
+
+783
+00:45:04,625 --> 00:45:08,000
+<font size="20">- Azukrearekin nahi duzu?
+- A, ez, ez. Murrizten saiatzen ari naiz.</font>
+
+784
+00:45:08,083 --> 00:45:11,208
+<font size="20">Tarta jan behar duzu.
+Jan dezakezu? Espero dut baietz.</font>
+
+785
+00:45:11,291 --> 00:45:13,625
+<font size="20">Ez, bazkalorduan nahikotxo jan dut.</font>
+
+786
+00:45:16,666 --> 00:45:17,666
+<font size="20">Zergatik ez?</font>
+
+787
+00:45:18,500 --> 00:45:20,625
+<font size="20">- Hori da, on egin.
+- A ze itxura!</font>
+
+788
+00:45:21,791 --> 00:45:24,000
+<font size="20">Barka, ezin dut… Oso…</font>
+
+789
+00:45:25,208 --> 00:45:26,083
+<font size="20">Irmoa da.</font>
+
+790
+00:45:29,958 --> 00:45:32,000
+<font size="20">Ene, a ze gozoa dagoen!</font>
+
+791
+00:45:32,083 --> 00:45:33,375
+<font size="20">- Bai, ezta?
+- Hara!</font>
+
+792
+00:45:33,458 --> 00:45:34,750
+<font size="20">Esan, Ron…</font>
+
+793
+00:45:35,833 --> 00:45:38,541
+<font size="20">Ian eta Tony liskartzen ikusi zenituen.</font>
+
+794
+00:45:38,625 --> 00:45:42,166
+<font size="20">- Ezta? Horregatik etorri gara.
+- A, bai. Egundoko ika-mika.</font>
+
+795
+00:45:42,250 --> 00:45:45,291
+<font size="20">Gaizki amaitu zen. Tony sutan joan zen.</font>
+
+796
+00:45:45,875 --> 00:45:47,208
+<font size="20">Diruagatik izango zen.</font>
+
+797
+00:45:47,291 --> 00:45:49,666
+<font size="20">Horren nahia omen da gaitz ororen erroa.</font>
+
+798
+00:45:49,750 --> 00:45:51,375
+<font size="20">Baina ez zuen Jungek esan.</font>
+
+799
+00:45:51,458 --> 00:45:56,041
+<font size="20">Nire semeak esan zidan Tonyren etxean
+segurtasun-sistema aparta zegoela.</font>
+
+800
+00:45:56,125 --> 00:45:58,875
+<font size="20">Zure semeak Tony Curran ezagutzen zuen?</font>
+
+801
+00:45:59,875 --> 00:46:02,541
+<font size="20">Tira, guztiok bezala besterik ez.</font>
+
+802
+00:46:02,625 --> 00:46:05,500
+<font size="20">Hau da, Tony famatua zen inguruan.</font>
+
+803
+00:46:05,583 --> 00:46:07,375
+<font size="20">Bai, oso ezaguna zen herrian.</font>
+
+804
+00:46:07,458 --> 00:46:11,875
+<font size="20">Guztiok izan genuen tratua berarekin
+noiz edo noiz. Ez da horren bitxia.</font>
+
+805
+00:46:11,958 --> 00:46:15,666
+<font size="20">Gustatuko litzaiguke zure semearekin
+hitz egitea. Jason, ezta?</font>
+
+806
+00:46:15,750 --> 00:46:18,875
+<font size="20">Bai, dudarik gabe. Bisitan etorriko da.</font>
+
+807
+00:46:18,958 --> 00:46:20,833
+<font size="20">Baina ez dut uste lagundu dezakeenik.</font>
+
+808
+00:46:20,916 --> 00:46:23,958
+<font size="20">Noski, hobe da poliziari
+bere lana egiten uztea…</font>
+
+809
+00:46:24,041 --> 00:46:28,041
+<font size="20">Esan nahi du segurtasun-sistemak
+agian aztarnaren bat eman zuela.</font>
+
+810
+00:46:28,125 --> 00:46:31,000
+<font size="20">Izorratuta zegoen.
+Diru-xahutzea, nire ustez.</font>
+
+811
+00:46:31,083 --> 00:46:35,291
+<font size="20">Arraroa, ezta? Eraikitzaile batek
+segurtasun-sistema akastuna izatea.</font>
+
+812
+00:46:35,791 --> 00:46:37,791
+<font size="20">Bai, eta heriotzaren ordua?</font>
+
+813
+00:46:38,833 --> 00:46:40,416
+<font size="20">Ezingo genuke esan.</font>
+
+814
+00:46:40,500 --> 00:46:44,416
+<font size="20">Oraindik ez da informazio publikoa,
+kontuzkoegia da zabaltzeko.</font>
+
+815
+00:46:44,916 --> 00:46:49,291
+<font size="20">Zuzen zaude. Eta orain arte
+eman duzue ezer jaso gabe.</font>
+
+816
+00:46:49,875 --> 00:46:54,208
+<font size="20">Hau da, adibidez, nik badakit
+jatorrizko hiru inbertsore zeudela</font>
+
+817
+00:46:54,291 --> 00:46:56,416
+<font size="20">Coopers Chasen garatzen hasi zenean.</font>
+
+818
+00:46:56,500 --> 00:47:00,833
+<font size="20">Ian Ventham, Tony Curran
+eta ezkutuko inbertsore bat</font>
+
+819
+00:47:00,916 --> 00:47:03,875
+<font size="20">kontu fantasma baten bidez,
+"Bloomin' Marvelous" .</font>
+
+820
+00:47:05,083 --> 00:47:06,208
+<font size="20">Hori bazenekien?</font>
+
+821
+00:47:07,541 --> 00:47:09,875
+<font size="20">- Ez, ez nekien.
+- A.</font>
+
+822
+00:47:11,958 --> 00:47:14,541
+<font size="20">Hau ere badaukat.</font>
+
+823
+00:47:17,833 --> 00:47:19,208
+<font size="20">Oso telefono zaharra?</font>
+
+824
+00:47:20,500 --> 00:47:22,708
+<font size="20">Zaharra izan arren, oraindik dabil.</font>
+
+825
+00:47:24,166 --> 00:47:28,333
+<font size="20">Eta Ian Venthamen
+finantza-kontuen PDFak ditu,</font>
+
+826
+00:47:28,416 --> 00:47:31,208
+<font size="20">argi erakusten dute Tony Curranen akzioak</font>
+
+827
+00:47:31,291 --> 00:47:33,750
+<font size="20">Ian Venthamek jasoko zituela hiltzekotan.</font>
+
+828
+00:47:33,833 --> 00:47:37,916
+<font size="20">Beraz, Ian Venthamek
+milioiak irabazi ditu hilketa honekin.</font>
+
+829
+00:47:38,833 --> 00:47:39,666
+<font size="20">Bale.</font>
+
+830
+00:47:41,375 --> 00:47:43,083
+<font size="20">Heriotzaren orduaren truke.</font>
+
+831
+00:47:43,166 --> 00:47:45,666
+<font size="20">Barka, ezin dut informazio hori zabaldu.</font>
+
+832
+00:47:47,833 --> 00:47:49,375
+<font size="20">Fitxategiak nahi dituzu?</font>
+
+833
+00:47:50,791 --> 00:47:51,916
+<font size="20">11:24.</font>
+
+834
+00:47:52,500 --> 00:47:54,625
+<font size="20">- Agente.
+- Oso zehatza da hori.</font>
+
+835
+00:47:54,708 --> 00:47:57,208
+<font size="20">Smartwatchak
+erregistratu zuen pultsu-etena.</font>
+
+836
+00:47:57,291 --> 00:47:59,083
+<font size="20">De Freitas agentea!</font>
+
+837
+00:48:00,000 --> 00:48:01,791
+<font size="20">Fitxategiak nahi dituzu?</font>
+
+838
+00:48:05,791 --> 00:48:06,625
+<font size="20">Tori.</font>
+
+839
+00:48:14,250 --> 00:48:15,125
+<font size="20">Eskerrik asko.</font>
+
+840
+00:48:17,791 --> 00:48:20,916
+<font size="20">Baina nondik atera dituzu
+Ian Venthamen kontuak?</font>
+
+841
+00:48:21,000 --> 00:48:24,375
+<font size="20">Enpresa pribatua da.
+Geuk ere ezin izan ditugu eskuratu.</font>
+
+842
+00:48:25,875 --> 00:48:26,708
+<font size="20">Talde-lana.</font>
+
+843
+00:48:29,916 --> 00:48:33,708
+<font size="20">Gure belaunaldikook
+badakigu zein baliotsua izan daitekeen.</font>
+
+844
+00:48:35,750 --> 00:48:38,416
+<font size="20">Ene, nola lortu zenuen
+horren hostore mehea?</font>
+
+845
+00:48:38,500 --> 00:48:41,958
+<font size="20">Trikimailua da oso bizkor lantzea
+oraindik hotz dagoenean.</font>
+
+846
+00:48:42,041 --> 00:48:44,333
+<font size="20">- Tori.
+- Oso ona izango zara eskuekin.</font>
+
+847
+00:48:44,416 --> 00:48:46,833
+<font size="20">- Askotan esan didate.
+- Jason!</font>
+
+848
+00:48:49,583 --> 00:48:52,208
+<font size="20">- Hemen dago. Nire semea.
+- Kaixo, aita.</font>
+
+849
+00:48:52,291 --> 00:48:55,583
+<font size="20">Hemen daukazu.
+Hudson inspektoreburua. Jason.</font>
+
+850
+00:48:55,666 --> 00:48:57,625
+<font size="20">Jason Ritchie, "Mailua".</font>
+
+851
+00:48:57,708 --> 00:49:02,625
+<font size="20">A, ez dut aurkezpenik behar.
+Zure borroka guztiak ikusi ditut.</font>
+
+852
+00:49:02,708 --> 00:49:04,708
+<font size="20">Lastima amaitu behar izana.
+Lesioa dela eta.</font>
+
+853
+00:49:04,791 --> 00:49:07,000
+<font size="20">- Bai, horrelakoak gertatzen dira.
+- Barka, bai.</font>
+
+854
+00:49:07,083 --> 00:49:09,833
+<font size="20">- Baina telebistarena gozagarria da, e?
+- Bai.</font>
+
+855
+00:49:09,916 --> 00:49:12,083
+<font size="20">Ez al zara aterako Edurnezurin?</font>
+
+856
+00:49:12,166 --> 00:49:13,458
+<font size="20">Bai, printzea naiz.</font>
+
+857
+00:49:13,541 --> 00:49:14,458
+<font size="20">Inspektoreburua,</font>
+
+858
+00:49:14,541 --> 00:49:18,583
+<font size="20">argazkia hiru aldiz munduko pisu ertaineko
+boxeo txapelduna izan zenarekin?</font>
+
+859
+00:49:18,666 --> 00:49:21,666
+<font size="20">- Orain. Tira, jar zaitezte.
+- Milesker. Ziur?</font>
+
+860
+00:49:21,750 --> 00:49:23,125
+<font size="20">Noski baietz.</font>
+
+861
+00:49:23,208 --> 00:49:25,416
+<font size="20">Asko gustatuko zaie polizia-etxean.</font>
+
+862
+00:49:25,500 --> 00:49:27,000
+<font size="20">Tira, likatu ezpainak.</font>
+
+863
+00:49:27,083 --> 00:49:29,416
+<font size="20">- Zeu zara. Igo ukabilak.
+- Ni neu.</font>
+
+864
+00:49:29,500 --> 00:49:31,083
+<font size="20">- Primeran.
+- Atera asko.</font>
+
+865
+00:49:31,166 --> 00:49:33,416
+<font size="20">- Hori da. Bikain zaudete.
+- Dan-dan!</font>
+
+866
+00:49:33,500 --> 00:49:35,208
+<font size="20">- Oso naturala.
+- Menderatu!</font>
+
+867
+00:49:35,291 --> 00:49:37,041
+<font size="20">Bikain. Kokots erdian.</font>
+
+868
+00:49:37,125 --> 00:49:39,083
+<font size="20">- Amaitu dugu?
+- Bai. Itzel.</font>
+
+869
+00:49:39,166 --> 00:49:41,958
+<font size="20">- Baten bat ondo atera da.
+- Hara, begira.</font>
+
+870
+00:49:42,541 --> 00:49:44,291
+<font size="20">- Milesker.
+- Joan behar dut.</font>
+
+871
+00:49:44,375 --> 00:49:45,791
+<font size="20">- Itxaron.
+- Bale.</font>
+
+872
+00:49:45,875 --> 00:49:48,625
+<font size="20">Zer deritzozu
+Tony Curran eta Ian Venthamez?</font>
+
+873
+00:49:48,708 --> 00:49:51,375
+<font size="20">- Ondo ezagutzen zenituen, ezta?
+- Ez.</font>
+
+874
+00:49:52,208 --> 00:49:53,916
+<font size="20">Tira, ezagutzen nituen.</font>
+
+875
+00:49:54,500 --> 00:49:57,458
+<font size="20">Tonyk etsai asko zituen,
+eta Ianek ere bai.</font>
+
+876
+00:49:57,541 --> 00:49:58,958
+<font size="20">Baten bat duzu gogoan?</font>
+
+877
+00:50:00,250 --> 00:50:01,083
+<font size="20">Ez.</font>
+
+878
+00:50:01,583 --> 00:50:02,500
+<font size="20">Orain ez.</font>
+
+879
+00:50:03,541 --> 00:50:05,125
+<font size="20">Tira, joan behar dut.</font>
+
+880
+00:50:05,208 --> 00:50:08,041
+<font size="20">- Bale, noski.
+- Baina… Deitu gogoratzen baduzu.</font>
+
+881
+00:50:08,125 --> 00:50:10,166
+<font size="20">- Plazera izan da.
+- Bai, berdin.</font>
+
+882
+00:50:10,250 --> 00:50:12,208
+<font size="20">- Ondo izan, agentea.
+- Bai.</font>
+
+883
+00:50:12,291 --> 00:50:15,500
+<font size="20">E, itxaron. Itxaron, Jason.</font>
+
+884
+00:50:15,583 --> 00:50:19,541
+<font size="20">Inspektoreburua, tarta gustatzen zaizunez,
+sobratu dena eman nahi dizut.</font>
+
+885
+00:50:19,625 --> 00:50:23,666
+<font size="20">Agian hobe da Donnak gidatzen badu.
+Ron pila bat dauka.</font>
+
+886
+00:50:23,750 --> 00:50:26,166
+<font size="20">Intxaurrak nabarmentzen dituelako.</font>
+
+887
+00:50:26,958 --> 00:50:28,666
+<font size="20">- Eskerrik asko.
+- Ikusi arte.</font>
+
+888
+00:50:34,375 --> 00:50:35,208
+<font size="20">Maud.</font>
+
+889
+00:50:35,958 --> 00:50:37,708
+<font size="20">Zer zabiltza, Elizabeth?</font>
+
+890
+00:50:38,291 --> 00:50:41,333
+<font size="20">Nire dolumin bizienak
+adierazi nahi nizkizun.</font>
+
+891
+00:50:41,916 --> 00:50:43,958
+<font size="20">Tony oso tipo jatorra zen.</font>
+
+892
+00:50:45,083 --> 00:50:47,083
+<font size="20">Badakizu nork hil zezakeen?</font>
+
+893
+00:50:48,416 --> 00:50:51,291
+<font size="20">Asko dakit askori buruz, maitea.</font>
+
+894
+00:50:51,375 --> 00:50:55,291
+<font size="20">Baina ez dut partekatuko.
+Eta ez poliziengandik gertu.</font>
+
+895
+00:50:55,791 --> 00:50:58,583
+<font size="20">Bai, zerri hutsak dira.</font>
+
+896
+00:50:58,666 --> 00:51:01,208
+<font size="20">- Beti bezala, ezta?
+- Bai.</font>
+
+897
+00:51:02,791 --> 00:51:04,958
+<font size="20">A ze lore politak.</font>
+
+898
+00:51:06,125 --> 00:51:09,166
+<font size="20">Bai, Tony maite zuen
+aspaldiko lagun baten partez.</font>
+
+899
+00:51:09,666 --> 00:51:11,833
+<font size="20">Batzuek oraindik hezibide ona dute.</font>
+
+900
+00:51:17,500 --> 00:51:21,875
+<font size="20">NIRE DOLUMIN BIZIENAK.
+MAITASUN HANDIZ, B.T.</font>
+
+901
+00:51:24,833 --> 00:51:29,000
+<font size="20">Jason, ondo zaude, seme?
+Uste nuen trago bat hartzera zentozela.</font>
+
+902
+00:51:29,083 --> 00:51:32,208
+<font size="20">- Joan behar dut. Ustekabe bat.
+- Heldu berria zara.</font>
+
+903
+00:51:32,291 --> 00:51:34,791
+<font size="20">- Ba joan behar dut.
+- Zer gertatzen da?</font>
+
+904
+00:51:34,875 --> 00:51:38,666
+<font size="20">- Aita, utzi bakean, bale?
+- E, zergatik zaude horren haserre?</font>
+
+905
+00:51:38,750 --> 00:51:42,958
+<font size="20">Begira, badakit lotsatzen zaituela
+telebistan ibiltzearenak,</font>
+
+906
+00:51:43,041 --> 00:51:45,416
+<font size="20">baina ez duzu horren argi utzi behar.</font>
+
+907
+00:51:45,958 --> 00:51:47,916
+<font size="20">Ez nago lotsatuta, Jason.</font>
+
+908
+00:51:48,000 --> 00:51:51,791
+<font size="20">Ez dizut gezurra esango.
+Askoz hobeto ezagutzen dut boxeoa.</font>
+
+909
+00:51:51,875 --> 00:51:56,041
+<font size="20">- Ene bada, egundokoa izan zinatekeen.
+- Ezin duzu saihestu.</font>
+
+910
+00:51:56,125 --> 00:51:58,291
+<font size="20">- Zer?
+- Joan behar dut.</font>
+
+911
+00:51:59,125 --> 00:52:00,666
+<font size="20">- Kontuz ibili.
+- Berehala.</font>
+
+912
+00:52:00,750 --> 00:52:02,375
+<font size="20">Bale. Kontuz motorrarekin.</font>
+
+913
+00:52:10,458 --> 00:52:11,791
+<font size="20">Jasonek gezurra esan dizu.</font>
+
+914
+00:52:12,750 --> 00:52:13,625
+<font size="20">E?</font>
+
+915
+00:52:13,708 --> 00:52:15,833
+<font size="20">Tony Curranen fitxategian dago.</font>
+
+916
+00:52:15,916 --> 00:52:19,041
+<font size="20">Berarentzat eta Ian Venthamentzat
+egiten zuen lan</font>
+
+917
+00:52:19,125 --> 00:52:21,166
+<font size="20">telebistan hasi aurretik.</font>
+
+918
+00:52:21,250 --> 00:52:23,333
+<font size="20">- Eta are gehiago.
+- Zer?</font>
+
+919
+00:52:24,375 --> 00:52:27,541
+<font size="20">Jason argazkian agertzen den
+hirugarren gizona da.</font>
+
+920
+00:52:28,083 --> 00:52:31,166
+<font size="20">Ispiluko besoa. Tatuaje bera da.
+Zure mugikorra?</font>
+
+921
+00:52:31,250 --> 00:52:32,791
+<font size="20">Hemen.</font>
+
+922
+00:52:33,958 --> 00:52:35,166
+<font size="20">Erakuts iezadazu.</font>
+
+923
+00:52:36,916 --> 00:52:37,750
+<font size="20">Begira.</font>
+
+924
+00:52:42,958 --> 00:52:45,833
+<font size="20">- Jason oso presaka omen zebilen.
+- Bai, egia da.</font>
+
+925
+00:52:46,416 --> 00:52:49,375
+<font size="20">Bera eta Ian Ventham
+zelatatu beharko genituzke.</font>
+
+926
+00:52:50,250 --> 00:52:52,458
+<font size="20">Ez dugu inor desagertzea nahi.</font>
+
+927
+00:53:07,250 --> 00:53:09,250
+<font size="20">Autoeskolako batek aurreratu zaitu.</font>
+
+928
+00:53:09,333 --> 00:53:11,875
+<font size="20">Jainkoarren, jakin nahi dugu zein bizkor</font>
+
+929
+00:53:11,958 --> 00:53:15,416
+<font size="20">gidatu zezakeen Ian Venthamek
+Tony Curranen etxeraino.</font>
+
+930
+00:53:15,500 --> 00:53:16,875
+<font size="20">Gakoa da "bizkor".</font>
+
+931
+00:53:17,458 --> 00:53:19,000
+<font size="20">Gominolarik nahi inork?</font>
+
+932
+00:53:19,500 --> 00:53:21,791
+<font size="20">Kalkulua ez da abiaduran oinarritzen.</font>
+
+933
+00:53:21,875 --> 00:53:25,000
+<font size="20">Algoritmo samar zail bati esker,
+zehaztuko dut</font>
+
+934
+00:53:25,083 --> 00:53:28,083
+<font size="20">garaiz heldu ote zatekeen
+Tony Curran hiltzeko.</font>
+
+935
+00:53:28,166 --> 00:53:30,041
+<font size="20">Zuek izan pazientzia.</font>
+
+936
+00:53:39,833 --> 00:53:42,500
+<font size="20">Entzun, izugarri lanpetuta nago, ulertzen?</font>
+
+937
+00:53:42,583 --> 00:53:45,125
+<font size="20">Nire negoziokidea hiltzeak lan asko dakar.</font>
+
+938
+00:53:45,208 --> 00:53:48,916
+<font size="20">Jakina. E, esan diezadakezu
+nor den Tonyrekin agertzen dena?</font>
+
+939
+00:53:51,083 --> 00:53:53,791
+<font size="20">- Ba, Bobby Tanner.
+- Hain zuzen, Bobby Tanner.</font>
+
+940
+00:53:53,875 --> 00:53:55,791
+<font size="20">Urteak daramatzagu atzetik.</font>
+
+941
+00:53:55,875 --> 00:53:57,791
+<font size="20">Akusazio-zerrenda luze-luzea du.</font>
+
+942
+00:53:57,875 --> 00:54:00,416
+<font size="20">Bere izena nonahi agertu da, diotenez.</font>
+
+943
+00:54:00,500 --> 00:54:03,041
+<font size="20">Hiltzat jotzen nuen. Nondik atera duzue?</font>
+
+944
+00:54:03,125 --> 00:54:04,416
+<font size="20">Krimenaren lekutik.</font>
+
+945
+00:54:05,583 --> 00:54:06,416
+<font size="20">Benetan?</font>
+
+946
+00:54:07,291 --> 00:54:08,583
+<font size="20">Bale, bale.</font>
+
+947
+00:54:08,666 --> 00:54:11,750
+<font size="20">Zergatik nahasi nahiko zenuke
+Bobby Tannerrekin, Ian?</font>
+
+948
+00:54:12,291 --> 00:54:14,041
+<font size="20">Pertsona nazkagarria da.</font>
+
+949
+00:54:14,541 --> 00:54:17,208
+<font size="20">Etsaiei atzamarrak moztu
+eta bidaltzen dizkie.</font>
+
+950
+00:54:17,291 --> 00:54:19,958
+<font size="20">Izozkailu betea genuen Scotland Yarden.</font>
+
+951
+00:54:21,291 --> 00:54:24,666
+<font size="20">Esaiguzu orain
+edo beste modu batean jakingo dugu.</font>
+
+952
+00:54:27,625 --> 00:54:28,958
+<font size="20">Hirugarren jabea da.</font>
+
+953
+00:54:30,458 --> 00:54:34,166
+<font size="20">- Zeren hirugarren jabea?
+- Coopers Chase. Makalak zarete, gero.</font>
+
+954
+00:54:36,375 --> 00:54:39,833
+<font size="20">Tony Curranek ekarri zuen
+dirua behar izan zuenean.</font>
+
+955
+00:54:40,333 --> 00:54:43,750
+<font size="20">- Ez zen nire ideia izan.
+- Badakizu non egon litekeen?</font>
+
+956
+00:54:43,833 --> 00:54:45,833
+<font size="20">Esan dizuet hiltzat jotzen nuela.</font>
+
+957
+00:54:45,916 --> 00:54:49,583
+<font size="20">Desagertu zen orain dela pila bat urte.</font>
+
+958
+00:54:49,666 --> 00:54:51,875
+<font size="20">Bizirik badago, hasi bilatzen.</font>
+
+959
+00:54:51,958 --> 00:54:53,291
+<font size="20">Arriskutsua da.</font>
+
+960
+00:54:53,375 --> 00:54:55,416
+<font size="20">Bobby Tannerrek Tony Curran hil zuen?</font>
+
+961
+00:54:55,500 --> 00:54:59,041
+<font size="20">Ez dakit. Hori zuen lana da.
+Entzun, lan pila bat daukat.</font>
+
+962
+00:54:59,125 --> 00:55:02,083
+<font size="20">Zergatik liskartu zinen
+Tony Curranekin hil aurretik?</font>
+
+963
+00:55:03,333 --> 00:55:05,916
+<font size="20">Negozioengatik. Azaltzen zaila da.</font>
+
+964
+00:55:06,500 --> 00:55:08,125
+<font size="20">Jason Ritchie ere agertzen da.</font>
+
+965
+00:55:09,333 --> 00:55:10,875
+<font size="20">Tatuajeak salatzen du.</font>
+
+966
+00:55:11,375 --> 00:55:13,416
+<font size="20">Eskatu zenion Curran hiltzeko?</font>
+
+967
+00:55:13,916 --> 00:55:16,708
+<font size="20">Ez nioke pixa egingo sutan balego.</font>
+
+968
+00:55:17,541 --> 00:55:19,958
+<font size="20">Ederra litzateke
+negoziokideak hilda egotea.</font>
+
+969
+00:55:20,458 --> 00:55:23,708
+<font size="20">Hamabi milioi libra irabazi dituzu
+Tony hil eta gero.</font>
+
+970
+00:55:24,208 --> 00:55:25,916
+<font size="20">Nola ostia dakizue hori?</font>
+
+971
+00:55:28,291 --> 00:55:30,750
+<font size="20">Aizue, nik ez dut Tony Curran hil.</font>
+
+972
+00:55:30,833 --> 00:55:33,583
+<font size="20">Inbertsoreekin eman nuen goiz osoa.</font>
+
+973
+00:55:33,666 --> 00:55:36,208
+<font size="20">Hobe duzue Bobby Tanner
+aurkitu eta espetxeratu.</font>
+
+974
+00:55:36,291 --> 00:55:40,541
+<font size="20">- Leku seguruena da guztiontzat.
+- Larri ikusten zaitut, Ventham jauna.</font>
+
+975
+00:55:40,625 --> 00:55:42,750
+<font size="20">Bai, izerditan zaude.</font>
+
+976
+00:55:44,125 --> 00:55:47,083
+<font size="20">Nahi duzuen moduan.
+Premiazko zita bat daukat.</font>
+
+977
+00:55:47,166 --> 00:55:49,666
+<font size="20">Zuek egin zuen lana
+eta utzi niri nirea egiten.</font>
+
+978
+00:55:51,500 --> 00:55:52,416
+<font size="20">Joan behar dut.</font>
+
+979
+00:55:54,041 --> 00:55:56,125
+<font size="20">- Laster hitz egingo dugu.
+- Bai.</font>
+
+980
+00:55:56,750 --> 00:55:58,166
+<font size="20">Non dago Ventham andrea?</font>
+
+981
+00:55:59,041 --> 00:56:00,750
+<font size="20">Galdetu bere abokatuari.</font>
+
+982
+00:56:03,750 --> 00:56:06,166
+<font size="20">Dibortzioak oso garestiak dira, ezta?</font>
+
+983
+00:56:18,708 --> 00:56:21,250
+<font size="20">Bai, nire algoritmoak
+bete-betean asmatu du.</font>
+
+984
+00:56:21,333 --> 00:56:23,250
+<font size="20">Trafikoa eta abiadura kontuan…</font>
+
+985
+00:56:23,333 --> 00:56:24,416
+<font size="20">Ibrahim!</font>
+
+986
+00:56:24,500 --> 00:56:29,250
+<font size="20">Ian Venthamek denbora izan zuen
+hona etorri eta Tony Curran hiltzeko?</font>
+
+987
+00:56:29,333 --> 00:56:30,250
+<font size="20">Ez.</font>
+
+988
+00:56:30,333 --> 00:56:31,666
+<font size="20">A. Kaka.</font>
+
+989
+00:56:32,750 --> 00:56:33,791
+<font size="20">- Kaka.
+- Kaka.</font>
+
+990
+00:56:33,875 --> 00:56:34,708
+<font size="20">Kaka.</font>
+
+991
+00:56:37,583 --> 00:56:38,416
+<font size="20">Jauna?</font>
+
+992
+00:56:39,583 --> 00:56:41,708
+<font size="20">Ian Venthamek ez zuen Tony Curran hil.</font>
+
+993
+00:56:42,791 --> 00:56:43,625
+<font size="20">Zer?</font>
+
+994
+00:56:44,708 --> 00:56:45,625
+<font size="20">Zergatik ez?</font>
+
+995
+00:56:45,708 --> 00:56:47,791
+<font size="20">Ezin izango zuen garaiz heldu.</font>
+
+996
+00:56:47,875 --> 00:56:50,708
+<font size="20">Hil eta zazpi minutura helduko zen.</font>
+
+997
+00:56:50,791 --> 00:56:53,750
+<font size="20">- Hau esan dizu…
+- Ostegunetako Hilketen Klubak.</font>
+
+998
+00:56:54,875 --> 00:56:56,625
+<font size="20">Barka, zeren klubak?</font>
+
+999
+00:56:57,625 --> 00:57:00,291
+<font size="20">Tira, horrela deitzen diote bere buruari.</font>
+
+1000
+00:57:01,500 --> 00:57:02,916
+<font size="20">Elizabethek eta besteek.</font>
+
+1001
+00:57:03,000 --> 00:57:06,125
+<font size="20">Curranen etxera gidatu eta kalkulatu dute.</font>
+
+1002
+00:57:06,625 --> 00:57:10,166
+<font size="20">Griffiths dabil zeregin gauza bera egiten.</font>
+
+1003
+00:57:10,250 --> 00:57:11,875
+<font size="20">Arraiopola.</font>
+
+1004
+00:57:12,541 --> 00:57:14,916
+<font size="20">Hogeita hamar urte daramatzat honetan.</font>
+
+1005
+00:57:15,000 --> 00:57:17,708
+<font size="20">Ez diet lau jubilaturi
+sudurra sartzen utziko.</font>
+
+1006
+00:57:17,791 --> 00:57:20,875
+<font size="20">- Griffiths, zer daukazu?
+- Datuetan oinarrituta…</font>
+
+1007
+00:57:20,958 --> 00:57:22,833
+<font size="20">Esadazu zuzenean.</font>
+
+1008
+00:57:23,541 --> 00:57:27,416
+<font size="20">Denbora izan zuen
+Venthamek Curran hiltzeko?</font>
+
+1009
+00:57:28,458 --> 00:57:30,375
+<font size="20">- Ez.
+- Ba ospa, Griffiths.</font>
+
+1010
+00:57:47,208 --> 00:57:49,250
+<font size="20">- Kaixo, Donna.
+- Kaixo, Elizabeth.</font>
+
+1011
+00:57:49,958 --> 00:57:51,750
+<font size="20">- Zure laguntza behar dut.
+- Esan.</font>
+
+1012
+00:57:51,833 --> 00:57:56,208
+<font size="20">Hilketaren lekuan, bere argazki bat
+topatu genuen Bobby Tannerrekin.</font>
+
+1013
+00:57:57,708 --> 00:57:58,583
+<font size="20">Bobby Tanner?</font>
+
+1014
+00:57:59,208 --> 00:58:01,833
+<font size="20">Bere entzuera badut. Nazkagarria da.</font>
+
+1015
+00:58:01,916 --> 00:58:03,708
+<font size="20">Drogetan eta hilketetan sartuta dago.</font>
+
+1016
+00:58:04,375 --> 00:58:05,208
+<font size="20">Horixe bera.</font>
+
+1017
+00:58:05,875 --> 00:58:09,833
+<font size="20">Eta berarekin hitz egin behar dugu,
+baina aspaldi desagertu zen.</font>
+
+1018
+00:58:09,916 --> 00:58:11,916
+<font size="20">Aurkitzen laguntzerik baduzu?</font>
+
+1019
+00:58:12,500 --> 00:58:13,458
+<font size="20">Bai, jakina.</font>
+
+1020
+00:58:14,166 --> 00:58:17,208
+<font size="20">Izan dezakezun
+edozein informazio berriren truke.</font>
+
+1021
+00:58:17,750 --> 00:58:18,875
+<font size="20">Elizabeth.</font>
+
+1022
+00:58:18,958 --> 00:58:22,375
+<font size="20">Tira, Donna.
+Badakizu nola funtzionatzen duen honek.</font>
+
+1023
+00:58:25,333 --> 00:58:29,125
+<font size="20">Gogoan duzu aipatu nizun argazkia?
+Beste gizon bat agertzen da.</font>
+
+1024
+00:58:29,208 --> 00:58:30,791
+<font size="20">Nor?</font>
+
+1025
+00:58:31,416 --> 00:58:32,458
+<font size="20">Jason Ritchie.</font>
+
+1026
+00:58:34,625 --> 00:58:35,458
+<font size="20">Nola?</font>
+
+1027
+00:58:36,458 --> 00:58:37,541
+<font size="20">Eta are gehiago.</font>
+
+1028
+00:58:40,708 --> 00:58:42,250
+<font size="20">Deitu minutu batzuetan.</font>
+
+1029
+00:59:04,916 --> 00:59:06,833
+<font size="20">Ez hildakoak esnatu.</font>
+
+1030
+00:59:12,041 --> 00:59:13,250
+<font size="20">Jainko maitea.</font>
+
+1031
+00:59:13,333 --> 00:59:15,541
+<font size="20">- Aurpegia ikusi diozu?
+- Ilun zegoen.</font>
+
+1032
+00:59:16,416 --> 00:59:20,041
+<font size="20">Beraz, Ian Ventham
+susmagarri nagusia ez bada ere,</font>
+
+1033
+00:59:20,125 --> 00:59:22,958
+<font size="20">ez du esan nahi hilarazi ez zuenik.</font>
+
+1034
+00:59:23,041 --> 00:59:25,833
+<font size="20">Hain zuzen. Eta hori da kontu bitxiena.</font>
+
+1035
+00:59:25,916 --> 00:59:28,583
+<font size="20">Poliziak Jasonekin hitz egin nahi du.</font>
+
+1036
+00:59:29,250 --> 00:59:32,416
+<font size="20">Diotenez, lantxoak egiten zituen</font>
+
+1037
+00:59:32,500 --> 00:59:36,333
+<font size="20">Ventham eta Tony Curranentzat
+liskarti bat behar zutenean.</font>
+
+1038
+00:59:36,416 --> 00:59:39,375
+<font size="20">- Nola liskarti?
+- Horixe da zehaztu behar duguna.</font>
+
+1039
+00:59:39,458 --> 00:59:40,833
+<font size="20">Ez diot Roni kontatu.</font>
+
+1040
+00:59:40,916 --> 00:59:44,458
+<font size="20">Zorionez, lanpetuta dabil
+protesta antolatzen.</font>
+
+1041
+00:59:44,541 --> 00:59:47,291
+<font size="20">Eta, bide batez, joan beharko nuke.</font>
+
+1042
+00:59:48,125 --> 00:59:51,791
+<font size="20">Astelehenean jasoko zaitut?
+Elkarrekin joan gaitezke.</font>
+
+1043
+00:59:51,875 --> 00:59:53,083
+<font size="20">Bai horixe.</font>
+
+1044
+00:59:53,583 --> 00:59:55,916
+<font size="20">Ezin dugu onartu hilerria zulatu</font>
+
+1045
+00:59:56,000 --> 00:59:59,333
+<font size="20">eta Penny kalean utz dezaten.
+Ez da gertatuko, inola ere.</font>
+
+1046
+00:59:59,416 --> 01:00:00,458
+<font size="20">Ez.</font>
+
+1047
+01:00:00,541 --> 01:00:02,333
+<font size="20">Astelehenean borrokatuko gara.</font>
+
+1048
+01:00:05,416 --> 01:00:09,333
+<font size="20">Entzun guztiok!
+Bildu zaitezte guztiak oraintxe!</font>
+
+1049
+01:00:09,416 --> 01:00:10,500
+<font size="20">IAN VENTHAM KANPORA</font>
+
+1050
+01:00:10,583 --> 01:00:14,291
+<font size="20">Giza-barrikada osatuko dugu
+hilerri aurrean</font>
+
+1051
+01:00:14,375 --> 01:00:18,541
+<font size="20">eta elkartasuna
+erakutsiko diogu elkarri. Ulertuta?</font>
+
+1052
+01:00:19,250 --> 01:00:20,166
+<font size="20">Bai!</font>
+
+1053
+01:00:20,250 --> 01:00:22,750
+<font size="20">Goazen, ba. Hori da.</font>
+
+1054
+01:00:23,500 --> 01:00:24,416
+<font size="20">Eutsi gogor.</font>
+
+1055
+01:00:24,500 --> 01:00:26,250
+<font size="20">EZ IANI
+EZ LURRA HONDEATU</font>
+
+1056
+01:00:26,333 --> 01:00:28,083
+<font size="20">Ez gaitezen belauniko bizi.</font>
+
+1057
+01:00:28,166 --> 01:00:30,541
+<font size="20">- Hori da.
+- Ez dugu inoiz amore emango.</font>
+
+1058
+01:00:30,625 --> 01:00:33,791
+<font size="20">- Eskerrik asko bioi etortzeagatik.
+- Gelditu dezagun.</font>
+
+1059
+01:00:33,875 --> 01:00:35,750
+<font size="20">Hara, primeran, lagunok.</font>
+
+1060
+01:00:35,833 --> 01:00:38,541
+<font size="20">Bernardek lelo zaharra birziklatu du.
+Nirea berria da.</font>
+
+1061
+01:00:38,625 --> 01:00:41,458
+<font size="20">Entzun, gaur ez dut
+ika-mikarik nahi, bale?</font>
+
+1062
+01:00:41,541 --> 01:00:43,750
+<font size="20">- Gaur elkartasuna nagusi da.
+- Noski.</font>
+
+1063
+01:00:44,333 --> 01:00:45,833
+<font size="20">Aparta zara, Ibra.</font>
+
+1064
+01:00:46,333 --> 01:00:49,000
+<font size="20">Joyce, zergatik ekarri duzu kafe-makina?</font>
+
+1065
+01:00:49,083 --> 01:00:51,583
+<font size="20">Ez da erromeria, protesta serioa baizik.</font>
+
+1066
+01:00:51,666 --> 01:00:55,208
+<font size="20">Badakit, baina kafe onarekin
+luzeago protestatu dezakegu.</font>
+
+1067
+01:00:56,083 --> 01:00:57,791
+<font size="20">A ze burutsua den, bai.</font>
+
+1068
+01:01:02,458 --> 01:01:04,958
+<font size="20">Hemen da etsaia!</font>
+
+1069
+01:01:06,083 --> 01:01:09,375
+<font size="20">Ez da izango! Ezin dute hori egin!</font>
+
+1070
+01:01:11,458 --> 01:01:13,791
+<font size="20">Hartu pala,
+sartu atzetik eta hasi zulatzen.</font>
+
+1071
+01:01:13,875 --> 01:01:16,250
+<font size="20">Ezin dut asko aurreratu pala batekin.</font>
+
+1072
+01:01:16,333 --> 01:01:18,583
+<font size="20">Legez, gaur hasi behar dugu, ulertzen?</font>
+
+1073
+01:01:18,666 --> 01:01:21,125
+<font size="20">Zulatzen hasi eta kito. Ospa.</font>
+
+1074
+01:01:21,208 --> 01:01:22,208
+<font size="20">Bale.</font>
+
+1075
+01:01:30,000 --> 01:01:31,333
+<font size="20">Egin alde batera!</font>
+
+1076
+01:01:34,000 --> 01:01:36,958
+<font size="20">Kendu bidetik. Banoa.</font>
+
+1077
+01:01:37,041 --> 01:01:39,125
+<font size="20">Arraioa, The Walking Dead dirudi.</font>
+
+1078
+01:01:40,291 --> 01:01:41,291
+<font size="20">Aurrera.</font>
+
+1079
+01:01:41,375 --> 01:01:45,125
+<font size="20">Badator. Ez zaitezte mugitu.
+Eutsi hor. Horrela.</font>
+
+1080
+01:01:45,625 --> 01:01:46,458
+<font size="20">Bale.</font>
+
+1081
+01:01:46,541 --> 01:01:49,750
+<font size="20">Ze ostia da hau?</font>
+
+1082
+01:01:49,833 --> 01:01:54,041
+<font size="20">80ko hamarkada berpizten?
+Azkenekoz zutitu zitzaizuna gogoratzen?</font>
+
+1083
+01:01:54,125 --> 01:01:56,791
+<font size="20">Zer uste duzu dela? Protesta!</font>
+
+1084
+01:01:57,416 --> 01:02:00,958
+<font size="20">Zu baino gizon hobeak agurtu dituzten
+pertsonak daude hemen.</font>
+
+1085
+01:02:01,041 --> 01:02:05,375
+<font size="20">Irakasleak eta soldaduak dauzkagu,
+medikuak eta bankariak.</font>
+
+1086
+01:02:06,250 --> 01:02:07,791
+<font size="20">Eta zer nahi dugu?</font>
+
+1087
+01:02:07,875 --> 01:02:11,500
+<font size="20">- Ez zulatzea!
+- Letra handiagoa menuan.</font>
+
+1088
+01:02:12,416 --> 01:02:15,000
+<font size="20">Modelo guztiz biluziak marrazketa-klasean.</font>
+
+1089
+01:02:15,083 --> 01:02:18,750
+<font size="20">Itxaron, ezin ditugu oihukatu
+nahi ditugun gauza guztiak.</font>
+
+1090
+01:02:18,833 --> 01:02:20,666
+<font size="20">Ez! Elkartasuna!</font>
+
+1091
+01:02:20,750 --> 01:02:24,083
+<font size="20">Bale, kendu guztiak bidetik.
+Utzi zulatzen hasten.</font>
+
+1092
+01:02:24,166 --> 01:02:28,041
+<font size="20">- Ez zara hilerrian sartuko.
+- E, kendu eskuak gainetik, Ventham.</font>
+
+1093
+01:02:28,125 --> 01:02:30,708
+<font size="20">Zoaz pikutara, Jason, zerri saltzailea.</font>
+
+1094
+01:02:30,791 --> 01:02:34,333
+<font size="20">Nire eta jendetza honen gainetik
+pasatu beharko duzu.</font>
+
+1095
+01:02:34,416 --> 01:02:37,166
+<font size="20">Beraz, Ian Ventham, ospa.</font>
+
+1096
+01:02:37,791 --> 01:02:41,208
+<font size="20">Ian Ventham, ospa!</font>
+
+1097
+01:02:41,291 --> 01:02:42,125
+<font size="20">Hori da!</font>
+
+1098
+01:02:43,000 --> 01:02:46,541
+<font size="20">Ian Ventham, ospa!</font>
+
+1099
+01:02:46,625 --> 01:02:47,625
+<font size="20">Elkartasuna!</font>
+
+1100
+01:02:48,750 --> 01:02:51,875
+<font size="20">Ian Ventham, ospa!</font>
+
+1101
+01:02:52,916 --> 01:02:57,083
+<font size="20">Eutsi, anai-arrebok.
+Zuen burua entzunarazi!</font>
+
+1102
+01:02:57,875 --> 01:03:00,000
+<font size="20">Poliziari deituko diot.</font>
+
+1103
+01:03:00,083 --> 01:03:02,375
+<font size="20">Noski. Esan apaiz bati eraso diozula!</font>
+
+1104
+01:03:03,250 --> 01:03:04,541
+<font size="20">Ian Ventham, ospa!</font>
+
+1105
+01:03:05,833 --> 01:03:07,875
+<font size="20">Kaixo, barka,</font>
+
+1106
+01:03:08,875 --> 01:03:10,958
+<font size="20">okil bat ikusi al duzu?</font>
+
+1107
+01:03:11,041 --> 01:03:13,166
+<font size="20">Uste dut okil bat ikusi dudala.</font>
+
+1108
+01:03:14,416 --> 01:03:15,250
+<font size="20">Ez.</font>
+
+1109
+01:03:17,166 --> 01:03:20,375
+<font size="20">A, inguruan ikusi zaitut
+gauzak konpontzen, ezta?</font>
+
+1110
+01:03:20,458 --> 01:03:22,250
+<font size="20">Bogdan duzu izena?</font>
+
+1111
+01:03:23,541 --> 01:03:24,375
+<font size="20">Bai.</font>
+
+1112
+01:03:29,833 --> 01:03:30,666
+<font size="20">Ni Marina.</font>
+
+1113
+01:03:34,875 --> 01:03:37,125
+<font size="20">- Nire ama horrela deitzen da.
+- Ez!</font>
+
+1114
+01:03:37,666 --> 01:03:40,458
+<font size="20">Benetan? Hori kointzidentzia, ezta?</font>
+
+1115
+01:03:40,541 --> 01:03:44,000
+<font size="20">Tira, izen polita da.
+Normala da iritzi hori izatea.</font>
+
+1116
+01:03:44,958 --> 01:03:48,791
+<font size="20">- Zurekin dago?
+- Ez, Polonian dago.</font>
+
+1117
+01:03:51,208 --> 01:03:54,125
+<font size="20">Bere falta sentituko duzu, ezta?</font>
+
+1118
+01:03:55,500 --> 01:03:57,083
+<font size="20">Eta berak zurea.</font>
+
+1119
+01:03:59,791 --> 01:04:02,791
+<font size="20">Bere falta sentitzen dut egunero.</font>
+
+1120
+01:04:05,291 --> 01:04:07,875
+<font size="20">- Polonieraz dakizu?
+- Bai, pixka bat.</font>
+
+1121
+01:04:09,791 --> 01:04:11,750
+<font size="20">Beragatik etorri nintzen Ingalaterrara.</font>
+
+1122
+01:04:11,833 --> 01:04:15,541
+<font size="20">Bada, lan hobea, soldata hobea</font>
+
+1123
+01:04:16,208 --> 01:04:18,208
+<font size="20">ahal dudan diru guztia bidaltzeko.</font>
+
+1124
+01:04:18,833 --> 01:04:20,625
+<font size="20">Poloniako ze aldekoa zara?</font>
+
+1125
+01:04:20,708 --> 01:04:21,583
+<font size="20">Krakovia.</font>
+
+1126
+01:04:21,666 --> 01:04:26,625
+<font size="20">A, egundoko zopa hartu nuen
+Krakovian. E, krupnik.</font>
+
+1127
+01:04:26,708 --> 01:04:28,958
+<font size="20">- A, bai, garagar-zopa.
+- Horixe.</font>
+
+1128
+01:04:29,666 --> 01:04:31,500
+<font size="20">Zer zenbiltzan Polonian?</font>
+
+1129
+01:04:32,375 --> 01:04:33,500
+<font size="20">Zirku ibiltarian.</font>
+
+1130
+01:04:34,375 --> 01:04:35,875
+<font size="20">Garai aparta izan zen.</font>
+
+1131
+01:04:36,625 --> 01:04:37,458
+<font size="20">Bale.</font>
+
+1132
+01:04:38,708 --> 01:04:39,916
+<font size="20">Barregarria, ezta?</font>
+
+1133
+01:04:40,000 --> 01:04:43,333
+<font size="20">Hau pala batekin egitea,
+baina orain nire ardura da.</font>
+
+1134
+01:04:43,416 --> 01:04:45,833
+<font size="20">A, Tony ordezkatu duzu nagusi gisa?</font>
+
+1135
+01:04:45,916 --> 01:04:49,208
+<font size="20">Bai, orain ni naiz
+hemengo kontratista nagusia.</font>
+
+1136
+01:04:51,958 --> 01:04:54,916
+<font size="20">Ianek lana eman zizun Tony hil aurretik?</font>
+
+1137
+01:04:56,333 --> 01:05:01,000
+<font size="20">Bai, Marina, nire lana zen
+Tony hil aurretik. Zergatik?</font>
+
+1138
+01:05:01,916 --> 01:05:04,500
+<font size="20">Zerbait galdetu nahi didazu?</font>
+
+1139
+01:05:06,541 --> 01:05:09,750
+<font size="20">Kontua da Ianek dirutza
+irabazi zuela Tony hildakoan,</font>
+
+1140
+01:05:09,833 --> 01:05:13,333
+<font size="20">beraz, jakin nahiko nuke</font>
+
+1141
+01:05:14,208 --> 01:05:16,916
+<font size="20">norbaiti eskatu ote zion Tony hiltzeko.</font>
+
+1142
+01:05:19,458 --> 01:05:20,333
+<font size="20">Ez dakit.</font>
+
+1143
+01:05:21,916 --> 01:05:22,833
+<font size="20">Beharbada.</font>
+
+1144
+01:05:25,250 --> 01:05:27,333
+<font size="20">Orduan zehatzagoa izango naiz.</font>
+
+1145
+01:05:28,541 --> 01:05:31,458
+<font size="20">Ianek Tony hiltzeko eskatu zizun?</font>
+
+1146
+01:05:33,583 --> 01:05:34,416
+<font size="20">Ez.</font>
+
+1147
+01:05:35,666 --> 01:05:38,791
+<font size="20">Eta eskatu balit ere,
+ezetz esango niokeen.</font>
+
+1148
+01:05:39,708 --> 01:05:43,583
+<font size="20">Gauza asko egingo nituzke
+Ian Venthamengatik. Hezurrak zulatu,</font>
+
+1149
+01:05:44,166 --> 01:05:46,291
+<font size="20">baina ez nuke gizon bat hilko.</font>
+
+1150
+01:05:51,708 --> 01:05:54,250
+<font size="20">Inork ez zaitu hemen nahi. Zoaz etxera!</font>
+
+1151
+01:05:54,333 --> 01:05:56,916
+<font size="20">Irakurri seinaleak eta ospa hemendik.</font>
+
+1152
+01:05:59,083 --> 01:06:00,666
+<font size="20">Aska nazazue! Geldi!</font>
+
+1153
+01:06:02,250 --> 01:06:03,375
+<font size="20">Askatzeko!</font>
+
+1154
+01:06:05,625 --> 01:06:07,750
+<font size="20">Ez nazazue ukitu! Uzteko!</font>
+
+1155
+01:06:08,833 --> 01:06:09,916
+<font size="20">Ez ukitu!</font>
+
+1156
+01:06:11,291 --> 01:06:13,250
+<font size="20">- E!
+- Inork ez zaitu nahi!</font>
+
+1157
+01:06:13,333 --> 01:06:15,875
+<font size="20">Zergatik ez diguzu entzuten?</font>
+
+1158
+01:06:16,375 --> 01:06:17,791
+<font size="20">- E!
+- Zergatik?</font>
+
+1159
+01:06:19,416 --> 01:06:20,416
+<font size="20">Ez! Hau…</font>
+
+1160
+01:06:23,791 --> 01:06:24,625
+<font size="20">Hau…</font>
+
+1161
+01:06:26,375 --> 01:06:28,333
+<font size="20">Utzi pasatzen.</font>
+
+1162
+01:06:47,416 --> 01:06:48,583
+<font size="20">Hilda dago.</font>
+
+1163
+01:06:54,250 --> 01:06:55,083
+<font size="20">Arraiopola.</font>
+
+1164
+01:07:14,208 --> 01:07:15,041
+<font size="20">Ba…</font>
+
+1165
+01:07:15,875 --> 01:07:17,875
+<font size="20">guztiok gara hilketa baten lekuko.</font>
+
+1166
+01:07:20,541 --> 01:07:21,958
+<font size="20">Lehen galdera, beraz.</font>
+
+1167
+01:07:22,041 --> 01:07:24,666
+<font size="20">Nola dakizu hilketa izan zela
+eta ez bihotzekoa?</font>
+
+1168
+01:07:24,750 --> 01:07:26,250
+<font size="20">- Larri zebilen.
+- Bai.</font>
+
+1169
+01:07:26,333 --> 01:07:29,166
+<font size="20">Litekeena da
+fentanilo-gaindosiaz hil izana,</font>
+
+1170
+01:07:29,250 --> 01:07:31,500
+<font size="20">hil aurretik emanda.</font>
+
+1171
+01:07:31,583 --> 01:07:33,666
+<font size="20">Laborategi-txostenaren zain daude.</font>
+
+1172
+01:07:33,750 --> 01:07:37,166
+<font size="20">- Nondik atera duzu informazio hori?
+- Donnak idatzi dit.</font>
+
+1173
+01:07:37,666 --> 01:07:41,250
+<font size="20">- Oso lagungarria da.
+- Nondik atera zen fentaniloa?</font>
+
+1174
+01:07:41,333 --> 01:07:44,750
+<font size="20">Medikuntzan baliatzen da
+anestesiarako eta analgesiko gisa.</font>
+
+1175
+01:07:44,833 --> 01:07:46,916
+<font size="20">Oso eraginkorra da.</font>
+
+1176
+01:07:47,416 --> 01:07:51,041
+<font size="20">Baina dosi handiegia
+hilgarria izan liteke.</font>
+
+1177
+01:07:51,125 --> 01:07:55,625
+<font size="20">Beraz, orratzak eta medikamentuak
+eskuratu ditzakeen norbait izango zen.</font>
+
+1178
+01:07:55,708 --> 01:07:59,125
+<font size="20">Bai, Coopers Chaseko
+ia edonor izan liteke, Ron.</font>
+
+1179
+01:07:59,208 --> 01:08:02,166
+<font size="20">Lekuan zeuden
+guztien argazkiak bildu ditut.</font>
+
+1180
+01:08:02,250 --> 01:08:04,750
+<font size="20">Nire ustez, pilaketan izan zen.</font>
+
+1181
+01:08:04,833 --> 01:08:10,083
+<font size="20">Dosi hilgarria eman zioten
+guztiak liskartzen ziren bitartean.</font>
+
+1182
+01:08:10,166 --> 01:08:13,083
+<font size="20">- Beraz, hiltzailea argazkietan dago?
+- Bai.</font>
+
+1183
+01:08:13,666 --> 01:08:16,750
+<font size="20">- Denok gaude argazkiotan.
+- Denok gara susmagarriak.</font>
+
+1184
+01:08:28,750 --> 01:08:32,208
+<font size="20">Bide batez, oraindik ez dugu argitu
+Bobby Tannerren buruhaustea.</font>
+
+1185
+01:08:32,291 --> 01:08:33,125
+<font size="20">Ze buruhauste?</font>
+
+1186
+01:08:33,708 --> 01:08:34,625
+<font size="20">- Nor?
+- Zer?</font>
+
+1187
+01:08:35,458 --> 01:08:39,625
+<font size="20">- A, barka, barka, ez dizuet aipatu?
+- Ez, ez duzu egin.</font>
+
+1188
+01:08:39,708 --> 01:08:44,541
+<font size="20">Donnak kontatu dit Tony Curranen
+hilketaren lekuan argazki bat zegoela,</font>
+
+1189
+01:08:44,625 --> 01:08:49,083
+<font size="20">non agertzen diren Tony Curran,
+gaizkile famatu bat, Bobby Tanner, eta…</font>
+
+1190
+01:08:52,791 --> 01:08:53,666
+<font size="20">Eta nor?</font>
+
+1191
+01:08:54,666 --> 01:08:57,708
+<font size="20">- Ez dio axola, ez du garrantzirik.
+- Ez.</font>
+
+1192
+01:08:57,791 --> 01:09:01,625
+<font size="20">Ez, zera, ez zenizkiguke
+gauzak ezkutatu behar, taldea gara.</font>
+
+1193
+01:09:01,708 --> 01:09:03,666
+<font size="20">Ez ba. Bada…</font>
+
+1194
+01:09:04,208 --> 01:09:06,458
+<font size="20">Donnak batzuetan gauez idazten dit</font>
+
+1195
+01:09:06,541 --> 01:09:09,000
+<font size="20">eta une egokiaren zain nengoen,
+besterik ez.</font>
+
+1196
+01:09:09,083 --> 01:09:13,708
+<font size="20">Ba une bikaina dela esango nuke.
+Kontatuko diguzu?</font>
+
+1197
+01:09:15,125 --> 01:09:16,250
+<font size="20">Oraingoz,</font>
+
+1198
+01:09:16,333 --> 01:09:19,541
+<font size="20">polizia Bobby Tannerren bila dabil,
+baita gu ere.</font>
+
+1199
+01:09:19,625 --> 01:09:23,041
+<font size="20">Bobby Tanner Coopers Chaseko
+hirugarren jabea da, Ian Ventham</font>
+
+1200
+01:09:23,125 --> 01:09:24,125
+<font size="20">eta Tony Curranekin.</font>
+
+1201
+01:09:24,208 --> 01:09:27,333
+<font size="20">Eta argi geratzen da
+Ian Venthamen azken-nahian</font>
+
+1202
+01:09:27,416 --> 01:09:31,708
+<font size="20">Coopers Chaseko proiektuak
+jarraituko duela Ian hil eta gero.</font>
+
+1203
+01:09:31,791 --> 01:09:33,916
+<font size="20">Bobby Tannerrek bakarrik gelditu dezake.</font>
+
+1204
+01:09:34,000 --> 01:09:35,750
+<font size="20">Eta inork ez daki non dagoen.</font>
+
+1205
+01:09:35,833 --> 01:09:38,708
+<font size="20">Oraindik ez da amaitu
+gure etxeen aldeko borroka.</font>
+
+1206
+01:09:39,583 --> 01:09:42,916
+<font size="20">Hilda zein bizirik,
+Ian Venthamek izorratu gaitzake.</font>
+
+1207
+01:09:43,500 --> 01:09:47,333
+<font size="20">Bobby Tanner bizirik irauten duen
+Coopers Chaseko jabe bakarra da?</font>
+
+1208
+01:09:47,416 --> 01:09:49,666
+<font size="20">Bai, hala dirudi.</font>
+
+1209
+01:09:49,750 --> 01:09:51,875
+<font size="20">Baina hilda egon liteke, batek daki.</font>
+
+1210
+01:09:51,958 --> 01:09:54,875
+<font size="20">Aurkituko bagenu,
+proiektua gelditu genezake?</font>
+
+1211
+01:09:54,958 --> 01:09:57,125
+<font size="20">Eta Coopers Chase salbatu.</font>
+
+1212
+01:09:57,208 --> 01:10:01,041
+<font size="20">- Eta hilerria ere bai.
+- Bai. Beraz, hobe dugu hasi.</font>
+
+1213
+01:10:01,125 --> 01:10:04,125
+<font size="20">Bai, trikotatzea ordubete barru hasiko da.</font>
+
+1214
+01:10:04,666 --> 01:10:05,500
+<font size="20">Bale.</font>
+
+1215
+01:10:06,000 --> 01:10:07,416
+<font size="20">Noiz hasi zinen jokatzen?</font>
+
+1216
+01:10:07,500 --> 01:10:13,500
+<font size="20">Aitak irakatsi zidan hamar urte nituenean
+eta ez nuen garaitu 13 izan arte.</font>
+
+1217
+01:10:15,375 --> 01:10:18,458
+<font size="20">- Ez zidan irabazten uzten.
+- Egundokoa.</font>
+
+1218
+01:10:18,541 --> 01:10:19,958
+<font size="20">- Bai.
+- Xake-mate.</font>
+
+1219
+01:10:20,041 --> 01:10:21,708
+<font size="20">Ene, bada.</font>
+
+1220
+01:10:21,791 --> 01:10:23,416
+<font size="20">A, Elizabeth.</font>
+
+1221
+01:10:23,500 --> 01:10:25,541
+<font size="20">Jauna zu ikustera etorri da.</font>
+
+1222
+01:10:25,625 --> 01:10:27,291
+<font size="20">Eta xakean ere badaki.</font>
+
+1223
+01:10:28,250 --> 01:10:30,208
+<font size="20">Berealdiko jokalaria da.</font>
+
+1224
+01:10:31,125 --> 01:10:33,458
+<font size="20">A, eta ikasgelako wifia konpondu dit.</font>
+
+1225
+01:10:34,458 --> 01:10:36,708
+<font size="20">Bogdan, hau ustekabeko sorpresa.</font>
+
+1226
+01:10:37,708 --> 01:10:40,125
+<font size="20">Barka eragozpena, Elizabeth.</font>
+
+1227
+01:10:42,666 --> 01:10:44,166
+<font size="20">Ez kezkatu. Ongi etorri.</font>
+
+1228
+01:10:46,125 --> 01:10:48,125
+<font size="20">Milesker partidagatik. Joan behar dut.</font>
+
+1229
+01:10:48,208 --> 01:10:50,000
+<font size="20">- Plazera izan da.
+- Joan behar dut.</font>
+
+1230
+01:10:50,083 --> 01:10:51,083
+<font size="20">Lagunduko diot.</font>
+
+1231
+01:10:51,166 --> 01:10:53,583
+<font size="20">- Elizabeth.
+- Esan, zertara etorri zara?</font>
+
+1232
+01:10:53,666 --> 01:10:56,833
+<font size="20">Hitz egin behar dugu.
+Ez nekien beste norengana jo.</font>
+
+1233
+01:10:56,916 --> 01:11:01,083
+<font size="20">Poliziak Ianen hilketaz galdetu dit
+eta esan diet Marinarekin nengoela.</font>
+
+1234
+01:11:01,166 --> 01:11:04,000
+<font size="20">Baina ez dute
+Marinarik ezagutzen Coopers Chasen.</font>
+
+1235
+01:11:04,083 --> 01:11:08,208
+<font size="20">Beraz, galdera gehiegi egiten dituen
+andre menderatzailea bilatu dut.</font>
+
+1236
+01:11:08,750 --> 01:11:10,458
+<font size="20">Eta denek zekiten zeu zinela.</font>
+
+1237
+01:11:10,541 --> 01:11:12,125
+<font size="20">Bale. Harrapatu nauzu.</font>
+
+1238
+01:11:13,083 --> 01:11:15,625
+<font size="20">Uste nuen zurekin hitz egiteko
+izen horrekin</font>
+
+1239
+01:11:15,708 --> 01:11:18,125
+<font size="20">zure konfiantza irabaz nezakeela.</font>
+
+1240
+01:11:18,208 --> 01:11:19,875
+<font size="20">Trikimailu merkea.</font>
+
+1241
+01:11:19,958 --> 01:11:22,750
+<font size="20">Bai. Ohitura izan da, sentitzen dut.</font>
+
+1242
+01:11:26,416 --> 01:11:27,916
+<font size="20">Zertara etorri zara?</font>
+
+1243
+01:11:29,125 --> 01:11:31,000
+<font size="20">Zerbait erakutsi behar dizut.</font>
+
+1244
+01:11:31,583 --> 01:11:33,000
+<font size="20">Gaur.</font>
+
+1245
+01:11:33,083 --> 01:11:34,791
+<font size="20">Ilundu eta gero.</font>
+
+1246
+01:11:35,291 --> 01:11:38,375
+<font size="20">Hilerrian elkartuko gara. Zatoz bakarrik.</font>
+
+1247
+01:11:39,250 --> 01:11:40,291
+<font size="20">Bakar-bakarrik.</font>
+
+1248
+01:11:40,958 --> 01:11:41,791
+<font size="20">Mesedez.</font>
+
+1249
+01:11:43,500 --> 01:11:44,500
+<font size="20">Bakar-bakarrik.</font>
+
+1250
+01:11:46,416 --> 01:11:47,250
+<font size="20">Eskerrik asko.</font>
+
+1251
+01:11:51,833 --> 01:11:55,416
+<font size="20">Adi. Biratu, posizioan. Atera bularra.</font>
+
+1252
+01:11:55,500 --> 01:12:00,666
+<font size="20">Ezker-eskuin. Eutsi.</font>
+
+1253
+01:12:00,750 --> 01:12:04,875
+<font size="20">Azken jauzia. Gora, ezkerrera. Primeran.</font>
+
+1254
+01:12:07,916 --> 01:12:08,750
+<font size="20">Hor dago.</font>
+
+1255
+01:12:11,000 --> 01:12:11,875
+<font size="20">Aurkeztu.</font>
+
+1256
+01:12:11,958 --> 01:12:13,541
+<font size="20">- Eta aurkeztu.
+- Primeran.</font>
+
+1257
+01:12:17,166 --> 01:12:19,625
+<font size="20">Esango didazue zer nahi duzuen?</font>
+
+1258
+01:12:20,291 --> 01:12:22,791
+<font size="20">Kontatu dizuet jada dakidana, ezer ere ez.</font>
+
+1259
+01:12:23,291 --> 01:12:26,958
+<font size="20">Tony hiltzean gimnasioan nengoen
+nire lagun Dan Fairhurstekin.</font>
+
+1260
+01:12:27,041 --> 01:12:30,250
+<font size="20">Berarekin zeunden hil aurretik,
+baina ez hil zenean.</font>
+
+1261
+01:12:30,333 --> 01:12:32,333
+<font size="20">- Ikusten duzu aldea?
+- Bai.</font>
+
+1262
+01:12:33,000 --> 01:12:35,458
+<font size="20">Garbitzaileak aurkitu zuenez,
+agian berak hil zuen.</font>
+
+1263
+01:12:36,291 --> 01:12:37,833
+<font size="20">Hona nire ikuspuntua.</font>
+
+1264
+01:12:38,333 --> 01:12:41,375
+<font size="20">Hiltzailea ez da
+biktima hilda ikusten duen lehena,</font>
+
+1265
+01:12:41,458 --> 01:12:43,458
+<font size="20">baizik eta bizirik ikusten duen azkena.</font>
+
+1266
+01:12:43,541 --> 01:12:45,333
+<font size="20">- Ona.
+- Columbon ikusi nuen.</font>
+
+1267
+01:12:46,083 --> 01:12:49,583
+<font size="20">Eta zer nahi duzue?
+Zertaz salatzen nauzue?</font>
+
+1268
+01:12:49,666 --> 01:12:54,541
+<font size="20">Zergatik deitu zizun hirutan Ian Venthamek
+Tony Curranekin liskartu eta gero?</font>
+
+1269
+01:12:54,625 --> 01:12:56,458
+<font size="20">Mesede bat eskatzeko?</font>
+
+1270
+01:12:56,541 --> 01:12:59,750
+<font size="20">Tony Curran hiltzeko eskatu zizun
+bere beldur zelako?</font>
+
+1271
+01:12:59,833 --> 01:13:02,583
+<font size="20">Ez, beste kontu batengatik zen.</font>
+
+1272
+01:13:02,666 --> 01:13:04,458
+<font size="20">Ba nik ez dut uste, Jason.</font>
+
+1273
+01:13:05,041 --> 01:13:08,750
+<font size="20">- Beste kontu batzuk zeuden.
+- Dudarik gabe.</font>
+
+1274
+01:13:09,375 --> 01:13:11,916
+<font size="20">Venthamek kitatu zizkizun
+apustu-zorretako batzuk.</font>
+
+1275
+01:13:13,000 --> 01:13:15,458
+<font size="20">Eta Venthamek ordaindu zizunez,</font>
+
+1276
+01:13:15,541 --> 01:13:18,083
+<font size="20">lantxoren bat egiten zenuen beragatik.</font>
+
+1277
+01:13:18,166 --> 01:13:22,708
+<font size="20">- Eskatzen zuen edozer…
+- Ez, ez eskatzen zuen edozer.</font>
+
+1278
+01:13:22,791 --> 01:13:24,875
+<font size="20">Zergatik deitu zizun, Jason?</font>
+
+1279
+01:13:24,958 --> 01:13:25,833
+<font size="20">Ba…</font>
+
+1280
+01:13:26,750 --> 01:13:28,750
+<font size="20">Kontu batengatik. Entzun…</font>
+
+1281
+01:13:29,375 --> 01:13:32,875
+<font size="20">- Jarraitu behar dut.
+- Bobby Tanner ezagutzen duzu?</font>
+
+1282
+01:13:33,375 --> 01:13:35,250
+<font size="20">Zer? Bobby Tanner?</font>
+
+1283
+01:13:35,875 --> 01:13:37,166
+<font size="20">Hilda dago, ezta?</font>
+
+1284
+01:13:39,583 --> 01:13:41,375
+<font size="20">Gogoan duzu argazki hau?</font>
+
+1285
+01:13:42,791 --> 01:13:43,750
+<font size="20">Ez.</font>
+
+1286
+01:13:43,833 --> 01:13:48,000
+<font size="20">Ba ispilukoa zure besoa da. Ezta?</font>
+
+1287
+01:13:48,708 --> 01:13:52,250
+<font size="20">Krimen antolatuan
+guztiz sartuta zaude, ezta, Jason?</font>
+
+1288
+01:13:53,208 --> 01:13:56,166
+<font size="20">Zer da beste exekuzio bat?</font>
+
+1289
+01:13:56,916 --> 01:13:59,541
+<font size="20">Zergatik zenbiltzan
+horren presaka aurrekoan?</font>
+
+1290
+01:13:59,625 --> 01:14:02,750
+<font size="20">- Ihes egin nahi zenuen?
+- Ez dut denborarik honetarako.</font>
+
+1291
+01:14:02,833 --> 01:14:06,833
+<font size="20">Jason Ritchie, atxilotuta zaude
+Tony Curran hil izanaren susmoa dela eta.</font>
+
+1292
+01:14:06,916 --> 01:14:09,083
+<font size="20">Baina zer diozu? Ez duzue frogarik.</font>
+
+1293
+01:14:09,166 --> 01:14:11,416
+<font size="20">Ez diguzu erantzuten.
+Ez duzu zurigarririk.</font>
+
+1294
+01:14:11,500 --> 01:14:12,708
+<font size="20">Modua eta zioa dituzu</font>
+
+1295
+01:14:12,791 --> 01:14:15,625
+<font size="20">eta, gainera,
+ihes egingo diguzun kezka daukat.</font>
+
+1296
+01:14:15,708 --> 01:14:19,291
+<font size="20">Beraz, bai, atxilotu zaitzakegu.</font>
+
+1297
+01:14:19,375 --> 01:14:21,458
+<font size="20">Hartu irristailuak, mesedez.</font>
+
+1298
+01:14:22,166 --> 01:14:23,583
+<font size="20">Kaka.</font>
+
+1299
+01:14:26,125 --> 01:14:28,375
+<font size="20">Tony Curran eta Ian Venthamen hilketa.</font>
+
+1300
+01:14:28,875 --> 01:14:30,833
+<font size="20">Hiltzaile bera izango da, ziur.</font>
+
+1301
+01:14:30,916 --> 01:14:34,666
+<font size="20">Bi negoziokide erail dituzte
+egun gutxiko epean.</font>
+
+1302
+01:14:35,166 --> 01:14:38,458
+<font size="20">Beraz,
+eraikitzea gelditu nahi duen norbait.</font>
+
+1303
+01:14:38,541 --> 01:14:41,375
+<font size="20">Zer deritzozu Bernardez?
+Oso larrituta zegoen.</font>
+
+1304
+01:14:41,458 --> 01:14:43,458
+<font size="20">Bai, jenio txarra du.</font>
+
+1305
+01:14:43,541 --> 01:14:47,458
+<font size="20">Eta kimikaria da, beraz,
+toxina bat eskuratzeko erraztasuna du.</font>
+
+1306
+01:14:47,541 --> 01:14:51,458
+<font size="20">- Bederatzi bat ipiniko diot.
+- Ez, gehiegi da. Jarri sei bat.</font>
+
+1307
+01:14:51,541 --> 01:14:55,375
+<font size="20">- Bale, zazpi bat emango diot.
+- Bale, ados. Eta aita Mackie?</font>
+
+1308
+01:14:55,458 --> 01:14:57,333
+<font size="20">Haserretuena zen protestan.</font>
+
+1309
+01:14:58,166 --> 01:15:01,500
+<font size="20">- Lehen hamarra litzateke.
+- Azkenaldian oso arraro dabil.</font>
+
+1310
+01:15:01,583 --> 01:15:03,166
+<font size="20">Beteko dizut?</font>
+
+1311
+01:15:03,250 --> 01:15:05,291
+<font size="20">- Beteko dizut?
+- Bai.</font>
+
+1312
+01:15:06,375 --> 01:15:07,791
+<font size="20">Pentsatzen ibili naiz.</font>
+
+1313
+01:15:08,291 --> 01:15:09,958
+<font size="20">Tony eta Ian hilda daudenez,</font>
+
+1314
+01:15:11,333 --> 01:15:13,041
+<font size="20">gauzak aldatu litezke?</font>
+
+1315
+01:15:13,125 --> 01:15:15,541
+<font size="20">Uste duzu kalera botako gaituztela?</font>
+
+1316
+01:15:15,625 --> 01:15:18,000
+<font size="20">Coopers Chase
+enpresaren egoeraren arabera.</font>
+
+1317
+01:15:18,083 --> 01:15:21,166
+<font size="20">- Bobby Tanner aurkitu beharko lukete.
+- Bai.</font>
+
+1318
+01:15:21,250 --> 01:15:24,208
+<font size="20">- Mesedez, liburu gainean ez.
+- O, barka.</font>
+
+1319
+01:15:25,250 --> 01:15:26,083
+<font size="20">Eskerrik asko.</font>
+
+1320
+01:15:31,208 --> 01:15:32,916
+<font size="20">Honen falta sentituko nuke.</font>
+
+1321
+01:15:33,000 --> 01:15:33,833
+<font size="20">Bai.</font>
+
+1322
+01:15:34,833 --> 01:15:37,708
+<font size="20">Bakarrik egon nahi baduzu, itxi atea.</font>
+
+1323
+01:15:38,208 --> 01:15:40,208
+<font size="20">Jendearekin egon nahi baduzu, ireki.</font>
+
+1324
+01:15:40,291 --> 01:15:42,125
+<font size="20">Modu hoberik zoriontsu izateko?</font>
+
+1325
+01:15:42,208 --> 01:15:46,708
+<font size="20">Oxfordeko ikasle-egoitza gogorarazten dit.
+Janari hobea eta esnobismo gutxiagorekin.</font>
+
+1326
+01:15:48,666 --> 01:15:50,833
+<font size="20">Hara. Bai, esan?</font>
+
+1327
+01:15:50,916 --> 01:15:53,208
+<font size="20">Bai? A, sentitzen dut.</font>
+
+1328
+01:15:57,375 --> 01:15:58,458
+<font size="20">Bai? Kaixo.</font>
+
+1329
+01:16:01,125 --> 01:16:01,958
+<font size="20">Zer?</font>
+
+1330
+01:16:03,416 --> 01:16:04,500
+<font size="20">Bale.</font>
+
+1331
+01:16:04,583 --> 01:16:07,875
+<font size="20">Entzun, ez hitzik esan, bale?
+Lotu ezpainak.</font>
+
+1332
+01:16:07,958 --> 01:16:12,000
+<font size="20">Nola edo hala konponduko dugu. Ixo.
+Ez ezer esan, bale? Bale, agur.</font>
+
+1333
+01:16:13,958 --> 01:16:14,916
+<font size="20">Jason zen.</font>
+
+1334
+01:16:16,250 --> 01:16:18,666
+<font size="20">Tony Curranen hilketagatik atxilotu dute.</font>
+
+1335
+01:16:18,750 --> 01:16:19,875
+<font size="20">O, Ron.</font>
+
+1336
+01:16:20,375 --> 01:16:21,375
+<font size="20">Kaka zaharra.</font>
+
+1337
+01:16:22,833 --> 01:16:24,625
+<font size="20">- Hemendik?
+- Bai, hortik.</font>
+
+1338
+01:16:25,458 --> 01:16:28,083
+<font size="20">Zure senarra, Stephen, ez dago ondo, ezta?</font>
+
+1339
+01:16:28,583 --> 01:16:30,291
+<font size="20">Ez, ez dago ondo.</font>
+
+1340
+01:16:32,375 --> 01:16:34,125
+<font size="20">Zerbait jarri diozu tean?</font>
+
+1341
+01:16:35,625 --> 01:16:36,458
+<font size="20">Bai.</font>
+
+1342
+01:16:37,000 --> 01:16:38,666
+<font size="20">Lo egiten laguntzeko pilula.</font>
+
+1343
+01:16:39,708 --> 01:16:42,250
+<font size="20">Bakar bat, gehiago hilgarria litzateke.</font>
+
+1344
+01:16:43,666 --> 01:16:46,416
+<font size="20">Eskerrik asko
+berarekin xakean jolasteagatik.</font>
+
+1345
+01:16:46,500 --> 01:16:48,166
+<font size="20">Stephenek aspaldiko partez</font>
+
+1346
+01:16:48,250 --> 01:16:50,291
+<font size="20">ez zuen beste inorekin jokatzen.</font>
+
+1347
+01:16:50,375 --> 01:16:51,625
+<font size="20">A, jokalari ona da.</font>
+
+1348
+01:16:52,166 --> 01:16:55,041
+<font size="20">- Zaila egin zait.
+- Berriz etorriko zara?</font>
+
+1349
+01:16:55,125 --> 01:16:59,125
+<font size="20">Bai, asko gustatuko litzaidake.
+Hemen ez daukat lagun askorik.</font>
+
+1350
+01:16:59,208 --> 01:17:02,500
+<font size="20">Kontuan izan Stephenek
+egun onak eta txarrak dauzkala.</font>
+
+1351
+01:17:02,583 --> 01:17:05,541
+<font size="20">- Egun ona izan du.
+- Bueno, nire ama berdin dago.</font>
+
+1352
+01:17:06,041 --> 01:17:08,375
+<font size="20">Ez nau beti gogoratzen.</font>
+
+1353
+01:17:10,166 --> 01:17:11,250
+<font size="20">Oso gaixorik dago.</font>
+
+1354
+01:17:12,166 --> 01:17:15,541
+<font size="20">Ez dakit zenbat gehiago…</font>
+
+1355
+01:17:16,958 --> 01:17:20,333
+<font size="20">Sentitzen dut, Bogdan.
+Bisitatzera joan beharko zinateke.</font>
+
+1356
+01:17:22,500 --> 01:17:26,500
+<font size="20">Izugarri gustatuko litzaidake,
+azken aldiz, baina ezin dut.</font>
+
+1357
+01:17:26,583 --> 01:17:27,833
+<font size="20">Zergatik?</font>
+
+1358
+01:17:29,166 --> 01:17:31,500
+<font size="20">Langileoi etortzen garenean</font>
+
+1359
+01:17:31,583 --> 01:17:34,958
+<font size="20">pasaporteak kentzen dizkigutelako,
+gordetzeko.</font>
+
+1360
+01:17:35,041 --> 01:17:37,791
+<font size="20">Esan zuten lan honetan normala dela.</font>
+
+1361
+01:17:39,208 --> 01:17:40,333
+<font size="20">Nortzuk esan zuten?</font>
+
+1362
+01:17:43,125 --> 01:17:45,708
+<font size="20">Ez kezkatu. Moldatuko naiz.</font>
+
+1363
+01:17:47,958 --> 01:17:49,625
+<font size="20">Tira, hemen gaude.</font>
+
+1364
+01:18:06,625 --> 01:18:09,791
+<font size="20">Gorpuzkiak aurkitu dituzu hilobi batean.</font>
+
+1365
+01:18:09,875 --> 01:18:12,166
+<font size="20">Zergatik da horren misteriotsua?</font>
+
+1366
+01:18:12,250 --> 01:18:13,416
+<font size="20">Bada, Elizabeth,</font>
+
+1367
+01:18:15,000 --> 01:18:17,791
+<font size="20">hezur horiek hilkutxa gainean daudelako.</font>
+
+1368
+01:18:27,083 --> 01:18:29,666
+<font size="20">Eta zergatik zulatuko luke
+inork hilobi bat</font>
+
+1369
+01:18:31,416 --> 01:18:33,625
+<font size="20">hezurrak hezur gainean jartzeko?</font>
+
+1370
+01:18:34,250 --> 01:18:35,375
+<font size="20">Gorpua ezkutatzeko.</font>
+
+1371
+01:18:39,291 --> 01:18:41,875
+<font size="20">Beste hilketa bat omen dugu esku artean.</font>
+
+1372
+01:18:47,208 --> 01:18:48,208
+<font size="20">Altxatu.</font>
+
+1373
+01:18:56,541 --> 01:18:59,791
+<font size="20">- Eta hori kontatu dizu Elizabethek?
+- Gutxi gorabehera.</font>
+
+1374
+01:19:02,500 --> 01:19:03,791
+<font size="20">Bale, zatoz nirekin.</font>
+
+1375
+01:19:07,458 --> 01:19:08,291
+<font size="20">Kax-kax.</font>
+
+1376
+01:19:09,291 --> 01:19:11,708
+<font size="20">- Sar gaitezke?
+- Sartu zarete jada.</font>
+
+1377
+01:19:11,791 --> 01:19:13,250
+<font size="20">Tarta gehiago nahi duzu?</font>
+
+1378
+01:19:13,333 --> 01:19:16,250
+<font size="20">Elizabeth, ez txantxetan hasi.
+Hau serioa da.</font>
+
+1379
+01:19:17,166 --> 01:19:20,375
+<font size="20">Jakin nahi dut zehatz-mehatz
+nola aurkitu duzun gorpua.</font>
+
+1380
+01:19:20,875 --> 01:19:25,291
+<font size="20">- Azaldu diot jada Donnari.
+- Zuk zeuk kontatzea nahi dut.</font>
+
+1381
+01:19:25,375 --> 01:19:26,458
+<font size="20">Bai, noski.</font>
+
+1382
+01:19:26,541 --> 01:19:30,750
+<font size="20">Ba kontua da paseo bat ematera
+atera nintzela, e, nartziso bila.</font>
+
+1383
+01:19:30,833 --> 01:19:32,083
+<font size="20">Nartziso?</font>
+
+1384
+01:19:32,708 --> 01:19:35,916
+<font size="20">- Lilipa-erraboilak leiho-ertzerako.
+- Leiho-ertzerako?</font>
+
+1385
+01:19:36,000 --> 01:19:38,416
+<font size="20">Bai, hurrengo udaberrian kolorea emateko.</font>
+
+1386
+01:19:38,500 --> 01:19:39,708
+<font size="20">- Bai, noski.
+- Bai.</font>
+
+1387
+01:19:39,791 --> 01:19:42,875
+<font size="20">- Eta zulatzen ari nintzen eta…
+- Nola, eskuekin?</font>
+
+1388
+01:19:42,958 --> 01:19:45,583
+<font size="20">Eskuekin ez. Ez inozoa izan.
+Palatxo batekin.</font>
+
+1389
+01:19:45,666 --> 01:19:49,083
+<font size="20">- A ze tentela, palatxo bat.
+- Bai, lorezaintza-palatxoa.</font>
+
+1390
+01:19:49,166 --> 01:19:51,625
+<font size="20">- Noski.
+- Orduan aurkitu nituen hezurrak.</font>
+
+1391
+01:19:51,708 --> 01:19:55,625
+<font size="20">Oso harrigarria izan zen.
+Berebiziko kointzidentzia.</font>
+
+1392
+01:19:59,875 --> 01:20:04,291
+<font size="20">Pazientzia galtzen ari naiz
+zurekin eta zure erretiratu-taldearekin.</font>
+
+1393
+01:20:04,375 --> 01:20:07,125
+<font size="20">Aizu, nire semea zelda batean sartu duzu.</font>
+
+1394
+01:20:07,666 --> 01:20:10,250
+<font size="20">Eta oraingoz froga guztiak
+unean unekoak dira.</font>
+
+1395
+01:20:10,333 --> 01:20:14,041
+<font size="20">Sentitzen dut, baina ez da nahikoa
+norbaiti hilketa leporatzeko.</font>
+
+1396
+01:20:14,125 --> 01:20:16,166
+<font size="20">Beraz, utzi gogorrarena egiteari</font>
+
+1397
+01:20:16,250 --> 01:20:18,208
+<font size="20">eta zoaz benetako hiltzailea bilatzera.</font>
+
+1398
+01:20:18,291 --> 01:20:20,250
+<font size="20">Pozez bilatuko nuke benetako hiltzailea.</font>
+
+1399
+01:20:20,333 --> 01:20:22,416
+<font size="20">- Ondo.
+- Izugarri gustatuko litzaidake.</font>
+
+1400
+01:20:22,500 --> 01:20:25,166
+<font size="20">Beraz, "Astearteko Heriotza Elkartea"k</font>
+
+1401
+01:20:25,250 --> 01:20:27,208
+<font size="20">kasua uzten badu bost minutuz,</font>
+
+1402
+01:20:27,291 --> 01:20:29,208
+<font size="20">aurrerapenak izan genitzake.</font>
+
+1403
+01:20:29,291 --> 01:20:34,708
+<font size="20">Auskalo,
+afari-klubetan gera zintezkete, golfean,</font>
+
+1404
+01:20:34,791 --> 01:20:37,833
+<font size="20">llamak elikatzen,
+eta kolesterola kontrolatzen,</font>
+
+1405
+01:20:37,916 --> 01:20:40,250
+<font size="20">eta utzi gainerakoa profesionaloi.</font>
+
+1406
+01:20:40,333 --> 01:20:42,125
+<font size="20">Belarri gogora duzuenok,</font>
+
+1407
+01:20:42,208 --> 01:20:44,625
+<font size="20">igo audifonoko bolumena.</font>
+
+1408
+01:20:44,708 --> 01:20:49,250
+<font size="20">Polizia-lana debekatuta dago
+polizia ez direnentzako.</font>
+
+1409
+01:20:50,250 --> 01:20:52,458
+<font size="20">- Ulertzen?
+- Bai, ulertuta.</font>
+
+1410
+01:20:52,958 --> 01:20:53,791
+<font size="20">Bale.</font>
+
+1411
+01:20:55,583 --> 01:20:57,000
+<font size="20">Eskerrik asko.</font>
+
+1412
+01:20:57,583 --> 01:20:58,416
+<font size="20">De Freitas.</font>
+
+1413
+01:21:00,583 --> 01:21:02,875
+<font size="20">Nik hezurrak aztertuko nituzke.</font>
+
+1414
+01:21:02,958 --> 01:21:04,666
+<font size="20">- Garrantzitsua izan liteke.
+- Ados.</font>
+
+1415
+01:22:01,166 --> 01:22:03,750
+<font size="20">AZKEN ABISUA. EZ SUDURRA SARTU!</font>
+
+1416
+01:22:15,875 --> 01:22:16,708
+<font size="20">E.</font>
+
+1417
+01:22:17,916 --> 01:22:19,083
+<font size="20">A, kaixo.</font>
+
+1418
+01:22:19,166 --> 01:22:22,291
+<font size="20">Entzun, ez nuke zurekin
+hitz egin beharko, baina…</font>
+
+1419
+01:22:23,208 --> 01:22:26,916
+<font size="20">Hilerrian aurkitu genituen
+hezurrei buruzko berriak ditut.</font>
+
+1420
+01:22:27,000 --> 01:22:29,291
+<font size="20">Peter Mercerren gorpuzkiak dira.</font>
+
+1421
+01:22:31,208 --> 01:22:32,041
+<font size="20">Nola?</font>
+
+1422
+01:22:34,166 --> 01:22:36,125
+<font size="20">Ama maitea, hori ustekabea.</font>
+
+1423
+01:22:38,666 --> 01:22:40,000
+<font size="20">De Freitas agentea,</font>
+
+1424
+01:22:40,083 --> 01:22:43,333
+<font size="20">hona Penny Gray inspektoreburua
+eta bere senarra, John.</font>
+
+1425
+01:22:43,416 --> 01:22:45,000
+<font size="20">- Urte askotarako.
+- Kaixo.</font>
+
+1426
+01:22:45,083 --> 01:22:49,375
+<font size="20">- Bere garaian ikusi ahal zenuen.
+- Zirraragarria zen.</font>
+
+1427
+01:22:49,458 --> 01:22:50,583
+<font size="20">Ohorea da, andrea.</font>
+
+1428
+01:22:51,666 --> 01:22:55,583
+<font size="20">Penny, Donna agente gazte bikaina da.</font>
+
+1429
+01:22:57,583 --> 01:23:01,583
+<font size="20">Bogdanek aurkitu zituen hezurrez
+hitz egin dit.</font>
+
+1430
+01:23:01,666 --> 01:23:06,083
+<font size="20">Peter Mercer izeneko gizon batenak dira.
+Metalezko plaka dauka belaunean,</font>
+
+1431
+01:23:06,166 --> 01:23:08,583
+<font size="20">baina 50 urte zeramatzan lurperatuta.</font>
+
+1432
+01:23:08,666 --> 01:23:12,750
+<font size="20">Beraz, ez du loturarik
+Venthamen hilketarekin?</font>
+
+1433
+01:23:12,833 --> 01:23:15,958
+<font size="20">Ez, baina mutilek
+bertako asko galdekatu dituzte</font>
+
+1434
+01:23:16,041 --> 01:23:18,166
+<font size="20">eta kendu dituzte</font>
+
+1435
+01:23:18,250 --> 01:23:21,208
+<font size="20">Bernard, Marjorie eta aita Mackie
+susmagarrien zerrendatik.</font>
+
+1436
+01:23:22,125 --> 01:23:23,416
+<font size="20">A, benetan?</font>
+
+1437
+01:23:25,125 --> 01:23:29,375
+<font size="20">Bada, 70eko hamarkadan,
+Penny eta biok hona gentozen mezara.</font>
+
+1438
+01:23:29,458 --> 01:23:30,333
+<font size="20">A, bai?</font>
+
+1439
+01:23:30,416 --> 01:23:34,333
+<font size="20">Mackie desberdina zen orduan.
+Lasaiagoa agian.</font>
+
+1440
+01:23:34,416 --> 01:23:35,625
+<font size="20">Zorionak, Donna.</font>
+
+1441
+01:23:36,666 --> 01:23:37,916
+<font size="20">Entzun duzu, Penny?</font>
+
+1442
+01:23:38,416 --> 01:23:41,000
+<font size="20">Zure ondareak darrai emakume honekin.</font>
+
+1443
+01:23:48,041 --> 01:23:52,333
+<font size="20">Beraz, ez duzu gogoratzen
+argazki hau atera izana?</font>
+
+1444
+01:23:52,416 --> 01:23:55,208
+<font size="20">Esan dizut,
+hainbat argazki ateratzen dizkidate.</font>
+
+1445
+01:23:55,291 --> 01:23:57,750
+<font size="20">Zurekin bezala. Ez dakit zer nahi duzun.</font>
+
+1446
+01:23:57,833 --> 01:24:00,041
+<font size="20">- Esango…
+- Gelditzen saiatu naiz.</font>
+
+1447
+01:24:00,125 --> 01:24:02,083
+<font size="20">- Ez… Ron?
+- Eskerrik asko.</font>
+
+1448
+01:24:02,166 --> 01:24:04,458
+<font size="20">- Aita?
+- Zer zabiltza hemen?</font>
+
+1449
+01:24:04,541 --> 01:24:08,291
+<font size="20">Eta ze arraio daramazu?
+Traje horrekin ezkondu zinen?</font>
+
+1450
+01:24:08,375 --> 01:24:09,583
+<font size="20">Bai, lagun, bai.</font>
+
+1451
+01:24:10,250 --> 01:24:11,416
+<font size="20">Bitan, gainera.</font>
+
+1452
+01:24:11,500 --> 01:24:16,625
+<font size="20">Entzun, Jasonek lege-ordezkaritza
+eskubidea du, eta nik emango diot.</font>
+
+1453
+01:24:16,708 --> 01:24:18,208
+<font size="20">Ez zara abokatua, Ron.</font>
+
+1454
+01:24:18,291 --> 01:24:22,000
+<font size="20">Titulurik ez izan arren,
+beharrezko trebakuntza daukat.</font>
+
+1455
+01:24:22,083 --> 01:24:25,166
+<font size="20">Neure burua ordezkatzen nuen
+zuen aurka nire garaian.</font>
+
+1456
+01:24:25,250 --> 01:24:26,291
+<font size="20">Jainko maitea.</font>
+
+1457
+01:24:26,375 --> 01:24:28,208
+<font size="20">Errugabe bat atxiki duzu,</font>
+
+1458
+01:24:28,291 --> 01:24:31,666
+<font size="20">eta froga guztiak
+unean unekoak dira askoz jota.</font>
+
+1459
+01:24:31,750 --> 01:24:33,875
+<font size="20">Ez dauka zurigarririk, Ron.</font>
+
+1460
+01:24:33,958 --> 01:24:36,000
+<font size="20">Neure burua aurkeztuko dut.</font>
+
+1461
+01:24:36,083 --> 01:24:37,041
+<font size="20">Ibrahim!</font>
+
+1462
+01:24:37,125 --> 01:24:39,125
+<font size="20">Jasonen abokatuak hemen egoteko</font>
+
+1463
+01:24:39,208 --> 01:24:41,750
+<font size="20">eskatu dit ebaluazio psikiatrikorako.</font>
+
+1464
+01:24:41,833 --> 01:24:42,666
+<font size="20">Ulertzen?</font>
+
+1465
+01:24:42,750 --> 01:24:45,250
+<font size="20">- Estres handia pairatzen du.
+- E?</font>
+
+1466
+01:24:45,333 --> 01:24:46,875
+<font size="20">Eta TOEN ere.</font>
+
+1467
+01:24:46,958 --> 01:24:48,916
+<font size="20">Ni gabe eginez gero,</font>
+
+1468
+01:24:49,583 --> 01:24:51,666
+<font size="20">zabarkeria-kasua arriskatu zenezakete.</font>
+
+1469
+01:24:51,750 --> 01:24:54,083
+<font size="20">- Tarta gogoko duzunez…
+- Ez!</font>
+
+1470
+01:24:54,166 --> 01:24:56,000
+<font size="20">…limoizko tarta egin dut.</font>
+
+1471
+01:24:56,083 --> 01:24:59,125
+<font size="20">Lan garrantzitsua egiten duzue.
+Energia behar duzue.</font>
+
+1472
+01:24:59,208 --> 01:25:00,333
+<font size="20">Zati bana?</font>
+
+1473
+01:25:00,416 --> 01:25:02,833
+<font size="20">Alde bulegotik edo atxilotuko zaituztet!</font>
+
+1474
+01:25:02,916 --> 01:25:06,291
+<font size="20">E, nik dakidala, hau Erresuma Batua da.</font>
+
+1475
+01:25:06,375 --> 01:25:09,708
+<font size="20">Eta Erresuma Batuan,
+abokatua izateko eskubidea dago.</font>
+
+1476
+01:25:09,791 --> 01:25:12,083
+<font size="20">Jasonek hiru aldiz
+hitz egin zuen Ian Venthamekin</font>
+
+1477
+01:25:12,166 --> 01:25:13,875
+<font size="20">Tony Curran hil aurretik.</font>
+
+1478
+01:25:13,958 --> 01:25:15,916
+<font size="20">Mutikoa da! Beti telefonoarekin.</font>
+
+1479
+01:25:16,000 --> 01:25:18,041
+<font size="20">Non zegoen Curran hil zutenean?</font>
+
+1480
+01:25:18,125 --> 01:25:22,041
+<font size="20">Esan nahi ez izateak
+erruduna dela sinetsarazten dit.</font>
+
+1481
+01:25:23,166 --> 01:25:24,083
+<font size="20">Esan.</font>
+
+1482
+01:25:24,166 --> 01:25:25,166
+<font size="20">Zer esan?</font>
+
+1483
+01:25:25,250 --> 01:25:27,875
+<font size="20">- Esan non zeunden.
+- Ez zaizu axola.</font>
+
+1484
+01:25:27,958 --> 01:25:30,541
+<font size="20">- Ez zara abokatua?
+- Orain zure aita naiz.</font>
+
+1485
+01:25:30,625 --> 01:25:33,500
+<font size="20">Utzi tontakeriak eta esaiguzu</font>
+
+1486
+01:25:33,583 --> 01:25:36,250
+<font size="20">non zeunden Curran hil zutenean.</font>
+
+1487
+01:25:36,333 --> 01:25:38,791
+<font size="20">Eta etxera joango gara partidua ikustera.</font>
+
+1488
+01:25:38,875 --> 01:25:40,166
+<font size="20">Tira, esan. Aurrera.</font>
+
+1489
+01:25:43,000 --> 01:25:45,083
+<font size="20">Ian Venthamen emaztearekin nengoen.</font>
+
+1490
+01:25:46,541 --> 01:25:47,458
+<font size="20">Gemma Ventham?</font>
+
+1491
+01:25:48,958 --> 01:25:50,750
+<font size="20">- Guk, ba…
+- Amodio-kontua?</font>
+
+1492
+01:25:51,416 --> 01:25:52,500
+<font size="20">Ene, Jason.</font>
+
+1493
+01:25:55,000 --> 01:25:56,208
+<font size="20">Hau baieztatuko du?</font>
+
+1494
+01:25:57,416 --> 01:26:00,250
+<font size="20">Bai, sentitzen dut, aita.</font>
+
+1495
+01:26:00,333 --> 01:26:03,083
+<font size="20">Lasai, seme.
+Horrela ezagutu nuen zure ama.</font>
+
+1496
+01:26:03,166 --> 01:26:06,125
+<font size="20">Hara, pozik zaude? Horra zurigarria.</font>
+
+1497
+01:26:06,833 --> 01:26:07,916
+<font size="20">Frogatu dezakezu?</font>
+
+1498
+01:26:10,125 --> 01:26:13,291
+<font size="20">Bai. Egia esan, bai.
+Mugikorra har dezaket?</font>
+
+1499
+01:26:23,750 --> 01:26:28,125
+<font size="20">Data eta ordua agertzen dira.
+Gemmarekin ere baieztatu dezakezu.</font>
+
+1500
+01:26:29,458 --> 01:26:31,833
+<font size="20">Horra hor, Hudson inspektoreburua.</font>
+
+1501
+01:26:31,916 --> 01:26:34,208
+<font size="20">Ez dago errugabe bat atxikitzerik.</font>
+
+1502
+01:26:34,291 --> 01:26:37,333
+<font size="20">Benetako hiltzailea bilatzeari
+ekin beharko zenioke.</font>
+
+1503
+01:26:39,916 --> 01:26:40,750
+<font size="20">Ospa.</font>
+
+1504
+01:26:41,958 --> 01:26:43,750
+<font size="20">Ospa denok nire bulegotik!</font>
+
+1505
+01:26:43,833 --> 01:26:45,625
+<font size="20">- Tarta utziko dut.
+- Atera!</font>
+
+1506
+01:26:46,500 --> 01:26:49,166
+<font size="20">- Mundiala zara.
+- Ez horregatik, seme. Ibra…</font>
+
+1507
+01:26:49,250 --> 01:26:51,291
+<font size="20">- Zu ere bai, De Freitas.
+- Bai.</font>
+
+1508
+01:26:55,541 --> 01:26:58,208
+<font size="20">ELIZABETH: BOBBY TANNER
+BISITATU NAHI DUZU?</font>
+
+1509
+01:27:07,083 --> 01:27:10,208
+<font size="20">- Ez nekien auto bat zenuenik.
+- Erretiratze-oparia.</font>
+
+1510
+01:27:10,291 --> 01:27:12,416
+<font size="20">MI6tik.</font>
+
+1511
+01:27:20,250 --> 01:27:22,666
+<font size="20">Uste duzu Bobby Tanner hemen dagoela?</font>
+
+1512
+01:27:22,750 --> 01:27:24,541
+<font size="20">Aspalditik bilatzen dugu.</font>
+
+1513
+01:27:24,625 --> 01:27:28,916
+<font size="20">Ez nago guztiz ziur,
+baina bihozkadak jarraitzen ditut.</font>
+
+1514
+01:27:29,000 --> 01:27:32,083
+<font size="20">Batzuetan merezi du,
+ikusiko duzu, gero eta gehiago.</font>
+
+1515
+01:27:32,166 --> 01:27:36,375
+<font size="20">- Baina nola jakin duzu?
+- Duela gutxi, loreak bidali zizkidaten.</font>
+
+1516
+01:27:36,458 --> 01:27:40,625
+<font size="20">Lirioak, hiazintoak,
+tulipak eta urrebotoiak.</font>
+
+1517
+01:27:40,708 --> 01:27:42,125
+<font size="20">- A ze polita.
+- Bai.</font>
+
+1518
+01:27:42,875 --> 01:27:46,875
+<font size="20">Oso, baina txartel batekin zetozen,
+sudurra ez sartzeko zioena,</font>
+
+1519
+01:27:46,958 --> 01:27:50,958
+<font size="20">eta lore horiek elkarrekin jaso daitekeen
+sorta toxikoena zen.</font>
+
+1520
+01:27:51,041 --> 01:27:52,750
+<font size="20">Abisu argia izan zen.</font>
+
+1521
+01:27:53,291 --> 01:27:54,416
+<font size="20">Itxaron.</font>
+
+1522
+01:27:54,500 --> 01:27:57,791
+<font size="20">Uste duzu Coopers Chaseko
+inbertsore-kontuarekin lotuta dagoela?</font>
+
+1523
+01:27:58,791 --> 01:28:00,416
+<font size="20">Burua irakurtzen didazu.</font>
+
+1524
+01:28:01,708 --> 01:28:06,708
+<font size="20">Loreak freskoak ziren, eta eskura emanda,
+beraz, Coopers Chasetik gertukoak.</font>
+
+1525
+01:28:06,791 --> 01:28:09,291
+<font size="20">- Gero txartela gogoratu nuen.
+- Txartela?</font>
+
+1526
+01:28:09,375 --> 01:28:13,708
+<font size="20">Mauden loreetan zegoela,
+Tony Curranengatik. "B.T."k sinatu zuen</font>
+
+1527
+01:28:13,791 --> 01:28:17,333
+<font size="20">eta txartelako diseinua
+nirearen berdin-berdina zen.</font>
+
+1528
+01:28:18,958 --> 01:28:21,875
+<font size="20">Oso bereizgarria da.
+Interneten bilatu nuen.</font>
+
+1529
+01:28:22,500 --> 01:28:27,125
+<font size="20">Thorny Blooms, Moretonen,
+bertako arduraduna Derek Ward da.</font>
+
+1530
+01:28:28,166 --> 01:28:30,625
+<font size="20">Bobby Tanner barruan dagoela uste duzu?</font>
+
+1531
+01:28:30,708 --> 01:28:31,541
+<font size="20">Bai.</font>
+
+1532
+01:28:32,041 --> 01:28:32,958
+<font size="20">Eta Derek Ward?</font>
+
+1533
+01:28:33,458 --> 01:28:37,708
+<font size="20">Ez dut uste ikusiko dituzunik
+Bobby Tanner eta Derek Ward</font>
+
+1534
+01:28:37,791 --> 01:28:39,375
+<font size="20">gela berean aldi berean.</font>
+
+1535
+01:28:41,375 --> 01:28:43,833
+<font size="20">Antza, atzamarrak mozten dizkie etsaiei.</font>
+
+1536
+01:28:44,750 --> 01:28:48,583
+<font size="20">Ai, laztana. Askoz okerragoak ikusi ditut.</font>
+
+1537
+01:28:53,375 --> 01:28:55,583
+<font size="20">Kaixo. Zertan lagun diezazueket?</font>
+
+1538
+01:28:56,083 --> 01:28:59,333
+<font size="20">Kaixo. Ezkontza baterako
+enkargu batengatik deitu dut.</font>
+
+1539
+01:28:59,416 --> 01:29:01,000
+<font size="20">Derek Ward hemen dago?</font>
+
+1540
+01:29:01,791 --> 01:29:02,666
+<font size="20">Behean.</font>
+
+1541
+01:29:18,625 --> 01:29:20,208
+<font size="20">Alfila E6ra.</font>
+
+1542
+01:29:23,083 --> 01:29:25,166
+<font size="20">Ze asmo daukazu, Bogdan?</font>
+
+1543
+01:29:25,666 --> 01:29:30,000
+<font size="20">Jakin nahi baina asmatu behar dituzun
+horietako bat da.</font>
+
+1544
+01:29:30,083 --> 01:29:31,208
+<font size="20">Zuzen zaude.</font>
+
+1545
+01:29:32,833 --> 01:29:36,291
+<font size="20">Egia esan,
+beste galdera bat egin nahi dizut.</font>
+
+1546
+01:29:36,375 --> 01:29:38,833
+<font size="20">- Egin diezazuket?
+- Noski.</font>
+
+1547
+01:29:39,416 --> 01:29:43,541
+<font size="20">Hil zuten lehen gizona, e, eraikitzailea.</font>
+
+1548
+01:29:43,625 --> 01:29:45,041
+<font size="20">Zera…</font>
+
+1549
+01:29:45,750 --> 01:29:47,458
+<font size="20">Ai ene, ez.</font>
+
+1550
+01:29:48,833 --> 01:29:50,250
+<font size="20">Bere izena ahaztu dut.</font>
+
+1551
+01:29:50,875 --> 01:29:53,541
+<font size="20">- Tony Curran.
+- Horixe bera, hori da.</font>
+
+1552
+01:29:53,625 --> 01:29:56,041
+<font size="20">Tira, entzun dudan guztiagatik,</font>
+
+1553
+01:29:57,250 --> 01:29:59,291
+<font size="20">uste dut badakidala nork hil zuen.</font>
+
+1554
+01:30:13,541 --> 01:30:16,875
+<font size="20">- Zertan lagun diezazueket?
+- Neure burua aurkeztuko dut, Derek.</font>
+
+1555
+01:30:16,958 --> 01:30:20,958
+<font size="20">Barka, Derek deituko dizut,
+edo nahiago duzu Bobby?</font>
+
+1556
+01:30:22,583 --> 01:30:25,583
+<font size="20">Elizabeth Best.
+Ez nekien noiz etorriko zinen.</font>
+
+1557
+01:30:30,166 --> 01:30:32,625
+<font size="20">Ian Ventham eta Tony Curran
+hilarazi zenituen?</font>
+
+1558
+01:30:33,833 --> 01:30:35,041
+<font size="20">Zuzena zara, gero.</font>
+
+1559
+01:30:36,250 --> 01:30:37,083
+<font size="20">Egin zenuen?</font>
+
+1560
+01:30:37,750 --> 01:30:39,916
+<font size="20">Coopers Chaseko akzio guztiak hartzeko?</font>
+
+1561
+01:30:41,416 --> 01:30:42,250
+<font size="20">Ez, bihotzak.</font>
+
+1562
+01:30:42,333 --> 01:30:45,250
+<font size="20">Ez nituen hilarazi. Baina nahi nuen, bai.</font>
+
+1563
+01:30:45,333 --> 01:30:48,250
+<font size="20">Non zeunden
+Tony Curran hil zuten momentuan?</font>
+
+1564
+01:30:48,333 --> 01:30:52,958
+<font size="20">Dorchester Hotelean,
+Khalil Al-Berro printzearen</font>
+
+1565
+01:30:53,041 --> 01:30:56,416
+<font size="20">21. urtebetetze-festarako
+loreak prestatzen.</font>
+
+1566
+01:30:56,500 --> 01:30:59,791
+<font size="20">Gutxienez 200 lekukok baieztatu dezakete.</font>
+
+1567
+01:30:59,875 --> 01:31:01,250
+<font size="20">Beraz, ez da estalkia?</font>
+
+1568
+01:31:03,208 --> 01:31:04,541
+<font size="20">Lore-saltzailea zara?</font>
+
+1569
+01:31:05,125 --> 01:31:07,500
+<font size="20">A, lore freskoak lantzea.</font>
+
+1570
+01:31:08,041 --> 01:31:09,041
+<font size="20">Kimatzea.</font>
+
+1571
+01:31:09,625 --> 01:31:11,416
+<font size="20">Neure grina bakarra da.</font>
+
+1572
+01:31:11,916 --> 01:31:13,916
+<font size="20">Niri buruzko gauza zintzo bakarra.</font>
+
+1573
+01:31:15,208 --> 01:31:19,291
+<font size="20">Gure informazioaren arabera,
+orain Coopers Chaseko jabe bakarra zara.</font>
+
+1574
+01:31:19,375 --> 01:31:20,833
+<font size="20">Zoritxarrez, bai.</font>
+
+1575
+01:31:21,708 --> 01:31:24,500
+<font size="20">Ez dut inbertsio horretan
+jarraitzeko interesik.</font>
+
+1576
+01:31:25,750 --> 01:31:27,958
+<font size="20">Eta zer egingo duzu proiektuarekin?</font>
+
+1577
+01:31:29,000 --> 01:31:32,833
+<font size="20">Lursaila saldu, ahalik eta azkarren,
+ahalik eta garestien.</font>
+
+1578
+01:31:37,041 --> 01:31:40,541
+<font size="20">Entzuten dut Elizabethek
+hitz egiten didanean, Bogdan.</font>
+
+1579
+01:31:41,750 --> 01:31:43,500
+<font size="20">Eta iruditzen zait</font>
+
+1580
+01:31:44,041 --> 01:31:47,125
+<font size="20">egoera korapilatsuan zeundela, ezta?</font>
+
+1581
+01:31:47,875 --> 01:31:48,875
+<font size="20">Zure amarekin.</font>
+
+1582
+01:31:54,083 --> 01:31:54,916
+<font size="20">Bai.</font>
+
+1583
+01:31:56,875 --> 01:31:58,291
+<font size="20">Zaldia E4ra.</font>
+
+1584
+01:32:01,125 --> 01:32:04,041
+<font size="20">Entzun, ez dut zakarra izan nahi, Bogdan,</font>
+
+1585
+01:32:06,166 --> 01:32:08,041
+<font size="20">baina Tony Curran hil zenuen?</font>
+
+1586
+01:32:11,625 --> 01:32:14,291
+<font size="20">Uste duzu neuk hil nuela Tony Curran?</font>
+
+1587
+01:32:15,250 --> 01:32:16,458
+<font size="20">Ba bai, mutiko.</font>
+
+1588
+01:32:17,166 --> 01:32:18,166
+<font size="20">Sentitzen dut.</font>
+
+1589
+01:32:23,125 --> 01:32:24,916
+<font size="20">Zaldia E2ra.</font>
+
+1590
+01:32:28,458 --> 01:32:31,791
+<font size="20">Donna, une baterako atera zaitezke?</font>
+
+1591
+01:32:32,750 --> 01:32:35,541
+<font size="20">- Zer asmo duzu?
+- Lasai, ez kezkatu.</font>
+
+1592
+01:32:43,083 --> 01:32:43,916
+<font size="20">Tira,</font>
+
+1593
+01:32:45,166 --> 01:32:46,750
+<font size="20">gogoko duzu pribatutasuna.</font>
+
+1594
+01:32:47,416 --> 01:32:49,958
+<font size="20">Mehatxua da hori? Ez nizuke aholkatuko.</font>
+
+1595
+01:32:50,041 --> 01:32:53,541
+<font size="20">Beste hiru poloniar antzeman ditugu
+Amsterdamen, nagusi.</font>
+
+1596
+01:32:53,625 --> 01:32:54,916
+<font size="20">Hona pasaporteak…</font>
+
+1597
+01:33:02,125 --> 01:33:04,125
+<font size="20">Langileak antzematen dituzu?</font>
+
+1598
+01:33:04,208 --> 01:33:06,875
+<font size="20">Eta zergatik ematen dizkizu
+bere pasaporteak?</font>
+
+1599
+01:33:07,625 --> 01:33:08,625
+<font size="20">Gordetzeko.</font>
+
+1600
+01:33:08,708 --> 01:33:10,625
+<font size="20">Bai, egin harrituarena.</font>
+
+1601
+01:33:11,250 --> 01:33:12,333
+<font size="20">Enpresariak gara.</font>
+
+1602
+01:33:13,500 --> 01:33:16,291
+<font size="20">Badakizu jendea ekartzea
+legez kanpo lan egiteko</font>
+
+1603
+01:33:16,375 --> 01:33:18,541
+<font size="20">eta heltzean agiriak kentzea</font>
+
+1604
+01:33:18,625 --> 01:33:21,958
+<font size="20">erabat legearen kontrakoa dela, Bobby.</font>
+
+1605
+01:33:22,666 --> 01:33:25,666
+<font size="20">Hori 25 urte dira espetxean,</font>
+
+1606
+01:33:25,750 --> 01:33:27,166
+<font size="20">gutxienez.</font>
+
+1607
+01:33:28,333 --> 01:33:30,791
+<font size="20">Beraz, hau proposatzen dizut.</font>
+
+1608
+01:33:31,500 --> 01:33:34,000
+<font size="20">Amaituko duzu operazio hau, guztiz.</font>
+
+1609
+01:33:34,625 --> 01:33:36,333
+<font size="20">Pasaporteak, langileak.</font>
+
+1610
+01:33:37,416 --> 01:33:43,083
+<font size="20">Coopers Chase salduko diozu
+erabakitzen dudan eskaintzaileari</font>
+
+1611
+01:33:43,166 --> 01:33:47,666
+<font size="20">eta trukean isilean mantenduko ditut
+zure nortasuna eta kokapena.</font>
+
+1612
+01:33:48,750 --> 01:33:51,541
+<font size="20">Ez dut polizia-zantzurik nahi inguruan.</font>
+
+1613
+01:33:51,625 --> 01:33:55,041
+<font size="20">Eta espero dut arduratuko zarela
+gure lagun uniformedunaz.</font>
+
+1614
+01:33:55,541 --> 01:33:57,291
+<font size="20">Bestela, neu arduratuko naiz.</font>
+
+1615
+01:33:59,541 --> 01:34:01,625
+<font size="20">Nire lagun Donnak minik hartzen badu,</font>
+
+1616
+01:34:01,708 --> 01:34:06,166
+<font size="20">nik neuk utziko ditut
+hamabi arrosa zure hilkutxa gainean.</font>
+
+1617
+01:34:08,458 --> 01:34:10,958
+<font size="20">Tira, ez dakit zergatik hil zenuen Tony.</font>
+
+1618
+01:34:12,291 --> 01:34:14,083
+<font size="20">Agian arrazoi onak zenituen,</font>
+
+1619
+01:34:15,083 --> 01:34:17,083
+<font size="20">baina badakit egin zenuela.</font>
+
+1620
+01:34:19,583 --> 01:34:21,416
+<font size="20">Gizon azkarra zara, Stephen.</font>
+
+1621
+01:34:22,416 --> 01:34:24,666
+<font size="20">Ez zenuen inolako aztarnarik utziko.</font>
+
+1622
+01:34:31,083 --> 01:34:33,041
+<font size="20">Ulertu behar duzu, Stephen,</font>
+
+1623
+01:34:34,000 --> 01:34:35,208
+<font size="20">nahi gabe izan zela.</font>
+
+1624
+01:34:37,208 --> 01:34:39,833
+<font size="20">Ez nuen Tony hiltzeko asmorik.</font>
+
+1625
+01:34:39,916 --> 01:34:43,000
+<font size="20">Pasaportea nahi nuen. Ulertu behar duzu.</font>
+
+1626
+01:34:44,000 --> 01:34:45,916
+<font size="20">Sinetsi behar didazu, Stephen.</font>
+
+1627
+01:34:47,250 --> 01:34:48,166
+<font size="20">Stephen.</font>
+
+1628
+01:34:54,333 --> 01:34:55,500
+<font size="20">Ai, sentitzen dut.</font>
+
+1629
+01:34:56,083 --> 01:34:57,416
+<font size="20">Sentitzen dut, mutiko.</font>
+
+1630
+01:34:58,125 --> 01:34:59,208
+<font size="20">Ene.</font>
+
+1631
+01:34:59,833 --> 01:35:01,625
+<font size="20">Zertaz hitz egiten ari ginen?</font>
+
+1632
+01:35:05,833 --> 01:35:08,708
+<font size="20">Hitz egiten ari zenidan historiaz.</font>
+
+1633
+01:35:09,958 --> 01:35:10,791
+<font size="20">Bai.</font>
+
+1634
+01:35:13,000 --> 01:35:16,000
+<font size="20">- Te gehiago nahi duzu?
+- A, bai, mesedez.</font>
+
+1635
+01:35:17,208 --> 01:35:18,041
+<font size="20">Eskerrik asko.</font>
+
+1636
+01:35:18,750 --> 01:35:20,416
+<font size="20">Azukre-koxkor bat. Tira, ez.</font>
+
+1637
+01:35:21,000 --> 01:35:23,625
+<font size="20">Elizabeth ez dago hemen. Lau koxkor.</font>
+
+1638
+01:35:24,416 --> 01:35:27,333
+<font size="20">Esan, tratua daukagu?</font>
+
+1639
+01:35:32,833 --> 01:35:33,666
+<font size="20">Bai.</font>
+
+1640
+01:35:40,500 --> 01:35:42,041
+<font size="20">Esan duzu "gara".</font>
+
+1641
+01:35:42,666 --> 01:35:44,458
+<font size="20">Enpresari bat? Nor da bestea?</font>
+
+1642
+01:35:45,250 --> 01:35:48,166
+<font size="20">Nire negoziokidea, Tony Curran.
+Goian bego.</font>
+
+1643
+01:35:48,750 --> 01:35:52,208
+<font size="20">Tony Curran sartuta zegoen
+pasaporteen kontu zikin honetan?</font>
+
+1644
+01:35:52,791 --> 01:35:54,416
+<font size="20">Langileak banatzen genituen.</font>
+
+1645
+01:35:54,500 --> 01:35:57,791
+<font size="20">Batzuk hemen geratzen ziren,
+gidatzen, loreak entregatzen.</font>
+
+1646
+01:35:57,875 --> 01:35:59,958
+<font size="20">Tonyk besteak eramaten zituen
+Coopers Chasera.</font>
+
+1647
+01:36:00,041 --> 01:36:02,416
+<font size="20">Aizu, gizakiez ari gara.</font>
+
+1648
+01:36:02,500 --> 01:36:05,583
+<font size="20">Nik pasaporteak bueltatzen nizkien
+noizbehinka.</font>
+
+1649
+01:36:05,666 --> 01:36:07,083
+<font size="20">Familiak bisitatzeko.</font>
+
+1650
+01:36:07,708 --> 01:36:10,458
+<font size="20">Tonyk ez. Zerri handizalea zen.</font>
+
+1651
+01:36:10,541 --> 01:36:13,416
+<font size="20">Oso gutxitan bueltatzen zizkien,
+edo inoiz ez.</font>
+
+1652
+01:36:16,375 --> 01:36:17,208
+<font size="20">Jainko maitea.</font>
+
+1653
+01:36:35,041 --> 01:36:37,958
+<font size="20">Deitu guztiei, Donna.
+Ron, Ibrahim, Joyce, Hudson.</font>
+
+1654
+01:36:38,041 --> 01:36:39,958
+<font size="20">- Errefortzuak behar ditugu.
+- Nora?</font>
+
+1655
+01:36:40,041 --> 01:36:43,208
+<font size="20">Nire apartamentura.
+Zazpi minututan helduko gara.</font>
+
+1656
+01:36:45,000 --> 01:36:47,125
+<font size="20">- Edan ezazu bero.
+- Eskerrik asko.</font>
+
+1657
+01:36:47,625 --> 01:36:48,458
+<font size="20">Zoragarri.</font>
+
+1658
+01:37:16,083 --> 01:37:18,875
+<font size="20">Stephen, ez ezazu edan.
+Pozoituta egon liteke.</font>
+
+1659
+01:37:18,958 --> 01:37:21,958
+<font size="20">- Zertaz ari zara?
+- Edan duzu.</font>
+
+1660
+01:37:22,958 --> 01:37:24,833
+<font size="20">Ene. Ai ene, Donna.</font>
+
+1661
+01:37:27,458 --> 01:37:29,416
+<font size="20">- Nora zoaz zu?
+- Gaur ez, lagun.</font>
+
+1662
+01:37:29,500 --> 01:37:30,708
+<font size="20">Adi, motel.</font>
+
+1663
+01:37:32,541 --> 01:37:33,708
+<font size="20">Beti bezain azkar.</font>
+
+1664
+01:37:36,166 --> 01:37:39,125
+<font size="20">Joyce, Bogdanek Stephen pozoitu zezakeen.</font>
+
+1665
+01:37:41,875 --> 01:37:42,791
+<font size="20">Ondo dago.</font>
+
+1666
+01:37:44,166 --> 01:37:45,333
+<font size="20">Pultsu ona dauka.</font>
+
+1667
+01:37:45,958 --> 01:37:49,291
+<font size="20">Baina azterketa beharko du.
+Medikuari deituko diot.</font>
+
+1668
+01:37:49,375 --> 01:37:50,208
+<font size="20">Bale.</font>
+
+1669
+01:37:52,500 --> 01:37:55,166
+<font size="20">Bogdan Jankowski, atxilotuta zaude</font>
+
+1670
+01:37:55,250 --> 01:37:57,291
+<font size="20">Tony Curran hil izanagatik.</font>
+
+1671
+01:37:57,375 --> 01:37:59,916
+<font size="20">Ez duzue frogarik, ez dut ezer esan.</font>
+
+1672
+01:38:00,000 --> 01:38:03,416
+<font size="20">Stephenek batzuetan ez daki zer dioen.
+Ezin du gogoratu.</font>
+
+1673
+01:38:03,500 --> 01:38:04,333
+<font size="20">Itxaron.</font>
+
+1674
+01:38:05,041 --> 01:38:08,166
+<font size="20">Stepheni ezer kontatu badiozu,
+ez du gogoratu behar.</font>
+
+1675
+01:38:08,250 --> 01:38:12,708
+<font size="20">Zertaz ari zara? Zergatik ez diguzue
+partida amaitzen uzten?</font>
+
+1676
+01:38:13,708 --> 01:38:16,333
+<font size="20">Stephenek xake-partidak grabatzen ditu.</font>
+
+1677
+01:38:17,916 --> 01:38:19,333
+<font size="20">Zaldia E4ra…</font>
+
+1678
+01:38:19,416 --> 01:38:22,500
+<font size="20">Zure estrategia antzematea gogoko du.</font>
+
+1679
+01:38:24,291 --> 01:38:26,625
+<font size="20">Ez nuen Tony hiltzeko asmorik.</font>
+
+1680
+01:38:26,708 --> 01:38:29,708
+<font size="20">Pasaportea nahi nuen. Ulertu behar duzu.</font>
+
+1681
+01:38:30,208 --> 01:38:32,000
+<font size="20">Sinetsi behar didazu, Stephen.</font>
+
+1682
+01:38:34,500 --> 01:38:35,458
+<font size="20">O, Bogdan.</font>
+
+1683
+01:38:37,541 --> 01:38:38,833
+<font size="20">Zergatik egin zenuen?</font>
+
+1684
+01:38:40,791 --> 01:38:41,916
+<font size="20">Nahi gabe izan zen.</font>
+
+1685
+01:38:43,500 --> 01:38:45,000
+<font size="20">Pasaportea nahi nuen.</font>
+
+1686
+01:38:46,583 --> 01:38:50,416
+<font size="20">Tonyk zuen eta bere etxera joan nintzen.
+Baina ez zidan eman nahi.</font>
+
+1687
+01:38:51,083 --> 01:38:54,500
+<font size="20">Ez zidan entzun.
+Gero haserretu zen eta eraso zidan.</font>
+
+1688
+01:38:54,583 --> 01:38:58,583
+<font size="20">Defendatu behar nintzen.
+Bera edo ni zen, ez nuen aukerarik.</font>
+
+1689
+01:38:59,791 --> 01:39:01,958
+<font size="20">Beraz, bai, Tony hil nuen,</font>
+
+1690
+01:39:02,041 --> 01:39:07,375
+<font size="20">baina ez nuen hil nahi.
+Ez nuen hori nahi. Sentitzen dut.</font>
+
+1691
+01:39:09,375 --> 01:39:12,000
+<font size="20">Eta ez duzu Stephen pozoitu, ezta?</font>
+
+1692
+01:39:12,541 --> 01:39:15,125
+<font size="20">Jakina ez dudala Stephen pozoitu, ez.</font>
+
+1693
+01:39:15,208 --> 01:39:17,000
+<font size="20">Nire laguna da.</font>
+
+1694
+01:39:18,041 --> 01:39:19,791
+<font size="20">Bai. Bai, badakit.</font>
+
+1695
+01:39:21,500 --> 01:39:23,125
+<font size="20">Bale, eraman ezazue.</font>
+
+1696
+01:39:31,416 --> 01:39:34,666
+<font size="20">JASON RITCHIEK, MAILUAK,
+TXAPELDUNA GARAITU DU</font>
+
+1697
+01:39:41,708 --> 01:39:43,625
+<font size="20">Zenbat darama hau egiten?</font>
+
+1698
+01:39:43,708 --> 01:39:46,041
+<font size="20">- Ia urte bat.
+- Oso lasai dago.</font>
+
+1699
+01:39:46,125 --> 01:39:49,166
+<font size="20">Bai, ez dirudi batere urduri dagoenik.</font>
+
+1700
+01:39:49,250 --> 01:39:51,083
+<font size="20">- A ze polita.
+- Urduri nago.</font>
+
+1701
+01:39:52,875 --> 01:39:55,166
+<font size="20">- Ze urduri.
+- Ballet-dantzaria dirudi.</font>
+
+1702
+01:39:55,250 --> 01:39:56,250
+<font size="20">Bai, ezta?</font>
+
+1703
+01:39:57,458 --> 01:39:59,416
+<font size="20">- Bikaina da.
+- A, begira horri.</font>
+
+1704
+01:39:59,500 --> 01:40:03,416
+<font size="20">- Nola lurreratzen du erori gabe?
+- Eta lasai egon.</font>
+
+1705
+01:40:05,166 --> 01:40:06,666
+<font size="20">Pila bat urduritzen nau.</font>
+
+1706
+01:40:09,791 --> 01:40:12,125
+<font size="20">- A ze lurreratzea. Bai!
+- Hori duk eta!</font>
+
+1707
+01:40:12,208 --> 01:40:13,500
+<font size="20">Bravo, bravo.</font>
+
+1708
+01:40:13,583 --> 01:40:15,958
+<font size="20">- Ronnie, bravo.
+- Eskerrik asko.</font>
+
+1709
+01:40:16,500 --> 01:40:17,541
+<font size="20">Jainko maitea.</font>
+
+1710
+01:40:18,500 --> 01:40:20,375
+<font size="20">- Bravo.
+- Milesker.</font>
+
+1711
+01:40:31,125 --> 01:40:33,833
+<font size="20">Barka horrela sartzeagatik, John.</font>
+
+1712
+01:40:34,458 --> 01:40:35,750
+<font size="20">Talde osoa etorri da.</font>
+
+1713
+01:40:36,583 --> 01:40:38,416
+<font size="20">Zeri zor diogu plazer hau?</font>
+
+1714
+01:40:39,333 --> 01:40:41,166
+<font size="20">John, artxibo hau aurkitu nuen.</font>
+
+1715
+01:40:41,250 --> 01:40:44,083
+<font size="20">Gure azken kasua da, zurizko emakumea.</font>
+
+1716
+01:40:44,625 --> 01:40:46,583
+<font size="20">Ezkutatua, baztertuta.</font>
+
+1717
+01:40:46,666 --> 01:40:49,291
+<font size="20">Eta Pennyk
+inoiz ez zuen aztertzea iradoki.</font>
+
+1718
+01:40:50,166 --> 01:40:51,750
+<font size="20">Zergatik izan liteke?</font>
+
+1719
+01:40:53,750 --> 01:40:56,458
+<font size="20">Gogoan duzu Angela Hughesen kasua, Pen?</font>
+
+1720
+01:40:57,875 --> 01:41:00,125
+<font size="20">Lapurreta batean hil zuten.</font>
+
+1721
+01:41:00,208 --> 01:41:03,541
+<font size="20">Lapur batek sastakatu
+eta logelako leihotik bota zuen.</font>
+
+1722
+01:41:03,625 --> 01:41:05,708
+<font size="20">Baina ez zegoen lapurrik.</font>
+
+1723
+01:41:06,250 --> 01:41:09,166
+<font size="20">Peter Mercer zen,
+mutil-laguna, benetako hiltzailea.</font>
+
+1724
+01:41:09,250 --> 01:41:12,208
+<font size="20">Poliziak ez zuen akusatu
+istorioa sinetsi zuelako.</font>
+
+1725
+01:41:12,291 --> 01:41:14,708
+<font size="20">Gogoko zuten, beste mutikote bat.</font>
+
+1726
+01:41:15,583 --> 01:41:18,083
+<font size="20">Baina zuk bazenekien okertu zirela, ezta?</font>
+
+1727
+01:41:18,166 --> 01:41:22,458
+<font size="20">Bazenekien erruduna zela.
+Argi ikusi zenuen.</font>
+
+1728
+01:41:26,458 --> 01:41:28,333
+<font size="20">Pennyk hil zuen Peter Mercer,</font>
+
+1729
+01:41:29,208 --> 01:41:30,208
+<font size="20">ezta, John?</font>
+
+1730
+01:41:32,291 --> 01:41:36,791
+<font size="20">Bazekien bereak egingo zuela,
+eta bilatu eta hil zuen.</font>
+
+1731
+01:41:37,750 --> 01:41:42,125
+<font size="20">Eta gero gorpua hilerrian ezkutatu zuen.
+Eta uste dut zuk lagundu zeniola.</font>
+
+1732
+01:41:42,208 --> 01:41:46,166
+<font size="20">Eta horiek dira Bogdanek
+jakin gabe atera zituen hezurrak.</font>
+
+1733
+01:41:48,375 --> 01:41:53,416
+<font size="20">Zeuk esan zenidan mezara joaten zinetela
+aita Mackierekin 70ko hamarkadan.</font>
+
+1734
+01:41:53,500 --> 01:41:58,541
+<font size="20">Horrek hilerriarekin lotzen zaituzte
+Peter desagertu zen garaian.</font>
+
+1735
+01:41:59,666 --> 01:42:05,583
+<font size="20">Baina argitu dugu
+krimenaren lekuko argazkiengatik.</font>
+
+1736
+01:42:05,666 --> 01:42:08,166
+<font size="20">Penny guztietan dagoelako.</font>
+
+1737
+01:42:09,750 --> 01:42:13,375
+<font size="20">- Zer frogatzen du horrek?
+- Ezer ez, ofizialki. Baina begira.</font>
+
+1738
+01:42:14,041 --> 01:42:16,958
+<font size="20">Begira nola begiratzen dion
+Peter Mercerri.</font>
+
+1739
+01:42:17,041 --> 01:42:18,125
+<font size="20">Bere begitartea.</font>
+
+1740
+01:42:18,708 --> 01:42:21,333
+<font size="20">Badakigu Pennyk aurpegi
+hori jartzen duenean,</font>
+
+1741
+01:42:22,291 --> 01:42:24,750
+<font size="20">gauzak serio jarriko direla.</font>
+
+1742
+01:42:26,208 --> 01:42:30,416
+<font size="20">Pennyk ezin zuen onartu
+harroputz horrek berea egitea.</font>
+
+1743
+01:42:31,583 --> 01:42:34,041
+<font size="20">Erasotzaile gehiegi ikusi zituen aske.</font>
+
+1744
+01:42:35,041 --> 01:42:37,458
+<font size="20">Ulertzen dut, John, benetan. Baina…</font>
+
+1745
+01:42:38,375 --> 01:42:39,833
+<font size="20">hilketa da.</font>
+
+1746
+01:42:40,875 --> 01:42:42,916
+<font size="20">Zeuk hil zenuen Ian Ventham, John.</font>
+
+1747
+01:42:44,208 --> 01:42:48,625
+<font size="20">Bazenekien Ian Venthamek gorpua ateratzean
+istorioa azaleratu zitekeela.</font>
+
+1748
+01:42:49,208 --> 01:42:51,916
+<font size="20">Ventham desagertu behar zen,
+Penny babesteko.</font>
+
+1749
+01:42:52,458 --> 01:42:53,958
+<font size="20">Gauza bera egingo nukeen.</font>
+
+1750
+01:42:57,250 --> 01:43:00,791
+<font size="20">Xiringa batzuk dauzkazu
+tiradera horretan, ezt? Ikusi ditut.</font>
+
+1751
+01:43:11,125 --> 01:43:15,291
+<font size="20">Zer dago xiringetan, John?
+Fentanilo dosi izugarria?</font>
+
+1752
+01:43:15,375 --> 01:43:20,375
+<font size="20">Eta jakin badakizu erabiltzen, ezta?
+Izan ere, albaitaria izan zara beti.</font>
+
+1753
+01:43:30,666 --> 01:43:31,875
+<font size="20">Penny maite dut,</font>
+
+1754
+01:43:33,291 --> 01:43:34,166
+<font size="20">izugarri.</font>
+
+1755
+01:43:35,583 --> 01:43:37,375
+<font size="20">Baina zertan lagun diezaioket?</font>
+
+1756
+01:43:38,416 --> 01:43:40,416
+<font size="20">Hemen ematen dut eguna, egunero.</font>
+
+1757
+01:43:41,166 --> 01:43:43,208
+<font size="20">Irakurtzen diot, eskutik heltzen.</font>
+
+1758
+01:43:44,250 --> 01:43:45,458
+<font size="20">Gaueko musua ematen.</font>
+
+1759
+01:43:46,875 --> 01:43:48,416
+<font size="20">Baina ezin dut leheneratu.</font>
+
+1760
+01:43:50,708 --> 01:43:52,708
+<font size="20">Ezin dut bere senera etorrarazi.</font>
+
+1761
+01:43:55,208 --> 01:43:57,041
+<font size="20">Gauza bakar bat egin nezakeen.</font>
+
+1762
+01:43:58,583 --> 01:43:59,916
+<font size="20">Babes zenezakeen.</font>
+
+1763
+01:44:03,750 --> 01:44:06,500
+<font size="20">Eta azkenean,
+hori ere ezin izan nuen egin.</font>
+
+1764
+01:44:12,125 --> 01:44:14,333
+<font size="20">Poliziari kontatuko diozue, jakina.</font>
+
+1765
+01:44:16,166 --> 01:44:17,000
+<font size="20">Mesedez…</font>
+
+1766
+01:44:18,666 --> 01:44:21,708
+<font size="20">Denbora pixka bat
+eman diezadakezu Pennyrekin?</font>
+
+1767
+01:44:23,375 --> 01:44:24,208
+<font size="20">Lagun gisa.</font>
+
+1768
+01:44:24,916 --> 01:44:26,458
+<font size="20">Poliziari deitu aurretik.</font>
+
+1769
+01:44:36,875 --> 01:44:37,708
+<font size="20">Noski.</font>
+
+1770
+01:44:38,958 --> 01:44:41,666
+<font size="20">Utziko zaituztegu azken agurrak emateko.</font>
+
+1771
+01:44:41,750 --> 01:44:42,583
+<font size="20">Elkarrekin.</font>
+
+1772
+01:44:44,375 --> 01:44:45,208
+<font size="20">Eskerrik asko.</font>
+
+1773
+01:44:50,875 --> 01:44:52,416
+<font size="20">O, Pen.</font>
+
+1774
+01:44:53,541 --> 01:44:55,083
+<font size="20">Zure falta sentituko dut.</font>
+
+1775
+01:45:00,000 --> 01:45:01,333
+<font size="20">Ondo lo egin, laztana.</font>
+
+1776
+01:45:03,875 --> 01:45:05,041
+<font size="20">Hau abentura.</font>
+
+1777
+01:45:10,833 --> 01:45:15,958
+<font size="20">OHK</font>
+
+1778
+01:45:20,625 --> 01:45:25,000
+<font size="20">Ostegunetako Hilketen Klubak argitu zuen
+Angela Hughesen kasu irekia.</font>
+
+1779
+01:45:25,625 --> 01:45:26,791
+<font size="20">Zurizko emakumea.</font>
+
+1780
+01:45:30,458 --> 01:45:33,125
+<font size="20">Bilatzen genituen erantzunak
+aurkitu genituen.</font>
+
+1781
+01:45:34,916 --> 01:45:36,750
+<font size="20">Baina merezi izan zuen kostuak?</font>
+
+1782
+01:45:38,166 --> 01:45:39,000
+<font size="20">Minak?</font>
+
+1783
+01:45:41,000 --> 01:45:41,833
+<font size="20">Galerak?</font>
+
+1784
+01:45:48,250 --> 01:45:49,750
+<font size="20">Maitasunez eginda gaude.</font>
+
+1785
+01:45:50,708 --> 01:45:51,583
+<font size="20">Zuek eta ni.</font>
+
+1786
+01:45:52,208 --> 01:45:53,833
+<font size="20">Ez dago horren dudarik.</font>
+
+1787
+01:45:53,916 --> 01:45:57,208
+<font size="20">Hemen bildutakoak ikustean,
+maitasuna ikusten dut.</font>
+
+1788
+01:45:58,208 --> 01:45:59,916
+<font size="20">Aitarena, semearekiko.</font>
+
+1789
+01:46:02,041 --> 01:46:03,875
+<font size="20">Amarena, alabarekiko.</font>
+
+1790
+01:46:06,041 --> 01:46:08,541
+<font size="20">Emaztearena, heltzen dion senarrarekiko.</font>
+
+1791
+01:46:09,666 --> 01:46:13,541
+<font size="20">Eta adiskidetasunaren
+maitasun ahaltsua ere bai.</font>
+
+1792
+01:46:15,083 --> 01:46:16,083
+<font size="20">Adiskide berriak.</font>
+
+1793
+01:46:17,000 --> 01:46:18,333
+<font size="20">Ustekabeko adiskideak.</font>
+
+1794
+01:46:18,833 --> 01:46:22,708
+<font size="20">Honek sentiarazten dio gizon bati,
+urtez noraezean ibili eta gero,</font>
+
+1795
+01:46:24,083 --> 01:46:25,666
+<font size="20">bere lekua aurkitu duela.</font>
+
+1796
+01:46:26,875 --> 01:46:30,000
+<font size="20">Batzuetan, pertsona onek
+gauza txarrak egiten dituzte.</font>
+
+1797
+01:46:30,083 --> 01:46:32,208
+<font size="20">Baina Johnek maitasunez jardun zuen.</font>
+
+1798
+01:46:34,333 --> 01:46:35,791
+<font size="20">Penny maite zuelako.</font>
+
+1799
+01:46:37,041 --> 01:46:41,166
+<font size="20">Eta bere maitasuna
+denbora eta espazioaz harago doa,</font>
+
+1800
+01:46:41,958 --> 01:46:44,625
+<font size="20">eta elkarrekin dantzatuko dute
+izarren artean.</font>
+
+1801
+01:46:45,958 --> 01:46:47,208
+<font size="20">Hutsunea izango dugu.</font>
+
+1802
+01:46:49,708 --> 01:46:51,916
+<font size="20">Eta betiko gogoratuko ditugu.</font>
+
+1803
+01:46:59,875 --> 01:47:00,708
+<font size="20">Ibrahim,</font>
+
+1804
+01:47:01,750 --> 01:47:03,916
+<font size="20">gorespen-hitzaldi ederra egin duzu.</font>
+
+1805
+01:47:04,000 --> 01:47:06,291
+<font size="20">Eskerrik asko ordezkatzeagatik.</font>
+
+1806
+01:47:06,375 --> 01:47:07,666
+<font size="20">Noski, maitea.</font>
+
+1807
+01:47:08,875 --> 01:47:10,916
+<font size="20">Ez nukeen esaldi bakar bat esango.</font>
+
+1808
+01:47:12,291 --> 01:47:13,166
+<font size="20">Lasai.</font>
+
+1809
+01:47:14,750 --> 01:47:15,958
+<font size="20">- Joyce?
+- Bai?</font>
+
+1810
+01:47:18,708 --> 01:47:20,708
+<font size="20">Hau zuretzat da.</font>
+
+1811
+01:47:25,125 --> 01:47:26,041
+<font size="20">Pennyrena zen.</font>
+
+1812
+01:47:27,000 --> 01:47:28,916
+<font size="20">Baina zuk izatea nahi dugu.</font>
+
+1813
+01:47:35,541 --> 01:47:38,166
+<font size="20">Ongi etorri Ostegunetako Hilketen Klubera.</font>
+
+1814
+01:47:38,250 --> 01:47:39,083
+<font size="20">Eskerrik asko.</font>
+
+1815
+01:47:39,166 --> 01:47:41,958
+<font size="20">Pozten gara ofizialki taldean izateaz.</font>
+
+1816
+01:47:43,125 --> 01:47:45,333
+<font size="20">Elkarrekin lan egiteko irrikaz gaude.</font>
+
+1817
+01:47:45,416 --> 01:47:47,916
+<font size="20">- Eta ez ahaztu oinarrizkoena.
+- Zer?</font>
+
+1818
+01:47:48,500 --> 01:47:50,541
+<font size="20">Beti tarta ekartzea.</font>
+
+1819
+01:47:53,625 --> 01:47:54,625
+<font size="20">Joanna, begira.</font>
+
+1820
+01:47:55,291 --> 01:47:57,291
+<font size="20">Kide ofizial izendatu naute.</font>
+
+1821
+01:47:58,125 --> 01:47:59,583
+<font size="20">Zorionak, ama.</font>
+
+1822
+01:48:01,666 --> 01:48:04,833
+<font size="20">Gogoan duzu hona aldatzea
+akatsa zela esan nizunean?</font>
+
+1823
+01:48:06,083 --> 01:48:06,958
+<font size="20">Oker nengoen.</font>
+
+1824
+01:48:07,791 --> 01:48:09,500
+<font size="20">Hara, lehendabiziko aldia.</font>
+
+1825
+01:48:11,666 --> 01:48:14,125
+<font size="20">Aita hil eta gero pozik zaude berriz.</font>
+
+1826
+01:48:14,958 --> 01:48:16,708
+<font size="20">Eta Elizabethi esker da.</font>
+
+1827
+01:48:17,333 --> 01:48:18,166
+<font size="20">Roni esker.</font>
+
+1828
+01:48:19,000 --> 01:48:19,916
+<font size="20">Ibrahimi esker.</font>
+
+1829
+01:48:20,625 --> 01:48:22,583
+<font size="20">Eta Coopers Chasei esker.</font>
+
+1830
+01:48:23,500 --> 01:48:25,791
+<font size="20">Eta zergatik ez duzu erosten?</font>
+
+1831
+01:48:25,875 --> 01:48:28,833
+<font size="20">- Barkatu?
+- Salgai omen dago.</font>
+
+1832
+01:48:29,541 --> 01:48:31,458
+<font size="20">- Nork saltzen du?
+- Lore-saltzaile batek.</font>
+
+1833
+01:48:32,333 --> 01:48:33,541
+<font size="20">Zer deritzozu?</font>
+
+1834
+01:48:35,208 --> 01:48:36,833
+<font size="20">Geure etxean gera gintezke.</font>
+
+1835
+01:48:38,875 --> 01:48:40,791
+<font size="20">Oso proposamen interesgarria da.</font>
+
+1836
+01:48:42,416 --> 01:48:43,541
+<font size="20">Hitz egin dezagun.</font>
+
+1837
+01:48:44,500 --> 01:48:45,791
+<font size="20">O, Joanna.</font>
+
+1838
+01:48:46,333 --> 01:48:47,208
+<font size="20">Ama.</font>
+
+1839
+01:48:52,375 --> 01:48:53,208
+<font size="20">Eskerrik asko.</font>
+
+1840
+01:49:04,458 --> 01:49:08,333
+<font size="20">- Urteurren zoriontsua, maitea.
+- Zorionak. Beste urte bati.</font>
+
+1841
+01:49:15,791 --> 01:49:16,916
+<font size="20">Dantzatu nahi duzu?</font>
+
+1842
+01:49:17,625 --> 01:49:19,833
+<font size="20">- Zergatik ez?
+- Dantza dezagun.</font>
+
+1843
+01:49:20,875 --> 01:49:23,083
+<font size="20">Bizitza laburregia da ez dantzatzeko.</font>
+
+1844
+01:49:53,041 --> 01:49:56,666
+<font size="20">Adi. Zatoz hona hau ikustera.</font>
+
+1845
+01:49:56,750 --> 01:49:58,291
+<font size="20">Zer esango dizut, ba?</font>
+
+1846
+01:49:59,416 --> 01:50:01,416
+<font size="20">- Tori.
+- Topa.</font>
+
+1847
+01:50:02,250 --> 01:50:04,750
+<font size="20">- Begira.
+- Segundo bakarrean egin du.</font>
+
+1848
+01:50:05,500 --> 01:50:06,458
+<font size="20">Jainko maitea.</font>
+
+1849
+01:50:06,541 --> 01:50:09,833
+<font size="20">- Ez du aukerarik. Topa, aita.
+- Topa.</font>
+
+1850
+01:50:10,833 --> 01:50:14,375
+<font size="20">Marko zaharkituak.
+Oso gaztea nintzen ezkondu nintzenean.</font>
+
+1851
+01:50:14,458 --> 01:50:16,541
+<font size="20">Ez dut uste Joanna ezkonduko denik.</font>
+
+1852
+01:50:17,125 --> 01:50:20,666
+<font size="20">Gerry urduri-urduri zegoen,
+baina oso jatorra zen.</font>
+
+1853
+01:50:28,166 --> 01:50:31,333
+<font size="20">Hara, Ibrahim, zeu zara?</font>
+
+1854
+01:50:32,708 --> 01:50:35,708
+<font size="20">- Zenbat urte zenituen?
+- 22 eta ilea.</font>
+
+1855
+01:50:37,166 --> 01:50:38,583
+<font size="20">Baina galanta oraindik.</font>
+
+1856
+01:57:45,541 --> 01:57:50,541
+<font size="20">Azpitituluak: Naiara Bitorika</font>
+

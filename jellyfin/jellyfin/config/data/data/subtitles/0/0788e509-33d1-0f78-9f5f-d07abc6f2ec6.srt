@@ -1,0 +1,2373 @@
+1
+00:00:24,190 --> 00:00:25,108
+Kérem, ne öl…
+
+2
+00:00:35,243 --> 00:00:36,494
+Kérem, ne öljön meg!
+
+3
+00:00:38,538 --> 00:00:39,873
+A lányom nagyon beteg.
+
+4
+00:00:51,051 --> 00:00:52,135
+Csukd be a szemed!
+
+5
+00:00:53,553 --> 00:00:55,263
+Fogadj szót, ha élni akarsz!
+
+6
+00:01:03,188 --> 00:01:04,773
+KÉREM, SZKENNELJEN
+
+7
+00:01:04,856 --> 00:01:06,483
+246-OS JÁTÉKOS
+SZKEN KÉSZ
+
+8
+00:01:06,566 --> 00:01:09,069
+A 246-os játékos kiesett.
+
+9
+00:01:17,869 --> 00:01:21,539
+NYERD MEG AZ ÉLETED 3.
+
+10
+00:01:24,000 --> 00:01:28,296
+ELSŐ RÉSZ
+KULCSOK ÉS KÉSEK
+
+11
+00:01:44,145 --> 00:01:44,979
+Vihetitek.
+
+12
+00:01:55,365 --> 00:01:58,243
+Hogyhogy hirtelen megtanultál viselkedni?
+
+13
+00:01:58,326 --> 00:01:59,494
+Ez nem vall rád.
+
+14
+00:02:00,578 --> 00:02:01,955
+Átgondoltam.
+
+15
+00:02:02,038 --> 00:02:03,581
+Ha már úgyis meghalnak,
+
+16
+00:02:03,665 --> 00:02:06,876
+mégsem annyira
+rossz ötlet felhasználni a szerveiket.
+
+17
+00:02:08,878 --> 00:02:10,380
+Helyes következtetés.
+
+18
+00:02:10,463 --> 00:02:12,590
+Örülök, hogy végre észhez tértél.
+
+19
+00:02:15,176 --> 00:02:16,636
+De látni akarom.
+
+20
+00:02:18,513 --> 00:02:19,430
+Micsodát?
+
+21
+00:02:19,514 --> 00:02:20,765
+A műtőt.
+
+22
+00:02:22,392 --> 00:02:23,393
+Minek?
+
+23
+00:02:27,522 --> 00:02:30,608
+Most már egy csónakban evezünk, nem?
+
+24
+00:02:31,651 --> 00:02:33,611
+Nincs helye köztünk titkoknak.
+
+25
+00:03:31,461 --> 00:03:32,378
+Meghalt?
+
+26
+00:03:34,631 --> 00:03:35,590
+Életben van.
+
+27
+00:03:36,174 --> 00:03:38,551
+Segítsetek átvinni az ágyba! Gyorsan!
+
+28
+00:03:38,635 --> 00:03:39,552
+Oké.
+
+29
+00:03:40,053 --> 00:03:42,513
+Gyerünk! Fektessük az ágyba!
+
+30
+00:03:47,727 --> 00:03:49,437
+Sehol sem látom.
+
+31
+00:03:50,772 --> 00:03:52,357
+Mennyit ivott tegnap este?
+
+32
+00:03:53,650 --> 00:03:54,943
+Ennyit azért nem.
+
+33
+00:03:55,026 --> 00:03:58,279
+Láttam az üres üvegeket!
+Bőven volt belőlük.
+
+34
+00:04:00,740 --> 00:04:05,745
+Lehet, hogy kijött hányni,
+és belepottyant a vízbe.
+
+35
+00:04:05,828 --> 00:04:07,622
+Nagy hullámok voltak az éjjel.
+
+36
+00:04:07,705 --> 00:04:10,917
+Lehet, hogy ezt hallottam
+az éjszaka közepén?
+
+37
+00:04:11,584 --> 00:04:12,627
+Mit hallottál?
+
+38
+00:04:12,710 --> 00:04:16,589
+Beszédfoszlányokat, aztán meg csattanást.
+
+39
+00:04:17,298 --> 00:04:18,341
+Hány órakor?
+
+40
+00:04:18,424 --> 00:04:20,635
+Hajnal három körül, nem?
+
+41
+00:04:20,718 --> 00:04:22,178
+De, nagyjából.
+
+42
+00:04:22,262 --> 00:04:24,847
+Mire kiértem, Park kapitány már itt volt.
+
+43
+00:04:25,390 --> 00:04:28,268
+Szólni kellett volna nektek,
+hogy keressük meg.
+
+44
+00:04:28,351 --> 00:04:29,936
+Fésüljük át a környéket!
+
+45
+00:04:30,019 --> 00:04:31,104
+De Hwang!
+
+46
+00:04:31,187 --> 00:04:35,608
+Itt erősek az áramlatok.
+Éjszaka biztos elsodorta a víz.
+
+47
+00:04:35,692 --> 00:04:38,278
+Ha részegen a vízbe esett, biztos meghalt.
+
+48
+00:04:38,361 --> 00:04:40,947
+Van időtök holttestet keresgélni?
+
+49
+00:04:41,030 --> 00:04:43,283
+Azt mondtátok, négy napunk maradt.
+
+50
+00:04:46,119 --> 00:04:48,830
+Menjünk a kikötőbe! Kell egy másik drónos.
+
+51
+00:04:50,832 --> 00:04:51,791
+Induljunk!
+
+52
+00:05:14,522 --> 00:05:17,650
+- Támadjunk mi elsőként!
+- Ne öljük halomra egymást!
+
+53
+00:05:17,734 --> 00:05:21,529
+- Pontosan ezt várják tőlünk!
+- Áldozatot hozunk a nagyobb jóért?
+
+54
+00:05:21,612 --> 00:05:25,700
+Még ha nagy árat követel is a tervünk,
+véget kell vetnünk a játéknak.
+
+55
+00:05:25,783 --> 00:05:29,954
+- Harcoljunk, hogy hazamehessünk!
+- Aki csatlakozna, lépjen előre!
+
+56
+00:05:30,038 --> 00:05:33,583
+- Miért engem hoztál Young-il helyett?
+- Mert a barátom vagy.
+
+57
+00:05:36,377 --> 00:05:37,378
+Uram?
+
+58
+00:05:41,424 --> 00:05:43,301
+Jaj, uram!
+
+59
+00:05:43,384 --> 00:05:44,719
+Hát életben van!
+
+60
+00:05:44,802 --> 00:05:45,887
+Hála a jó égnek!
+
+61
+00:05:46,971 --> 00:05:48,723
+Nem esett baja?
+
+62
+00:06:22,465 --> 00:06:23,966
+Hol vannak a többiek?
+
+63
+00:06:33,643 --> 00:06:35,019
+És Jung-bae?
+
+64
+00:06:45,071 --> 00:06:49,575
+Még csak nem is sejti,
+milyen következményekkel járt a hősködése.
+
+65
+00:06:49,659 --> 00:06:50,743
+Gi-hun!
+
+66
+00:07:13,850 --> 00:07:16,394
+FEJENKÉNTI NYEREMÉNY
+ÖSSZNYEREMÉNY
+
+67
+00:07:18,521 --> 00:07:22,233
+Tegnap este összesen 35 játékos esett ki.
+
+68
+00:07:22,316 --> 00:07:24,777
+Jelenleg még 60-an vannak játékban.
+
+69
+00:07:25,486 --> 00:07:28,489
+A nyeremény teljes összege
+39,6 milliárd von,
+
+70
+00:07:28,573 --> 00:07:31,409
+azaz fejenként 660 millió von.
+
+71
+00:07:33,369 --> 00:07:38,416
+Most lehetőségük lesz szavazni arról,
+hogy folytatják-e a játékot.
+
+72
+00:07:42,462 --> 00:07:44,255
+Engem miért hagytatok életben?
+
+73
+00:07:44,839 --> 00:07:46,841
+Miért nem öltetek meg engem is?
+
+74
+00:07:46,924 --> 00:07:49,135
+Halljam! Ki vele!
+
+75
+00:07:49,844 --> 00:07:51,679
+Engem miért hagytatok életben?
+
+76
+00:07:53,347 --> 00:07:55,558
+Lőj le, te rohadék!
+
+77
+00:07:55,641 --> 00:07:58,769
+Ez az, lőj agyon! Engem is öljetek meg!
+
+78
+00:08:00,938 --> 00:08:03,357
+Miért hagytatok életben?
+
+79
+00:08:04,525 --> 00:08:07,445
+Mit akartok tőlem?
+
+80
+00:08:09,280 --> 00:08:12,492
+Miért nem öltetek meg?
+
+81
+00:08:14,869 --> 00:08:16,287
+Ti győztetek!
+
+82
+00:08:17,413 --> 00:08:20,416
+Szóval nyugodtan öljetek meg!
+
+83
+00:08:22,460 --> 00:08:24,045
+Ti győztetek!
+
+84
+00:08:27,798 --> 00:08:30,801
+Könyörgök, most már öljetek meg!
+
+85
+00:08:41,646 --> 00:08:43,523
+Megint kikötöttünk.
+
+86
+00:08:44,273 --> 00:08:46,692
+Hívni akarnak egy másik drónost.
+
+87
+00:08:47,735 --> 00:08:51,614
+Nem találhatják meg a szigetet,
+amíg tart a játék.
+
+88
+00:08:51,697 --> 00:08:52,740
+Értettem, uram.
+
+89
+00:08:54,242 --> 00:08:57,870
+Hé, Hwang! Csörgess meg, ha készen álltok!
+
+90
+00:08:58,913 --> 00:09:00,998
+- Oké.
+- Nézzetek az orrotok elé!
+
+91
+00:09:05,670 --> 00:09:08,714
+És mit csináljak, ha valami balul üt ki?
+
+92
+00:09:15,429 --> 00:09:16,430
+Végezz velük!
+
+93
+00:09:17,723 --> 00:09:18,808
+A nyomozóval is!
+
+94
+00:09:23,187 --> 00:09:28,192
+Most pedig szavazni fognak arról,
+hogy akarják-e folytatni a játékot.
+
+95
+00:09:29,360 --> 00:09:33,114
+A szavazást ezúttal is
+a legnagyobb számmal fogjuk kezdeni.
+
+96
+00:09:33,197 --> 00:09:35,741
+456-os, kérem, szavazzon!
+
+97
+00:09:44,208 --> 00:09:47,044
+Ha háromig
+nem mutat hajlandóságot a szavazásra,
+
+98
+00:09:47,128 --> 00:09:49,046
+úgy vesszük, hogy tartózkodott.
+
+99
+00:09:50,923 --> 00:09:51,757
+Egy,
+
+100
+00:09:52,842 --> 00:09:54,885
+kettő, három.
+
+101
+00:09:57,972 --> 00:10:03,102
+A 456-os játékos lemondott
+a szavazati jogáról, tehát tartózkodott.
+
+102
+00:10:03,185 --> 00:10:05,980
+A 448-as játékos következik.
+Kérem, szavazzon!
+
+103
+00:10:23,998 --> 00:10:27,835
+Nem harapunk! Szavazz nyugodtan!
+
+104
+00:10:28,836 --> 00:10:30,463
+Ja, csinálj, amit akarsz!
+
+105
+00:10:30,546 --> 00:10:33,674
+Csak nyugodtan! Oda sem nézünk.
+
+106
+00:10:58,240 --> 00:11:00,034
+A veszteségeink:
+
+107
+00:11:00,534 --> 00:11:03,371
+nyolc vezető és 27 katona.
+
+108
+00:11:04,163 --> 00:11:06,957
+A halott katonákat cseréld dolgozókra,
+
+109
+00:11:07,041 --> 00:11:10,044
+és mielőbb állítsátok helyre a helyszínt!
+
+110
+00:11:11,003 --> 00:11:12,672
+Hamarosan jönnek a VIP-k.
+
+111
+00:11:12,755 --> 00:11:13,756
+Igenis, uram.
+
+112
+00:11:54,839 --> 00:11:56,340
+Hol tanultál lőni?
+
+113
+00:11:57,925 --> 00:12:01,303
+Tudtommal minden
+észak-koreai lányt besoroznak. Ez az oka?
+
+114
+00:12:02,179 --> 00:12:03,055
+Igen.
+
+115
+00:12:04,140 --> 00:12:05,725
+Hogyhogy elmenekültél?
+
+116
+00:12:06,767 --> 00:12:08,185
+Éheztél odaát?
+
+117
+00:12:08,978 --> 00:12:10,354
+Vagy valami
+
+118
+00:12:11,147 --> 00:12:13,315
+komoly pácba kerültél?
+
+119
+00:12:17,403 --> 00:12:19,572
+Azt mondtad, egy csónakban evezünk.
+
+120
+00:12:19,655 --> 00:12:22,241
+Akkor akár meg is ismerkedhetnénk.
+
+121
+00:12:22,324 --> 00:12:24,785
+Ha itt végeztünk, találkozhatunk.
+
+122
+00:12:25,453 --> 00:12:26,787
+És akkor elmesélem.
+
+123
+00:12:28,414 --> 00:12:29,874
+Nem akarok addig várni.
+
+124
+00:12:30,499 --> 00:12:32,835
+Van itt egy kellemes találkahely.
+
+125
+00:12:32,918 --> 00:12:34,128
+Ne mutassam meg?
+
+126
+00:12:34,211 --> 00:12:35,254
+Hosszú történet.
+
+127
+00:12:36,213 --> 00:12:37,840
+Előbb hadd lássam a műtőt!
+
+128
+00:12:37,923 --> 00:12:38,924
+Rendben.
+
+129
+00:12:39,967 --> 00:12:41,469
+Lent is van egy jó hely.
+
+130
+00:12:42,052 --> 00:12:43,387
+Neked is tetszeni fog.
+
+131
+00:12:49,351 --> 00:12:52,688
+A szabadon meghozott,
+demokratikus döntésük értelmében
+
+132
+00:12:52,772 --> 00:12:55,274
+holnap a következő játékkal folytatjuk.
+
+133
+00:12:55,357 --> 00:12:57,026
+Köszönjük!
+
+134
+00:13:15,127 --> 00:13:16,545
+Hé, 456-os!
+
+135
+00:13:17,880 --> 00:13:21,509
+Mondd csak! Mindvégig ez volt a terved?
+
+136
+00:13:22,635 --> 00:13:26,388
+Kitaláltad ezt a lázadást,
+hogy kicsald oda az embereket,
+
+137
+00:13:26,472 --> 00:13:28,641
+és egy csapásra megszabadulj tőlük?
+
+138
+00:13:29,934 --> 00:13:31,727
+De közben meg előadta magát!
+
+139
+00:13:31,811 --> 00:13:34,271
+„Öljetek meg!”
+
+140
+00:13:34,897 --> 00:13:36,690
+Ez is a műsor része volt?
+
+141
+00:13:36,774 --> 00:13:39,276
+Öcsém, kiráz tőle a hideg!
+
+142
+00:13:39,860 --> 00:13:40,820
+Engem is.
+
+143
+00:13:40,903 --> 00:13:44,198
+Ahelyett, hogy őt is lelőtték volna,
+visszahozták ide.
+
+144
+00:13:44,782 --> 00:13:46,450
+Biztos jó okuk volt rá.
+
+145
+00:13:46,534 --> 00:13:51,205
+A lényeg, hogy megöletted
+azokat az X-es marhákat.
+
+146
+00:13:51,956 --> 00:13:56,210
+Hála neked, nőtt a nyeremény,
+és elsöprő többséggel nyertünk.
+
+147
+00:13:56,836 --> 00:14:00,339
+Emberek, tapsoljuk meg a hősünket!
+
+148
+00:14:01,966 --> 00:14:03,592
+Köszönjük szépen!
+
+149
+00:14:04,176 --> 00:14:06,136
+Mindvégig közénk tartoztál!
+
+150
+00:14:09,890 --> 00:14:11,100
+Te barom!
+
+151
+00:14:12,017 --> 00:14:13,519
+Mit mondtam neked?
+
+152
+00:14:13,602 --> 00:14:16,146
+Nem szabad akaratodból vagy itt.
+
+153
+00:14:16,939 --> 00:14:20,317
+A feletted keringő,
+bosszúszomjas lelkek hoztak ide.
+
+154
+00:14:29,827 --> 00:14:31,120
+Nem hallod őket?
+
+155
+00:14:31,203 --> 00:14:34,748
+A barátaid sikítoznak a füledbe.
+
+156
+00:14:37,084 --> 00:14:38,711
+Hiába is fognád be,
+
+157
+00:14:40,045 --> 00:14:41,255
+mit sem érnél vele.
+
+158
+00:14:42,256 --> 00:14:44,258
+Csak hangosabb lesz a sikolyuk.
+
+159
+00:14:45,134 --> 00:14:49,763
+A halálod pillanatáig hallani fogod őket.
+
+160
+00:15:00,983 --> 00:15:03,193
+- Engedd el!
+- Segítség!
+
+161
+00:15:10,075 --> 00:15:11,619
+Nem esett bajod?
+
+162
+00:15:40,606 --> 00:15:41,649
+Mi a helyzet?
+
+163
+00:15:42,232 --> 00:15:43,859
+Jól jártunk vele.
+
+164
+00:15:49,406 --> 00:15:50,532
+Óvatosan!
+
+165
+00:15:51,617 --> 00:15:53,369
+Egy, két, há'!
+
+166
+00:15:58,374 --> 00:16:00,417
+Nyugalom! Semmi baj.
+
+167
+00:16:02,503 --> 00:16:04,088
+A 011-es már velünk van.
+
+168
+00:16:06,340 --> 00:16:07,925
+Jó állapotban van, mi?
+
+169
+00:16:09,468 --> 00:16:12,012
+Tőle kaptuk.
+
+170
+00:16:12,096 --> 00:16:14,431
+Minek hoztad le ide?
+
+171
+00:16:16,934 --> 00:16:19,395
+Mivel most már egy csónakban evezünk,
+
+172
+00:16:19,478 --> 00:16:21,355
+gondoltam, megismerkedhetnénk.
+
+173
+00:16:23,148 --> 00:16:24,942
+Az elődeink azért szívták meg,
+
+174
+00:16:25,693 --> 00:16:30,155
+mert nem bíztak egymásban. Titkolóztak.
+
+175
+00:16:30,239 --> 00:16:33,283
+De mi bízunk egymásban.
+Nincs szükség titkokra.
+
+176
+00:16:33,367 --> 00:16:36,453
+Ezért is egyeztünk meg,
+hogy itt levesszük a maszkot.
+
+177
+00:16:38,998 --> 00:16:40,040
+Vagy nem?
+
+178
+00:16:56,473 --> 00:16:57,683
+Te volnál a 011-es?
+
+179
+00:16:58,809 --> 00:17:01,478
+Tudod, mennyi pénzt
+buktunk miattad, basszus?
+
+180
+00:17:02,354 --> 00:17:03,439
+Ezt most hagyjuk!
+
+181
+00:17:03,522 --> 00:17:05,858
+Igyekezzünk, fogytán az időnk! Munkára!
+
+182
+00:17:08,736 --> 00:17:09,611
+Gyere!
+
+183
+00:17:11,155 --> 00:17:12,948
+Mindent megmutatok.
+
+184
+00:17:17,327 --> 00:17:19,121
+Tőled kaptuk ezt az ajándékot.
+
+185
+00:17:19,872 --> 00:17:21,457
+Még él, ugye?
+
+186
+00:17:21,540 --> 00:17:22,875
+Csak nincs magánál.
+
+187
+00:17:24,710 --> 00:17:27,713
+Jól van. Ideje felnyitni 011-es ajándékát.
+
+188
+00:17:28,547 --> 00:17:29,715
+Jól mondom?
+
+189
+00:17:35,387 --> 00:17:36,722
+- Mi a…
+- Állj!
+
+190
+00:17:36,805 --> 00:17:38,057
+Mi… Mi a…
+
+191
+00:17:38,140 --> 00:17:39,224
+Tedd le a szikét!
+
+192
+00:17:39,308 --> 00:17:40,893
+- Oké.
+- Mi ütött beléd?
+
+193
+00:17:40,976 --> 00:17:42,394
+Vissza!
+
+194
+00:17:42,478 --> 00:17:45,147
+- Mégsem tartozol közénk?
+- Pszichopata picsa!
+
+195
+00:18:09,546 --> 00:18:11,548
+Tudod, miért szöktem át a határon?
+
+196
+00:18:14,343 --> 00:18:16,512
+A parancsnokom olyan volt, mint te.
+
+197
+00:18:18,639 --> 00:18:19,765
+Szóval agyonlőttem.
+
+198
+00:18:34,863 --> 00:18:37,866
+Ne ölj meg! Én nem velük vagyok.
+
+199
+00:18:39,660 --> 00:18:41,578
+Én csak a pénzért jöttem!
+
+200
+00:18:42,246 --> 00:18:44,498
+Mentsd meg az életét!
+
+201
+00:18:46,583 --> 00:18:48,085
+Ha ő meghal, akkor te is.
+
+202
+00:19:41,889 --> 00:19:42,890
+Jun-hee!
+
+203
+00:19:47,603 --> 00:19:48,854
+Tudom, hogy szereted.
+
+204
+00:20:21,720 --> 00:20:23,096
+Uram!
+
+205
+00:20:24,973 --> 00:20:27,851
+Egyen! Legalább egy keveset!
+
+206
+00:20:35,525 --> 00:20:36,526
+Nézze, én tudom!
+
+207
+00:20:37,986 --> 00:20:41,865
+Én tudom, hogy meg akart menteni minket.
+
+208
+00:20:42,908 --> 00:20:46,870
+Maga meg akarta büntetni a rosszakat,
+és véget akart vetni ennek.
+
+209
+00:20:49,289 --> 00:20:50,123
+Sajnálom.
+
+210
+00:20:54,336 --> 00:20:55,671
+Nem juttattam el…
+
+211
+00:20:57,422 --> 00:20:59,341
+hozzátok időben a tárakat.
+
+212
+00:21:01,885 --> 00:21:03,553
+Ne kérj bocsánatot, Hyun-ju!
+
+213
+00:21:04,680 --> 00:21:06,265
+Hiszen Dae-ho hibája volt.
+
+214
+00:21:07,391 --> 00:21:11,520
+Láttam én is, az anyám is.
+Meg mindenki más is.
+
+215
+00:21:12,312 --> 00:21:15,774
+Dae-ho visszajött a tárakért,
+de mielőtt elindult volna,
+
+216
+00:21:17,150 --> 00:21:18,819
+teljesen pánikba esett.
+
+217
+00:21:19,361 --> 00:21:23,991
+Amikor Hyun-ju visszajött érte,
+berontottak a maszkosok.
+
+218
+00:21:24,658 --> 00:21:26,827
+Ha az anyám nem fogja vissza,
+
+219
+00:21:28,412 --> 00:21:30,038
+ő is meghalt volna.
+
+220
+00:21:30,122 --> 00:21:31,248
+Nem igaz, Hyun-ju?
+
+221
+00:21:32,624 --> 00:21:35,711
+Az ujjal mutogatással
+senkit sem hozhatunk vissza.
+
+222
+00:21:36,503 --> 00:21:39,506
+De mi még élünk,
+szóval tovább kell küzdenünk, igaz?
+
+223
+00:21:42,342 --> 00:21:44,636
+Egyen valamit, jó?
+
+224
+00:21:45,137 --> 00:21:47,723
+És igyon is, nehogy szomjan haljon!
+
+225
+00:21:52,519 --> 00:21:55,314
+Istenem! Teljesen magába roskadt.
+
+226
+00:22:18,378 --> 00:22:21,089
+MOTEL
+
+227
+00:22:21,173 --> 00:22:23,508
+NOVEMBER 4. – A KERESÉS NEGYEDIK NAPJA
+
+228
+00:22:32,934 --> 00:22:34,353
+Hwang! Alszol?
+
+229
+00:22:35,312 --> 00:22:36,396
+Még nem.
+
+230
+00:22:39,566 --> 00:22:42,069
+Figyelj! Ha már úgyis fent vagy,
+
+231
+00:22:42,903 --> 00:22:45,405
+nincs kedved beszélgetni egy ital mellett?
+
+232
+00:22:46,698 --> 00:22:47,991
+De, gyere csak!
+
+233
+00:22:52,287 --> 00:22:53,497
+Kösz, én nem kérek.
+
+234
+00:22:54,623 --> 00:22:56,375
+Ó, hát jó.
+
+235
+00:23:03,632 --> 00:23:05,717
+Miről akartál beszélgetni?
+
+236
+00:23:07,636 --> 00:23:08,637
+Na, igen.
+
+237
+00:23:10,389 --> 00:23:11,390
+Hát…
+
+238
+00:23:12,557 --> 00:23:13,975
+Park kapitányról.
+
+239
+00:23:14,935 --> 00:23:18,271
+Azt mondtad,
+hogy ő mentett ki a vízből, ugye?
+
+240
+00:23:18,355 --> 00:23:21,775
+Igen. Meglőttek egy szigeten,
+és a tengerbe zuhantam.
+
+241
+00:23:22,401 --> 00:23:24,528
+Kimentett, és elvitt a kórházba.
+
+242
+00:23:25,278 --> 00:23:28,198
+Nem emlékszel semmi másra?
+
+243
+00:23:28,281 --> 00:23:32,536
+A kórházban tértem magamhoz.
+Az anyám mesélt Park kapitányról.
+
+244
+00:23:33,995 --> 00:23:35,038
+Miért?
+
+245
+00:23:37,457 --> 00:23:39,126
+Hát, az a helyzet,
+
+246
+00:23:39,209 --> 00:23:43,797
+hogy mondtam, hogy tegnap este
+a hangok miatt mentem ki, ugye?
+
+247
+00:23:43,880 --> 00:23:45,966
+Park kapitány is hallotta őket.
+
+248
+00:23:46,049 --> 00:23:48,635
+Akkor még bele sem gondoltam igazán,
+
+249
+00:23:49,428 --> 00:23:52,180
+de úgy tűnt, mintha…
+
+250
+00:23:52,764 --> 00:23:54,516
+lett volna valami a kezében.
+
+251
+00:23:55,267 --> 00:23:56,351
+Micsoda?
+
+252
+00:23:56,435 --> 00:23:57,519
+Egy csavarhúzó.
+
+253
+00:23:58,019 --> 00:23:59,020
+Ki van ott?
+
+254
+00:23:59,104 --> 00:24:01,398
+Choi, te vagy az?
+
+255
+00:24:02,774 --> 00:24:04,151
+Park kapitány vagyok.
+
+256
+00:24:05,777 --> 00:24:06,695
+Egy csavarhúzó?
+
+257
+00:24:07,612 --> 00:24:08,613
+Aha.
+
+258
+00:24:09,114 --> 00:24:12,534
+Sötét volt. De biztos,
+hogy csavarhúzót láttam a kezében.
+
+259
+00:24:13,034 --> 00:24:15,036
+Gondolj már bele! Nem fura?
+
+260
+00:24:15,120 --> 00:24:16,997
+Mit keresett a kezében?
+
+261
+00:24:17,581 --> 00:24:19,040
+Talán szerelt valamit.
+
+262
+00:24:20,292 --> 00:24:23,628
+De azt mondta, hogy ő is aludni próbált.
+
+263
+00:24:23,712 --> 00:24:26,798
+Lehet, hogy csak
+felkapott valamit, mert megijedt.
+
+264
+00:24:29,134 --> 00:24:30,010
+Úgy gondolod?
+
+265
+00:24:30,635 --> 00:24:32,345
+- Jó, de…
+- Figyelj!
+
+266
+00:24:33,763 --> 00:24:37,225
+Szerinted köze van a drónos eltűnéséhez?
+
+267
+00:24:41,229 --> 00:24:43,857
+Nekem általában jók a megérzéseim,
+
+268
+00:24:43,940 --> 00:24:46,651
+és valami nem stimmel ezzel a Park…
+
+269
+00:24:46,735 --> 00:24:48,445
+Megmentette az életemet.
+
+270
+00:24:49,279 --> 00:24:51,615
+És évek óta segít a sziget keresésében.
+
+271
+00:24:52,115 --> 00:24:53,742
+Most is azt teszi!
+
+272
+00:24:53,825 --> 00:24:55,327
+Efelől semmi kétségem!
+
+273
+00:24:55,410 --> 00:24:59,331
+Nem azt mondom,
+hogy ő tett valamit a drónossal!
+
+274
+00:24:59,414 --> 00:25:00,499
+Csak van egy bal…
+
+275
+00:25:00,582 --> 00:25:04,294
+Te meg tegnap este
+együtt iszogattál a drónossal, nem?
+
+276
+00:25:05,462 --> 00:25:09,549
+Hát, de. De nem sokat,
+csak néhány pohárral.
+
+277
+00:25:12,135 --> 00:25:13,845
+Holnap reggel korán indulunk.
+
+278
+00:25:14,471 --> 00:25:15,514
+Feküdj le aludni!
+
+279
+00:25:18,058 --> 00:25:20,018
+Jó, rendben.
+
+280
+00:25:21,978 --> 00:25:23,355
+Holnaptól kezdve pedig
+
+281
+00:25:24,564 --> 00:25:25,982
+tilos inni a fedélzeten!
+
+282
+00:25:30,111 --> 00:25:31,112
+Rendben.
+
+283
+00:26:31,548 --> 00:26:35,010
+A negyedik játék rövidesen kezdetét veszi.
+
+284
+00:26:35,760 --> 00:26:40,849
+Kérem, kövessék a személyzet utasításait!
+
+285
+00:26:42,767 --> 00:26:43,685
+Uram!
+
+286
+00:26:45,437 --> 00:26:47,147
+Megérkeztek a VIP-k.
+
+287
+00:27:10,587 --> 00:27:12,589
+Így jártak azok,
+
+288
+00:27:13,131 --> 00:27:18,053
+akik elutasították
+a demokratikus szavazás eredményét,
+
+289
+00:27:18,136 --> 00:27:23,350
+és erőszakkal próbálták
+leállítani a játékot.
+
+290
+00:27:24,017 --> 00:27:29,272
+Nem fogjuk tétlenül tűrni
+az észszerűtlen lépéseket,
+
+291
+00:27:29,356 --> 00:27:34,611
+amelyek a játék tisztességes szabályainak
+megzavarására irányulnak.
+
+292
+00:27:34,694 --> 00:27:37,989
+Ezeket a protokollunkkal
+összhangban fogjuk megtorolni.
+
+293
+00:27:38,573 --> 00:27:42,577
+Köszönjük az együttműködésüket!
+
+294
+00:27:47,999 --> 00:27:50,835
+Üdvözöljük önöket a negyedik játékban!
+
+295
+00:27:52,087 --> 00:27:55,548
+Ezt a játékot
+két csapatban fogják játszani.
+
+296
+00:27:56,466 --> 00:28:01,012
+Mielőtt hozzálátnánk,
+két csapatra fognak oszlani.
+
+297
+00:28:02,138 --> 00:28:07,811
+Kérem, egymás után húzzanak egy-egy labdát
+az önök előtt lévő rágógumi-automatából!
+
+298
+00:28:16,486 --> 00:28:18,988
+Nem talált el
+fontos szervet vagy artériát.
+
+299
+00:28:19,531 --> 00:28:21,074
+Összevarrtam a sebét, de…
+
+300
+00:28:21,950 --> 00:28:22,951
+De?
+
+301
+00:28:23,034 --> 00:28:24,619
+Túl sok vért vesztett.
+
+302
+00:28:25,245 --> 00:28:27,163
+Vérátömlesztésre lenne szüksége.
+
+303
+00:28:31,042 --> 00:28:32,168
+Itt az enyém.
+
+304
+00:28:32,752 --> 00:28:35,004
+- Milyen a vércsoportod?
+- Nullás.
+
+305
+00:28:36,214 --> 00:28:37,340
+Jónak kell lennie.
+
+306
+00:30:02,258 --> 00:30:05,220
+Semmi baj.
+Még azt sem tudjuk, mit játszunk.
+
+307
+00:30:50,181 --> 00:30:52,100
+Ha trükközni próbálsz, meghalsz.
+
+308
+00:31:19,794 --> 00:31:23,089
+Az önökre váró játék a bújócska.
+
+309
+00:31:23,172 --> 00:31:24,340
+Bújócska?
+
+310
+00:31:24,424 --> 00:31:29,387
+A kék csapatnak 30 perc alatt
+ki kell jutnia a játék helyszínéről,
+
+311
+00:31:29,470 --> 00:31:33,725
+vagy alaposan el kell rejtőzniük
+a pirosak elől, amíg le nem jár az idő.
+
+312
+00:31:33,808 --> 00:31:35,101
+És a hunyók?
+
+313
+00:31:35,184 --> 00:31:36,978
+Ugyanaz a szabály, mint régen?
+
+314
+00:31:38,605 --> 00:31:40,982
+Csak meg kell találnunk őket?
+
+315
+00:31:41,065 --> 00:31:46,195
+A piros csapatnak, a hunyóknak
+meg kell keresniük a kék csapat tagjait,
+
+316
+00:31:46,279 --> 00:31:48,656
+és 30 percen belül meg kell ölniük őket.
+
+317
+00:31:53,077 --> 00:31:54,579
+Megölni?
+
+318
+00:31:54,662 --> 00:31:55,747
+Így van.
+
+319
+00:31:55,830 --> 00:31:59,626
+A hunyóknak meg kell keresniük
+a kékeket, hogy megöljék őket.
+
+320
+00:31:59,709 --> 00:32:02,503
+Ha egy kéket sem ölnek meg,
+kiesnek a játékból.
+
+321
+00:32:02,587 --> 00:32:05,256
+Vagyis meg fognak ölni minket?
+
+322
+00:32:05,340 --> 00:32:06,215
+Így van.
+
+323
+00:32:29,322 --> 00:32:30,239
+Ez micsoda?
+
+324
+00:32:31,282 --> 00:32:36,287
+Kaptak egy-egy kulcsot
+az arénában található ajtókhoz.
+
+325
+00:32:36,371 --> 00:32:40,625
+Ezzel a kulccsal kinyithatják az ajtókat,
+
+326
+00:32:40,708 --> 00:32:44,629
+de miután kinyitották,
+már nem lehet bezárni őket.
+
+327
+00:32:44,712 --> 00:32:49,050
+Vagyis elbújhatnak valahol,
+aztán a kulccsal megszökhetnek?
+
+328
+00:32:49,133 --> 00:32:50,635
+Nekik sokkal könnyebb!
+
+329
+00:32:50,718 --> 00:32:52,095
+- Ez az!
+- Sokkal!
+
+330
+00:32:52,178 --> 00:32:55,348
+Nekünk meg még meg is kell ölni őket!
+
+331
+00:32:56,140 --> 00:32:57,517
+Ráadásul puszta kézzel.
+
+332
+00:32:58,017 --> 00:33:00,937
+Így van. Ez nem igazságos!
+
+333
+00:33:01,020 --> 00:33:04,482
+Nem fogják csak úgy simán hagyni magukat.
+
+334
+00:33:05,525 --> 00:33:07,777
+Hogy öljük meg őket puszta kézzel?
+
+335
+00:33:08,486 --> 00:33:12,490
+Természetesen megértjük az aggályaikat.
+
+336
+00:33:13,074 --> 00:33:17,829
+Éppen ezért a pirosaknak is
+készültünk egy kis ajándékkal.
+
+337
+00:33:17,912 --> 00:33:20,999
+Kérem, nyissák ki a dobozt!
+
+338
+00:33:26,504 --> 00:33:27,630
+Köszönöm!
+
+339
+00:33:48,860 --> 00:33:53,656
+A kést csak a kékek ellen használhatják.
+
+340
+00:33:54,240 --> 00:33:58,369
+Tilos a saját csapattagjaikra
+támadni vele!
+
+341
+00:33:58,453 --> 00:34:01,372
+De akkor nekünk
+nem járna egy pajzs, vagy valami?
+
+342
+00:34:01,873 --> 00:34:06,377
+Ők kapnak kést,
+miközben mi védtelenek vagyunk?
+
+343
+00:34:06,461 --> 00:34:07,295
+Jól beszél!
+
+344
+00:34:07,837 --> 00:34:09,547
+Nekünk is adjanak valamit!
+
+345
+00:34:09,630 --> 00:34:14,260
+Igen, mi csak kulcsot kaptunk! Ez nem ér!
+
+346
+00:34:14,343 --> 00:34:18,389
+De ti felhasználhatjátok a kulcsot,
+hogy kiszökjetek egy ajtón!
+
+347
+00:34:18,473 --> 00:34:19,474
+Pontosan!
+
+348
+00:34:19,557 --> 00:34:22,852
+Nektek könnyebb dolgotok van!
+Csak el kell bújnotok.
+
+349
+00:34:22,935 --> 00:34:24,896
+- Igen.
+- Nektek könnyebb!
+
+350
+00:34:25,855 --> 00:34:26,773
+Jeong-dae!
+
+351
+00:34:28,149 --> 00:34:30,485
+Ebben te úgyis profi vagy!
+
+352
+00:34:31,319 --> 00:34:33,446
+Hogy patkány módjára rejtőzz.
+
+353
+00:34:34,030 --> 00:34:39,410
+A kezdés előtt kapnak egy utolsó esélyt,
+hogy változtassanak a sorsukon.
+
+354
+00:34:40,078 --> 00:34:44,373
+Ha valaki nem elégedett a szerepével,
+
+355
+00:34:44,457 --> 00:34:47,543
+helyet cserélhet valakivel
+a másik csapatból,
+
+356
+00:34:47,627 --> 00:34:49,462
+mielőtt kezdünk.
+
+357
+00:34:49,545 --> 00:34:52,173
+- Micsoda?
+- Tessék? Helyet cserélhetünk?
+
+358
+00:34:52,256 --> 00:34:53,257
+Így van.
+
+359
+00:34:54,133 --> 00:34:59,555
+Ha valaki a másik csapatból beleegyezik,
+elcserélhetik egymással a mellényüket.
+
+360
+00:35:00,431 --> 00:35:02,850
+De amint megkezdődik a játék,
+
+361
+00:35:02,934 --> 00:35:08,356
+a mellényeket
+tilos levenni vagy elcserélni!
+
+362
+00:35:08,856 --> 00:35:11,901
+Kérem, alaposan
+fontolják meg a döntésüket!
+
+363
+00:35:34,966 --> 00:35:37,468
+Figyelem! Ő az új drónosunk.
+
+364
+00:35:38,010 --> 00:35:39,053
+Sziasztok!
+
+365
+00:35:39,137 --> 00:35:41,639
+Nem volt egyszerű menet,
+legyetek kedvesek!
+
+366
+00:35:41,722 --> 00:35:42,640
+Igen, uram!
+
+367
+00:35:45,017 --> 00:35:46,227
+Köszönöm!
+
+368
+00:35:46,310 --> 00:35:51,732
+Jól van. Vegyétek fel a mentőmellényt!
+Ne legyen több baleset!
+
+369
+00:35:52,441 --> 00:35:54,277
+- Hallottad, mi történt?
+- Igen.
+
+370
+00:35:55,653 --> 00:35:57,738
+Hol vagy? Siess, mindjárt indulunk!
+
+371
+00:35:57,822 --> 00:36:00,366
+Hwang! Menjetek csak! Nem tartok veletek.
+
+372
+00:36:01,075 --> 00:36:02,243
+Miről beszélsz?
+
+373
+00:36:02,952 --> 00:36:05,037
+Utána kell járnom valaminek.
+
+374
+00:36:06,998 --> 00:36:08,416
+Még mindig itt tartasz?
+
+375
+00:36:09,458 --> 00:36:11,836
+Nekem általában jók a megérzéseim.
+
+376
+00:36:12,461 --> 00:36:16,299
+Szólok, ha találok valamit.
+De addig is vigyázz Parkkal!
+
+377
+00:36:16,382 --> 00:36:17,258
+Choi…
+
+378
+00:36:19,177 --> 00:36:21,596
+Jól van. Horgonyt fel!
+
+379
+00:36:22,763 --> 00:36:24,056
+- Menjünk!
+- Rendben.
+
+380
+00:36:41,824 --> 00:36:44,243
+Hogyhogy felbukkansz a semmiből,
+
+381
+00:36:44,327 --> 00:36:46,996
+és csak úgy felhívsz hajnalok hajnalán?
+
+382
+00:36:47,622 --> 00:36:49,916
+Sok a meló, hulla fáradt vagyok!
+
+383
+00:36:53,085 --> 00:36:54,462
+Meghalt a főnök.
+
+384
+00:36:56,047 --> 00:36:58,424
+Mi? Meghalt?
+
+385
+00:36:58,507 --> 00:36:59,342
+Mi történt?
+
+386
+00:37:00,176 --> 00:37:01,677
+Hosszú történet.
+
+387
+00:37:03,554 --> 00:37:07,266
+Várj! De miért nem hívtál fel?
+
+388
+00:37:07,892 --> 00:37:10,519
+Attól, hogy most már jól viselem magam…
+
+389
+00:37:10,603 --> 00:37:12,313
+Nem erről van szó! A főnök…
+
+390
+00:37:15,608 --> 00:37:18,194
+Ismered a kő, papír, olló, mínusz egyet?
+
+391
+00:37:18,277 --> 00:37:22,031
+- Naná.
+- Azt játszottuk, és…
+
+392
+00:37:24,450 --> 00:37:26,911
+Ja. Csak vissza kellett volna húznia a…
+
+393
+00:37:30,623 --> 00:37:31,457
+Mindegy!
+
+394
+00:37:32,458 --> 00:37:34,710
+Együnk egy másnaposlevest!
+
+395
+00:37:34,794 --> 00:37:37,380
+Ne hagyj lógva! Mi történt?
+
+396
+00:37:37,463 --> 00:37:40,174
+Menjünk! Útközben elmesélem.
+
+397
+00:37:41,676 --> 00:37:43,052
+Semmit sem értek.
+
+398
+00:37:43,135 --> 00:37:44,136
+LAKÁSFELÚJÍTÁS
+
+399
+00:37:44,220 --> 00:37:47,390
+Hogy halhatna bele
+bárki is a kő, papír, ollóba?
+
+400
+00:37:47,473 --> 00:37:51,352
+Innen egyikőtök sem juthat ki élve.
+
+401
+00:37:51,435 --> 00:37:52,937
+Akkor mihez…
+
+402
+00:37:53,020 --> 00:37:56,649
+Csakis én, a tenger sámánja,
+
+403
+00:37:56,732 --> 00:37:58,901
+terelhetlek titeket az élet útjára.
+
+404
+00:37:58,985 --> 00:38:00,903
+- Hiszünk benned!
+- Követünk.
+
+405
+00:38:00,987 --> 00:38:02,655
+A mennyek és a föld istenei!
+
+406
+00:38:03,656 --> 00:38:08,452
+Az összes utat látom magam előtt,
+amelyek innen oda vezetnek.
+
+407
+00:38:10,079 --> 00:38:11,455
+És nem a szemem révén!
+
+408
+00:38:12,206 --> 00:38:15,084
+A mennyek és a föld istenei
+
+409
+00:38:16,168 --> 00:38:18,921
+kézen fogva vezetnek engem!
+
+410
+00:38:20,506 --> 00:38:23,592
+Akik engem követnek,
+megtarthatják az életüket.
+
+411
+00:38:23,676 --> 00:38:24,844
+Min-su!
+
+412
+00:38:25,970 --> 00:38:29,932
+- Aki az utamba áll, halál fia!
+- Öltél valaha embert?
+
+413
+00:38:31,225 --> 00:38:34,979
+Hé, ketyeg az óra!
+Ha képtelen vagy rá, állj át!
+
+414
+00:38:35,688 --> 00:38:37,315
+A rejtőzködéshez értesz.
+
+415
+00:38:38,065 --> 00:38:41,319
+Min-su! Mindenhol kerestelek tegnap éjjel.
+
+416
+00:38:41,944 --> 00:38:43,154
+De nem találtalak.
+
+417
+00:38:44,572 --> 00:38:45,614
+Merre bujkáltál?
+
+418
+00:38:47,908 --> 00:38:49,243
+Ennyire féltél tőlem?
+
+419
+00:38:52,830 --> 00:38:55,541
+Jól tetted. Ügyes voltál.
+
+420
+00:38:56,917 --> 00:39:00,004
+Az a picsa azt hitte,
+hogy ő a Csodanő, vagy mi.
+
+421
+00:39:00,087 --> 00:39:03,716
+Úgy bánt velem,
+mintha valami barom lennék, és…
+
+422
+00:39:11,974 --> 00:39:12,975
+Láttad?
+
+423
+00:39:14,977 --> 00:39:17,104
+Banyek! Láttad, ugye?
+
+424
+00:39:17,188 --> 00:39:20,316
+Mégsem bújtál elő,
+csak végignézted, mint egy patkány?
+
+425
+00:39:20,399 --> 00:39:23,778
+Megmenthetted volna!
+Az a hülye picsa bírt téged.
+
+426
+00:39:27,615 --> 00:39:28,657
+Min-su!
+
+427
+00:39:30,201 --> 00:39:31,869
+Tetszik, amit most látok.
+
+428
+00:39:32,828 --> 00:39:36,916
+Odabent is így viselkedj! Mindent bele!
+
+429
+00:39:40,753 --> 00:39:42,755
+Az a marha Thanos meghalt.
+
+430
+00:39:43,464 --> 00:39:46,258
+Mint a csapatunk többi tagja.
+Csak mi maradtunk.
+
+431
+00:39:46,842 --> 00:39:49,261
+Ha te is meghalsz, magamra maradok.
+
+432
+00:39:52,390 --> 00:39:55,476
+Szóval ezúttal legyél tökös, Min-su! Jó?
+
+433
+00:39:57,311 --> 00:39:59,772
+Menni fog, tesó! Min-su!
+
+434
+00:40:00,564 --> 00:40:01,816
+Min-su!
+
+435
+00:40:03,025 --> 00:40:04,902
+Még találkozunk, Min-su!
+
+436
+00:40:06,570 --> 00:40:08,739
+Jun-hee! Cseréljünk!
+
+437
+00:40:08,823 --> 00:40:10,199
+Odaadom a kulcsot.
+
+438
+00:40:11,075 --> 00:40:12,368
+Így túlélhetjük.
+
+439
+00:40:13,786 --> 00:40:16,705
+Törődj a saját dolgoddal!
+Tudok vigyázni magamra.
+
+440
+00:40:18,165 --> 00:40:20,042
+Hogy mondhatsz ilyet?
+
+441
+00:40:20,126 --> 00:40:24,296
+- Senkit sem leszel képes bántani.
+- Nem mintha olyan jól ismernél.
+
+442
+00:40:24,380 --> 00:40:26,048
+Lehet, de egyvalamit tudok.
+
+443
+00:40:28,092 --> 00:40:29,593
+Nem lennél képes ölni.
+
+444
+00:40:35,099 --> 00:40:36,308
+Add ide a kést!
+
+445
+00:40:37,726 --> 00:40:41,772
+Gyorsan leszúrok valakit,
+aztán megyek, és megkereslek.
+
+446
+00:40:43,315 --> 00:40:47,027
+Megvédelek téged és a babát, Jun-hee!
+
+447
+00:40:50,156 --> 00:40:51,907
+Mert te könnyedén tudsz ölni?
+
+448
+00:40:54,994 --> 00:40:55,870
+Itt…
+
+449
+00:40:57,329 --> 00:41:00,749
+mindenkivel végeznék,
+ha így távozhatok veled és a pénzzel.
+
+450
+00:41:00,833 --> 00:41:03,043
+Én is bármit megtennék a babámért!
+
+451
+00:41:06,297 --> 00:41:07,298
+Akkor…
+
+452
+00:41:12,928 --> 00:41:14,430
+ölj meg engem!
+
+453
+00:41:17,016 --> 00:41:18,934
+Amint kezdünk, megkereslek.
+
+454
+00:41:19,894 --> 00:41:21,854
+Szúrj le, és tűnj el innen!
+
+455
+00:41:27,610 --> 00:41:29,320
+És akkor életben maradhattok.
+
+456
+00:41:34,617 --> 00:41:37,703
+Add ide a kést!
+
+457
+00:41:41,165 --> 00:41:44,877
+Inkább valaki mással cserélek helyet.
+
+458
+00:41:45,920 --> 00:41:47,505
+Együtt maradunk, és…
+
+459
+00:41:47,588 --> 00:41:48,422
+Anya!
+
+460
+00:41:49,215 --> 00:41:50,508
+Rossz a térded.
+
+461
+00:41:53,302 --> 00:41:54,803
+Amint belépünk oda,
+
+462
+00:41:54,887 --> 00:41:59,391
+a késesek ránk fognak támadni.
+
+463
+00:41:59,475 --> 00:42:02,102
+Ha együtt maradunk,
+
+464
+00:42:03,562 --> 00:42:04,897
+mindketten meghalunk.
+
+465
+00:42:07,691 --> 00:42:09,568
+Nem. Nem leszel képes rá.
+
+466
+00:42:11,070 --> 00:42:13,572
+Hogy is ölhetnél meg ezzel bárkit?
+
+467
+00:42:15,074 --> 00:42:19,203
+Gyerekkorodban is
+mindig hagytad a többieknek,
+
+468
+00:42:19,703 --> 00:42:23,332
+hogy bucira verjék a fejedet,
+amikor összekaptatok.
+
+469
+00:42:24,250 --> 00:42:27,336
+Soha életedben nem bántottál még senkit.
+
+470
+00:42:27,419 --> 00:42:28,629
+Miért, te?
+
+471
+00:42:29,755 --> 00:42:31,966
+Te talán meg tudnál ölni valakit?
+
+472
+00:42:32,049 --> 00:42:35,302
+Apa folyton vert,
+te meg egyszer sem ütöttél vissza.
+
+473
+00:42:42,560 --> 00:42:43,852
+Majd én megteszem!
+
+474
+00:42:45,396 --> 00:42:48,190
+Megpróbálom.
+
+475
+00:42:59,451 --> 00:43:01,495
+- Köszönöm.
+- Király!
+
+476
+00:43:09,378 --> 00:43:10,588
+Kösz szépen!
+
+477
+00:43:13,674 --> 00:43:17,303
+Elnézést! Nem akarsz cserélni velem a…
+
+478
+00:43:28,897 --> 00:43:29,982
+Ide hallgass!
+
+479
+00:43:30,608 --> 00:43:31,817
+Ha cserélsz velem,
+
+480
+00:43:31,900 --> 00:43:35,321
+veled maradok, és megvédelek, oké?
+
+481
+00:43:37,448 --> 00:43:39,533
+De előbb meg kéne ölnöd valakit.
+
+482
+00:43:39,617 --> 00:43:40,909
+Csak add már…
+
+483
+00:43:42,244 --> 00:43:45,331
+Azt bízd csak rám!
+
+484
+00:43:45,914 --> 00:43:47,958
+Aztán veled maradok.
+
+485
+00:43:49,335 --> 00:43:51,587
+Bízz bennem, kérlek! Állom a szavamat.
+
+486
+00:43:52,713 --> 00:43:53,714
+Jó?
+
+487
+00:43:54,840 --> 00:43:55,758
+Jó?
+
+488
+00:44:21,283 --> 00:44:24,453
+Francba!
+
+489
+00:44:27,581 --> 00:44:30,042
+Mi az? Mi bajod van velem?
+
+490
+00:44:31,043 --> 00:44:32,670
+Miért bámulsz így?
+
+491
+00:44:34,713 --> 00:44:38,175
+Az egészért engem akarsz hibáztatni?
+
+492
+00:44:38,258 --> 00:44:39,635
+Mit követtem el?
+
+493
+00:44:41,178 --> 00:44:43,055
+Amúgy sem győztünk volna.
+
+494
+00:44:44,014 --> 00:44:46,392
+Semmiképpen sem győzhettünk volna!
+
+495
+00:44:48,769 --> 00:44:51,230
+A fenébe, ne nézz már rám így!
+
+496
+00:44:51,313 --> 00:44:52,606
+Nem az én hibám volt!
+
+497
+00:44:54,483 --> 00:44:57,611
+Ha inkább a hülye O-sokra támadtunk volna,
+
+498
+00:44:58,362 --> 00:44:59,613
+nyerhettünk is volna!
+
+499
+00:45:00,197 --> 00:45:02,741
+Megnyertük volna
+a csatát és a szavazást is!
+
+500
+00:45:03,742 --> 00:45:04,868
+Te tehetsz róla!
+
+501
+00:45:05,703 --> 00:45:08,580
+A te röhejes terved miatt haltak meg!
+
+502
+00:45:08,664 --> 00:45:11,667
+Miattad! Te ölted meg őket,
+a rohadt életbe!
+
+503
+00:45:22,636 --> 00:45:25,472
+A játék rövidesen kezdetét veszi.
+
+504
+00:45:26,682 --> 00:45:32,187
+Kék csapat, kérem, lépjenek be az arénába!
+
+505
+00:45:32,896 --> 00:45:35,107
+Ismétlem.
+
+506
+00:45:35,190 --> 00:45:38,277
+A játék rövidesen kezdetét veszi.
+
+507
+00:45:44,950 --> 00:45:47,035
+Na és Choi? Hogyhogy nincs itt?
+
+508
+00:45:48,620 --> 00:45:50,289
+Beszéltünk telefonon.
+
+509
+00:45:50,998 --> 00:45:52,624
+Közbejött egy családi ügy.
+
+510
+00:45:53,625 --> 00:45:55,002
+Csak úgy?
+
+511
+00:45:56,295 --> 00:45:57,379
+Nekem mondod?
+
+512
+00:45:57,463 --> 00:45:58,839
+Lehet, hogy beijedt.
+
+513
+00:45:59,423 --> 00:46:03,051
+Azok, akik előadják,
+hogy mekkora kemény legények, mint ő,
+
+514
+00:46:03,135 --> 00:46:04,928
+általában gyávák.
+
+515
+00:46:06,805 --> 00:46:08,223
+Jobb is így!
+
+516
+00:46:08,807 --> 00:46:11,435
+Igazi ingyenélő,
+csak az italon jár az esze.
+
+517
+00:46:40,672 --> 00:46:42,925
+Anya, jól rejtőzz el!
+
+518
+00:46:43,509 --> 00:46:46,220
+Túlesem rajta, aztán megkereslek.
+
+519
+00:46:46,303 --> 00:46:49,014
+Megkereslek, és megvédelek.
+
+520
+00:46:50,265 --> 00:46:51,433
+Yong-sik!
+
+521
+00:46:51,517 --> 00:46:55,771
+Amikor apád lerészegedett,
+mindig azzal fenyegetett, hogy megöl.
+
+522
+00:46:56,313 --> 00:46:58,899
+De ki dobta fel előbb a talpát?
+
+523
+00:46:59,942 --> 00:47:01,109
+Apa.
+
+524
+00:47:02,361 --> 00:47:04,238
+Tényleg féltened kell engem?
+
+525
+00:47:05,781 --> 00:47:11,036
+És ha már itt tartunk,
+vészhelyzet esetére van egy fegyverem.
+
+526
+00:47:12,329 --> 00:47:14,748
+Szóval nem kell értem aggódnod!
+
+527
+00:47:15,541 --> 00:47:17,292
+Vigyázz magadra!
+
+528
+00:47:19,419 --> 00:47:24,925
+Tedd meg, ami a túléléshez kell,
+aztán együtt kijutunk innen, rendben?
+
+529
+00:47:40,440 --> 00:47:41,775
+Álld a szavadat!
+
+530
+00:47:56,456 --> 00:47:57,708
+Ígérem, megkereslek.
+
+531
+00:48:08,886 --> 00:48:10,345
+A francba!
+
+532
+00:48:33,327 --> 00:48:38,415
+Két perc múlva jönnek a hunyók.
+
+533
+00:48:39,124 --> 00:48:40,918
+Emberek!
+
+534
+00:48:41,001 --> 00:48:44,588
+Rejtőzködés helyett
+keressük meg a kijáratot!
+
+535
+00:48:44,671 --> 00:48:49,509
+Aki megtalálja, kiabáljon,
+hogy mindenki meghallja!
+
+536
+00:48:49,593 --> 00:48:53,597
+Jó ötlet! Segítsünk egymásnak,
+hogy mind kijussunk élve!
+
+537
+00:48:53,680 --> 00:48:58,894
+Kis nyúl, feje nagy
+Gyere elő, bárhol vagy!
+
+538
+00:48:58,977 --> 00:49:04,942
+Kis nyúl, feje nagy
+Gyere elő, bárhol vagy!
+
+539
+00:49:05,025 --> 00:49:10,530
+Kis nyúl, feje nagy
+Gyere elő, bárhol vagy!
+
+540
+00:49:10,614 --> 00:49:15,202
+Kis nyúl, feje nagy
+Gyere elő, bárhol vagy!
+
+541
+00:49:15,285 --> 00:49:16,411
+Összefogunk?
+
+542
+00:49:17,037 --> 00:49:17,996
+Tessék?
+
+543
+00:49:20,666 --> 00:49:23,835
+Azt hiszed,
+a kékek csak úgy hagyni fogják magukat?
+
+544
+00:49:23,919 --> 00:49:24,836
+Dehogy fogják.
+
+545
+00:49:25,379 --> 00:49:30,842
+Minden erejükkel ellen fognak állni.
+Ha egyszerre támadunk, könnyebb lesz.
+
+546
+00:49:33,428 --> 00:49:39,518
+Kis nyúl, feje nagy
+Gyere elő, bárhol vagy!
+
+547
+00:49:39,601 --> 00:49:40,727
+Jól vagy?
+
+548
+00:49:40,811 --> 00:49:42,437
+Geum-ja! Jun-hee!
+
+549
+00:49:44,690 --> 00:49:45,691
+Gyertek velem!
+
+550
+00:49:45,774 --> 00:49:51,029
+Kis nyúl, feje nagy
+Gyere elő, bárhol vagy!
+
+551
+00:49:51,655 --> 00:49:53,031
+- Óvatosan!
+- Jól van.
+
+552
+00:49:55,701 --> 00:50:00,414
+Ez nem örökre szól!
+Csak egy egyéjszakás kaland lesz.
+
+553
+00:50:04,960 --> 00:50:07,504
+Amikor leszúrtad Thanost, az…
+
+554
+00:50:08,922 --> 00:50:09,923
+rohadt menő volt.
+
+555
+00:50:10,007 --> 00:50:12,009
+Kis nyúl, feje nagy…
+
+556
+00:50:13,510 --> 00:50:15,929
+Piros csapat! Lépjenek be az arénába!
+
+557
+00:50:17,264 --> 00:50:18,265
+Gyerünk!
+
+558
+00:50:26,898 --> 00:50:28,275
+Csapassuk!
+
+559
+00:50:45,333 --> 00:50:46,710
+A te hibád.
+
+560
+00:53:26,203 --> 00:53:31,208
+A feliratot fordította:
+Dittrich-Varga Fruzsina
+

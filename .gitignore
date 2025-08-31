@@ -1,5 +1,10 @@
 .vscode/**
-
-
+*.fastresume
+*.txt
 **/.envrc
 **/.env
+*.torrent
+*.log*
+*.db
+/postgres
+jellyfin/jellystat/postgres/

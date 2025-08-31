@@ -17,13 +17,13 @@ services:
       - WEBUI_PORT=${QBITTORRENT_WEBUI_PORT}
     volumes:
       - ./qbittorrent:/config
-      - /data:/data
+      - /mnt/hdd:/mnt/hdd
     ports:
       - "${QBITTORRENT_WEBUI_PORT}:8080"
       - "${QBITTORRENT_TORRENT_PORT}:${QBITTORRENT_TORRENT_PORT}"
     networks:
       servarrnetwork:
-        ipv4_address: 172.39.0.2
+        ipv4_address: 172.39.0.10
 
   prowlarr:
     image: lscr.io/linuxserver/prowlarr:latest
@@ -40,7 +40,7 @@ services:
     restart: unless-stopped
     networks:
       servarrnetwork:
-        ipv4_address: 172.39.0.7
+        ipv4_address: 172.39.0.11
 
   sonarr:
     image: lscr.io/linuxserver/sonarr:latest
@@ -53,12 +53,13 @@ services:
     volumes:
       - /etc/localtime:/etc/localtime:ro
       - ./sonarr:/config
-      - ./data:/data
+      - /mnt/hdd/downloads/qbittorrent/completed/tv-shows:/downloads
+      
     ports:
       - 8989:8989
     networks:
       servarrnetwork:
-        ipv4_address: 172.39.0.3
+        ipv4_address: 172.39.0.12
 
   radarr:
     image: lscr.io/linuxserver/radarr:latest
@@ -71,12 +72,13 @@ services:
     volumes:
       - /etc/localtime:/etc/localtime:ro
       - ./radarr:/config
-      - ./data:/data
+      - /mnt/hdd/downloads/qbittorrent/completed/movies:/downloads
+     
     ports:
       - 7878:7878
     networks:
       servarrnetwork:
-        ipv4_address: 172.39.0.4
+        ipv4_address: 172.39.0.13
 
   bazarr:
     image: lscr.io/linuxserver/bazarr:latest
@@ -89,26 +91,26 @@ services:
     volumes:
       - /etc/localtime:/etc/localtime:ro
       - ./bazarr:/config
-      - ./data:/data
+      - /mnt/hdd/downloads/qbittorrent/completed/movies:/downloads
     ports:
       - 6767:6767
     networks:
       servarrnetwork:
         ipv4_address: 172.39.0.6
 
-  jellyseerr:
-    image: fallenbagel/jellyseerr:latest
-    container_name: jellyseerr
-    restart: unless-stopped
-    environment:
-      - LOG_LEVEL=info
-      - TZ=${TZ}
-      - UMASK_SET=022
-    ports:
-      - 5055:5055
-    volumes:
-      - ./jellyseerr:/app/config
-    networks:
-      servarrnetwork:
-        ipv4_address: 172.39.0.8
+ # jellyseerr:
+  #  image: fallenbagel/jellyseerr:latest
+   # container_name: jellyseerr
+    #restart: unless-stopped
+ #   environment:
+  #    - LOG_LEVEL=info
+   #   - TZ=${TZ}
+   #   - UMASK_SET=022
+ #   ports:
+ #     - 5055:5055
+  #  volumes:
+   #   - ./jellyseerr:/app/config
+   # networks:
+    #  servarrnetwork:
+     #   ipv4_address: 172.39.0.8
 

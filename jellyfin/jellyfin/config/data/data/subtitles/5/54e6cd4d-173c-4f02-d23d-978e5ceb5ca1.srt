@@ -1,0 +1,7931 @@
+1
+00:00:20,166 --> 00:00:25,916
+<font size="20">Il nostro ultimo caso irrisolto
+risale alla sera dell'11 maggio 1973.</font>
+
+2
+00:00:27,125 --> 00:00:32,333
+<font size="20">Alle 00:48 circa,
+nella zona di Brick Lane a East London,</font>
+
+3
+00:00:32,416 --> 00:00:34,583
+<font size="20">un uomo stava tornando dal pub</font>
+
+4
+00:00:34,666 --> 00:00:37,666
+<font size="20">verso la casa della sua fidanzata,
+Angela Hughes,</font>
+
+5
+00:00:37,750 --> 00:00:41,583
+<font size="20">quando udì due voci provenire
+dalla finestra del secondo piano.</font>
+
+6
+00:00:51,166 --> 00:00:53,125
+<font size="20">Ehi, tu! Fermati!</font>
+
+7
+00:00:54,541 --> 00:00:55,583
+<font size="20">Fermati!</font>
+
+8
+00:01:00,458 --> 00:01:04,583
+<font size="20">Quando arrivò la polizia,
+Angela Hughes era già morta.</font>
+
+9
+00:01:05,083 --> 00:01:08,083
+<font size="20">Perquisirono l'appartamento,
+ma non mancava niente.</font>
+
+10
+00:01:08,166 --> 00:01:09,708
+<font size="20">Beh, a me puzza.</font>
+
+11
+00:01:10,208 --> 00:01:11,541
+<font size="20">Che cosa, Ron?</font>
+
+12
+00:01:11,625 --> 00:01:13,875
+<font size="20">Qual è il movente? Una rapina?</font>
+
+13
+00:01:13,958 --> 00:01:16,166
+<font size="20">Erano una giovane coppia al verde.</font>
+
+14
+00:01:16,250 --> 00:01:17,208
+<font size="20">È vero.</font>
+
+15
+00:01:17,291 --> 00:01:20,416
+<font size="20">E, se ho capito bene, l'unica persona</font>
+
+16
+00:01:20,500 --> 00:01:23,833
+<font size="20">a vedere quest'uomo mascherato
+fu il fidanzato?</font>
+
+17
+00:01:24,625 --> 00:01:28,333
+<font size="20">- Secondo il rapporto della polizia, sì.
+- Chi era il fidanzato?</font>
+
+18
+00:01:29,791 --> 00:01:31,208
+<font size="20">Ha un nome?</font>
+
+19
+00:01:32,333 --> 00:01:35,708
+<font size="20">Peter Mercer. 25 anni. Meccanico.</font>
+
+20
+00:01:35,791 --> 00:01:39,750
+<font size="20">Congedato dall'esercito
+per una ferita al ginocchio sul campo.</font>
+
+21
+00:01:39,833 --> 00:01:43,791
+<font size="20">Forse un trauma non elaborato.
+Può causare comportamenti anomali.</font>
+
+22
+00:01:43,875 --> 00:01:46,625
+<font size="20">Mercer inseguì invano l'uomo mascherato.</font>
+
+23
+00:01:46,708 --> 00:01:50,583
+<font size="20">Poi scomparve lui stesso, poco dopo.
+Non fu mai più visto.</font>
+
+24
+00:01:50,666 --> 00:01:54,125
+<font size="20">Vedi? La cosa puzza.
+Come un topo in un tubo di scarico.</font>
+
+25
+00:01:54,625 --> 00:01:57,916
+<font size="20">Credete che la poveretta
+potesse essere salvata?</font>
+
+26
+00:01:58,000 --> 00:01:59,625
+<font size="20">Non lo so. Difficile dirlo.</font>
+
+27
+00:01:59,708 --> 00:02:03,666
+<font size="20">Il rapporto dice che è morta
+per la coltellata, non per la caduta.</font>
+
+28
+00:02:03,750 --> 00:02:04,916
+<font size="20">Perciò è omicidio.</font>
+
+29
+00:02:05,000 --> 00:02:08,291
+<font size="20">Beh, Mercer doveva conoscere
+le basi del primo soccorso.</font>
+
+30
+00:02:08,791 --> 00:02:10,875
+<font size="20">Perché il babbeo non l'ha salvata?</font>
+
+31
+00:02:11,375 --> 00:02:15,708
+<font size="20">Disse che era morta sul colpo.
+Ma ci vuole tempo per morire dissanguati.</font>
+
+32
+00:02:16,791 --> 00:02:18,208
+<font size="20">Sono un po' perplesso.</font>
+
+33
+00:02:18,291 --> 00:02:20,291
+<font size="20">- Sì?
+- È un caso molto difficile.</font>
+
+34
+00:02:20,375 --> 00:02:24,083
+<font size="20">Quello del corpo nella cassetta postale
+è semplice, a confronto.</font>
+
+35
+00:02:24,166 --> 00:02:28,416
+<font size="20">Sì. Quello che ci serve
+sono conoscenze mediche.</font>
+
+36
+00:02:46,250 --> 00:02:49,416
+<font size="20">IL CLUB DEI DELITTI DEL GIOVEDÌ</font>
+
+37
+00:02:49,500 --> 00:02:51,625
+<font size="20">Ecco la famosa Coopers Chase.</font>
+
+38
+00:02:52,125 --> 00:02:53,333
+<font size="20">Facciamo un giro.</font>
+
+39
+00:02:53,416 --> 00:02:58,291
+<font size="20">Laggiù c'è l'ala dell'hospice
+per quando le cose si mettono… Insomma…</font>
+
+40
+00:02:58,375 --> 00:03:00,125
+<font size="20">Abbiamo il tiro con l'arco,</font>
+
+41
+00:03:00,208 --> 00:03:03,875
+<font size="20">e uno degli ospiti ha vinto l'argento
+alle Olimpiadi del 1972.</font>
+
+42
+00:03:04,750 --> 00:03:08,750
+<font size="20">Bene! Bel tiro. Sì, così.</font>
+
+43
+00:03:08,833 --> 00:03:11,625
+<font size="20">Devi ammetterlo, Joanna, è bellissima.</font>
+
+44
+00:03:12,208 --> 00:03:15,083
+<font size="20">Abbiamo anche dei lama
+come animali da supporto.</font>
+
+45
+00:03:15,166 --> 00:03:17,041
+<font size="20">Ormai ce li hanno tutti, mamma.</font>
+
+46
+00:03:18,000 --> 00:03:20,791
+<font size="20">Stai attenta.
+I lama possono essere irascibili.</font>
+
+47
+00:03:20,875 --> 00:03:23,208
+<font size="20">Mordono, ti sputano in faccia.</font>
+
+48
+00:03:25,166 --> 00:03:28,916
+<font size="20">Beh, conosco persone
+che fanno lo stesso quando sono stressate.</font>
+
+49
+00:03:29,000 --> 00:03:31,333
+<font size="20">Voglio mostrarti la sala puzzle.</font>
+
+50
+00:03:31,916 --> 00:03:35,041
+<font size="20">È morta dissanguata
+per la coltellata o la caduta?</font>
+
+51
+00:03:35,125 --> 00:03:36,333
+<font size="20">Oh, mio Dio.</font>
+
+52
+00:03:38,333 --> 00:03:39,333
+<font size="20">Oh, salve.</font>
+
+53
+00:03:40,583 --> 00:03:43,000
+<font size="20">Questa non è la sala puzzle?</font>
+
+54
+00:03:43,083 --> 00:03:45,083
+<font size="20">Non il giovedì.</font>
+
+55
+00:03:48,000 --> 00:03:50,125
+<font size="20">Ok. Scusate.</font>
+
+56
+00:03:52,875 --> 00:03:54,208
+<font size="20">Vi lasciamo fare.</font>
+
+57
+00:03:55,916 --> 00:03:56,750
+<font size="20">Mamma?</font>
+
+58
+00:04:00,125 --> 00:04:02,875
+<font size="20">Sarà il club di Agatha Christie
+o cose simili.</font>
+
+59
+00:04:06,500 --> 00:04:08,458
+<font size="20">Devo proprio ripartire.</font>
+
+60
+00:04:08,541 --> 00:04:12,166
+<font size="20">C'è traffico, e stasera
+porto all'opera un cliente importante.</font>
+
+61
+00:04:12,750 --> 00:04:14,000
+<font size="20">Senti, mamma.</font>
+
+62
+00:04:14,083 --> 00:04:16,541
+<font size="20">- Credo che sbagli a vivere qui.
+- Cosa?</font>
+
+63
+00:04:16,625 --> 00:04:18,625
+<font size="20">Potrei comprarti casa vicino a me.</font>
+
+64
+00:04:18,708 --> 00:04:20,375
+<font size="20">Cioè, nelle vicinanze.</font>
+
+65
+00:04:21,083 --> 00:04:25,500
+<font size="20">Joanna, devo vivere in un posto
+dove possa fare nuove amicizie.</font>
+
+66
+00:04:26,000 --> 00:04:28,875
+<font size="20">Come posso riuscirci
+vivendo da sola a Hackney,</font>
+
+67
+00:04:28,958 --> 00:04:33,833
+<font size="20">circondata da, non so,
+hipster e pasticcerie vegane?</font>
+
+68
+00:04:34,333 --> 00:04:37,666
+<font size="20">- Lì non vogliono donne anziane.
+- D'accordo.</font>
+
+69
+00:04:38,875 --> 00:04:40,791
+<font size="20">Voglio solo che tu sia felice.</font>
+
+70
+00:04:41,500 --> 00:04:42,750
+<font size="20">Dalla morte di papà…</font>
+
+71
+00:04:43,250 --> 00:04:45,875
+<font size="20">- Mi preoccupo per te, tutto qui.
+- Sto bene.</font>
+
+72
+00:04:50,708 --> 00:04:52,541
+<font size="20">- Guida con prudenza.
+- Va bene.</font>
+
+73
+00:04:54,291 --> 00:04:56,541
+<font size="20">Spero di avere ragione, Gerry.</font>
+
+74
+00:04:57,041 --> 00:04:59,791
+<font size="20">Non prendo mai
+decisioni importanti da sola.</font>
+
+75
+00:05:01,125 --> 00:05:04,958
+<font size="20">Tanti auguri a te</font>
+
+76
+00:05:05,041 --> 00:05:07,291
+<font size="20">Tanti auguri a…</font>
+
+77
+00:05:07,375 --> 00:05:08,833
+<font size="20">Oh, eccola.</font>
+
+78
+00:05:08,916 --> 00:05:10,375
+<font size="20">Tanti auguri…</font>
+
+79
+00:05:10,458 --> 00:05:12,833
+<font size="20">- Sì. No.
+- Dev'essere un due.</font>
+
+80
+00:05:12,916 --> 00:05:15,333
+<font size="20">- Sei un'infermiera?
+- Come, prego?</font>
+
+81
+00:05:15,416 --> 00:05:18,166
+<font size="20">È solo che non hai sussultato
+per quelle foto,</font>
+
+82
+00:05:18,250 --> 00:05:20,750
+<font size="20">quindi forse hai una formazione medica.</font>
+
+83
+00:05:20,833 --> 00:05:22,083
+<font size="20">Magari eri un medico,</font>
+
+84
+00:05:22,166 --> 00:05:25,041
+<font size="20">ma le donne medico
+erano rare ai nostri tempi,</font>
+
+85
+00:05:25,125 --> 00:05:28,625
+<font size="20">quindi forse eri un'infermiera
+abituata alle ferite mortali.</font>
+
+86
+00:05:29,166 --> 00:05:30,083
+<font size="20">Ci ho preso?</font>
+
+87
+00:05:30,166 --> 00:05:31,958
+<font size="20">In pieno.</font>
+
+88
+00:05:33,333 --> 00:05:35,083
+<font size="20">Scusa, sono Elizabeth.</font>
+
+89
+00:05:35,166 --> 00:05:36,000
+<font size="20">Ibrahim.</font>
+
+90
+00:05:37,333 --> 00:05:38,375
+<font size="20">Ron.</font>
+
+91
+00:05:38,958 --> 00:05:40,583
+<font size="20">- Sono Joyce.
+- Joyce.</font>
+
+92
+00:05:40,666 --> 00:05:43,583
+<font size="20">Joyce, puoi dare un'occhiata a questa?</font>
+
+93
+00:05:45,541 --> 00:05:47,041
+<font size="20">Buon Dio!</font>
+
+94
+00:05:47,833 --> 00:05:50,833
+<font size="20">Potremmo rimandare i dettagli a dopo.</font>
+
+95
+00:05:50,916 --> 00:05:54,250
+<font size="20">La ragazza poteva sopravvivere
+a una ferita del genere?</font>
+
+96
+00:05:54,791 --> 00:05:58,208
+<font size="20">Beh, dipende in parte dal suo peso.</font>
+
+97
+00:05:58,708 --> 00:06:00,041
+<font size="20">C'è molto sangue.</font>
+
+98
+00:06:00,125 --> 00:06:01,791
+<font size="20">Quarantasei chili.</font>
+
+99
+00:06:01,875 --> 00:06:05,208
+<font size="20">Sì, penso che potesse sopravvivere,
+a patto che…</font>
+
+100
+00:06:05,291 --> 00:06:08,958
+<font size="20">Sentite, quanto durerà questo trambusto?</font>
+
+101
+00:06:09,041 --> 00:06:11,583
+<font size="20">Stiamo facendo il sudoku extra difficile.</font>
+
+102
+00:06:11,666 --> 00:06:15,291
+<font size="20">Joyce, vorresti unirti a noi
+per approfondire la questione?</font>
+
+103
+00:06:15,791 --> 00:06:16,833
+<font size="20">In privato.</font>
+
+104
+00:06:16,916 --> 00:06:18,500
+<font size="20">Oh, d'accordo.</font>
+
+105
+00:06:19,166 --> 00:06:20,083
+<font size="20">Voi chi siete?</font>
+
+106
+00:06:20,166 --> 00:06:21,791
+<font size="20">Scusa, che maleducata.</font>
+
+107
+00:06:22,666 --> 00:06:24,583
+<font size="20">Il club dei delitti del giovedì.</font>
+
+108
+00:06:35,875 --> 00:06:39,916
+<font size="20">Dammi buone notizie, Lloyd.
+Non ti pago tanto per farmi rovinare.</font>
+
+109
+00:06:40,000 --> 00:06:42,791
+<font size="20">Buongiorno, Ian. Ok, ecco l'ultima.</font>
+
+110
+00:06:42,875 --> 00:06:46,041
+<font size="20">La signora Ventham
+dice che vuole l'auto e la casa</font>
+
+111
+00:06:46,125 --> 00:06:47,875
+<font size="20">e l'appartamento a Maiorca.</font>
+
+112
+00:06:48,375 --> 00:06:50,083
+<font size="20">Mio Dio, è stata una scopata!</font>
+
+113
+00:06:50,166 --> 00:06:52,875
+<font size="20">È una reazione eccessiva da stronza!</font>
+
+114
+00:06:53,458 --> 00:06:57,083
+<font size="20">E neanche lei è un angelo.
+Ora ne ho le prove. È un vantaggio.</font>
+
+115
+00:06:57,166 --> 00:07:00,250
+<font size="20">Beh, reazione eccessiva o no,
+devi prepararti, Ian.</font>
+
+116
+00:07:00,333 --> 00:07:04,750
+<font size="20">Gemma fa sul serio col divorzio,
+e userà ogni arma a sua disposizione.</font>
+
+117
+00:07:20,666 --> 00:07:22,041
+<font size="20">- Bene.
+- Ian.</font>
+
+118
+00:07:27,708 --> 00:07:32,416
+<font size="20">Allora, perché tanta urgenza?
+Perché ci vediamo in privato?</font>
+
+119
+00:07:32,500 --> 00:07:35,166
+<font size="20">Devo massimizzare le risorse,
+ora più che mai.</font>
+
+120
+00:07:35,250 --> 00:07:38,291
+<font size="20">Demolirò il cimitero,
+con o senza documenti.</font>
+
+121
+00:07:38,375 --> 00:07:41,666
+<font size="20">Meglio chiedere perdono
+che chiedere il permesso, no?</font>
+
+122
+00:07:41,750 --> 00:07:44,708
+<font size="20">Al posto della chiesa
+faremo appartamenti di lusso.</font>
+
+123
+00:07:45,500 --> 00:07:49,083
+<font size="20">Oh, no. E gli anziani?
+Non saranno d'accordo.</font>
+
+124
+00:07:49,166 --> 00:07:51,125
+<font size="20">Non importa. Se ne andranno.</font>
+
+125
+00:07:51,208 --> 00:07:53,458
+<font size="20">Userò l'edificio come spazio eventi.</font>
+
+126
+00:07:53,541 --> 00:07:55,208
+<font size="20">Ma non sarà facile.</font>
+
+127
+00:07:55,291 --> 00:07:59,083
+<font size="20">Molti di loro erano parecchio potenti,
+ai loro tempi.</font>
+
+128
+00:07:59,166 --> 00:08:01,250
+<font size="20">Non sono i loro tempi. Sono i miei.</font>
+
+129
+00:08:01,333 --> 00:08:02,583
+<font size="20">È il mio terreno.</font>
+
+130
+00:08:03,333 --> 00:08:06,416
+<font size="20">Non mi preoccupano quei vecchi brontoloni.</font>
+
+131
+00:08:07,208 --> 00:08:10,208
+<font size="20">L'unico vero problema è Tony Curran.</font>
+
+132
+00:08:12,125 --> 00:08:12,958
+<font size="20">Perché?</font>
+
+133
+00:08:16,083 --> 00:08:19,000
+<font size="20">- Ecco a lei, signor Ventham.
+- Grazie.</font>
+
+134
+00:08:20,333 --> 00:08:24,166
+<font size="20">È comproprietario di Coopers Chase.
+Farebbe soldi anche lui, no?</font>
+
+135
+00:08:24,250 --> 00:08:27,541
+<font size="20">Sì, se accettasse.
+Ma è sempre uno stronzo testardo.</font>
+
+136
+00:08:27,625 --> 00:08:30,458
+<font size="20">Sua zia Maud è ospite lì
+e non vuole disturbarla.</font>
+
+137
+00:08:30,541 --> 00:08:32,916
+<font size="20">Se lui rifiuta, chi prende il suo posto?</font>
+
+138
+00:08:36,958 --> 00:08:37,916
+<font size="20">Cosa, io?</font>
+
+139
+00:08:38,625 --> 00:08:41,875
+<font size="20">Ti piacerebbe?
+Essere il capo? Fare più soldi?</font>
+
+140
+00:08:43,625 --> 00:08:45,625
+<font size="20">Sì, certo.</font>
+
+141
+00:08:46,375 --> 00:08:48,166
+<font size="20">Sì, mi farebbe comodo.</font>
+
+142
+00:08:48,250 --> 00:08:50,750
+<font size="20">Mia madre è in Polonia ed è malata.</font>
+
+143
+00:08:50,833 --> 00:08:54,083
+<font size="20">Devo mandare soldi extra
+per le sue cure, ma…</font>
+
+144
+00:08:54,166 --> 00:08:57,166
+<font size="20">Bogdan,
+gli escavatori arrivano lunedì mattina.</font>
+
+145
+00:08:57,250 --> 00:09:01,625
+<font size="20">Devi solo presentarti al cimitero
+e dare il via, e farai bei soldi.</font>
+
+146
+00:09:02,208 --> 00:09:05,583
+<font size="20">Più che sufficienti
+per badare a tua madre in Romania.</font>
+
+147
+00:09:05,666 --> 00:09:07,666
+<font size="20">- Polonia.
+- Polonia. Fa lo stesso.</font>
+
+148
+00:09:07,750 --> 00:09:12,250
+<font size="20">Tony Curran è un uomo pericoloso
+ed è invischiato in affari pericolosi.</font>
+
+149
+00:09:13,166 --> 00:09:14,250
+<font size="20">Se lo licenzi,</font>
+
+150
+00:09:16,083 --> 00:09:17,083
+<font size="20">può ucciderti.</font>
+
+151
+00:09:18,375 --> 00:09:19,208
+<font size="20">Bogdan,</font>
+
+152
+00:09:20,458 --> 00:09:24,333
+<font size="20">sono un esperto di arti marziali miste
+a livello regionale.</font>
+
+153
+00:09:24,416 --> 00:09:27,041
+<font size="20">Sono piuttosto pericoloso anch'io.</font>
+
+154
+00:09:29,750 --> 00:09:31,250
+<font size="20">Abbiamo un accordo o no?</font>
+
+155
+00:09:33,125 --> 00:09:34,666
+<font size="20">Ok, lo farò.</font>
+
+156
+00:09:35,166 --> 00:09:36,708
+<font size="20">- Abbiamo un accordo.
+- Sì.</font>
+
+157
+00:09:37,458 --> 00:09:39,250
+<font size="20">Buongiorno, zia Maud.</font>
+
+158
+00:09:39,750 --> 00:09:41,333
+<font size="20">I miei preferiti!</font>
+
+159
+00:09:41,416 --> 00:09:43,083
+<font size="20">Oggi sei bellissima.</font>
+
+160
+00:09:43,166 --> 00:09:44,833
+<font size="20">Sei un bravo ragazzo, Tony.</font>
+
+161
+00:09:44,916 --> 00:09:48,416
+<font size="20">- Buongiorno, Tony. Ciao, come stai?
+- Ron. Buongiorno.</font>
+
+162
+00:09:48,500 --> 00:09:51,291
+<font size="20">Ti presento Joyce.
+Si è appena unita a noi.</font>
+
+163
+00:09:51,375 --> 00:09:53,375
+<font size="20">- Benvenuta a Coopers Chase.
+- Grazie.</font>
+
+164
+00:09:53,458 --> 00:09:54,541
+<font size="20">Buongiorno, Maud.</font>
+
+165
+00:09:57,541 --> 00:09:58,500
+<font size="20">Chi è?</font>
+
+166
+00:09:58,583 --> 00:10:01,958
+<font size="20">Tony Curran,
+comproprietario insieme a Ian Ventham.</font>
+
+167
+00:10:02,041 --> 00:10:04,875
+<font size="20">Comprò il convento fatiscente
+negli anni '80.</font>
+
+168
+00:10:04,958 --> 00:10:06,541
+<font size="20">Fece un buon affare.</font>
+
+169
+00:10:06,625 --> 00:10:07,750
+<font size="20">Sì, eccome.</font>
+
+170
+00:10:07,833 --> 00:10:11,458
+<font size="20">Dice di aver fatto con le sue mani
+la prima ristrutturazione.</font>
+
+171
+00:10:11,541 --> 00:10:14,833
+<font size="20">Poi Ventham ha messo il capitale
+per finire il lavoro.</font>
+
+172
+00:10:14,916 --> 00:10:17,083
+<font size="20">- Sono soci in affari?
+- Sì.</font>
+
+173
+00:10:17,166 --> 00:10:20,041
+<font size="20">- Sembra un po'…
+- Grezzo, sì, ma tranquilla.</font>
+
+174
+00:10:20,125 --> 00:10:23,041
+<font size="20">Tony è dalla nostra parte.
+È questo che conta.</font>
+
+175
+00:10:23,125 --> 00:10:25,208
+<font size="20">In che senso "dalla nostra parte"?</font>
+
+176
+00:10:25,291 --> 00:10:29,583
+<font size="20">Si dice che Ian Ventham
+voglia sbarazzarsi di Coopers Chase.</font>
+
+177
+00:10:30,375 --> 00:10:32,416
+<font size="20">Cosa? Perché?</font>
+
+178
+00:10:32,500 --> 00:10:35,333
+<font size="20">Per cacciarci
+e costruire appartamenti di lusso.</font>
+
+179
+00:10:35,416 --> 00:10:37,375
+<font size="20">Ma sono appena arrivata.</font>
+
+180
+00:10:37,458 --> 00:10:41,416
+<font size="20">Tony non lo accetterà, vero?
+Non finché zia Maud è viva e vegeta.</font>
+
+181
+00:10:41,916 --> 00:10:44,916
+<font size="20">Quindi Tony Curran
+è molto importante per noi.</font>
+
+182
+00:10:46,125 --> 00:10:47,541
+<font size="20">E anche zia Maud.</font>
+
+183
+00:10:49,000 --> 00:10:51,250
+<font size="20">- Vogliamo mangiare la torta?
+- Sì.</font>
+
+184
+00:10:56,625 --> 00:11:00,875
+<font size="20">Il club dei delitti del giovedì
+ha bisogno di conoscenze mediche.</font>
+
+185
+00:11:00,958 --> 00:11:05,875
+<font size="20">Quindi vorremmo che ti unissi a noi,
+ma solo temporaneamente.</font>
+
+186
+00:11:06,500 --> 00:11:08,083
+<font size="20">Sembra divertente.</font>
+
+187
+00:11:08,708 --> 00:11:12,625
+<font size="20">Questa torta è dannatamente buona.
+Potrei abituarmici.</font>
+
+188
+00:11:12,708 --> 00:11:16,750
+<font size="20">Non abituarti troppo, Ron.
+Lascia lavorare le statine.</font>
+
+189
+00:11:16,833 --> 00:11:18,916
+<font size="20">Ma è una torta davvero deliziosa.</font>
+
+190
+00:11:19,000 --> 00:11:21,500
+<font size="20">- Devo ammetterlo.
+- Grazie.</font>
+
+191
+00:11:21,583 --> 00:11:25,500
+<font size="20">Era per mia figlia,
+ma è in premenopausa e non può mangiarla.</font>
+
+192
+00:11:25,583 --> 00:11:30,208
+<font size="20">Se potessi distogliere per un attimo
+la vostra attenzione dalla torta…</font>
+
+193
+00:11:30,291 --> 00:11:31,750
+<font size="20">- Joyce?
+- Sì?</font>
+
+194
+00:11:34,458 --> 00:11:36,125
+<font size="20">La foto che hai visto prima…</font>
+
+195
+00:11:37,333 --> 00:11:40,041
+<font size="20">della donna uccisa
+è del nostro attuale caso.</font>
+
+196
+00:11:40,125 --> 00:11:43,750
+<font size="20">Angela Hughes, "il caso della donna
+vestita di bianco caduta dalla finestra".</font>
+
+197
+00:11:44,750 --> 00:11:49,333
+<font size="20">Sì. Il rapporto afferma
+che il fidanzato di Angela, Peter Mercer,</font>
+
+198
+00:11:49,416 --> 00:11:52,041
+<font size="20">fu interrogato e rilasciato dalla polizia.</font>
+
+199
+00:11:52,125 --> 00:11:56,291
+<font size="20">Sembrava un bravo ragazzo
+e credettero alla storia dell'intruso.</font>
+
+200
+00:11:56,375 --> 00:12:00,333
+<font size="20">Tuttavia, un'agente di polizia,
+l'ispettrice Penny Gray,</font>
+
+201
+00:12:00,416 --> 00:12:02,708
+<font size="20">l'unica donna in servizio all'epoca,</font>
+
+202
+00:12:02,791 --> 00:12:06,125
+<font size="20">voleva farlo interrogare di nuovo,
+ma le fu negato.</font>
+
+203
+00:12:06,208 --> 00:12:08,375
+<font size="20">Il club degli uomini fece muro,</font>
+
+204
+00:12:08,458 --> 00:12:12,833
+<font size="20">e, poco dopo,
+lui scomparve e non se ne seppe più nulla.</font>
+
+205
+00:12:13,333 --> 00:12:14,541
+<font size="20">Caso chiuso.</font>
+
+206
+00:12:15,125 --> 00:12:16,125
+<font size="20">Fino a ora.</font>
+
+207
+00:12:16,625 --> 00:12:19,166
+<font size="20">Posso chiedervi come ottenete questi casi?</font>
+
+208
+00:12:19,250 --> 00:12:22,083
+<font size="20">Sicuramente si tratta
+di fascicoli riservati.</font>
+
+209
+00:12:22,166 --> 00:12:26,458
+<font size="20">Sì, vengono dall'altro membro fondatore
+del nostro gruppo,</font>
+
+210
+00:12:26,541 --> 00:12:29,291
+<font size="20">nonché mia cara amica, Penny.</font>
+
+211
+00:12:29,375 --> 00:12:34,166
+<font size="20">Ah, l'ispettrice Penny Gray,
+che voleva rinterrogare Peter Mercer.</font>
+
+212
+00:12:34,250 --> 00:12:35,833
+<font size="20">Sì, proprio lei.</font>
+
+213
+00:12:35,916 --> 00:12:38,833
+<font size="20">Che emozione.
+Sarà con noi la settimana prossima?</font>
+
+214
+00:12:40,458 --> 00:12:42,083
+<font size="20">No, non sarà con noi.</font>
+
+215
+00:12:43,083 --> 00:12:45,208
+<font size="20">Ora Penny risiede nell'hospice.</font>
+
+216
+00:12:51,333 --> 00:12:52,375
+<font size="20">Mi dispiace.</font>
+
+217
+00:12:53,416 --> 00:12:54,250
+<font size="20">Grazie.</font>
+
+218
+00:12:56,000 --> 00:12:59,791
+<font size="20">Cara, devo aggiornarti
+sul nostro ultimo caso irrisolto.</font>
+
+219
+00:12:59,875 --> 00:13:02,041
+<font size="20">Ibrahim insiste per chiamarlo:</font>
+
+220
+00:13:02,125 --> 00:13:05,208
+<font size="20">"il caso della donna vestita di bianco
+caduta dalla finestra".</font>
+
+221
+00:13:05,708 --> 00:13:07,875
+<font size="20">Sul serio? Accattivante, vero?</font>
+
+222
+00:13:08,541 --> 00:13:10,208
+<font size="20">Ma è un caso difficile.</font>
+
+223
+00:13:10,916 --> 00:13:11,791
+<font size="20">Ti piacerebbe.</font>
+
+224
+00:13:13,208 --> 00:13:17,000
+<font size="20">La chiave è il tempo
+in cui la ragazza è morta dissanguata.</font>
+
+225
+00:13:17,500 --> 00:13:19,083
+<font size="20">Ma siamo stati fortunati.</font>
+
+226
+00:13:19,583 --> 00:13:22,541
+<font size="20">- "Fortunati"?
+- Sì. Abbiamo un'aiutante.</font>
+
+227
+00:13:22,625 --> 00:13:25,583
+<font size="20">È appena arrivata un'ex infermiera, Joyce.</font>
+
+228
+00:13:25,666 --> 00:13:29,041
+<font size="20">È abbastanza gentile.
+Un po' sempliciotta, in realtà.</font>
+
+229
+00:13:29,125 --> 00:13:32,291
+<font size="20">Ma sa tutto
+sulle ferite da coltello e così via.</font>
+
+230
+00:13:32,375 --> 00:13:34,375
+<font size="20">Ognuno ha la sua utilità.</font>
+
+231
+00:13:34,958 --> 00:13:38,125
+<font size="20">Pen, vorrei che potessi aiutarci
+con questo caso.</font>
+
+232
+00:13:38,208 --> 00:13:42,416
+<font size="20">È interessante. Non posso credere
+che tu non l'abbia proposto prima di…</font>
+
+233
+00:13:47,458 --> 00:13:49,208
+<font size="20">John, pensi possa sentirci?</font>
+
+234
+00:13:51,375 --> 00:13:53,458
+<font size="20">Certi giorni prego che possa,</font>
+
+235
+00:13:54,416 --> 00:13:56,583
+<font size="20">e altri prego che non possa.</font>
+
+236
+00:13:56,666 --> 00:13:58,333
+<font size="20">Io sto qui e leggo per lei.</font>
+
+237
+00:13:59,166 --> 00:14:01,875
+<font size="20">- Un sacco di gialli, spero.
+- Certo.</font>
+
+238
+00:14:01,958 --> 00:14:05,875
+<font size="20">Stava impazzendo dalla noia
+prima che tu arrivassi qui.</font>
+
+239
+00:14:05,958 --> 00:14:08,583
+<font size="20">Il club dei delitti del giovedì
+l'ha salvata.</font>
+
+240
+00:14:09,416 --> 00:14:11,000
+<font size="20">Eravate una bella squadra.</font>
+
+241
+00:14:14,583 --> 00:14:15,583
+<font size="20">Come sta Stephen?</font>
+
+242
+00:14:16,666 --> 00:14:17,750
+<font size="20">Beh, sai…</font>
+
+243
+00:14:19,750 --> 00:14:22,958
+<font size="20">Va sempre peggio, quel tipo di demenza.</font>
+
+244
+00:14:23,041 --> 00:14:26,791
+<font size="20">Non migliorerà.
+Ha giorni buoni e meno buoni.</font>
+
+245
+00:14:26,875 --> 00:14:31,958
+<font size="20">E a volte è il mio Stephen,
+quello che amo. Intelligente, lucido.</font>
+
+246
+00:14:32,750 --> 00:14:35,083
+<font size="20">E poi mi giro ed è sparito di nuovo.</font>
+
+247
+00:14:36,625 --> 00:14:37,458
+<font size="20">Sparito.</font>
+
+248
+00:14:39,125 --> 00:14:41,041
+<font size="20">Fa' tesoro dei bei momenti.</font>
+
+249
+00:14:45,041 --> 00:14:47,625
+<font size="20">- Stephen, sono tornata.
+- Ciao, tesoro.</font>
+
+250
+00:14:48,125 --> 00:14:49,375
+<font size="20">Tutto bene oggi?</font>
+
+251
+00:14:49,458 --> 00:14:51,500
+<font size="20">Sì, bene, grazie.</font>
+
+252
+00:14:51,583 --> 00:14:53,333
+<font size="20">- Tu?
+- Sì.</font>
+
+253
+00:14:53,833 --> 00:14:56,625
+<font size="20">- La signora mi ha portato il pranzo.
+- Cos'era?</font>
+
+254
+00:14:58,041 --> 00:14:59,291
+<font size="20">Oh, mio Dio.</font>
+
+255
+00:15:00,083 --> 00:15:01,083
+<font size="20">Non ricordo.</font>
+
+256
+00:15:01,916 --> 00:15:05,000
+<font size="20">Qualunque cosa fosse, era deliziosa.</font>
+
+257
+00:15:05,083 --> 00:15:09,083
+<font size="20">Oggi a pranzo c'era tortino di pollo
+con porri e patate lesse.</font>
+
+258
+00:15:10,125 --> 00:15:12,083
+<font size="20">- Squisito.
+- Niente male.</font>
+
+259
+00:15:12,583 --> 00:15:14,791
+<font size="20">- Cosa stai leggendo?
+- Beh, io…</font>
+
+260
+00:15:16,125 --> 00:15:21,208
+<font size="20">Prima stavo guardando in giardino
+e ho visto una gazza, una sola.</font>
+
+261
+00:15:21,916 --> 00:15:25,541
+<font size="20">Mi sono preoccupato.
+Così mi sono informato.</font>
+
+262
+00:15:26,041 --> 00:15:29,541
+<font size="20">Sai che sono monogame a vita?
+Non è meraviglioso?</font>
+
+263
+00:15:30,375 --> 00:15:31,458
+<font size="20">Proprio come noi.</font>
+
+264
+00:15:36,458 --> 00:15:40,541
+<font size="20">Oddio, guarda che ora è.
+Tarderò all'incontro con il mio editore.</font>
+
+265
+00:15:40,625 --> 00:15:41,916
+<font size="20">- Tranquillo.
+- Cosa?</font>
+
+266
+00:15:42,000 --> 00:15:45,083
+<font size="20">Non c'è fretta.
+Prima ti preparo una tazza di tè, ok?</font>
+
+267
+00:15:45,166 --> 00:15:48,333
+<font size="20">- Magari fai un pisolino.
+- Sì, perfetto.</font>
+
+268
+00:16:24,416 --> 00:16:25,750
+<font size="20">Salve a tutti.</font>
+
+269
+00:16:26,958 --> 00:16:28,375
+<font size="20">Scusate il ritardo. Io…</font>
+
+270
+00:16:29,125 --> 00:16:33,625
+<font size="20">sono l'agente Donna De Freitas
+del commissariato di Fairhaven.</font>
+
+271
+00:16:34,208 --> 00:16:39,750
+<font size="20">E sono qui per darvi consigli pratici
+sulla sicurezza domestica.</font>
+
+272
+00:16:39,833 --> 00:16:41,833
+<font size="20">È una vera poliziotta?</font>
+
+273
+00:16:42,333 --> 00:16:46,041
+<font size="20">Certo che lo è, Marjorie. Comportati bene.</font>
+
+274
+00:16:46,125 --> 00:16:49,708
+<font size="20">Sì, sono una vera poliziotta.</font>
+
+275
+00:16:50,208 --> 00:16:53,041
+<font size="20">Bene. Ho una domanda seria per lei.</font>
+
+276
+00:16:53,125 --> 00:16:54,375
+<font size="20">- Allora…
+- Ok.</font>
+
+277
+00:16:55,041 --> 00:16:58,875
+<font size="20">Se un uomo uccidesse brutalmente
+la sua fidanzata e poi sparisse,</font>
+
+278
+00:16:58,958 --> 00:17:03,583
+<font size="20">per quanto terreste aperta l'indagine
+prima di dichiararlo scomparso?</font>
+
+279
+00:17:09,041 --> 00:17:09,916
+<font size="20">Beh…</font>
+
+280
+00:17:10,958 --> 00:17:14,791
+<font size="20">Non capisco cosa c'entri
+con la sicurezza domestica.</font>
+
+281
+00:17:16,458 --> 00:17:21,166
+<font size="20">Credo che ci auguriamo tutti che non sia
+un noioso discorso sulle serrature.</font>
+
+282
+00:17:22,166 --> 00:17:24,375
+<font size="20">Sì, e sappiamo tutti del tesserino.</font>
+
+283
+00:17:24,458 --> 00:17:28,208
+<font size="20">"È davvero un tecnico del gas
+o è un ladro?"</font>
+
+284
+00:17:29,833 --> 00:17:30,666
+<font size="20">Già.</font>
+
+285
+00:17:30,750 --> 00:17:32,250
+<font size="20">Io accoglierei un ladro.</font>
+
+286
+00:17:32,750 --> 00:17:34,375
+<font size="20">Almeno avrei una visita.</font>
+
+287
+00:17:40,416 --> 00:17:43,208
+<font size="20">In realtà, volevo parlarvi</font>
+
+288
+00:17:44,125 --> 00:17:46,458
+<font size="20">dei braccialetti di sicurezza.</font>
+
+289
+00:17:52,625 --> 00:17:54,041
+<font size="20">No…</font>
+
+290
+00:17:54,708 --> 00:17:55,833
+<font size="20">No!</font>
+
+291
+00:17:56,958 --> 00:17:58,916
+<font size="20">- È la mia auto.
+- Mi dispiace.</font>
+
+292
+00:17:59,000 --> 00:18:02,500
+<font size="20">Il nostro comitato parcheggi
+prende sul serio il suo lavoro.</font>
+
+293
+00:18:02,583 --> 00:18:05,125
+<font size="20">- Sono fascisti.
+- Ma io sono della polizia.</font>
+
+294
+00:18:05,208 --> 00:18:07,583
+<font size="20">Se ne fotterebbero anche se fosse il Re.</font>
+
+295
+00:18:07,666 --> 00:18:11,416
+<font size="20">Sì, non andrà da nessuna parte
+per almeno un'ora.</font>
+
+296
+00:18:14,541 --> 00:18:16,625
+<font size="20">Vuole pranzare con noi?</font>
+
+297
+00:18:19,208 --> 00:18:21,416
+<font size="20">- Ordiniamo due bottiglie?
+- Sì.</font>
+
+298
+00:18:21,500 --> 00:18:24,500
+<font size="20">- Bottiglie di cosa?
+- Rosso e bianco. Vino.</font>
+
+299
+00:18:24,583 --> 00:18:27,333
+<font size="20">Veramente per me è un po' presto.</font>
+
+300
+00:18:27,416 --> 00:18:30,041
+<font size="20">Non è presto, se sei sveglio dalle 5:30.</font>
+
+301
+00:18:30,125 --> 00:18:31,333
+<font size="20">Quanti anni mi dà?</font>
+
+302
+00:18:33,208 --> 00:18:34,208
+<font size="20">Settantotto?</font>
+
+303
+00:18:34,708 --> 00:18:37,000
+<font size="20">- Ma non li dimostra.
+- Faccio pilates.</font>
+
+304
+00:18:37,083 --> 00:18:40,291
+<font size="20">Beh, come ho detto,
+non dimostra più di 65 anni,</font>
+
+305
+00:18:40,375 --> 00:18:43,166
+<font size="20">ma le mani non mentono mai.</font>
+
+306
+00:18:43,250 --> 00:18:44,875
+<font size="20">Gran fiuto da poliziotta.</font>
+
+307
+00:18:44,958 --> 00:18:48,083
+<font size="20">Allora, agente De Freitas,
+è il suo primo lavoro?</font>
+
+308
+00:18:48,166 --> 00:18:52,208
+<font size="20">Oh, no. Sono stata per un po'
+nella polizia di Londra,</font>
+
+309
+00:18:52,291 --> 00:18:54,458
+<font size="20">e poi mi sono trasferita qui.</font>
+
+310
+00:18:54,541 --> 00:18:56,916
+<font size="20">Come si trova? Non è un po' noioso?</font>
+
+311
+00:18:59,666 --> 00:19:00,500
+<font size="20">Tranquilla.</font>
+
+312
+00:19:00,583 --> 00:19:01,916
+<font size="20">A noi può dirlo.</font>
+
+313
+00:19:03,250 --> 00:19:04,083
+<font size="20">Beh, allora…</font>
+
+314
+00:19:05,166 --> 00:19:09,833
+<font size="20">sì, mi annoio a morte
+a gestire le infrazioni stradali.</font>
+
+315
+00:19:12,583 --> 00:19:14,791
+<font size="20">Voi siete single o sposati?</font>
+
+316
+00:19:14,875 --> 00:19:16,375
+<font size="20">Scapolo convinto.</font>
+
+317
+00:19:16,875 --> 00:19:18,458
+<font size="20">Divorziato. Due volte.</font>
+
+318
+00:19:20,666 --> 00:19:21,500
+<font size="20">Vedova.</font>
+
+319
+00:19:22,416 --> 00:19:25,666
+<font size="20">Ma Elizabeth è sposata
+con l'adorabile Stephen.</font>
+
+320
+00:19:25,750 --> 00:19:28,416
+<font size="20">Davvero? Si unirà a noi?</font>
+
+321
+00:19:29,000 --> 00:19:30,833
+<font size="20">No, ha una bozza da consegnare.</font>
+
+322
+00:19:30,916 --> 00:19:32,666
+<font size="20">Stephen è uno scrittore.</font>
+
+323
+00:19:32,750 --> 00:19:35,833
+<font size="20">Davvero? Lei cosa faceva
+prima di andare in pensione?</font>
+
+324
+00:19:35,916 --> 00:19:39,500
+<font size="20">Lo psichiatra. Aiutavo i veterani
+col disturbo post-traumatico da stress.</font>
+
+325
+00:19:39,583 --> 00:19:41,708
+<font size="20">E lei, Ron?</font>
+
+326
+00:19:42,416 --> 00:19:43,916
+<font size="20">Il sindacalista.</font>
+
+327
+00:19:44,000 --> 00:19:47,083
+<font size="20">Non un sindacalista qualsiasi, Ron.</font>
+
+328
+00:19:47,166 --> 00:19:51,333
+<font size="20">Il sindacalista per eccellenza.
+Noto ai suoi tempi come Ron il Rosso.</font>
+
+329
+00:19:51,416 --> 00:19:55,833
+<font size="20">Sì. Se c'era un picchetto,
+uno sciopero o un sit-in,</font>
+
+330
+00:19:55,916 --> 00:19:59,583
+<font size="20">ero lì intorno a un braciere,
+a radunare le truppe.</font>
+
+331
+00:20:00,083 --> 00:20:01,500
+<font size="20">Bei tempi.</font>
+
+332
+00:20:02,541 --> 00:20:03,791
+<font size="20">E lei, Joyce?</font>
+
+333
+00:20:03,875 --> 00:20:05,583
+<font size="20">Niente di che.</font>
+
+334
+00:20:05,666 --> 00:20:08,291
+<font size="20">L'infermiera, la mamma
+e ancora l'infermiera.</font>
+
+335
+00:20:08,375 --> 00:20:11,541
+<font size="20">Mia figlia Joanna
+è quella interessante in famiglia.</font>
+
+336
+00:20:11,625 --> 00:20:14,750
+<font size="20">Gestisce un fondo speculativo,
+se sapete cos'è.</font>
+
+337
+00:20:14,833 --> 00:20:15,833
+<font size="20">- No.
+- Non lo so.</font>
+
+338
+00:20:15,916 --> 00:20:16,833
+<font size="20">Nemmeno io.</font>
+
+339
+00:20:17,750 --> 00:20:18,833
+<font size="20">E lei, Elizabeth?</font>
+
+340
+00:20:19,583 --> 00:20:20,541
+<font size="20">Cosa faceva?</font>
+
+341
+00:20:22,833 --> 00:20:24,166
+<font size="20">Affari internazionali.</font>
+
+342
+00:20:25,500 --> 00:20:26,875
+<font size="20">Era una diplomatica?</font>
+
+343
+00:20:29,375 --> 00:20:32,291
+<font size="20">Diciamo che ho
+una vasta gamma di competenze.</font>
+
+344
+00:20:32,375 --> 00:20:35,791
+<font size="20">- Posso?
+- Il vino. Sì, grazie. Ne prendo un po'.</font>
+
+345
+00:20:35,875 --> 00:20:38,750
+<font size="20">Allora, cosa c'è oggi? Vediamo.</font>
+
+346
+00:20:38,833 --> 00:20:41,000
+<font size="20">- Ordino io per te.
+- Sì?</font>
+
+347
+00:20:41,083 --> 00:20:42,666
+<font size="20">Jackie, stammi dietro.</font>
+
+348
+00:20:43,791 --> 00:20:45,125
+<font size="20">Che posto magnifico.</font>
+
+349
+00:20:45,625 --> 00:20:47,541
+<font size="20">Fa venire voglia di invecchiare.</font>
+
+350
+00:20:49,583 --> 00:20:53,333
+<font size="20">Cioè, di entrare
+nelle fasi avanzate della vita.</font>
+
+351
+00:20:53,416 --> 00:20:55,416
+<font size="20">Sì, Coopers Chase è eccezionale.</font>
+
+352
+00:20:55,500 --> 00:20:57,250
+<font size="20">- Ehi!
+- Siamo così fortunati…</font>
+
+353
+00:20:57,333 --> 00:20:59,583
+<font size="20">- Eccolo.
+- C'è Jason.</font>
+
+354
+00:20:59,666 --> 00:21:00,750
+<font size="20">Come va, papà?</font>
+
+355
+00:21:00,833 --> 00:21:02,958
+<font size="20">Bene. Meglio, ora che ti vedo.</font>
+
+356
+00:21:03,541 --> 00:21:07,166
+<font size="20">- È Jason Ritchie?
+- Sì, la nostra star. Il figlio di Ron.</font>
+
+357
+00:21:07,250 --> 00:21:09,250
+<font size="20">Viene due o tre volte a settimana.</font>
+
+358
+00:21:09,833 --> 00:21:11,041
+<font size="20">Oh, Ibsy.</font>
+
+359
+00:21:11,125 --> 00:21:12,916
+<font size="20">- Jason.
+- Ciao, Jason.</font>
+
+360
+00:21:13,000 --> 00:21:16,541
+<font size="20">- Elizabeth.
+- Jason, lei è l'agente Donna De Freitas.</font>
+
+361
+00:21:16,625 --> 00:21:18,333
+<font size="20">- Salve. Come va?
+- Salve.</font>
+
+362
+00:21:18,416 --> 00:21:19,916
+<font size="20">È un piacere conoscerla.</font>
+
+363
+00:21:20,000 --> 00:21:24,333
+<font size="20">Ero… Sono una sua grande fan.
+Ho visto tutti i suoi incontri.</font>
+
+364
+00:21:25,375 --> 00:21:28,666
+<font size="20">Allora, cosa fa adesso, dopo l'infortunio?</font>
+
+365
+00:21:29,583 --> 00:21:31,833
+<font size="20">Qualche apparizione televisiva.</font>
+
+366
+00:21:31,916 --> 00:21:33,083
+<font size="20">Oh, certo.</font>
+
+367
+00:21:33,166 --> 00:21:36,041
+<font size="20">Un tempo era il campione supremo,
+vero, figliolo?</font>
+
+368
+00:21:36,125 --> 00:21:37,541
+<font size="20">- Lo sa, papà.
+- Sì.</font>
+
+369
+00:21:37,625 --> 00:21:40,541
+<font size="20">Jason, lei è Joyce. È appena arrivata.</font>
+
+370
+00:21:40,625 --> 00:21:44,958
+<font size="20">Sappi che ti ho trovato meraviglioso
+a Celebrity MasterChef.</font>
+
+371
+00:21:45,041 --> 00:21:47,291
+<font size="20">Grazie mille, Joyce.</font>
+
+372
+00:21:47,375 --> 00:21:50,291
+<font size="20">Allora, che progetti ha, Jason?</font>
+
+373
+00:21:50,375 --> 00:21:53,125
+<font size="20">Ho appena iniziato le prove
+per Dancing on Ice.</font>
+
+374
+00:21:54,541 --> 00:21:56,291
+<font size="20">È un po' come fare sport, no?</font>
+
+375
+00:21:59,000 --> 00:21:59,833
+<font size="20">Sì.</font>
+
+376
+00:22:01,583 --> 00:22:05,833
+<font size="20">Beh, grazie mille per il pranzo.</font>
+
+377
+00:22:07,458 --> 00:22:09,916
+<font size="20">- Grazie. A presto.
+- Mi stia bene.</font>
+
+378
+00:22:10,000 --> 00:22:12,333
+<font size="20">- Arrivederci.
+- Sì, ci vediamo.</font>
+
+379
+00:22:16,500 --> 00:22:17,916
+<font size="20">Ragazza gentile.</font>
+
+380
+00:22:19,000 --> 00:22:20,625
+<font size="20">Potrebbe esserci utile.</font>
+
+381
+00:22:20,708 --> 00:22:22,208
+<font size="20">Tony, lascia stare.</font>
+
+382
+00:22:22,291 --> 00:22:25,916
+<font size="20">- Non la passerai liscia.
+- Passarla liscia con cosa?</font>
+
+383
+00:22:26,000 --> 00:22:28,708
+<font size="20">È tutto regolare. Leggi il contratto.</font>
+
+384
+00:22:28,791 --> 00:22:29,916
+<font size="20">- Contratto?
+- Sì.</font>
+
+385
+00:22:30,000 --> 00:22:32,666
+<font size="20">Coinvolgerai Bogdan,
+l'operaio polacco, vero?</font>
+
+386
+00:22:32,750 --> 00:22:35,541
+<font size="20">Non farai niente
+finché mia zia Maud è viva.</font>
+
+387
+00:22:35,625 --> 00:22:38,000
+<font size="20">- Ci vediamo in tribunale.
+- Quando vuoi.</font>
+
+388
+00:22:38,083 --> 00:22:39,625
+<font size="20">- Accidenti.
+- Ti aspetto.</font>
+
+389
+00:22:39,708 --> 00:22:41,458
+<font size="20">Di cosa si tratterà?</font>
+
+390
+00:22:42,375 --> 00:22:43,208
+<font size="20">Di soldi.</font>
+
+391
+00:22:44,333 --> 00:22:46,166
+<font size="20">Ruota tutto intorno ai soldi.</font>
+
+392
+00:22:47,541 --> 00:22:49,000
+<font size="20">Tony, che succede?</font>
+
+393
+00:22:49,083 --> 00:22:50,708
+<font size="20">Che succede, Liz? Lui.</font>
+
+394
+00:22:51,208 --> 00:22:52,916
+<font size="20">Ventham, ecco che succede.</font>
+
+395
+00:22:53,000 --> 00:22:56,666
+<font size="20">Vuole demolire il cimitero
+e farci degli appartamenti di lusso.</font>
+
+396
+00:22:56,750 --> 00:22:59,625
+<font size="20">- Le voci erano vere?
+- Il rumore sarà terribile.</font>
+
+397
+00:22:59,708 --> 00:23:03,041
+<font size="20">Sì, ma l'edificio principale?
+E i nostri appartamenti?</font>
+
+398
+00:23:04,083 --> 00:23:07,000
+<font size="20">- Diventeranno uno spazio per eventi.
+- Oddio.</font>
+
+399
+00:23:07,583 --> 00:23:08,458
+<font size="20">- Ron.
+- Sì.</font>
+
+400
+00:23:08,541 --> 00:23:11,166
+<font size="20">- Cosa facciamo?
+- Convochiamo gli ospiti.</font>
+
+401
+00:23:11,250 --> 00:23:14,875
+<font size="20">È scritto nei contratti di locazione.
+Deve prima consultarci.</font>
+
+402
+00:23:14,958 --> 00:23:17,666
+<font size="20">Ma non puoi fare qualcosa
+come comproprietario?</font>
+
+403
+00:23:17,750 --> 00:23:20,666
+<font size="20">Oh, posso fare un sacco di cose.</font>
+
+404
+00:23:21,250 --> 00:23:22,333
+<font size="20">Statene certi,</font>
+
+405
+00:23:22,416 --> 00:23:25,666
+<font size="20">farò il possibile
+per salvare questo posto e tutti voi.</font>
+
+406
+00:23:25,750 --> 00:23:28,166
+<font size="20">Non si scherza con i Curran.</font>
+
+407
+00:23:29,041 --> 00:23:30,541
+<font size="20">E lui sta per scoprirlo.</font>
+
+408
+00:23:31,333 --> 00:23:32,166
+<font size="20">Ve lo dico io.</font>
+
+409
+00:23:35,083 --> 00:23:36,750
+<font size="20">Prepariamoci a combattere.</font>
+
+410
+00:23:43,833 --> 00:23:45,791
+<font size="20">- Buu!
+- Buu!</font>
+
+411
+00:23:52,625 --> 00:23:57,583
+<font size="20">SALVIAMO COOPERS CHASE</font>
+
+412
+00:23:58,083 --> 00:24:01,583
+<font size="20">- Ma che fai? Ehi!
+- Brutto idiota!</font>
+
+413
+00:24:01,666 --> 00:24:02,750
+<font size="20">D'accordo.</font>
+
+414
+00:24:03,916 --> 00:24:05,291
+<font size="20">Ok, c'è il pienone.</font>
+
+415
+00:24:05,375 --> 00:24:08,041
+<font size="20">Prima di tutto, vorrei citare Confucio.</font>
+
+416
+00:24:08,125 --> 00:24:10,208
+<font size="20">Oh, ecco una citazione.</font>
+
+417
+00:24:11,125 --> 00:24:13,666
+<font size="20">Parole sue, signor Ventham, non mie.</font>
+
+418
+00:24:13,750 --> 00:24:17,666
+<font size="20">"Ventham Investments potrà sviluppare
+nuove possibilità abitative</font>
+
+419
+00:24:17,750 --> 00:24:21,666
+<font size="20">previa consultazione
+con gli attuali ospiti di Coopers Chase."</font>
+
+420
+00:24:22,958 --> 00:24:24,708
+<font size="20">Sì, ecco la consultazione.</font>
+
+421
+00:24:24,791 --> 00:24:28,291
+<font size="20">Voi siete gli ospiti.
+Consultatevi pure per dieci minuti.</font>
+
+422
+00:24:28,375 --> 00:24:31,458
+<font size="20">Non è una consultazione. È un'imboscata.</font>
+
+423
+00:24:31,541 --> 00:24:35,875
+<font size="20">Sappiamo che intende sbarazzarsi
+dell'intera comunità di pensionati.</font>
+
+424
+00:24:35,958 --> 00:24:40,625
+<font size="20">- Sì, e buttarci per strada.
+- Oh, andiamo. No.</font>
+
+425
+00:24:41,125 --> 00:24:44,708
+<font size="20">Non per strada.
+Avrete un risarcimento e una nuova casa.</font>
+
+426
+00:24:44,791 --> 00:24:48,750
+<font size="20">Ma vogliamo stare a Coopers Chase.
+Abbiamo firmato dei contratti.</font>
+
+427
+00:24:48,833 --> 00:24:50,250
+<font size="20">A vita.</font>
+
+428
+00:24:50,333 --> 00:24:54,583
+<font size="20">E a quanto pare siete immortali.
+Tuttavia, se leggete il contratto,</font>
+
+429
+00:24:54,666 --> 00:24:56,666
+<font size="20">vedrete che c'è una clausola che…</font>
+
+430
+00:24:56,750 --> 00:24:59,250
+<font size="20">Signor Ventham, a noi piace stare qui.</font>
+
+431
+00:24:59,333 --> 00:25:02,458
+<font size="20">- Sì!
+- Qui abbiamo una casa e degli amici.</font>
+
+432
+00:25:02,541 --> 00:25:06,583
+<font size="20">E ci sono ospiti i cui coniugi
+hanno bisogno di cure speciali.</font>
+
+433
+00:25:06,666 --> 00:25:08,375
+<font size="20">O che hanno famiglia all'estero.</font>
+
+434
+00:25:09,250 --> 00:25:11,208
+<font size="20">Cosa ne farà dei lama?</font>
+
+435
+00:25:11,875 --> 00:25:14,625
+<font size="20">Sono del tutto fuori controllo,
+come i conigli.</font>
+
+436
+00:25:14,708 --> 00:25:18,291
+<font size="20">Ho fatto una donazione
+al santuario degli asini, andranno lì.</font>
+
+437
+00:25:18,375 --> 00:25:21,791
+<font size="20">Ed è quello che vuole fare
+anche con tutti noi, eh?</font>
+
+438
+00:25:23,416 --> 00:25:25,916
+<font size="20">Comunque sono il veterinario. Li curo io.</font>
+
+439
+00:25:26,000 --> 00:25:29,500
+<font size="20">Non può prendere queste decisioni
+senza prima consultarmi.</font>
+
+440
+00:25:29,583 --> 00:25:32,125
+<font size="20">Sentite, questo terreno è mio.</font>
+
+441
+00:25:32,208 --> 00:25:34,916
+<font size="20">Ok? Ho il diritto
+di farne quello che voglio.</font>
+
+442
+00:25:35,000 --> 00:25:40,208
+<font size="20">Non dovrebbe profanare tombe sacre
+solo per fare soldi facili.</font>
+
+443
+00:25:40,291 --> 00:25:41,583
+<font size="20">È peccato.</font>
+
+444
+00:25:45,041 --> 00:25:47,458
+<font size="20">Non avevo mai visto Padre Mackie agitato.</font>
+
+445
+00:25:47,541 --> 00:25:51,750
+<font size="20">Cura quel cimitero ogni giorno.
+Si sentirà sminuito nella sua fede.</font>
+
+446
+00:25:51,833 --> 00:25:52,875
+<font size="20">Immagino di sì.</font>
+
+447
+00:25:52,958 --> 00:25:56,041
+<font size="20">Dato che Dio
+non è apparso personalmente, basta così.</font>
+
+448
+00:25:56,125 --> 00:25:59,166
+<font size="20">Tempo scaduto.
+I lavori iniziano lunedì. Grazie.</font>
+
+449
+00:26:11,250 --> 00:26:14,750
+<font size="20">Se l'è presa con il tizio sbagliato.</font>
+
+450
+00:26:14,833 --> 00:26:17,041
+<font size="20">- Sono stato chiaro.
+- Davvero?</font>
+
+451
+00:26:17,833 --> 00:26:20,125
+<font size="20">Sì, gli ho detto: "Ascolta, Ventham.</font>
+
+452
+00:26:20,208 --> 00:26:23,125
+<font size="20">Se credi di rimpiazzarmi
+con quell'idiota polacco,</font>
+
+453
+00:26:23,208 --> 00:26:24,541
+<font size="20">ti sbagli di grosso".</font>
+
+454
+00:26:24,625 --> 00:26:25,583
+<font size="20">Ok, Tony.</font>
+
+455
+00:26:25,666 --> 00:26:29,541
+<font size="20">Non facciamo niente di avventato.
+Devi mantenere la calma.</font>
+
+456
+00:26:29,625 --> 00:26:32,958
+<font size="20">- Devo richiamarti. Ciao.
+- Ok, ciao.</font>
+
+457
+00:26:47,541 --> 00:26:48,750
+<font size="20">Che ci fai qui?</font>
+
+458
+00:26:53,500 --> 00:26:57,166
+<font size="20">Dunque, sembra che la vittima
+sia stata colpita a morte.</font>
+
+459
+00:26:57,666 --> 00:26:59,291
+<font size="20">Nessuna traccia dell'arma.</font>
+
+460
+00:27:09,250 --> 00:27:13,291
+<font size="20">A colazione con KNT1, la radio del Kent.</font>
+
+461
+00:27:13,791 --> 00:27:18,916
+<font size="20">Ultim'ora: il corpo senza vita
+dell'imprenditore locale Tony Curran</font>
+
+462
+00:27:19,000 --> 00:27:21,875
+<font size="20">è stato trovato in casa sua ieri mattina.</font>
+
+463
+00:27:21,958 --> 00:27:24,541
+<font size="20">Sembra che l'uomo
+sia stato colpito a morte.</font>
+
+464
+00:27:24,625 --> 00:27:26,916
+<font size="20">Al momento, non ci sono sospettati.</font>
+
+465
+00:27:27,000 --> 00:27:29,625
+<font size="20">La polizia afferma
+che l'indagine è in corso.</font>
+
+466
+00:27:33,083 --> 00:27:34,875
+<font size="20">Elizabeth?</font>
+
+467
+00:27:35,375 --> 00:27:38,458
+<font size="20">Dobbiamo incontrarci
+fuori dalla sala puzzle, subito!</font>
+
+468
+00:27:39,541 --> 00:27:41,916
+<font size="20">Riunione d'emergenza, ora!</font>
+
+469
+00:27:42,000 --> 00:27:43,083
+<font size="20">Ma che diamine…</font>
+
+470
+00:27:43,166 --> 00:27:49,041
+<font size="20">Sì! Tutti insieme. Sinistra! Destra!</font>
+
+471
+00:27:51,916 --> 00:27:52,875
+<font size="20">- Ron!
+- Sì?</font>
+
+472
+00:27:52,958 --> 00:27:55,666
+<font size="20">Dobbiamo fare una riunione.
+Esci dalla piscina!</font>
+
+473
+00:27:57,250 --> 00:28:01,791
+<font size="20">Di che si tratta? Stavo facendo yoga.
+Non si può ripetere il saluto al sole.</font>
+
+474
+00:28:01,875 --> 00:28:05,416
+<font size="20">I membri temporanei del club
+non possono convocare riunioni.</font>
+
+475
+00:28:05,500 --> 00:28:07,833
+<font size="20">C'è stato un omicidio! Uno vero!</font>
+
+476
+00:28:07,916 --> 00:28:08,791
+<font size="20">- Cosa?
+- Chi?</font>
+
+477
+00:28:08,875 --> 00:28:11,750
+<font size="20">Tony Curran!
+È stato ucciso in casa ieri mattina.</font>
+
+478
+00:28:12,375 --> 00:28:15,333
+<font size="20">Abbiamo un vero caso da risolvere.
+Non è magnifico?</font>
+
+479
+00:28:16,583 --> 00:28:20,083
+<font size="20">- No, Joyce, non è magnifico.
+- Se Tony Curran è morto…</font>
+
+480
+00:28:20,166 --> 00:28:23,083
+<font size="20">Chi impedirà
+che Coopers Chase venga demolita?</font>
+
+481
+00:28:23,166 --> 00:28:24,833
+<font size="20">Ventham ha campo libero.</font>
+
+482
+00:28:24,916 --> 00:28:28,458
+<font size="20">Certo. Mi dispiace molto per Tony.
+Riposi in pace, eccetera.</font>
+
+483
+00:28:28,541 --> 00:28:32,208
+<font size="20">- Chi voleva uccidere Tony Curran?
+- E come lo incastriamo?</font>
+
+484
+00:28:32,875 --> 00:28:36,166
+<font size="20">La polizia starà stilando
+una lista di sospettati.</font>
+
+485
+00:28:36,250 --> 00:28:41,583
+<font size="20">Ci serve un uomo, o una donna,
+che lavori dall'interno.</font>
+
+486
+00:28:43,708 --> 00:28:46,708
+<font size="20">E credo che conosciamo la persona giusta.</font>
+
+487
+00:28:47,208 --> 00:28:49,000
+<font size="20">Bene, ascoltate.</font>
+
+488
+00:28:49,083 --> 00:28:51,416
+<font size="20">La causa della morte è brutale,</font>
+
+489
+00:28:51,500 --> 00:28:54,541
+<font size="20">un trauma contusivo
+sul lato destro della testa.</font>
+
+490
+00:28:54,625 --> 00:28:57,750
+<font size="20">La casa era a soqquadro,
+forse una rapina finita male,</font>
+
+491
+00:28:57,833 --> 00:29:00,375
+<font size="20">ma non c'erano segni di effrazione.</font>
+
+492
+00:29:00,458 --> 00:29:03,583
+<font size="20">L'ultima chiamata
+è stata a un numero non registrato,</font>
+
+493
+00:29:03,666 --> 00:29:05,291
+<font size="20">forse un telefono usa e getta.</font>
+
+494
+00:29:05,375 --> 00:29:08,916
+<font size="20">C'erano vari oggetti
+sul pavimento e sul mobiletto.</font>
+
+495
+00:29:09,000 --> 00:29:13,916
+<font size="20">Documenti, bollette, contratti
+e anche… questa foto.</font>
+
+496
+00:29:14,000 --> 00:29:14,916
+<font size="20">Ora, è…</font>
+
+497
+00:29:16,041 --> 00:29:18,458
+<font size="20">Sì, lasci il vassoio, agente.</font>
+
+498
+00:29:18,541 --> 00:29:21,166
+<font size="20">Avrà altri compiti importanti da sbrigare.</font>
+
+499
+00:29:21,666 --> 00:29:24,166
+<font size="20">Sì. Certo.</font>
+
+500
+00:29:26,083 --> 00:29:27,875
+<font size="20">- Molto importanti.
+- Bene…</font>
+
+501
+00:29:27,958 --> 00:29:29,666
+<font size="20">Il tè non si prepara da solo.</font>
+
+502
+00:29:33,916 --> 00:29:35,833
+<font size="20">- Pronto?
+- Joyce, sei pronta?</font>
+
+503
+00:29:35,916 --> 00:29:36,958
+<font size="20">Quasi.</font>
+
+504
+00:29:38,750 --> 00:29:40,750
+<font size="20">- Ci vediamo alla fermata.
+- Ok.</font>
+
+505
+00:30:00,666 --> 00:30:03,041
+<font size="20">Ecco qua. Che dici, è troppo?</font>
+
+506
+00:30:03,125 --> 00:30:06,750
+<font size="20">No, per niente. È… molto realistico.</font>
+
+507
+00:30:07,541 --> 00:30:08,375
+<font size="20">Pronto?</font>
+
+508
+00:30:09,500 --> 00:30:12,208
+<font size="20">Commissariato di Fairhaven. Certo.</font>
+
+509
+00:30:12,291 --> 00:30:15,708
+<font size="20">Sono il dottor Ibrahim Arif. Esatto.</font>
+
+510
+00:30:15,791 --> 00:30:18,208
+<font size="20">Il mio caro amico Ron Ritchie</font>
+
+511
+00:30:18,291 --> 00:30:22,666
+<font size="20">ha informazioni importanti
+sull'omicidio di Tony Curran.</font>
+
+512
+00:30:23,166 --> 00:30:24,750
+<font size="20">Siamo a Coopers Chase.</font>
+
+513
+00:30:24,833 --> 00:30:27,000
+<font size="20">No, temo non sia possibile.</font>
+
+514
+00:30:27,083 --> 00:30:29,791
+<font size="20">No, non possiamo venire in commissariato.</font>
+
+515
+00:30:29,875 --> 00:30:34,541
+<font size="20">Ron è molto malato e vulnerabile,</font>
+
+516
+00:30:34,625 --> 00:30:36,916
+<font size="20">e… anche incontinente.</font>
+
+517
+00:30:37,000 --> 00:30:38,333
+<font size="20">No, non dire così.</font>
+
+518
+00:30:39,416 --> 00:30:41,625
+<font size="20">Potreste mandare qualcuno?</font>
+
+519
+00:30:43,208 --> 00:30:46,458
+<font size="20">- Sarebbe fantastico. Grazie.
+- Ottimo. Ci siamo, vero?</font>
+
+520
+00:30:46,541 --> 00:30:49,416
+<font size="20">Non proprio, Ron. Sei troppo decoroso.</font>
+
+521
+00:30:49,916 --> 00:30:51,083
+<font size="20">- Ok.
+- Più sciatto.</font>
+
+522
+00:30:51,583 --> 00:30:53,375
+<font size="20">Più sciatto.</font>
+
+523
+00:31:02,958 --> 00:31:05,625
+<font size="20">Io esco. Se hai bisogno, chiamami.</font>
+
+524
+00:31:05,708 --> 00:31:08,041
+<font size="20">Oh, no, me la caverò. Non preoccuparti.</font>
+
+525
+00:31:09,083 --> 00:31:10,125
+<font size="20">Ma che…</font>
+
+526
+00:31:11,500 --> 00:31:13,000
+<font size="20">Ma che ti sei messa?</font>
+
+527
+00:31:14,208 --> 00:31:15,833
+<font size="20">Sembri la regina.</font>
+
+528
+00:31:16,500 --> 00:31:18,250
+<font size="20">- Davvero?
+- Sì.</font>
+
+529
+00:31:22,041 --> 00:31:23,458
+<font size="20">Che giorno triste.</font>
+
+530
+00:31:24,208 --> 00:31:25,125
+<font size="20">Il funerale.</font>
+
+531
+00:31:26,125 --> 00:31:28,083
+<font size="20">- Te lo ricordi?
+- Certo che sì.</font>
+
+532
+00:31:28,750 --> 00:31:31,541
+<font size="20">19 settembre 2022.</font>
+
+533
+00:31:31,625 --> 00:31:33,500
+<font size="20">L'abbiamo visto in televisione.</font>
+
+534
+00:31:34,000 --> 00:31:36,208
+<font size="20">Eri attenta alle misure di sicurezza.</font>
+
+535
+00:31:36,291 --> 00:31:37,458
+<font size="20">Sì, è vero.</font>
+
+536
+00:31:38,708 --> 00:31:39,833
+<font size="20">Che combini?</font>
+
+537
+00:31:39,916 --> 00:31:42,541
+<font size="20">Oh, niente di che. Ho un piano.</font>
+
+538
+00:31:42,625 --> 00:31:46,791
+<font size="20">Mia cara Elizabeth,
+tu hai sempre un piano.</font>
+
+539
+00:31:49,291 --> 00:31:50,166
+<font size="20">A destra.</font>
+
+540
+00:32:02,000 --> 00:32:03,333
+<font size="20">Mi piace il cardigan.</font>
+
+541
+00:32:04,375 --> 00:32:06,458
+<font size="20">- E ora che succede?
+- Segui me.</font>
+
+542
+00:32:07,666 --> 00:32:09,125
+<font size="20">È così emozionante.</font>
+
+543
+00:32:09,208 --> 00:32:11,583
+<font size="20">Sembra di essere in uno di quei telefilm</font>
+
+544
+00:32:11,666 --> 00:32:15,958
+<font size="20">su due vecchie detective vivaci e grintose
+che battono sempre la polizia.</font>
+
+545
+00:32:16,041 --> 00:32:17,125
+<font size="20">Tu non credi?</font>
+
+546
+00:32:17,208 --> 00:32:19,166
+<font size="20">- No. Joyce?
+- Sì?</font>
+
+547
+00:32:19,250 --> 00:32:22,958
+<font size="20">Non dire "vecchie vivaci e grintose"
+in mia presenza.</font>
+
+548
+00:32:23,041 --> 00:32:23,875
+<font size="20">Va bene.</font>
+
+549
+00:32:29,708 --> 00:32:31,750
+<font size="20">Giovanotto, la prego, mi aiuti.</font>
+
+550
+00:32:31,833 --> 00:32:35,833
+<font size="20">- Mi hanno rubato la borsa fuori da…
+- Marks & Spencer.</font>
+
+551
+00:32:35,916 --> 00:32:37,625
+<font size="20">Sì, Marks & Spencer.</font>
+
+552
+00:32:37,708 --> 00:32:42,291
+<font size="20">C'era tutto. La mia pensione,
+tutti i miei soldi. Mi aiuti.</font>
+
+553
+00:32:42,375 --> 00:32:45,666
+<font size="20">Sì, certo. Mi dia i suoi dati.</font>
+
+554
+00:32:45,750 --> 00:32:48,875
+<font size="20">No, voglio parlare con un'agente donna.</font>
+
+555
+00:32:48,958 --> 00:32:52,791
+<font size="20">Le assicuro che sono qualificato
+e ho un carattere gentile.</font>
+
+556
+00:32:52,875 --> 00:32:54,541
+<font size="20">- No, voglio una donna.
+- Ma…</font>
+
+557
+00:32:54,625 --> 00:32:55,750
+<font size="20">È una suora!</font>
+
+558
+00:32:58,125 --> 00:32:58,958
+<font size="20">Sì.</font>
+
+559
+00:33:00,416 --> 00:33:02,583
+<font size="20">Sì, sono una suora.</font>
+
+560
+00:33:03,500 --> 00:33:07,000
+<font size="20">Sì, ho preso i voti
+e non posso stare con un uomo.</font>
+
+561
+00:33:07,833 --> 00:33:09,833
+<font size="20">A parte Gesù, ovviamente.</font>
+
+562
+00:33:10,750 --> 00:33:11,958
+<font size="20">Ok, ehm…</font>
+
+563
+00:33:12,958 --> 00:33:14,458
+<font size="20">- Resti qui.
+- Si sbrighi.</font>
+
+564
+00:33:14,541 --> 00:33:16,375
+<font size="20">Ok, resti qui.</font>
+
+565
+00:33:19,791 --> 00:33:22,708
+<font size="20">Una suora, ottimo.
+Vorrei averci pensato io.</font>
+
+566
+00:33:24,666 --> 00:33:26,666
+<font size="20">Signore, come posso…</font>
+
+567
+00:33:30,916 --> 00:33:31,833
+<font size="20">aiutarvi?</font>
+
+568
+00:33:35,416 --> 00:33:37,750
+<font size="20">SALA INTERROGATORI</font>
+
+569
+00:33:38,333 --> 00:33:41,541
+<font size="20">- Le hanno davvero rubato la borsa?
+- No.</font>
+
+570
+00:33:41,625 --> 00:33:44,833
+<font size="20">In bocca al lupo a chi ci prova.
+Te lo immagini?</font>
+
+571
+00:33:47,041 --> 00:33:49,958
+<font size="20">Allora posso chiedervi cosa ci fate qui?</font>
+
+572
+00:33:50,041 --> 00:33:53,166
+<font size="20">Devo tornare a catturare criminali
+e cose del genere.</font>
+
+573
+00:33:53,250 --> 00:33:55,833
+<font size="20">Ottimo. Primo, mi lasci dire una cosa.</font>
+
+574
+00:33:55,916 --> 00:34:01,083
+<font size="20">Non finga che non è contenta di vederci,
+perché so che lo è quanto noi.</font>
+
+575
+00:34:01,166 --> 00:34:04,375
+<font size="20">Sarà molto più divertente
+se siamo d'accordo su questo.</font>
+
+576
+00:34:08,083 --> 00:34:12,041
+<font size="20">Ai fini della registrazione,
+l'agente De Freitas non risponde,</font>
+
+577
+00:34:12,125 --> 00:34:14,541
+<font size="20">ma cerca di nascondere un lieve sorriso.</font>
+
+578
+00:34:16,125 --> 00:34:21,791
+<font size="20">Secondo, se la distraiamo da qualcosa,
+di certo non è catturare criminali.</font>
+
+579
+00:34:22,541 --> 00:34:24,333
+<font size="20">Ma qualcosa di noioso.</font>
+
+580
+00:34:27,458 --> 00:34:28,500
+<font size="20">No comment.</font>
+
+581
+00:34:29,625 --> 00:34:31,375
+<font size="20">Abbiamo una domanda per lei.</font>
+
+582
+00:34:33,041 --> 00:34:34,041
+<font size="20">Vi ascolto.</font>
+
+583
+00:34:34,625 --> 00:34:38,125
+<font size="20">Vorrebbe indagare
+sull'omicidio di Tony Curran?</font>
+
+584
+00:34:42,041 --> 00:34:44,250
+<font size="20">Questo è impossibile.</font>
+
+585
+00:34:44,333 --> 00:34:47,208
+<font size="20">Ma se lo rendessimo possibile,
+le interesserebbe?</font>
+
+586
+00:34:48,875 --> 00:34:50,666
+<font size="20">"Se lo rendessimo possibile"?</font>
+
+587
+00:34:51,166 --> 00:34:53,375
+<font size="20">Crede di essere il capo dell'MI5?</font>
+
+588
+00:34:55,833 --> 00:34:56,666
+<font size="20">No.</font>
+
+589
+00:34:57,500 --> 00:35:02,000
+<font size="20">Sono solo una donna
+che non accetta un rifiuto, come lei.</font>
+
+590
+00:35:05,375 --> 00:35:06,416
+<font size="20">Cosa ci guadagna?</font>
+
+591
+00:35:07,250 --> 00:35:09,416
+<font size="20">Ammiro la sua diffidenza.</font>
+
+592
+00:35:09,500 --> 00:35:12,208
+<font size="20">È la caratteristica che ammiro di più.</font>
+
+593
+00:35:12,291 --> 00:35:13,583
+<font size="20">Oh, bene.</font>
+
+594
+00:35:14,083 --> 00:35:18,250
+<font size="20">Allora non le dispiacerà
+dirmi cosa ci guadagna, giusto?</font>
+
+595
+00:35:19,625 --> 00:35:23,750
+<font size="20">Beh, durante l'indagine,
+potremmo farle qualche domanda.</font>
+
+596
+00:35:25,000 --> 00:35:27,375
+<font size="20">Non posso dare informazioni riservate.</font>
+
+597
+00:35:27,458 --> 00:35:30,375
+<font size="20">No, niente di inappropriato.
+Le do la mia parola.</font>
+
+598
+00:35:31,125 --> 00:35:32,375
+<font size="20">Come donna di Dio.</font>
+
+599
+00:35:36,500 --> 00:35:38,375
+<font size="20">Se vi permettessi</font>
+
+600
+00:35:38,458 --> 00:35:41,375
+<font size="20">di aiutarmi a partecipare
+alle indagini su Curran,</font>
+
+601
+00:35:43,375 --> 00:35:44,500
+<font size="20">tra quanto sarebbe?</font>
+
+602
+00:35:44,583 --> 00:35:46,166
+<font size="20">- Ci dia un'ora.
+- Un'ora?</font>
+
+603
+00:35:46,250 --> 00:35:49,333
+<font size="20">- Dipende dal traffico.
+- I nostri sono lì in attesa.</font>
+
+604
+00:35:49,416 --> 00:35:51,041
+<font size="20">Intende Ron e Ibrahim.</font>
+
+605
+00:35:51,125 --> 00:35:54,041
+<font size="20">Ecco il mio recapito. Meglio se scrive.</font>
+
+606
+00:35:54,541 --> 00:35:58,750
+<font size="20">- Interrogatorio terminato alle 12:47.
+- Il registratore è spento.</font>
+
+607
+00:35:58,833 --> 00:36:00,416
+<font size="20">- Sì, giusto.
+- Sì.</font>
+
+608
+00:36:08,625 --> 00:36:09,666
+<font size="20">Pronti a partire.</font>
+
+609
+00:36:09,750 --> 00:36:10,666
+<font size="20">Ricevuto.</font>
+
+610
+00:36:18,208 --> 00:36:21,333
+<font size="20">Buon pomeriggio.
+Sono qui per un certo Ron Ritchie.</font>
+
+611
+00:36:21,416 --> 00:36:23,416
+<font size="20">- Prego, ispettore.
+- Grazie.</font>
+
+612
+00:36:26,375 --> 00:36:29,166
+<font size="20">Ron? C'è un gentile agente di polizia.</font>
+
+613
+00:36:29,250 --> 00:36:33,208
+<font size="20">Polizia! No, niente polizia!</font>
+
+614
+00:36:33,291 --> 00:36:35,208
+<font size="20">Cosa vuole da me, eh?</font>
+
+615
+00:36:35,291 --> 00:36:37,291
+<font size="20">- Ho diritto a protestare.
+- Calmo.</font>
+
+616
+00:36:37,375 --> 00:36:40,583
+<font size="20">Deve scusarlo.
+Non va d'accordo con le autorità.</font>
+
+617
+00:36:40,666 --> 00:36:43,875
+<font size="20">- Ron. Calmati, per favore.
+- Sì, ok.</font>
+
+618
+00:36:43,958 --> 00:36:46,708
+<font size="20">Vuole parlare della lite
+a cui hai assistito</font>
+
+619
+00:36:46,791 --> 00:36:48,583
+<font size="20">tra Ian Ventham e Tony Curran.</font>
+
+620
+00:36:48,666 --> 00:36:51,500
+<font size="20">Le assicuro, signor Ritchie,
+che non è nei guai.</font>
+
+621
+00:36:51,583 --> 00:36:54,333
+<font size="20">- Devo solo farle qualche domanda.
+- No!</font>
+
+622
+00:36:54,416 --> 00:36:57,583
+<font size="20">No. Voglio parlare con la poliziotta.
+Non con lui.</font>
+
+623
+00:36:58,166 --> 00:37:01,958
+<font size="20">- Quale poliziotta?
+- La bella signora che è venuta qui.</font>
+
+624
+00:37:02,041 --> 00:37:03,583
+<font size="20">L'agente De Freitas.</font>
+
+625
+00:37:03,666 --> 00:37:07,958
+<font size="20">È venuta a parlarci delle serrature.
+Ron ha un debole per lei.</font>
+
+626
+00:37:10,250 --> 00:37:12,416
+<font size="20">Oh, sì.</font>
+
+627
+00:37:13,708 --> 00:37:16,083
+<font size="20">Beh, no, lei… è nuova.</font>
+
+628
+00:37:16,166 --> 00:37:19,916
+<font size="20">Non ha molta esperienza.
+In realtà, non lavora all'indagi…</font>
+
+629
+00:37:20,000 --> 00:37:22,625
+<font size="20">Voglio la signora!</font>
+
+630
+00:37:22,708 --> 00:37:25,666
+<font size="20">Parlerò solo con la signora.</font>
+
+631
+00:37:27,166 --> 00:37:29,666
+<font size="20">Mi spiace.
+Parlerà solo con l'agente De Fr…</font>
+
+632
+00:37:31,000 --> 00:37:33,750
+<font size="20">Potrebbe farla entrare nella sua squadra?</font>
+
+633
+00:37:40,333 --> 00:37:41,666
+<font size="20">Vedrò cosa posso fare.</font>
+
+634
+00:37:46,916 --> 00:37:47,875
+<font size="20">Bravo, Ibsy.</font>
+
+635
+00:37:48,375 --> 00:37:50,041
+<font size="20">Bravissimo, amico. Davvero.</font>
+
+636
+00:37:52,958 --> 00:37:54,125
+<font size="20">Agente De Freitas.</font>
+
+637
+00:37:54,916 --> 00:37:57,625
+<font size="20">Ho sentito le Risorse Umane.
+Verrai trasferita.</font>
+
+638
+00:37:58,250 --> 00:38:00,333
+<font size="20">- Dove?
+- Al DPC.</font>
+
+639
+00:38:00,833 --> 00:38:02,833
+<font size="20">Dipartimento Polizia Criminale.</font>
+
+640
+00:38:03,333 --> 00:38:06,250
+<font size="20">Lavori all'omicidio di Curran
+fino a nuovo avviso.</font>
+
+641
+00:38:06,958 --> 00:38:07,875
+<font size="20">Non ci credo.</font>
+
+642
+00:38:08,958 --> 00:38:09,791
+<font size="20">Sul serio?</font>
+
+643
+00:38:17,625 --> 00:38:20,375
+<font size="20">CI HA MESSO MENO DI 20 MINUTI!! MCC?!</font>
+
+644
+00:38:21,750 --> 00:38:23,500
+<font size="20">Che vuol dire "MCC"?</font>
+
+645
+00:38:23,583 --> 00:38:25,458
+<font size="20">- Ma che cazzo!
+- Prego?</font>
+
+646
+00:38:25,541 --> 00:38:26,375
+<font size="20">Ma che cazzo!</font>
+
+647
+00:38:29,208 --> 00:38:30,041
+<font size="20">Scusa, cara.</font>
+
+648
+00:38:32,833 --> 00:38:34,583
+<font size="20">Me l'ha detto mia figlia.</font>
+
+649
+00:38:34,666 --> 00:38:36,916
+<font size="20">Scusa per la mia amica. È un po'…</font>
+
+650
+00:38:40,083 --> 00:38:41,000
+<font size="20">Non è vero.</font>
+
+651
+00:38:48,500 --> 00:38:52,000
+<font size="20">BILANCIO ANNUALE 2023
+RESIDENZA PER ANZIANI COOPERS CHASE</font>
+
+652
+00:38:58,666 --> 00:39:00,958
+<font size="20">Wow, interessante.</font>
+
+653
+00:39:08,500 --> 00:39:13,541
+<font size="20">COOPERS CHASE
+HA UN TERZO INVESTITORE MISTERIOSO</font>
+
+654
+00:39:13,625 --> 00:39:15,083
+<font size="20">CHE CI FA SVEGLIA??</font>
+
+655
+00:39:33,041 --> 00:39:37,583
+<font size="20">Joyce, un mio contatto è riuscito
+a ottenere i rendiconti di Coopers Chase.</font>
+
+656
+00:39:37,666 --> 00:39:40,791
+<font size="20">Ma sono quasi impossibili da decifrare.</font>
+
+657
+00:39:40,875 --> 00:39:43,166
+<font size="20">- Pensavo che tua figlia…
+- Joanna.</font>
+
+658
+00:39:43,250 --> 00:39:45,750
+<font size="20">Joanna. Lavora nella finanza, vero?</font>
+
+659
+00:39:45,833 --> 00:39:48,875
+<font size="20">Pensi che potrebbe leggerli e spiegarceli?</font>
+
+660
+00:39:49,541 --> 00:39:51,416
+<font size="20">In confidenza, ovviamente.</font>
+
+661
+00:39:51,500 --> 00:39:55,666
+<font size="20">Non saprei. È molto impegnata.
+Non ha neanche il tempo di chiamarmi.</font>
+
+662
+00:39:55,750 --> 00:39:57,375
+<font size="20">Provaci, ok?</font>
+
+663
+00:39:58,041 --> 00:40:00,791
+<font size="20">Per indagare in modo serio ed efficiente,</font>
+
+664
+00:40:00,875 --> 00:40:03,583
+<font size="20">dobbiamo sfruttare
+tutte le nostre risorse.</font>
+
+665
+00:40:04,541 --> 00:40:05,958
+<font size="20">- Ci proverò.
+- Bene.</font>
+
+666
+00:40:09,000 --> 00:40:10,500
+<font size="20">Joyce, hai talento.</font>
+
+667
+00:40:14,416 --> 00:40:17,500
+<font size="20">Fammi capire. È un club sugli omicidi?</font>
+
+668
+00:40:18,083 --> 00:40:20,125
+<font size="20">Come un podcast true crime?</font>
+
+669
+00:40:20,208 --> 00:40:24,000
+<font size="20">Beh, in un certo senso.
+Ma noi indaghiamo sugli omicidi.</font>
+
+670
+00:40:25,166 --> 00:40:26,666
+<font size="20">Sembra un po' macabro.</font>
+
+671
+00:40:26,750 --> 00:40:29,208
+<font size="20">Devo ammettere che suona un po' strambo.</font>
+
+672
+00:40:29,291 --> 00:40:32,083
+<font size="20">Ma è un gruppo meraviglioso.
+Siamo una squadra.</font>
+
+673
+00:40:32,666 --> 00:40:35,666
+<font size="20">Allora, potresti dare un'occhiata
+a quei rendiconti?</font>
+
+674
+00:40:35,750 --> 00:40:38,458
+<font size="20">Se non l'hai notato, sono molto impegnata.</font>
+
+675
+00:40:38,541 --> 00:40:40,041
+<font size="20">Santo cielo, Joanna.</font>
+
+676
+00:40:40,750 --> 00:40:42,458
+<font size="20">Chiami una volta a settimana.</font>
+
+677
+00:40:42,541 --> 00:40:46,583
+<font size="20">Non resti da me per più di 47 minuti.
+E ora non mangi la mia torta.</font>
+
+678
+00:40:46,666 --> 00:40:51,666
+<font size="20">Ti chiedo solo di mettere da parte
+i tuoi miliardari per due minuti</font>
+
+679
+00:40:51,750 --> 00:40:55,166
+<font size="20">e aiutare la tua unica madre
+per una maledetta volta.</font>
+
+680
+00:40:57,791 --> 00:40:59,708
+<font size="20">- Vedo cosa posso fare.
+- Grazie.</font>
+
+681
+00:41:01,416 --> 00:41:06,125
+<font size="20">Precedenti di Curran: guida pericolosa,
+aggressione, possesso illecito di arma.</font>
+
+682
+00:41:06,208 --> 00:41:07,125
+<font size="20">E non è tutto.</font>
+
+683
+00:41:07,208 --> 00:41:09,750
+<font size="20">Di sicuro molta gente lo voleva morto.</font>
+
+684
+00:41:09,833 --> 00:41:13,208
+<font size="20">Ma ora dobbiamo scoprire
+chi è l'altro uomo nella foto.</font>
+
+685
+00:41:13,291 --> 00:41:14,166
+<font size="20">Quale foto?</font>
+
+686
+00:41:14,250 --> 00:41:18,375
+<font size="20">Quella sulla scena dell'omicidio.
+Ce n'erano alcune sparse in giro.</font>
+
+687
+00:41:18,458 --> 00:41:20,708
+<font size="20">Soprattutto di vacanze e matrimoni.</font>
+
+688
+00:41:20,791 --> 00:41:24,000
+<font size="20">Ma in questa c'erano lui
+e un altro uomo sconosciuto.</font>
+
+689
+00:41:24,083 --> 00:41:28,000
+<font size="20">È appena tornata dal laboratorio.
+Vuoi dare un'occhiata?</font>
+
+690
+00:41:28,833 --> 00:41:29,833
+<font size="20">Sì, la prego.</font>
+
+691
+00:41:30,791 --> 00:41:34,041
+<font size="20">Scusi. Non si dice "sì, la prego" nel DPC?</font>
+
+692
+00:41:34,125 --> 00:41:36,458
+<font size="20">Non sono il tipo giusto a cui chiedere.</font>
+
+693
+00:41:36,541 --> 00:41:38,541
+<font size="20">Guarda la foto, De Freitas.</font>
+
+694
+00:41:39,333 --> 00:41:42,166
+<font size="20">Può chiamarmi Donna.
+Altrimenti fa un po' strano.</font>
+
+695
+00:41:43,500 --> 00:41:44,333
+<font size="20">"Donna"?</font>
+
+696
+00:41:45,250 --> 00:41:46,333
+<font size="20">Sì, è il mio nome.</font>
+
+697
+00:41:47,500 --> 00:41:48,625
+<font size="20">Mi chiamo così.</font>
+
+698
+00:41:49,125 --> 00:41:54,416
+<font size="20">Ok, ci proverò.
+Ma non sono il tipo che chiama per nome.</font>
+
+699
+00:41:54,916 --> 00:41:57,500
+<font size="20">Non so neanche
+qual è il nome di Griffiths,</font>
+
+700
+00:41:57,583 --> 00:41:59,375
+<font size="20">ed è con noi da sette anni.</font>
+
+701
+00:41:59,958 --> 00:42:02,041
+<font size="20">Non sa chi è l'uomo con Curran?</font>
+
+702
+00:42:02,125 --> 00:42:04,541
+<font size="20">No, Griffiths ci sta lavorando.</font>
+
+703
+00:42:04,625 --> 00:42:07,500
+<font size="20">Può dirgli di smettere.
+Questo è Bobby Tanner.</font>
+
+704
+00:42:07,583 --> 00:42:08,416
+<font size="20">Che cosa?</font>
+
+705
+00:42:08,916 --> 00:42:10,208
+<font size="20">Il boss del crimine.</font>
+
+706
+00:42:10,708 --> 00:42:13,833
+<font size="20">La polizia di Londra
+gli dà la caccia da anni.</font>
+
+707
+00:42:14,333 --> 00:42:15,333
+<font size="20">E spunta qui.</font>
+
+708
+00:42:15,916 --> 00:42:16,958
+<font size="20">È assurdo.</font>
+
+709
+00:42:17,041 --> 00:42:21,333
+<font size="20">- La polizia di Londra non l'ha trovato?
+- No. E le dirò un'altra cosa.</font>
+
+710
+00:42:21,916 --> 00:42:24,333
+<font size="20">C'è un terzo uomo, ma non è inquadrato.</font>
+
+711
+00:42:24,416 --> 00:42:25,291
+<font size="20">Che cosa?</font>
+
+712
+00:42:26,000 --> 00:42:26,833
+<font size="20">Sì, guardi.</font>
+
+713
+00:42:26,916 --> 00:42:29,250
+<font size="20">Vede il braccio nello specchio dietro?</font>
+
+714
+00:42:29,958 --> 00:42:30,875
+<font size="20">Oh, sì.</font>
+
+715
+00:42:32,625 --> 00:42:33,458
+<font size="20">Che occhio.</font>
+
+716
+00:42:35,666 --> 00:42:37,166
+<font size="20">Lo dirò a Griffiths.</font>
+
+717
+00:42:38,333 --> 00:42:39,750
+<font size="20">Più caldo possibile.</font>
+
+718
+00:42:44,541 --> 00:42:46,083
+<font size="20">Sono qui. Pronti?</font>
+
+719
+00:42:46,166 --> 00:42:47,041
+<font size="20">- Pronti.
+- Pronti.</font>
+
+720
+00:42:47,125 --> 00:42:48,375
+<font size="20">- Ricordate.
+- Scorri.</font>
+
+721
+00:42:48,458 --> 00:42:51,458
+<font size="20">Ogni informazione che otterremo
+ci sarà utile.</font>
+
+722
+00:42:51,541 --> 00:42:52,375
+<font size="20">Giusto.</font>
+
+723
+00:42:52,875 --> 00:42:55,000
+<font size="20">Hudson non parlerà di sicuro.</font>
+
+724
+00:42:55,083 --> 00:42:58,708
+<font size="20">Dobbiamo metterlo a disagio
+il più possibile.</font>
+
+725
+00:42:59,208 --> 00:43:03,500
+<font size="20">Per esperienza, le persone
+tendono a cedere quando sono a disagio.</font>
+
+726
+00:43:03,583 --> 00:43:07,416
+<font size="20">Credo si ottengano più informazioni
+con la gentilezza e una torta.</font>
+
+727
+00:43:08,375 --> 00:43:09,208
+<font size="20">Come no.</font>
+
+728
+00:43:09,291 --> 00:43:14,041
+<font size="20">Hai mai dovuto interrogare una spia nemica
+nell'ex Germania dell'Est, Joyce?</font>
+
+729
+00:43:14,625 --> 00:43:15,625
+<font size="20">Beh, no.</font>
+
+730
+00:43:18,166 --> 00:43:19,583
+<font size="20">Ciao, Joanna cara.</font>
+
+731
+00:43:19,666 --> 00:43:23,125
+<font size="20">- Ho controllato i rendiconti di Ventham.
+- Ecco.</font>
+
+732
+00:43:23,208 --> 00:43:25,833
+<font size="20">A quanto pare, c'è roba interessante.</font>
+
+733
+00:43:26,416 --> 00:43:28,083
+<font size="20">Ti ho mandato i PDF.</font>
+
+734
+00:43:28,166 --> 00:43:30,000
+<font size="20">Sai cos'è un PDF?</font>
+
+735
+00:43:30,083 --> 00:43:31,708
+<font size="20">Tu che dici, Jo?</font>
+
+736
+00:43:31,791 --> 00:43:34,750
+<font size="20">Ibrahim lo sa. È informato su tutto.</font>
+
+737
+00:43:36,375 --> 00:43:37,250
+<font size="20">PDF.</font>
+
+738
+00:43:37,750 --> 00:43:38,916
+<font size="20">Oh, bingo.</font>
+
+739
+00:43:43,583 --> 00:43:45,583
+<font size="20">Santo cielo.</font>
+
+740
+00:43:54,916 --> 00:43:58,958
+<font size="20">Puoi dirlo forte, Joyce.
+Ti ritrovi una figlia intelligente.</font>
+
+741
+00:43:59,041 --> 00:44:02,958
+<font size="20">È un'informazione cruciale.
+Ora abbiamo qualcosa in mano.</font>
+
+742
+00:44:03,041 --> 00:44:04,083
+<font size="20">Brava, Jo.</font>
+
+743
+00:44:04,166 --> 00:44:06,125
+<font size="20">- Ottimo.
+- Grazie. Devo scappare.</font>
+
+744
+00:44:07,333 --> 00:44:08,333
+<font size="20">Ci siamo.</font>
+
+745
+00:44:10,875 --> 00:44:12,791
+<font size="20">- Prego.
+- Grazie.</font>
+
+746
+00:44:15,791 --> 00:44:19,708
+<font size="20">Buon pomeriggio.
+Credo conosciate l'agente De Freitas.</font>
+
+747
+00:44:19,791 --> 00:44:22,208
+<font size="20">Indaghiamo sull'omicidio di Tony Curran.</font>
+
+748
+00:44:23,583 --> 00:44:29,208
+<font size="20">So che tutti voi sapete
+che il signor Curran voleva riqualificare…</font>
+
+749
+00:44:29,291 --> 00:44:31,833
+<font size="20">Come siamo scortesi, ispettore.</font>
+
+750
+00:44:31,916 --> 00:44:34,333
+<font size="20">- Prego, sedetevi.
+- Sì, si sieda.</font>
+
+751
+00:44:34,416 --> 00:44:36,500
+<font size="20">Si accomodi. Ecco qua.</font>
+
+752
+00:44:36,583 --> 00:44:38,083
+<font size="20">Si metta a suo agio.</font>
+
+753
+00:44:41,250 --> 00:44:42,500
+<font size="20">Sbaglio o fa caldo?</font>
+
+754
+00:44:42,583 --> 00:44:45,375
+<font size="20">Certo che fa caldo.
+Sono una donna di 76 anni.</font>
+
+755
+00:44:46,958 --> 00:44:51,125
+<font size="20">Ha una presa salda, signor Ritchie.
+La credevo malato e vulnerabile.</font>
+
+756
+00:44:51,208 --> 00:44:56,000
+<font size="20">A questa età ci sono giorni buoni
+e meno buoni, ispettore Hudson.</font>
+
+757
+00:44:56,083 --> 00:44:58,416
+<font size="20">E il dente mancante le è ricresciuto.</font>
+
+758
+00:44:59,000 --> 00:45:01,583
+<font size="20">Cosa? Sì, guardi. È un miracolo.</font>
+
+759
+00:45:01,666 --> 00:45:04,541
+<font size="20">Che maleducati.
+Non vi abbiamo offerto il tè.</font>
+
+760
+00:45:04,625 --> 00:45:08,000
+<font size="20">- Vuole lo zucchero?
+- Oh, no. Sto cercando di ridurlo.</font>
+
+761
+00:45:08,083 --> 00:45:11,208
+<font size="20">Prenda la torta.
+Spero possiate mangiarla in servizio.</font>
+
+762
+00:45:11,291 --> 00:45:13,708
+<font size="20">No, ho fatto un pranzo molto abbondante.</font>
+
+763
+00:45:16,666 --> 00:45:17,666
+<font size="20">Ma sì. Perché no?</font>
+
+764
+00:45:18,500 --> 00:45:20,625
+<font size="20">- Ecco qua. Mangi pure.
+- Che bella.</font>
+
+765
+00:45:21,791 --> 00:45:24,125
+<font size="20">Scusate, non riesco… È…</font>
+
+766
+00:45:25,208 --> 00:45:26,125
+<font size="20">Attento.</font>
+
+767
+00:45:29,958 --> 00:45:32,000
+<font size="20">Oddio, che buona.</font>
+
+768
+00:45:32,083 --> 00:45:33,375
+<font size="20">Non è vero?</font>
+
+769
+00:45:33,458 --> 00:45:34,750
+<font size="20">Allora, Ron,</font>
+
+770
+00:45:35,833 --> 00:45:38,541
+<font size="20">ha visto Ian e Tony
+litigare nel parcheggio.</font>
+
+771
+00:45:38,625 --> 00:45:42,166
+<font size="20">- Giusto? Siamo qui per questo.
+- Sì. Era una lite accesa.</font>
+
+772
+00:45:42,250 --> 00:45:44,875
+<font size="20">È finita male.
+Tony se n'è andato furibondo.</font>
+
+773
+00:45:45,958 --> 00:45:47,208
+<font size="20">Sarà stato per soldi.</font>
+
+774
+00:45:47,291 --> 00:45:51,375
+<font size="20">L'avidità è la radice di ogni male.
+Anche se Jung ha detto…</font>
+
+775
+00:45:51,458 --> 00:45:56,041
+<font size="20">Mio figlio mi ha detto che a casa di Tony
+c'era un ottimo antifurto.</font>
+
+776
+00:45:56,125 --> 00:45:58,875
+<font size="20">Sì? Suo figlio conosceva Tony Curran?</font>
+
+777
+00:45:59,875 --> 00:46:02,541
+<font size="20">Beh, come tutti noi.</font>
+
+778
+00:46:02,625 --> 00:46:05,500
+<font size="20">Cioè, Tony era un tipo conosciuto.</font>
+
+779
+00:46:05,583 --> 00:46:07,375
+<font size="20">Sì, era un uomo popolare.</font>
+
+780
+00:46:07,458 --> 00:46:11,875
+<font size="20">Tutti abbiamo avuto a che fare con lui.
+Niente di che.</font>
+
+781
+00:46:11,958 --> 00:46:15,666
+<font size="20">Sarebbe comunque utile
+parlare con suo figlio. Jason, vero?</font>
+
+782
+00:46:15,750 --> 00:46:18,875
+<font size="20">Certo, nessun problema. Verrà a trovarmi.</font>
+
+783
+00:46:18,958 --> 00:46:20,833
+<font size="20">Cioè, dubito possa aiutarvi.</font>
+
+784
+00:46:20,916 --> 00:46:23,958
+<font size="20">Lasciamo che la polizia
+faccia il suo lavoro e…</font>
+
+785
+00:46:24,041 --> 00:46:28,041
+<font size="20">Ron cerca di dire
+che l'antifurto avrà rilevato qualcosa.</font>
+
+786
+00:46:28,125 --> 00:46:31,000
+<font size="20">Non funzionava.
+Soldi sprecati, secondo me.</font>
+
+787
+00:46:31,083 --> 00:46:35,083
+<font size="20">Non è strano che un costruttore
+abbia un antifurto difettoso?</font>
+
+788
+00:46:35,750 --> 00:46:37,166
+<font size="20">E l'ora del decesso?</font>
+
+789
+00:46:38,833 --> 00:46:40,416
+<font size="20">Non possiamo dirvela.</font>
+
+790
+00:46:40,500 --> 00:46:44,416
+<font size="20">Non è un'informazione pubblica.
+È troppo delicata per divulgarla.</font>
+
+791
+00:46:44,916 --> 00:46:49,375
+<font size="20">Ha ragione.
+E non stiamo contribuendo per nulla.</font>
+
+792
+00:46:49,875 --> 00:46:54,208
+<font size="20">Io, ad esempio,
+so che c'erano tre investitori originali</font>
+
+793
+00:46:54,291 --> 00:46:56,416
+<font size="20">quando Coopers Chase fu costruita.</font>
+
+794
+00:46:56,500 --> 00:47:00,833
+<font size="20">C'erano Ian Ventham,
+Tony Curran e un investitore anonimo</font>
+
+795
+00:47:00,916 --> 00:47:03,833
+<font size="20">con il conto fittizio
+"Bloomin' Marvelous".</font>
+
+796
+00:47:05,083 --> 00:47:06,208
+<font size="20">Lo sapeva?</font>
+
+797
+00:47:07,541 --> 00:47:09,208
+<font size="20">No, non lo sapevo.</font>
+
+798
+00:47:11,958 --> 00:47:14,583
+<font size="20">E ho anche questo.</font>
+
+799
+00:47:17,833 --> 00:47:19,208
+<font size="20">Un vecchio telefono?</font>
+
+800
+00:47:20,500 --> 00:47:22,916
+<font size="20">Sarà anche vecchio, ma funziona ancora.</font>
+
+801
+00:47:24,166 --> 00:47:28,291
+<font size="20">E contiene dei PDF
+dei rendiconti dettagliati di Ian Ventham</font>
+
+802
+00:47:28,375 --> 00:47:33,791
+<font size="20">che mostrano che la quota di Tony Curran
+sarebbe andata a Ventham in caso di morte,</font>
+
+803
+00:47:33,875 --> 00:47:38,041
+<font size="20">il che significa che Ventham
+ha guadagnato milioni da questo omicidio.</font>
+
+804
+00:47:38,833 --> 00:47:39,666
+<font size="20">D'accordo.</font>
+
+805
+00:47:41,375 --> 00:47:43,083
+<font size="20">Ci dica l'ora della morte.</font>
+
+806
+00:47:43,166 --> 00:47:45,666
+<font size="20">Non posso divulgare quell'informazione.</font>
+
+807
+00:47:47,833 --> 00:47:49,375
+<font size="20">Vuole i file o no?</font>
+
+808
+00:47:50,791 --> 00:47:51,916
+<font size="20">11:24.</font>
+
+809
+00:47:52,500 --> 00:47:54,625
+<font size="20">- Agente De Freitas.
+- Molto precisa.</font>
+
+810
+00:47:54,708 --> 00:47:57,208
+<font size="20">Lo smartwatch ha rilevato
+l'ultimo battito.</font>
+
+811
+00:47:57,291 --> 00:47:59,083
+<font size="20">Agente De Freitas!</font>
+
+812
+00:48:00,000 --> 00:48:01,916
+<font size="20">Vuole i file o no?</font>
+
+813
+00:48:05,791 --> 00:48:06,625
+<font size="20">Ecco a lei.</font>
+
+814
+00:48:14,250 --> 00:48:15,125
+<font size="20">Grazie.</font>
+
+815
+00:48:17,791 --> 00:48:20,916
+<font size="20">Come diavolo avete avuto
+i rendiconti di Ian Ventham?</font>
+
+816
+00:48:21,000 --> 00:48:24,375
+<font size="20">È un'azienda privata.
+Nemmeno noi ci siamo riusciti.</font>
+
+817
+00:48:25,583 --> 00:48:26,708
+<font size="20">Lavoro di squadra.</font>
+
+818
+00:48:29,916 --> 00:48:33,750
+<font size="20">La nostra generazione
+ricorda ancora quanto sia prezioso.</font>
+
+819
+00:48:35,750 --> 00:48:38,416
+<font size="20">Come ha fatto
+una pasta sfoglia così leggera?</font>
+
+820
+00:48:38,500 --> 00:48:41,958
+<font size="20">Il trucco è lavorarla velocemente
+finché è ancora fredda.</font>
+
+821
+00:48:42,041 --> 00:48:44,375
+<font size="20">- Tenga.
+- Dev'essere bravo con le mani.</font>
+
+822
+00:48:44,458 --> 00:48:46,875
+<font size="20">- Me lo dicono spesso.
+- Jason!</font>
+
+823
+00:48:49,583 --> 00:48:52,250
+<font size="20">- Eccolo. Mio figlio Jason.
+- Ciao, papà.</font>
+
+824
+00:48:52,333 --> 00:48:55,625
+<font size="20">Come promesso. Ecco qua.
+Ispettore Hudson. Jason.</font>
+
+825
+00:48:55,708 --> 00:48:57,625
+<font size="20">Jason "Il Martello" Ritchie.</font>
+
+826
+00:48:57,708 --> 00:49:02,625
+<font size="20">Non servono presentazioni.
+Ho visto tutti i suoi incontri.</font>
+
+827
+00:49:02,708 --> 00:49:04,708
+<font size="20">Peccato per l'infortunio.</font>
+
+828
+00:49:04,791 --> 00:49:07,000
+<font size="20">- Cose che succedono.
+- Mi dispiace.</font>
+
+829
+00:49:07,083 --> 00:49:09,875
+<font size="20">- Ma lavorare in TV è emozionante.
+- Sì.</font>
+
+830
+00:49:09,958 --> 00:49:12,083
+<font size="20">Non fa uno spettacolo di Biancaneve?</font>
+
+831
+00:49:12,166 --> 00:49:13,458
+<font size="20">Faccio il principe.</font>
+
+832
+00:49:13,541 --> 00:49:18,583
+<font size="20">Ispettore, che ne dice di una foto
+con un tre volte campione dei pesi medi?</font>
+
+833
+00:49:18,666 --> 00:49:21,666
+<font size="20">- Qui e ora. Avanti.
+- Grazie mille. È sicuro?</font>
+
+834
+00:49:21,750 --> 00:49:23,083
+<font size="20">Certo che è sicuro.</font>
+
+835
+00:49:23,166 --> 00:49:25,416
+<font size="20">In commissariato impazziranno.</font>
+
+836
+00:49:25,500 --> 00:49:27,000
+<font size="20">Mettetevi in posa.</font>
+
+837
+00:49:27,083 --> 00:49:29,416
+<font size="20">- È davvero lei. Pugni su.
+- Sono io.</font>
+
+838
+00:49:29,500 --> 00:49:31,083
+<font size="20">- Ecco.
+- Ne scatti un po'.</font>
+
+839
+00:49:31,166 --> 00:49:33,416
+<font size="20">- Così. Perfetto.
+- Ding ding.</font>
+
+840
+00:49:33,500 --> 00:49:35,208
+<font size="20">- Spontanei.
+- Un bel pugno.</font>
+
+841
+00:49:35,291 --> 00:49:37,041
+<font size="20">Bellissimo. In pieno mento.</font>
+
+842
+00:49:37,125 --> 00:49:39,083
+<font size="20">- Fatto?
+- Le piaceranno.</font>
+
+843
+00:49:39,166 --> 00:49:41,416
+<font size="20">- Una era proprio bella.
+- Ma guarda.</font>
+
+844
+00:49:42,541 --> 00:49:44,333
+<font size="20">- Grazie.
+- Prego. Devo andare.</font>
+
+845
+00:49:44,416 --> 00:49:45,791
+<font size="20">- Solo un attimo.
+- Ok.</font>
+
+846
+00:49:45,875 --> 00:49:48,625
+<font size="20">Cosa pensa di Tony Curran e Ian Ventham?</font>
+
+847
+00:49:48,708 --> 00:49:51,375
+<font size="20">- Lei li conosceva, vero?
+- No.</font>
+
+848
+00:49:52,208 --> 00:49:53,916
+<font size="20">Cioè, sapevo chi erano.</font>
+
+849
+00:49:54,500 --> 00:49:57,458
+<font size="20">Tony aveva molti nemici, così come Ian.</font>
+
+850
+00:49:57,541 --> 00:49:58,958
+<font size="20">Ha qualcuno in mente?</font>
+
+851
+00:50:00,250 --> 00:50:02,500
+<font size="20">No. Al momento no.</font>
+
+852
+00:50:03,541 --> 00:50:05,125
+<font size="20">Comunque, devo andare.</font>
+
+853
+00:50:05,208 --> 00:50:08,041
+<font size="20">- Ok.
+- Mi chiami se ricorda qualcosa.</font>
+
+854
+00:50:08,125 --> 00:50:10,208
+<font size="20">- È stato un piacere.
+- Piacere mio.</font>
+
+855
+00:50:10,291 --> 00:50:12,208
+<font size="20">- Agente, in bocca al lupo.
+- Sì.</font>
+
+856
+00:50:12,291 --> 00:50:15,500
+<font size="20">Ehi! Aspetta, Jason.</font>
+
+857
+00:50:15,583 --> 00:50:19,541
+<font size="20">Ispettore, so che ama le torte.
+Le do quella con caffè e noci.</font>
+
+858
+00:50:19,625 --> 00:50:23,666
+<font size="20">Dovrebbe far guidare Donna.
+C'è un sacco di rum.</font>
+
+859
+00:50:23,750 --> 00:50:26,000
+<font size="20">Trovo che faccia risaltare le noci.</font>
+
+860
+00:50:26,958 --> 00:50:28,750
+<font size="20">- Grazie.
+- È stato un piacere.</font>
+
+861
+00:50:34,375 --> 00:50:35,208
+<font size="20">Maud.</font>
+
+862
+00:50:35,958 --> 00:50:37,708
+<font size="20">Cosa vuoi, Elizabeth?</font>
+
+863
+00:50:38,291 --> 00:50:41,333
+<font size="20">Volevo solo farti le condoglianze.</font>
+
+864
+00:50:41,916 --> 00:50:43,958
+<font size="20">Tony era un brav'uomo.</font>
+
+865
+00:50:45,083 --> 00:50:47,083
+<font size="20">Hai idea di chi l'abbia ucciso?</font>
+
+866
+00:50:48,416 --> 00:50:51,250
+<font size="20">Ho un sacco di idee
+su un sacco di cose, cara.</font>
+
+867
+00:50:51,333 --> 00:50:55,083
+<font size="20">Ma non intendo condividerle,
+non con quei poliziotti in giro.</font>
+
+868
+00:50:55,791 --> 00:50:58,583
+<font size="20">Sì, che stronzi.</font>
+
+869
+00:50:58,666 --> 00:51:01,000
+<font size="20">- Come tutti i poliziotti, no?
+- Già.</font>
+
+870
+00:51:02,791 --> 00:51:04,958
+<font size="20">Ma che bei fiori.</font>
+
+871
+00:51:06,125 --> 00:51:09,208
+<font size="20">Sì, li ha mandati qualcuno
+che voleva bene a Tony.</font>
+
+872
+00:51:09,708 --> 00:51:11,833
+<font size="20">C'è chi ha ancora buone maniere.</font>
+
+873
+00:51:17,500 --> 00:51:21,875
+<font size="20">SENTITE CONDOGLIANZE,
+CON AFFETTO, B.T.</font>
+
+874
+00:51:24,833 --> 00:51:29,041
+<font size="20">Jason, tutto ok, figliolo?
+Pensavo venissi a bere una birra.</font>
+
+875
+00:51:29,125 --> 00:51:32,208
+<font size="20">- Devo andare. Un imprevisto.
+- Sei appena arrivato.</font>
+
+876
+00:51:32,291 --> 00:51:34,791
+<font size="20">- Papà, devo andare.
+- Jason, che c'è?</font>
+
+877
+00:51:34,875 --> 00:51:37,708
+<font size="20">- Lascia stare, ok?
+- Perché sei così incavolato?</font>
+
+878
+00:51:38,750 --> 00:51:42,958
+<font size="20">Va bene. Senti,
+so che ti vergogni del mio lavoro in TV.</font>
+
+879
+00:51:43,041 --> 00:51:45,416
+<font size="20">Ma non devi renderlo così palese.</font>
+
+880
+00:51:45,958 --> 00:51:47,916
+<font size="20">Non mi vergogno, Jason.</font>
+
+881
+00:51:48,000 --> 00:51:51,791
+<font size="20">Sarò sincero,
+capisco meglio il mondo della boxe.</font>
+
+882
+00:51:51,875 --> 00:51:56,041
+<font size="20">- Mio Dio, eri un fuoriclasse.
+- Non riesci a trattenerti, vero?</font>
+
+883
+00:51:56,125 --> 00:51:58,291
+<font size="20">- Che c'è?
+- Devo andare.</font>
+
+884
+00:51:59,125 --> 00:52:00,666
+<font size="20">- Vai piano…
+- Ora.</font>
+
+885
+00:52:00,750 --> 00:52:02,375
+<font size="20">Ok, vai piano in moto.</font>
+
+886
+00:52:10,458 --> 00:52:11,666
+<font size="20">Jason le ha mentito.</font>
+
+887
+00:52:12,750 --> 00:52:15,416
+<font size="20">- Eh?
+- È nel fascicolo di Tony Curran.</font>
+
+888
+00:52:15,916 --> 00:52:19,041
+<font size="20">Jason faceva lavoretti saltuari
+per lui e Ian Ventham</font>
+
+889
+00:52:19,125 --> 00:52:21,166
+<font size="20">prima di lavorare in televisione.</font>
+
+890
+00:52:21,250 --> 00:52:23,333
+<font size="20">- E c'è dell'altro.
+- Cosa?</font>
+
+891
+00:52:24,375 --> 00:52:27,208
+<font size="20">Jason è il terzo uomo in quella foto.</font>
+
+892
+00:52:28,083 --> 00:52:31,166
+<font size="20">Ha quel tatuaggio sul braccio.
+Dov'è il suo telefono?</font>
+
+893
+00:52:31,250 --> 00:52:32,875
+<font size="20">È qui.</font>
+
+894
+00:52:33,958 --> 00:52:35,166
+<font size="20">Dai, fammi vedere.</font>
+
+895
+00:52:36,916 --> 00:52:37,750
+<font size="20">Guardi.</font>
+
+896
+00:52:42,958 --> 00:52:45,833
+<font size="20">- Sembrava avere fretta di scappare.
+- È vero.</font>
+
+897
+00:52:46,416 --> 00:52:49,250
+<font size="20">Dovremmo tenere d'occhio
+lui e Ian Ventham.</font>
+
+898
+00:52:50,250 --> 00:52:52,333
+<font size="20">Non vorrei che sparissero.</font>
+
+899
+00:53:07,500 --> 00:53:09,250
+<font size="20">Ti sorpassano i principianti.</font>
+
+900
+00:53:09,333 --> 00:53:11,875
+<font size="20">Diamine, dobbiamo scoprire
+a quale velocità</font>
+
+901
+00:53:11,958 --> 00:53:15,416
+<font size="20">Ventham sarebbe arrivato
+da Coopers Chase a casa di Tony.</font>
+
+902
+00:53:15,500 --> 00:53:16,958
+<font size="20">Velocità, appunto.</font>
+
+903
+00:53:17,458 --> 00:53:19,000
+<font size="20">Chi vuole una caramella?</font>
+
+904
+00:53:19,500 --> 00:53:21,833
+<font size="20">La velocità non conta nei miei calcoli.</font>
+
+905
+00:53:21,916 --> 00:53:25,041
+<font size="20">Il mio complesso algoritmo
+mi permetterà di stabilire</font>
+
+906
+00:53:25,125 --> 00:53:29,000
+<font size="20">se Ian Ventham poteva arrivare
+in tempo per uccidere Tony Curran.</font>
+
+907
+00:53:29,083 --> 00:53:30,458
+<font size="20">Abbiate pazienza.</font>
+
+908
+00:53:39,833 --> 00:53:42,500
+<font size="20">Oggi sono molto impegnato, capite?</font>
+
+909
+00:53:42,583 --> 00:53:45,125
+<font size="20">Il mio socio è morto, ho molto da gestire.</font>
+
+910
+00:53:45,208 --> 00:53:49,041
+<font size="20">Certo. Può dirmi
+chi è la persona con Tony?</font>
+
+911
+00:53:51,083 --> 00:53:53,791
+<font size="20">- È Bobby Tanner.
+- Esatto, Bobby Tanner.</font>
+
+912
+00:53:53,875 --> 00:53:57,791
+<font size="20">La polizia lo cerca da anni.
+Ha un elenco infinito di accuse.</font>
+
+913
+00:53:57,875 --> 00:54:00,416
+<font size="20">Il suo nome compare ovunque, dicono.</font>
+
+914
+00:54:00,500 --> 00:54:02,708
+<font size="20">Lo credevo morto. Dove l'avete presa?</font>
+
+915
+00:54:03,208 --> 00:54:04,833
+<font size="20">Sulla scena del crimine.</font>
+
+916
+00:54:05,583 --> 00:54:06,416
+<font size="20">Davvero?</font>
+
+917
+00:54:07,291 --> 00:54:08,583
+<font size="20">Ok, capito.</font>
+
+918
+00:54:08,666 --> 00:54:11,500
+<font size="20">Perché aveva a che fare
+con Bobby Tanner, Ian?</font>
+
+919
+00:54:12,291 --> 00:54:14,041
+<font size="20">È un tipo spregevole.</font>
+
+920
+00:54:14,541 --> 00:54:17,250
+<font size="20">Taglia le dita ai nemici
+e le manda per posta.</font>
+
+921
+00:54:17,333 --> 00:54:19,958
+<font size="20">Ne abbiamo un freezer pieno
+a Scotland Yard.</font>
+
+922
+00:54:21,291 --> 00:54:24,666
+<font size="20">Le conviene dircelo ora,
+o lo scopriremo in un altro modo.</font>
+
+923
+00:54:27,625 --> 00:54:29,375
+<font size="20">È il terzo proprietario.</font>
+
+924
+00:54:30,500 --> 00:54:31,625
+<font size="20">Di cosa?</font>
+
+925
+00:54:31,708 --> 00:54:34,166
+<font size="20">Di Coopers Chase. Svegliatevi, Cristo!</font>
+
+926
+00:54:36,375 --> 00:54:39,833
+<font size="20">Tony l'ha coinvolto
+per avere i fondi per finire i lavori.</font>
+
+927
+00:54:40,333 --> 00:54:43,333
+<font size="20">- Non è stata una mia idea.
+- Sa dove può essere?</font>
+
+928
+00:54:43,833 --> 00:54:45,833
+<font size="20">Non mi ascolta? Lo credevo morto.</font>
+
+929
+00:54:45,916 --> 00:54:49,583
+<font size="20">È scomparso da… Oddio, da anni.</font>
+
+930
+00:54:49,666 --> 00:54:51,791
+<font size="20">Se è vivo, dovreste cercarlo.</font>
+
+931
+00:54:51,875 --> 00:54:53,291
+<font size="20">È un uomo pericoloso.</font>
+
+932
+00:54:53,375 --> 00:54:55,416
+<font size="20">Pensa che lui abbia ucciso Curran?</font>
+
+933
+00:54:55,500 --> 00:54:59,041
+<font size="20">Non lo so. Non tocca a voi scoprirlo?
+Sentite, ho da fare.</font>
+
+934
+00:54:59,125 --> 00:55:02,083
+<font size="20">Perché ha litigato con Curran
+prima che morisse?</font>
+
+935
+00:55:03,333 --> 00:55:05,916
+<font size="20">Per affari. È complicato da spiegare.</font>
+
+936
+00:55:06,500 --> 00:55:08,125
+<font size="20">Lì c'è anche Jason Ritchie.</font>
+
+937
+00:55:09,333 --> 00:55:10,875
+<font size="20">Si vede il tatuaggio.</font>
+
+938
+00:55:11,375 --> 00:55:13,416
+<font size="20">Gli ha chiesto di uccidere Curran?</font>
+
+939
+00:55:13,916 --> 00:55:16,708
+<font size="20">Non piscerei su Ritchie
+nemmeno se bruciasse.</font>
+
+940
+00:55:17,541 --> 00:55:19,958
+<font size="20">Le converrebbe, se i suoi soci morissero.</font>
+
+941
+00:55:20,458 --> 00:55:23,708
+<font size="20">Avrebbe intascato 12 milioni
+con Tony fuori dai giochi.</font>
+
+942
+00:55:24,208 --> 00:55:25,875
+<font size="20">Come diavolo fate a saperlo?</font>
+
+943
+00:55:28,291 --> 00:55:30,750
+<font size="20">Non ho ucciso Curran, se pensate questo.</font>
+
+944
+00:55:30,833 --> 00:55:33,250
+<font size="20">No, ero con degli investitori.</font>
+
+945
+00:55:33,750 --> 00:55:37,833
+<font size="20">Pensate a trovare Tanner e a rinchiuderlo.
+È più sicuro per tutti.</font>
+
+946
+00:55:37,916 --> 00:55:40,541
+<font size="20">All'improvviso sembra molto preoccupato.</font>
+
+947
+00:55:40,625 --> 00:55:42,750
+<font size="20">Sì. Sta sudando.</font>
+
+948
+00:55:44,125 --> 00:55:47,083
+<font size="20">Sì, vabbè. Ho un appuntamento urgente.</font>
+
+949
+00:55:47,166 --> 00:55:49,666
+<font size="20">Fate il vostro lavoro. Io faccio il mio.</font>
+
+950
+00:55:51,500 --> 00:55:52,375
+<font size="20">Devo andare.</font>
+
+951
+00:55:54,041 --> 00:55:56,250
+<font size="20">- Sì, ne riparleremo presto.
+- Sì.</font>
+
+952
+00:55:56,750 --> 00:55:58,166
+<font size="20">E la signora Ventham?</font>
+
+953
+00:55:59,041 --> 00:56:00,708
+<font size="20">Lo chieda al suo avvocato.</font>
+
+954
+00:56:03,750 --> 00:56:06,166
+<font size="20">I divorzi sono costosi, non è vero?</font>
+
+955
+00:56:18,708 --> 00:56:21,250
+<font size="20">Sì, il mio algoritmo ha funzionato bene.</font>
+
+956
+00:56:21,333 --> 00:56:24,416
+<font size="20">- Dato il traffico e andando a 30…
+- Ibrahim!</font>
+
+957
+00:56:24,500 --> 00:56:29,250
+<font size="20">Ventham poteva arrivare in tempo
+per uccidere Tony Curran, sì o no?</font>
+
+958
+00:56:29,333 --> 00:56:30,250
+<font size="20">No.</font>
+
+959
+00:56:30,333 --> 00:56:31,750
+<font size="20">Oh, cavolo.</font>
+
+960
+00:56:32,708 --> 00:56:33,791
+<font size="20">- Cavolo.
+- Cavolo.</font>
+
+961
+00:56:33,875 --> 00:56:34,708
+<font size="20">Cavolo.</font>
+
+962
+00:56:37,583 --> 00:56:38,416
+<font size="20">Signore?</font>
+
+963
+00:56:39,583 --> 00:56:41,708
+<font size="20">Ventham non può aver ucciso Curran.</font>
+
+964
+00:56:42,791 --> 00:56:43,625
+<font size="20">Che cosa?</font>
+
+965
+00:56:44,708 --> 00:56:45,625
+<font size="20">Perché no?</font>
+
+966
+00:56:45,708 --> 00:56:50,125
+<font size="20">Non sarebbe arrivato in tempo,
+ma solo sette minuti dopo la morte.</font>
+
+967
+00:56:50,208 --> 00:56:53,750
+<font size="20">- E chi l'ha detto?
+- Il club dei delitti del giovedì.</font>
+
+968
+00:56:54,875 --> 00:56:57,041
+<font size="20">Scusa, come?</font>
+
+969
+00:56:57,625 --> 00:57:00,458
+<font size="20">Beh, si fanno chiamare così.</font>
+
+970
+00:57:01,500 --> 00:57:02,916
+<font size="20">Elizabeth e gli altri.</font>
+
+971
+00:57:03,000 --> 00:57:06,000
+<font size="20">L'hanno capito stamattina
+andando a casa di Curran.</font>
+
+972
+00:57:06,625 --> 00:57:10,166
+<font size="20">Ho mandato Griffiths
+a fare la stessa simulazione.</font>
+
+973
+00:57:10,250 --> 00:57:12,041
+<font size="20">Porca miseria.</font>
+
+974
+00:57:12,541 --> 00:57:14,916
+<font size="20">Faccio questo lavoro da quasi 30 anni.</font>
+
+975
+00:57:15,000 --> 00:57:17,708
+<font size="20">Non mi farò comandare
+da quattro pensionati.</font>
+
+976
+00:57:17,791 --> 00:57:20,875
+<font size="20">- Griffiths, bene. Che novità?
+- Secondo i risultati…</font>
+
+977
+00:57:20,958 --> 00:57:22,958
+<font size="20">Senti, dimmelo e basta.</font>
+
+978
+00:57:23,541 --> 00:57:27,541
+<font size="20">Ventham poteva arrivare in tempo
+per uccidere Curran, sì o no?</font>
+
+979
+00:57:28,458 --> 00:57:30,375
+<font size="20">- No.
+- Vattene, Griffiths.</font>
+
+980
+00:57:47,208 --> 00:57:49,458
+<font size="20">- Pronto, Donna.
+- Elizabeth, salve.</font>
+
+981
+00:57:49,958 --> 00:57:51,750
+<font size="20">- Mi serve aiuto.
+- Sì?</font>
+
+982
+00:57:51,833 --> 00:57:56,208
+<font size="20">Sulla scena del crimine di Curran
+c'era una sua foto con Bobby Tanner.</font>
+
+983
+00:57:57,708 --> 00:57:58,708
+<font size="20">Bobby Tanner?</font>
+
+984
+00:57:59,208 --> 00:58:01,791
+<font size="20">Ne ho sentito parlare.
+È un tipo spregevole.</font>
+
+985
+00:58:01,875 --> 00:58:03,708
+<font size="20">Coinvolto in spaccio e omicidi.</font>
+
+986
+00:58:04,375 --> 00:58:05,208
+<font size="20">Esatto.</font>
+
+987
+00:58:05,875 --> 00:58:09,916
+<font size="20">E… dobbiamo parlare con lui,
+ma è scomparso da anni.</font>
+
+988
+00:58:10,000 --> 00:58:11,916
+<font size="20">Potreste aiutarci a trovarlo?</font>
+
+989
+00:58:12,500 --> 00:58:13,500
+<font size="20">Sì, certo.</font>
+
+990
+00:58:14,166 --> 00:58:17,250
+<font size="20">In cambio
+delle vostre ultime informazioni.</font>
+
+991
+00:58:17,750 --> 00:58:18,875
+<font size="20">Elizabeth.</font>
+
+992
+00:58:18,958 --> 00:58:22,375
+<font size="20">Andiamo, Donna.
+Sa come funzionano queste cose.</font>
+
+993
+00:58:25,333 --> 00:58:29,125
+<font size="20">Sa la foto di cui le ho parlato?
+C'è un altro uomo.</font>
+
+994
+00:58:29,958 --> 00:58:30,791
+<font size="20">Chi?</font>
+
+995
+00:58:31,375 --> 00:58:32,458
+<font size="20">Jason Ritchie.</font>
+
+996
+00:58:34,625 --> 00:58:35,458
+<font size="20">Che cosa?</font>
+
+997
+00:58:36,458 --> 00:58:37,541
+<font size="20">E c'è dell'altro.</font>
+
+998
+00:58:40,708 --> 00:58:42,208
+<font size="20">Mi richiami tra poco.</font>
+
+999
+00:59:04,916 --> 00:59:06,833
+<font size="20">Non svegliate i morti.</font>
+
+1000
+00:59:12,041 --> 00:59:13,250
+<font size="20">Buon Dio.</font>
+
+1001
+00:59:13,333 --> 00:59:15,416
+<font size="20">- L'hai visto in faccia?
+- Era buio.</font>
+
+1002
+00:59:16,416 --> 00:59:20,083
+<font size="20">Quindi, anche se Ventham
+non è più il principale sospettato,</font>
+
+1003
+00:59:20,166 --> 00:59:22,916
+<font size="20">può averlo fatto uccidere
+da qualcun altro.</font>
+
+1004
+00:59:23,000 --> 00:59:25,833
+<font size="20">Esatto. Ed è qui
+che la faccenda si complica.</font>
+
+1005
+00:59:25,916 --> 00:59:28,750
+<font size="20">La polizia intende parlare con Jason.</font>
+
+1006
+00:59:29,250 --> 00:59:32,416
+<font size="20">Si dice
+che facesse dei lavoretti occasionali</font>
+
+1007
+00:59:32,500 --> 00:59:36,333
+<font size="20">per Ventham e Curran
+quando servivano un po' di muscoli in più.</font>
+
+1008
+00:59:36,416 --> 00:59:39,375
+<font size="20">- Quanto occasionali?
+- Stiamo cercando di capirlo.</font>
+
+1009
+00:59:39,458 --> 00:59:40,833
+<font size="20">Non l'ho detto a Ron.</font>
+
+1010
+00:59:40,916 --> 00:59:44,458
+<font size="20">Per fortuna, è impegnato
+a organizzare la protesta.</font>
+
+1011
+00:59:44,541 --> 00:59:47,375
+<font size="20">A proposito, è meglio che vada.</font>
+
+1012
+00:59:48,125 --> 00:59:51,791
+<font size="20">Vengo a prenderti lunedì?
+Possiamo andarci insieme.</font>
+
+1013
+00:59:51,875 --> 00:59:53,125
+<font size="20">Non mancherò.</font>
+
+1014
+00:59:53,625 --> 00:59:57,541
+<font size="20">Non possono demolire il cimitero
+e mandare Penny per strada.</font>
+
+1015
+00:59:57,625 --> 00:59:59,333
+<font size="20">Non può succedere.</font>
+
+1016
+00:59:59,416 --> 01:00:02,416
+<font size="20">No. Ma lunedì combatteremo.</font>
+
+1017
+01:00:05,416 --> 01:00:09,541
+<font size="20">Raduniamoci tutti!</font>
+
+1018
+01:00:09,625 --> 01:00:14,291
+<font size="20">Formeremo una barricata umana
+davanti al cimitero,</font>
+
+1019
+01:00:14,375 --> 01:00:18,750
+<font size="20">e saremo solidali l'uno con l'altro.
+Non è vero?</font>
+
+1020
+01:00:19,250 --> 01:00:20,166
+<font size="20">Sì!</font>
+
+1021
+01:00:20,250 --> 01:00:23,000
+<font size="20">Diamoci da fare. Così.</font>
+
+1022
+01:00:23,500 --> 01:00:24,416
+<font size="20">Teniamo duro.</font>
+
+1023
+01:00:24,500 --> 01:00:26,333
+<font size="20">NO A IAN
+NON TOGLIERCI LA TERRA</font>
+
+1024
+01:00:26,416 --> 01:00:28,083
+<font size="20">Non inginocchiamoci.</font>
+
+1025
+01:00:28,166 --> 01:00:30,541
+<font size="20">- Concordo.
+- Non ci arrenderemo mai.</font>
+
+1026
+01:00:30,625 --> 01:00:33,791
+<font size="20">- Grazie per essere venuti.
+- Fermiamolo.</font>
+
+1027
+01:00:33,875 --> 01:00:35,750
+<font size="20">Ma guardatevi. Bel lavoro.</font>
+
+1028
+01:00:35,833 --> 01:00:38,541
+<font size="20">Il suo è un vecchio slogan.
+Il mio è originale.</font>
+
+1029
+01:00:38,625 --> 01:00:41,458
+<font size="20">Sentite, non discutete tra voi, ok?</font>
+
+1030
+01:00:41,541 --> 01:00:44,208
+<font size="20">- È una giornata di solidarietà.
+- Ma certo.</font>
+
+1031
+01:00:44,291 --> 01:00:45,833
+<font size="20">Sei il migliore, Ibsy.</font>
+
+1032
+01:00:46,333 --> 01:00:49,000
+<font size="20">Ma che fai,
+porti la macchinetta del caffè?</font>
+
+1033
+01:00:49,083 --> 01:00:51,666
+<font size="20">Non è una festa di paese.
+È una cosa seria.</font>
+
+1034
+01:00:51,750 --> 01:00:55,166
+<font size="20">Certo, ma con un buon caffè
+potremo protestare più a lungo.</font>
+
+1035
+01:00:56,083 --> 01:00:57,916
+<font size="20">Che donna saggia. Sì.</font>
+
+1036
+01:01:02,458 --> 01:01:05,083
+<font size="20">Il nemico si avvicina!</font>
+
+1037
+01:01:06,083 --> 01:01:09,500
+<font size="20">Oh, no. Andiamo! Non possono farlo!</font>
+
+1038
+01:01:11,458 --> 01:01:13,791
+<font size="20">Prendi una pala. Passa dietro e scava.</font>
+
+1039
+01:01:13,875 --> 01:01:16,250
+<font size="20">Non potrò fare molto, con una pala.</font>
+
+1040
+01:01:16,333 --> 01:01:18,583
+<font size="20">I lavori devono iniziare oggi, ok?</font>
+
+1041
+01:01:18,666 --> 01:01:21,125
+<font size="20">Basterà smuovere la terra. Scendi.</font>
+
+1042
+01:01:21,208 --> 01:01:22,291
+<font size="20">D'accordo.</font>
+
+1043
+01:01:30,000 --> 01:01:31,750
+<font size="20">Toglietevi di mezzo!</font>
+
+1044
+01:01:34,000 --> 01:01:36,958
+<font size="20">Eccolo. Arriva.</font>
+
+1045
+01:01:37,041 --> 01:01:39,125
+<font size="20">Oddio, sembra The Walking Dead.</font>
+
+1046
+01:01:40,291 --> 01:01:41,916
+<font size="20">Avanti. Arriva.</font>
+
+1047
+01:01:42,000 --> 01:01:45,125
+<font size="20">Restate immobili. Sì, così.</font>
+
+1048
+01:01:45,625 --> 01:01:46,458
+<font size="20">Molto bene.</font>
+
+1049
+01:01:46,541 --> 01:01:49,750
+<font size="20">- Che diavolo succede?
+- Buu!</font>
+
+1050
+01:01:49,833 --> 01:01:54,041
+<font size="20">Cos'è? Rivivete gli anni '80,
+quando vi si è alzato per l'ultima volta?</font>
+
+1051
+01:01:54,125 --> 01:01:56,916
+<font size="20">Cosa crede che sia? Una protesta!</font>
+
+1052
+01:01:57,416 --> 01:02:00,958
+<font size="20">Qui c'è gente
+che ha sconfitto uomini migliori di lei.</font>
+
+1053
+01:02:01,041 --> 01:02:05,375
+<font size="20">Abbiamo insegnanti e soldati,
+medici e banchieri.</font>
+
+1054
+01:02:06,708 --> 01:02:07,791
+<font size="20">E cosa vogliamo?</font>
+
+1055
+01:02:07,875 --> 01:02:11,500
+<font size="20">- Niente scavi!
+- Scritte più grandi sul menu.</font>
+
+1056
+01:02:12,416 --> 01:02:15,000
+<font size="20">Modelli tutti nudi per il corso d'arte.</font>
+
+1057
+01:02:15,083 --> 01:02:18,750
+<font size="20">Aspettate. Non possiamo gridare a caso
+quello che vogliamo.</font>
+
+1058
+01:02:18,833 --> 01:02:20,666
+<font size="20">No! Solidarietà!</font>
+
+1059
+01:02:20,750 --> 01:02:24,083
+<font size="20">Tutti fuori dai piedi.
+Iniziamo a scavare, ok?</font>
+
+1060
+01:02:24,166 --> 01:02:28,041
+<font size="20">- Non entrerà in questo cimitero.
+- Giù le mani, Ventham.</font>
+
+1061
+01:02:28,125 --> 01:02:30,708
+<font size="20">Vattene, stronzo traditore.
+Ho capito tutto.</font>
+
+1062
+01:02:30,791 --> 01:02:34,333
+<font size="20">Ah, sì? Se vuoi entrare,
+dovrai superare me e questa folla.</font>
+
+1063
+01:02:34,416 --> 01:02:37,291
+<font size="20">Quindi… Ian Ventham fuori!</font>
+
+1064
+01:02:37,791 --> 01:02:41,208
+<font size="20">Ian Ventham fuori!</font>
+
+1065
+01:02:41,291 --> 01:02:42,125
+<font size="20">Così!</font>
+
+1066
+01:02:43,000 --> 01:02:46,541
+<font size="20">Ian Ventham fuori!</font>
+
+1067
+01:02:46,625 --> 01:02:47,708
+<font size="20">Solidarietà!</font>
+
+1068
+01:02:48,750 --> 01:02:52,083
+<font size="20">Ian Ventham fuori!</font>
+
+1069
+01:02:52,916 --> 01:02:57,166
+<font size="20">Restate uniti, fratelli e sorelle.
+Alzate la voce.</font>
+
+1070
+01:02:57,875 --> 01:03:00,000
+<font size="20">- Ian Ventham fuori!
+- Chiamo la polizia.</font>
+
+1071
+01:03:00,083 --> 01:03:02,166
+<font size="20">Di' che hai aggredito un prete.</font>
+
+1072
+01:03:03,250 --> 01:03:04,541
+<font size="20">Ian Ventham fuori!</font>
+
+1073
+01:03:05,833 --> 01:03:06,666
+<font size="20">Salve.</font>
+
+1074
+01:03:08,875 --> 01:03:13,291
+<font size="20">Ha visto un picchio?
+Mi è sembrato di vederlo.</font>
+
+1075
+01:03:14,416 --> 01:03:15,250
+<font size="20">No.</font>
+
+1076
+01:03:17,208 --> 01:03:20,833
+<font size="20">L'ho vista fare dei lavoretti qui intorno.</font>
+
+1077
+01:03:20,916 --> 01:03:22,250
+<font size="20">Bogdan, vero?</font>
+
+1078
+01:03:23,541 --> 01:03:24,375
+<font size="20">Sì.</font>
+
+1079
+01:03:29,833 --> 01:03:30,750
+<font size="20">Sono Marina.</font>
+
+1080
+01:03:34,875 --> 01:03:37,166
+<font size="20">- È anche il nome di mia madre.
+- No!</font>
+
+1081
+01:03:37,666 --> 01:03:40,458
+<font size="20">Davvero? Che coincidenza.</font>
+
+1082
+01:03:40,541 --> 01:03:43,791
+<font size="20">È un bel nome. Ma io sono di parte, no?</font>
+
+1083
+01:03:44,958 --> 01:03:48,875
+<font size="20">- È qui con lei?
+- No. È rimasta in Polonia.</font>
+
+1084
+01:03:51,208 --> 01:03:54,125
+<font size="20">Sono certa che le manca.</font>
+
+1085
+01:03:55,500 --> 01:03:57,083
+<font size="20">E le manca anche lei.</font>
+
+1086
+01:03:59,791 --> 01:04:02,791
+<font size="20">Mi manca ogni singolo giorno.</font>
+
+1087
+01:04:05,291 --> 01:04:08,083
+<font size="20">- Parla polacco?
+- Sì, un po'.</font>
+
+1088
+01:04:09,791 --> 01:04:11,750
+<font size="20">Sono venuto qui per lei.</font>
+
+1089
+01:04:11,833 --> 01:04:15,708
+<font size="20">Ci sono lavori migliori, pagano di più.</font>
+
+1090
+01:04:16,208 --> 01:04:18,333
+<font size="20">Così posso mandare soldi a casa.</font>
+
+1091
+01:04:18,833 --> 01:04:20,625
+<font size="20">Da che zona viene?</font>
+
+1092
+01:04:20,708 --> 01:04:21,583
+<font size="20">Da Cracovia.</font>
+
+1093
+01:04:21,666 --> 01:04:26,625
+<font size="20">A Cracovia ho mangiato
+una zuppa meravigliosa. Krupnik.</font>
+
+1094
+01:04:26,708 --> 01:04:28,958
+<font size="20">- Ah, la zuppa d'orzo.
+- Sì.</font>
+
+1095
+01:04:29,666 --> 01:04:31,500
+<font size="20">Cosa faceva in Polonia?</font>
+
+1096
+01:04:32,375 --> 01:04:33,500
+<font size="20">Circo itinerante.</font>
+
+1097
+01:04:34,375 --> 01:04:35,958
+<font size="20">Altri tempi.</font>
+
+1098
+01:04:36,625 --> 01:04:37,458
+<font size="20">D'accordo.</font>
+
+1099
+01:04:38,708 --> 01:04:39,916
+<font size="20">Non è ridicolo?</font>
+
+1100
+01:04:40,000 --> 01:04:43,333
+<font size="20">Devo fare tutto con una pala,
+ma ora è compito mio.</font>
+
+1101
+01:04:43,416 --> 01:04:45,833
+<font size="20">Ha preso il posto di Tony?</font>
+
+1102
+01:04:45,916 --> 01:04:49,625
+<font size="20">Sì, sono l'appaltatore principale di Ian.</font>
+
+1103
+01:04:51,958 --> 01:04:54,916
+<font size="20">Ian le ha dato il lavoro
+prima che Tony morisse?</font>
+
+1104
+01:04:56,333 --> 01:05:01,166
+<font size="20">Sì, Marina, ho avuto il lavoro
+prima che Tony morisse. Perché?</font>
+
+1105
+01:05:01,916 --> 01:05:04,666
+<font size="20">Vuole chiedermi qualcosa?</font>
+
+1106
+01:05:06,541 --> 01:05:09,750
+<font size="20">Si sa che Ian
+ha guadagnato molto dalla morte di Tony,</font>
+
+1107
+01:05:09,833 --> 01:05:13,458
+<font size="20">quindi mi chiedevo se lui, beh,</font>
+
+1108
+01:05:14,208 --> 01:05:17,333
+<font size="20">avesse chiesto a qualcuno
+di uccidere Tony per lui.</font>
+
+1109
+01:05:19,458 --> 01:05:20,333
+<font size="20">Non lo so.</font>
+
+1110
+01:05:21,916 --> 01:05:22,833
+<font size="20">Può darsi.</font>
+
+1111
+01:05:25,250 --> 01:05:27,166
+<font size="20">Allora sarò più specifica.</font>
+
+1112
+01:05:28,541 --> 01:05:31,583
+<font size="20">Ian ha chiesto a lei di uccidere Tony?</font>
+
+1113
+01:05:33,583 --> 01:05:34,416
+<font size="20">No.</font>
+
+1114
+01:05:35,666 --> 01:05:38,791
+<font size="20">E anche se l'avesse fatto,
+avrei rifiutato.</font>
+
+1115
+01:05:39,708 --> 01:05:43,541
+<font size="20">Farei molte cose per Ventham,
+come dissotterrare vecchie ossa.</font>
+
+1116
+01:05:44,166 --> 01:05:46,166
+<font size="20">Ma non ucciderei un uomo per lui.</font>
+
+1117
+01:05:51,708 --> 01:05:54,750
+<font size="20">Nessuno ti vuole qui, Ian.
+Perché non vai a casa?</font>
+
+1118
+01:05:54,833 --> 01:05:57,166
+<font size="20">Leggi i cartelli e sparisci.</font>
+
+1119
+01:05:59,083 --> 01:06:00,708
+<font size="20">Giù le mani. Fermi.</font>
+
+1120
+01:06:02,250 --> 01:06:03,666
+<font size="20">Giù le mani!</font>
+
+1121
+01:06:05,625 --> 01:06:07,833
+<font size="20">Giù le mani! Smettetela!</font>
+
+1122
+01:06:08,833 --> 01:06:10,041
+<font size="20">Non toccatemi!</font>
+
+1123
+01:06:11,291 --> 01:06:13,250
+<font size="20">- Ehi!
+- Nessuno la vuole!</font>
+
+1124
+01:06:13,333 --> 01:06:15,875
+<font size="20">Perché non ci ascolta?</font>
+
+1125
+01:06:16,375 --> 01:06:17,791
+<font size="20">- Ehi!
+- Perché?</font>
+
+1126
+01:06:19,416 --> 01:06:20,416
+<font size="20">No! Questo…</font>
+
+1127
+01:06:23,791 --> 01:06:24,625
+<font size="20">Questo…</font>
+
+1128
+01:06:26,375 --> 01:06:28,375
+<font size="20">Fatemi passare.</font>
+
+1129
+01:06:47,416 --> 01:06:48,583
+<font size="20">È morto.</font>
+
+1130
+01:06:54,250 --> 01:06:55,166
+<font size="20">Porca miseria.</font>
+
+1131
+01:07:14,208 --> 01:07:15,041
+<font size="20">Dunque…</font>
+
+1132
+01:07:15,791 --> 01:07:18,000
+<font size="20">siamo tutti testimoni di un omicidio.</font>
+
+1133
+01:07:20,583 --> 01:07:24,125
+<font size="20">Prima domanda:
+come sai che non è stato un infarto?</font>
+
+1134
+01:07:24,208 --> 01:07:26,250
+<font size="20">- Era molto stressato.
+- Sì.</font>
+
+1135
+01:07:26,333 --> 01:07:29,166
+<font size="20">La probabile causa
+è un'overdose di fentanyl,</font>
+
+1136
+01:07:29,250 --> 01:07:31,500
+<font size="20">somministrato poco prima di morire.</font>
+
+1137
+01:07:31,583 --> 01:07:33,666
+<font size="20">Aspettano gli esiti delle analisi.</font>
+
+1138
+01:07:33,750 --> 01:07:37,166
+<font size="20">- Come l'hai saputo?
+- Donna mi ha scritto.</font>
+
+1139
+01:07:37,666 --> 01:07:41,250
+<font size="20">- È molto disponibile.
+- Da dove viene questo fentanyl?</font>
+
+1140
+01:07:41,333 --> 01:07:44,750
+<font size="20">I medici lo usano
+per anestetizzare e alleviare il dolore.</font>
+
+1141
+01:07:44,833 --> 01:07:46,916
+<font size="20">È efficace per molte cose.</font>
+
+1142
+01:07:47,416 --> 01:07:51,041
+<font size="20">Ma una dose elevata può essere fatale.</font>
+
+1143
+01:07:51,125 --> 01:07:55,625
+<font size="20">Quindi è stato qualcuno
+che aveva accesso a siringhe e farmaci.</font>
+
+1144
+01:07:55,708 --> 01:07:59,125
+<font size="20">Cioè quasi tutti a Coopers Chase, Ron.</font>
+
+1145
+01:07:59,208 --> 01:08:02,166
+<font size="20">Ho raccolto delle foto
+di tutti i presenti.</font>
+
+1146
+01:08:02,250 --> 01:08:04,750
+<font size="20">Credo sia successo nella mischia.</font>
+
+1147
+01:08:04,833 --> 01:08:10,083
+<font size="20">Una dose letale somministrata
+con calma e freddezza durante lo scontro.</font>
+
+1148
+01:08:10,166 --> 01:08:13,083
+<font size="20">- L'assassino è in queste foto?
+- Assolutamente.</font>
+
+1149
+01:08:13,666 --> 01:08:16,875
+<font size="20">- Ma ci siamo tutti.
+- E siamo tutti sospettati.</font>
+
+1150
+01:08:28,750 --> 01:08:32,208
+<font size="20">A proposito, non abbiamo risolto
+l'enigma di Bobby Tanner.</font>
+
+1151
+01:08:32,291 --> 01:08:33,208
+<font size="20">E cioè?</font>
+
+1152
+01:08:33,708 --> 01:08:34,708
+<font size="20">- Chi?
+- Cosa?</font>
+
+1153
+01:08:35,458 --> 01:08:39,625
+<font size="20">- Scusate, non ve l'avevo detto?
+- No, affatto.</font>
+
+1154
+01:08:39,708 --> 01:08:44,541
+<font size="20">Donna mi ha detto che hanno trovato
+una foto sulla scena dell'omicidio</font>
+
+1155
+01:08:44,625 --> 01:08:49,125
+<font size="20">che ritrae Tony Curran,
+il noto criminale Bobby Tanner e Ja…</font>
+
+1156
+01:08:52,791 --> 01:08:53,666
+<font size="20">E chi?</font>
+
+1157
+01:08:54,666 --> 01:08:57,708
+<font size="20">- Non importa. No, non…
+- No.</font>
+
+1158
+01:08:57,791 --> 01:09:01,625
+<font size="20">Non devi avere segreti con noi.
+Elizabeth, siamo una squadra.</font>
+
+1159
+01:09:01,708 --> 01:09:03,708
+<font size="20">No, non è così. È solo…</font>
+
+1160
+01:09:04,208 --> 01:09:09,000
+<font size="20">A volte Donna mi scrive la sera tardi,
+aspettavo il momento giusto per dirvelo.</font>
+
+1161
+01:09:09,083 --> 01:09:13,708
+<font size="20">Ora sembra il momento perfetto.
+Ti dispiace informarci?</font>
+
+1162
+01:09:15,125 --> 01:09:19,541
+<font size="20">La polizia sta cercando Bobby Tanner,
+e dovremmo farlo anche noi.</font>
+
+1163
+01:09:19,625 --> 01:09:24,125
+<font size="20">È il terzo proprietario di Coopers Chase
+con Ian Ventham e Tony Curran.</font>
+
+1164
+01:09:24,208 --> 01:09:27,333
+<font size="20">E il testamento di Ian Ventham
+dichiara esplicitamente</font>
+
+1165
+01:09:27,416 --> 01:09:31,708
+<font size="20">che i lavori a Coopers Chase
+continueranno anche dopo la sua morte.</font>
+
+1166
+01:09:31,791 --> 01:09:33,916
+<font size="20">Solo Bobby Tanner può fermarli.</font>
+
+1167
+01:09:34,000 --> 01:09:35,750
+<font size="20">E nessuno riesce a trovarlo.</font>
+
+1168
+01:09:35,833 --> 01:09:38,708
+<font size="20">La battaglia per le nostre case
+non è finita.</font>
+
+1169
+01:09:39,583 --> 01:09:42,916
+<font size="20">Vivo o morto,
+Ian Ventham può ancora fregarci.</font>
+
+1170
+01:09:43,500 --> 01:09:47,333
+<font size="20">Quindi Tanner è l'unico proprietario
+di Coopers Chase in vita?</font>
+
+1171
+01:09:47,416 --> 01:09:49,666
+<font size="20">Sì, sembra di sì.</font>
+
+1172
+01:09:49,750 --> 01:09:51,875
+<font size="20">Ma potrebbe essere morto. Non si sa.</font>
+
+1173
+01:09:51,958 --> 01:09:54,875
+<font size="20">Se lo trovassimo,
+potremmo fermare i lavori, no?</font>
+
+1174
+01:09:54,958 --> 01:09:58,750
+<font size="20">E salvare Coopers Chase?
+E impedire la demolizione del cimitero?</font>
+
+1175
+01:09:58,833 --> 01:10:01,041
+<font size="20">Sì. Quindi è meglio iniziare.</font>
+
+1176
+01:10:01,125 --> 01:10:04,166
+<font size="20">Sì, il corso intermedio di maglia
+inizia tra un'ora.</font>
+
+1177
+01:10:04,666 --> 01:10:05,500
+<font size="20">D'accordo.</font>
+
+1178
+01:10:06,000 --> 01:10:07,416
+<font size="20">Quando ha iniziato?</font>
+
+1179
+01:10:07,500 --> 01:10:13,583
+<font size="20">Mio padre mi insegnò a 10 anni
+e riuscii a batterlo solo a 13.</font>
+
+1180
+01:10:15,375 --> 01:10:18,458
+<font size="20">- Non mi lasciava vincere.
+- Notevole.</font>
+
+1181
+01:10:18,541 --> 01:10:19,958
+<font size="20">- Sì.
+- Scacco matto.</font>
+
+1182
+01:10:20,041 --> 01:10:21,708
+<font size="20">Santo cielo.</font>
+
+1183
+01:10:21,791 --> 01:10:25,541
+<font size="20">Elizabeth, questo signore
+è venuto a trovarti.</font>
+
+1184
+01:10:25,625 --> 01:10:27,375
+<font size="20">E gioca anche a scacchi.</font>
+
+1185
+01:10:28,250 --> 01:10:30,208
+<font size="20">È davvero un ottimo giocatore.</font>
+
+1186
+01:10:31,125 --> 01:10:33,625
+<font size="20">E ha sistemato il Wi-Fi nel mio studio.</font>
+
+1187
+01:10:34,458 --> 01:10:37,125
+<font size="20">Bogdan, che sorpresa inaspettata.</font>
+
+1188
+01:10:37,708 --> 01:10:40,583
+<font size="20">Scusi l'intrusione, Elizabeth.</font>
+
+1189
+01:10:42,666 --> 01:10:44,333
+<font size="20">Si figuri. Benvenuto.</font>
+
+1190
+01:10:46,125 --> 01:10:48,125
+<font size="20">Grazie della partita. Devo andare.</font>
+
+1191
+01:10:48,208 --> 01:10:50,000
+<font size="20">- È stato un piacere.
+- Vado.</font>
+
+1192
+01:10:50,083 --> 01:10:51,083
+<font size="20">Lo accompagno.</font>
+
+1193
+01:10:51,166 --> 01:10:53,583
+<font size="20">- Elizabeth.
+- Che ci fa qui?</font>
+
+1194
+01:10:53,666 --> 01:10:56,833
+<font size="20">Dobbiamo parlare.
+Non sapevo a chi rivolgermi.</font>
+
+1195
+01:10:56,916 --> 01:11:01,083
+<font size="20">Ho detto alla polizia
+che ero con Marina quando Ian è morto.</font>
+
+1196
+01:11:01,166 --> 01:11:04,000
+<font size="20">Ma non c'è nessuna Marina a Coopers Chase.</font>
+
+1197
+01:11:04,083 --> 01:11:08,250
+<font size="20">Quindi ho chiesto della signora invadente
+che fa troppe domande.</font>
+
+1198
+01:11:08,750 --> 01:11:10,458
+<font size="20">E tutti hanno parlato di lei.</font>
+
+1199
+01:11:10,541 --> 01:11:12,291
+<font size="20">Va bene. Mi ha scoperto.</font>
+
+1200
+01:11:13,083 --> 01:11:15,625
+<font size="20">Volevo parlare con lei,
+e usando quel nome,</font>
+
+1201
+01:11:15,708 --> 01:11:18,125
+<font size="20">speravo di guadagnarmi la sua fiducia.</font>
+
+1202
+01:11:18,708 --> 01:11:20,583
+<font size="20">- Un trucco sleale.
+- Sì.</font>
+
+1203
+01:11:20,666 --> 01:11:22,625
+<font size="20">È la forza dell'abitudine. Scusi.</font>
+
+1204
+01:11:26,416 --> 01:11:27,916
+<font size="20">Che ci fa qui?</font>
+
+1205
+01:11:29,125 --> 01:11:31,000
+<font size="20">Voglio mostrarle una cosa.</font>
+
+1206
+01:11:31,583 --> 01:11:33,000
+<font size="20">Stasera.</font>
+
+1207
+01:11:33,083 --> 01:11:34,791
+<font size="20">Dopo il tramonto.</font>
+
+1208
+01:11:35,291 --> 01:11:38,375
+<font size="20">Vediamoci al cimitero. Venga da sola.</font>
+
+1209
+01:11:39,250 --> 01:11:40,291
+<font size="20">Totalmente sola.</font>
+
+1210
+01:11:40,958 --> 01:11:41,791
+<font size="20">Per favore.</font>
+
+1211
+01:11:43,500 --> 01:11:44,708
+<font size="20">Totalmente sola.</font>
+
+1212
+01:11:46,416 --> 01:11:47,250
+<font size="20">Grazie.</font>
+
+1213
+01:11:51,833 --> 01:11:55,416
+<font size="20">Attento. Giro, posizione. Petto in fuori.</font>
+
+1214
+01:11:55,500 --> 01:12:00,666
+<font size="20">Sinistra e destra. Tieni.</font>
+
+1215
+01:12:00,750 --> 01:12:04,875
+<font size="20">Ultimo giro.
+Su, a sinistra. Ottimo lavoro.</font>
+
+1216
+01:12:07,916 --> 01:12:08,750
+<font size="20">Eccolo lì.</font>
+
+1217
+01:12:11,000 --> 01:12:11,875
+<font size="20">Ora chiudi.</font>
+
+1218
+01:12:11,958 --> 01:12:13,541
+<font size="20">- Chiudo.
+- Perfetto.</font>
+
+1219
+01:12:17,166 --> 01:12:19,791
+<font size="20">Allora, di che si tratta?</font>
+
+1220
+01:12:20,291 --> 01:12:22,791
+<font size="20">Vi ho già detto quello che so,
+cioè niente.</font>
+
+1221
+01:12:23,291 --> 01:12:26,958
+<font size="20">Ero in palestra con Dan Fairhurst,
+quando Tony è morto.</font>
+
+1222
+01:12:27,041 --> 01:12:30,250
+<font size="20">Era con lui prima che morisse,
+non quando è morto.</font>
+
+1223
+01:12:30,333 --> 01:12:32,333
+<font size="20">- Capisce la differenza?
+- Sì.</font>
+
+1224
+01:12:33,000 --> 01:12:35,458
+<font size="20">L'ha trovato la domestica.
+Forse è stata lei.</font>
+
+1225
+01:12:36,291 --> 01:12:37,833
+<font size="20">Io la vedo così.</font>
+
+1226
+01:12:38,333 --> 01:12:41,416
+<font size="20">L'assassino non è il primo
+a vedere la vittima morta,</font>
+
+1227
+01:12:41,500 --> 01:12:43,458
+<font size="20">ma l'ultimo a vederla viva.</font>
+
+1228
+01:12:43,541 --> 01:12:45,333
+<font size="20">- Bella.
+- Viene da Colombo.</font>
+
+1229
+01:12:46,083 --> 01:12:49,583
+<font size="20">Allora che c'è?
+Di cosa mi state accusando?</font>
+
+1230
+01:12:49,666 --> 01:12:54,583
+<font size="20">Perché Ventham l'ha chiamata tre volte
+subito dopo la lite con Tony Curran?</font>
+
+1231
+01:12:54,666 --> 01:12:56,458
+<font size="20">Voleva chiederle un favore?</font>
+
+1232
+01:12:56,541 --> 01:12:59,750
+<font size="20">Le ha chiesto di uccidere Curran
+perché ne aveva paura?</font>
+
+1233
+01:12:59,833 --> 01:13:02,583
+<font size="20">No, si trattava di qualcos'altro.</font>
+
+1234
+01:13:02,666 --> 01:13:04,458
+<font size="20">Io non credo, Jason.</font>
+
+1235
+01:13:05,041 --> 01:13:08,750
+<font size="20">- C'erano altre cose in gioco.
+- Sì, eccome.</font>
+
+1236
+01:13:09,375 --> 01:13:11,916
+<font size="20">Ventham le pagò
+dei vecchi debiti di gioco.</font>
+
+1237
+01:13:13,000 --> 01:13:18,083
+<font size="20">E poiché le aveva pagato i debiti,
+lei faceva qualche lavoretto per lui.</font>
+
+1238
+01:13:18,166 --> 01:13:22,708
+<font size="20">- Qualsiasi cosa chiedesse…
+- No. Non qualsiasi cosa.</font>
+
+1239
+01:13:22,791 --> 01:13:24,875
+<font size="20">Perché ha chiamato lei, Jason?</font>
+
+1240
+01:13:24,958 --> 01:13:25,958
+<font size="20">Solo per…</font>
+
+1241
+01:13:26,750 --> 01:13:28,750
+<font size="20">Per delle cose. Sentite…</font>
+
+1242
+01:13:29,375 --> 01:13:32,708
+<font size="20">- Devo tornare alle prove.
+- Conosce Bobby Tanner, Jason?</font>
+
+1243
+01:13:33,375 --> 01:13:35,375
+<font size="20">Cosa? Bobby Tanner?</font>
+
+1244
+01:13:35,875 --> 01:13:37,125
+<font size="20">Non è morto?</font>
+
+1245
+01:13:39,583 --> 01:13:41,375
+<font size="20">Ricorda questa foto?</font>
+
+1246
+01:13:42,791 --> 01:13:43,750
+<font size="20">No.</font>
+
+1247
+01:13:43,833 --> 01:13:48,000
+<font size="20">Beh… quello nello specchio
+è il suo braccio, no?</font>
+
+1248
+01:13:48,708 --> 01:13:52,208
+<font size="20">È coinvolto nel crimine organizzato, vero?</font>
+
+1249
+01:13:53,208 --> 01:13:56,291
+<font size="20">Cosa sarà mai
+un'altra piccola esecuzione, eh?</font>
+
+1250
+01:13:56,958 --> 01:13:59,541
+<font size="20">Perché aveva tanta fretta l'altro giorno?</font>
+
+1251
+01:13:59,625 --> 01:14:02,750
+<font size="20">- Cercava di scappare?
+- Non ho tempo per questo.</font>
+
+1252
+01:14:02,833 --> 01:14:06,833
+<font size="20">Jason Ritchie, è in arresto
+per l'omicidio di Tony Curran.</font>
+
+1253
+01:14:06,916 --> 01:14:09,083
+<font size="20">Di cosa sta parlando? Non ha prove.</font>
+
+1254
+01:14:09,166 --> 01:14:12,666
+<font size="20">Non risponde alle domande.
+Non ha alibi. Ha mezzi e movente.</font>
+
+1255
+01:14:12,750 --> 01:14:15,583
+<font size="20">Inoltre, temo che possa darsela a gambe.</font>
+
+1256
+01:14:15,666 --> 01:14:19,291
+<font size="20">In breve, è a rischio fuga.
+Quindi sì, possiamo arrestarla.</font>
+
+1257
+01:14:19,375 --> 01:14:21,375
+<font size="20">Le dispiace togliere i pattini?</font>
+
+1258
+01:14:22,166 --> 01:14:23,791
+<font size="20">Oh, merda.</font>
+
+1259
+01:14:26,125 --> 01:14:28,791
+<font size="20">Gli omicidi di Tony Curran e Ian Ventham.</font>
+
+1260
+01:14:28,875 --> 01:14:30,833
+<font size="20">Dev'essere lo stesso assassino.</font>
+
+1261
+01:14:30,916 --> 01:14:34,666
+<font size="20">Abbiamo due soci
+uccisi a pochi giorni l'uno dall'altro.</font>
+
+1262
+01:14:35,166 --> 01:14:38,458
+<font size="20">Quindi è qualcuno
+che vuole fermare la riqualificazione.</font>
+
+1263
+01:14:38,541 --> 01:14:41,375
+<font size="20">Bernard? Alla protesta era molto agitato.</font>
+
+1264
+01:14:41,458 --> 01:14:43,083
+<font size="20">Sì. È un tipo irascibile.</font>
+
+1265
+01:14:43,583 --> 01:14:47,500
+<font size="20">È anche un chimico,
+quindi poteva procurarsi una tossina.</font>
+
+1266
+01:14:47,583 --> 01:14:51,083
+<font size="20">- Gli do un nove.
+- È troppo. No, dagli un sei.</font>
+
+1267
+01:14:51,583 --> 01:14:55,375
+<font size="20">- Va bene. Gli do un sette.
+- D'accordo. E Padre Mackie?</font>
+
+1268
+01:14:55,458 --> 01:14:57,458
+<font size="20">Il più furioso della protesta.</font>
+
+1269
+01:14:58,166 --> 01:15:01,500
+<font size="20">- È il nostro primo dieci.
+- Si comporta in modo strano.</font>
+
+1270
+01:15:01,583 --> 01:15:03,166
+<font size="20">Un prete è insospettabile.</font>
+
+1271
+01:15:03,250 --> 01:15:05,416
+<font size="20">- Ne vuoi ancora?
+- Sì.</font>
+
+1272
+01:15:06,375 --> 01:15:10,000
+<font size="20">Stavo pensando,
+ora che Tony e Ian sono morti,</font>
+
+1273
+01:15:11,333 --> 01:15:13,041
+<font size="20">le cose cambieranno?</font>
+
+1274
+01:15:13,125 --> 01:15:15,541
+<font size="20">Credi che ci sbatteranno fuori?</font>
+
+1275
+01:15:15,625 --> 01:15:18,000
+<font size="20">Dipende dal futuro di Coopers Chase.</font>
+
+1276
+01:15:18,083 --> 01:15:21,166
+<font size="20">- Se non trovano Bobby Tanner…
+- Esatto.</font>
+
+1277
+01:15:21,250 --> 01:15:24,250
+<font size="20">- No, non sul libro.
+- Scusa.</font>
+
+1278
+01:15:25,250 --> 01:15:26,083
+<font size="20">Grazie.</font>
+
+1279
+01:15:31,208 --> 01:15:33,708
+<font size="20">- Questo posto mi mancherebbe.
+- Già.</font>
+
+1280
+01:15:34,833 --> 01:15:37,458
+<font size="20">Se vuoi stare da solo, chiudi la porta.</font>
+
+1281
+01:15:38,291 --> 01:15:42,125
+<font size="20">Se vuoi stare con gli altri, la apri.
+È il segreto della felicità.</font>
+
+1282
+01:15:42,208 --> 01:15:46,708
+<font size="20">Mi ricorda il mio college a Oxford,
+ma con cibo migliore e meno snobismo.</font>
+
+1283
+01:15:48,666 --> 01:15:50,333
+<font size="20">Ecco qua. Pronto?</font>
+
+1284
+01:15:51,291 --> 01:15:53,208
+<font size="20">Pronto? Oh, scusa.</font>
+
+1285
+01:15:57,375 --> 01:15:58,458
+<font size="20">Pronto? Sì.</font>
+
+1286
+01:16:01,125 --> 01:16:01,958
+<font size="20">Che cosa?</font>
+
+1287
+01:16:03,416 --> 01:16:04,500
+<font size="20">D'accordo.</font>
+
+1288
+01:16:04,583 --> 01:16:07,875
+<font size="20">Non dire una parola, ok?
+Tieni la bocca chiusa.</font>
+
+1289
+01:16:07,958 --> 01:16:11,875
+<font size="20">Risolveremo tutto, va bene?
+Non dire niente. Ok, ciao.</font>
+
+1290
+01:16:13,958 --> 01:16:14,958
+<font size="20">Era Jason.</font>
+
+1291
+01:16:16,375 --> 01:16:18,666
+<font size="20">È in arresto per l'omicidio di Curran.</font>
+
+1292
+01:16:18,750 --> 01:16:21,375
+<font size="20">- Oh, Ron.
+- Porca miseria.</font>
+
+1293
+01:16:22,833 --> 01:16:24,666
+<font size="20">- Da questa parte?
+- Sì, di qua.</font>
+
+1294
+01:16:25,458 --> 01:16:28,083
+<font size="20">Suo marito Stephen non sta bene, vero?</font>
+
+1295
+01:16:28,583 --> 01:16:30,416
+<font size="20">No, infatti.</font>
+
+1296
+01:16:32,375 --> 01:16:34,208
+<font size="20">Gli ha messo qualcosa nel tè?</font>
+
+1297
+01:16:35,625 --> 01:16:38,541
+<font size="20">Sì. Una pillola per aiutarlo a dormire.</font>
+
+1298
+01:16:39,708 --> 01:16:42,208
+<font size="20">Solo una. Di più possono essere letali.</font>
+
+1299
+01:16:43,666 --> 01:16:46,416
+<font size="20">È stato gentile
+a giocare a scacchi con lui.</font>
+
+1300
+01:16:46,500 --> 01:16:50,291
+<font size="20">Era tanto tempo
+che non giocava con un'altra persona.</font>
+
+1301
+01:16:50,375 --> 01:16:53,250
+<font size="20">È un buon giocatore.
+Mi ha messo in difficoltà.</font>
+
+1302
+01:16:53,333 --> 01:16:55,041
+<font size="20">Le va di tornare?</font>
+
+1303
+01:16:55,125 --> 01:16:59,125
+<font size="20">Mi piacerebbe molto, sì.
+Non ho molti amici qui.</font>
+
+1304
+01:16:59,208 --> 01:17:02,541
+<font size="20">Devo avvertirla che Stephen
+ha giorni buoni e meno buoni.</font>
+
+1305
+01:17:02,625 --> 01:17:05,541
+<font size="20">- Oggi era un giorno buono.
+- Mia madre è uguale.</font>
+
+1306
+01:17:06,041 --> 01:17:08,458
+<font size="20">Non sempre si ricorda di me.</font>
+
+1307
+01:17:10,166 --> 01:17:11,375
+<font size="20">È molto malata.</font>
+
+1308
+01:17:12,166 --> 01:17:15,666
+<font size="20">Non so per quanto ancora…</font>
+
+1309
+01:17:16,958 --> 01:17:20,333
+<font size="20">Bogdan, mi dispiace tanto.
+Dovrebbe andare da lei.</font>
+
+1310
+01:17:22,500 --> 01:17:26,500
+<font size="20">Vorrei tanto vederla un'ultima volta,
+ma non posso.</font>
+
+1311
+01:17:26,583 --> 01:17:27,833
+<font size="20">Perché no?</font>
+
+1312
+01:17:29,166 --> 01:17:31,500
+<font size="20">A tutti noi operai, quando veniamo qui,</font>
+
+1313
+01:17:31,583 --> 01:17:34,958
+<font size="20">viene ritirato il passaporto
+per precauzione.</font>
+
+1314
+01:17:35,041 --> 01:17:37,875
+<font size="20">Dicono che in questo lavoro è normale.</font>
+
+1315
+01:17:39,208 --> 01:17:40,416
+<font size="20">Chi lo dice?</font>
+
+1316
+01:17:43,125 --> 01:17:45,708
+<font size="20">Non importa. Risolverò in qualche modo.</font>
+
+1317
+01:17:47,958 --> 01:17:49,625
+<font size="20">Comunque, ci siamo.</font>
+
+1318
+01:18:06,625 --> 01:18:09,791
+<font size="20">Ha trovato resti umani in una tomba.</font>
+
+1319
+01:18:10,375 --> 01:18:12,166
+<font size="20">Perché sarebbe misterioso?</font>
+
+1320
+01:18:12,250 --> 01:18:13,500
+<font size="20">Perché, Elizabeth,</font>
+
+1321
+01:18:15,000 --> 01:18:17,833
+<font size="20">quelle ossa sono state messe
+sopra la bara.</font>
+
+1322
+01:18:27,083 --> 01:18:29,833
+<font size="20">E perché dissotterrare una tomba</font>
+
+1323
+01:18:31,416 --> 01:18:34,166
+<font size="20">per mettere delle ossa su altre ossa?</font>
+
+1324
+01:18:34,250 --> 01:18:35,666
+<font size="20">Per nascondere un corpo.</font>
+
+1325
+01:18:39,291 --> 01:18:41,916
+<font size="20">Abbiamo a che fare con un altro omicidio.</font>
+
+1326
+01:18:47,208 --> 01:18:48,208
+<font size="20">Alziamola.</font>
+
+1327
+01:18:56,541 --> 01:18:59,875
+<font size="20">- Elizabeth ti ha detto questo?
+- Più o meno, sì.</font>
+
+1328
+01:19:02,500 --> 01:19:03,750
+<font size="20">Bene, vieni con me.</font>
+
+1329
+01:19:07,458 --> 01:19:08,291
+<font size="20">Toc toc?</font>
+
+1330
+01:19:09,291 --> 01:19:11,708
+<font size="20">- Possiamo entrare?
+- Siete già qui.</font>
+
+1331
+01:19:11,791 --> 01:19:13,250
+<font size="20">Altra torta, ispettore?</font>
+
+1332
+01:19:13,333 --> 01:19:16,166
+<font size="20">Elizabeth, basta giochetti.
+È una cosa seria.</font>
+
+1333
+01:19:17,166 --> 01:19:20,791
+<font size="20">Vorrei sapere esattamente
+come ha trovato il corpo.</font>
+
+1334
+01:19:21,375 --> 01:19:25,291
+<font size="20">- L'ho già spiegato a Donna.
+- Voglio sentirlo da lei.</font>
+
+1335
+01:19:25,375 --> 01:19:26,458
+<font size="20">Sì, certo.</font>
+
+1336
+01:19:26,541 --> 01:19:30,750
+<font size="20">Vede, ero a fare una passeggiata.
+Stavo cercando dei narcisi.</font>
+
+1337
+01:19:30,833 --> 01:19:32,083
+<font size="20">Dei narcisi?</font>
+
+1338
+01:19:32,875 --> 01:19:35,916
+<font size="20">- Bulbi di narciso per la fioriera.
+- La fioriera?</font>
+
+1339
+01:19:36,000 --> 01:19:38,416
+<font size="20">Sì, per portare colore in primavera.</font>
+
+1340
+01:19:38,500 --> 01:19:39,708
+<font size="20">- Certo.
+- Sì.</font>
+
+1341
+01:19:39,791 --> 01:19:42,875
+<font size="20">- E stavo scavando…
+- Con le mani?</font>
+
+1342
+01:19:42,958 --> 01:19:45,583
+<font size="20">Ma no, non sia ridicolo.
+Avevo una paletta.</font>
+
+1343
+01:19:45,666 --> 01:19:49,083
+<font size="20">- Oh, che sciocco!
+- Sì, una paletta per i bulbi.</font>
+
+1344
+01:19:49,166 --> 01:19:51,625
+<font size="20">- Certo.
+- E allora ho trovato le ossa.</font>
+
+1345
+01:19:51,708 --> 01:19:55,625
+<font size="20">È stato uno shock.
+Davvero una coincidenza incredibile.</font>
+
+1346
+01:19:59,875 --> 01:20:04,291
+<font size="20">Sto perdendo la pazienza con lei
+e la sua banda di allegri pensionati.</font>
+
+1347
+01:20:04,375 --> 01:20:06,875
+<font size="20">Senta, ha messo mio figlio in cella.</font>
+
+1348
+01:20:07,625 --> 01:20:10,250
+<font size="20">E, al momento,
+le prove sono circostanziali.</font>
+
+1349
+01:20:10,333 --> 01:20:14,041
+<font size="20">Mi dispiace, ma non basta
+per accusare qualcuno di omicidio.</font>
+
+1350
+01:20:14,125 --> 01:20:18,208
+<font size="20">Quindi smetta di fare il duro
+e vada a cercare il vero assassino.</font>
+
+1351
+01:20:18,291 --> 01:20:20,250
+<font size="20">Vorrei trovare il vero assassino.</font>
+
+1352
+01:20:20,333 --> 01:20:22,416
+<font size="20">- Bene.
+- Vorrei tanto.</font>
+
+1353
+01:20:22,500 --> 01:20:25,208
+<font size="20">Se la vostra
+"Società della morte del martedì"</font>
+
+1354
+01:20:25,291 --> 01:20:29,208
+<font size="20">mollasse il caso per cinque minuti,
+forse faremmo dei progressi.</font>
+
+1355
+01:20:29,291 --> 01:20:34,708
+<font size="20">Vi consiglio di dedicarvi
+alle cene del Rotary Club, al golf,</font>
+
+1356
+01:20:34,791 --> 01:20:37,833
+<font size="20">a dar da mangiare ai lama
+e a prendere le statine,</font>
+
+1357
+01:20:37,916 --> 01:20:40,250
+<font size="20">e lasciar lavorare i professionisti.</font>
+
+1358
+01:20:40,333 --> 01:20:42,125
+<font size="20">Se avete problemi di udito,</font>
+
+1359
+01:20:42,208 --> 01:20:44,625
+<font size="20">alzate il volume
+degli apparecchi acustici.</font>
+
+1360
+01:20:44,708 --> 01:20:49,333
+<font size="20">Chi non lavora in polizia
+non può fare il lavoro della polizia.</font>
+
+1361
+01:20:50,250 --> 01:20:52,875
+<font size="20">- Chiaro?
+- Sì, chiaro.</font>
+
+1362
+01:20:52,958 --> 01:20:53,791
+<font size="20">Certo.</font>
+
+1363
+01:20:55,583 --> 01:20:56,791
+<font size="20">Vi ringrazio.</font>
+
+1364
+01:20:57,583 --> 01:20:58,416
+<font size="20">De Freitas.</font>
+
+1365
+01:21:00,583 --> 01:21:02,875
+<font size="20">Io farei analizzare quelle ossa.</font>
+
+1366
+01:21:02,958 --> 01:21:04,875
+<font size="20">- Possono essere rilevanti.
+- Ok.</font>
+
+1367
+01:22:01,166 --> 01:22:03,750
+<font size="20">ULTIMO AVVERTIMENTO…
+STAI ALLA LARGA!</font>
+
+1368
+01:22:15,875 --> 01:22:16,708
+<font size="20">Ehi.</font>
+
+1369
+01:22:17,916 --> 01:22:19,083
+<font size="20">Oh, salve.</font>
+
+1370
+01:22:19,166 --> 01:22:22,291
+<font size="20">Senta, non dovrei parlare con lei, ma…</font>
+
+1371
+01:22:23,208 --> 01:22:26,916
+<font size="20">Volevo dirle che le ossa
+che abbiamo trovato nel cimitero</font>
+
+1372
+01:22:27,000 --> 01:22:29,291
+<font size="20">sono di un uomo di nome Peter Mercer.</font>
+
+1373
+01:22:31,208 --> 01:22:32,125
+<font size="20">Che cosa?</font>
+
+1374
+01:22:34,166 --> 01:22:36,125
+<font size="20">Oddio, è incredibile.</font>
+
+1375
+01:22:38,666 --> 01:22:40,000
+<font size="20">Agente De Freitas,</font>
+
+1376
+01:22:40,083 --> 01:22:43,333
+<font size="20">le presento l'ispettrice Penny Gray
+e suo marito John.</font>
+
+1377
+01:22:43,416 --> 01:22:45,000
+<font size="20">- Piacere.
+- Salve.</font>
+
+1378
+01:22:45,083 --> 01:22:49,375
+<font size="20">- Avrebbe dovuto vederla all'epoca.
+- Era straordinaria.</font>
+
+1379
+01:22:49,458 --> 01:22:50,583
+<font size="20">Onorata, signora.</font>
+
+1380
+01:22:51,666 --> 01:22:55,583
+<font size="20">Penny, Donna
+è una giovane e brillante poliziotta.</font>
+
+1381
+01:22:57,583 --> 01:23:01,583
+<font size="20">Mi ha gentilmente aggiornato
+sulle ossa dissotterrate da Bogdan.</font>
+
+1382
+01:23:01,666 --> 01:23:06,083
+<font size="20">Sono di un certo Peter Mercer,
+che ha una placca di metallo al ginocchio,</font>
+
+1383
+01:23:06,166 --> 01:23:08,583
+<font size="20">ma era sepolto da almeno 50 anni.</font>
+
+1384
+01:23:08,666 --> 01:23:12,750
+<font size="20">Quindi nessun collegamento
+con l'omicidio di Ventham?</font>
+
+1385
+01:23:12,833 --> 01:23:15,958
+<font size="20">No, ma Ron e Ibrahim
+hanno interrogato diversi ospiti,</font>
+
+1386
+01:23:16,041 --> 01:23:21,208
+<font size="20">e hanno eliminato Bernard, Marjorie
+e Padre Mackie dalla lista dei sospettati.</font>
+
+1387
+01:23:22,125 --> 01:23:23,541
+<font size="20">Ah, davvero?</font>
+
+1388
+01:23:25,125 --> 01:23:29,375
+<font size="20">Negli anni '70, io e Penny
+venivamo alle funzioni religiose.</font>
+
+1389
+01:23:29,458 --> 01:23:30,333
+<font size="20">Ah, sì?</font>
+
+1390
+01:23:30,416 --> 01:23:34,333
+<font size="20">Mackie era diverso, allora.
+Più calmo, diciamo.</font>
+
+1391
+01:23:34,416 --> 01:23:35,625
+<font size="20">Brava, Donna.</font>
+
+1392
+01:23:36,666 --> 01:23:37,833
+<font size="20">Hai sentito, Penny?</font>
+
+1393
+01:23:38,416 --> 01:23:41,250
+<font size="20">Questa giovane donna
+porta avanti il tuo lavoro.</font>
+
+1394
+01:23:48,041 --> 01:23:52,333
+<font size="20">Quindi non ricorda
+che le hanno fatto questa foto?</font>
+
+1395
+01:23:52,416 --> 01:23:55,208
+<font size="20">Gliel'ho detto,
+mi fanno foto continuamente.</font>
+
+1396
+01:23:55,291 --> 01:23:57,750
+<font size="20">Come ha fatto lei. Non so di cosa parla.</font>
+
+1397
+01:23:57,833 --> 01:24:00,083
+<font size="20">- Glielo dico…
+- Ho provato a fermarlo.</font>
+
+1398
+01:24:00,166 --> 01:24:02,125
+<font size="20">- No, non… Ron?
+- Grazie.</font>
+
+1399
+01:24:02,208 --> 01:24:04,458
+<font size="20">- Papà?
+- Che ci fa qui?</font>
+
+1400
+01:24:04,541 --> 01:24:08,291
+<font size="20">Cosa diavolo si è messo?
+Si è sposato con quel vestito?</font>
+
+1401
+01:24:08,375 --> 01:24:09,750
+<font size="20">Sì, esatto.</font>
+
+1402
+01:24:10,250 --> 01:24:11,416
+<font size="20">Due volte.</font>
+
+1403
+01:24:11,500 --> 01:24:16,625
+<font size="20">Jason ha diritto a un legale,
+e io sono qui per rappresentarlo.</font>
+
+1404
+01:24:16,708 --> 01:24:18,208
+<font size="20">Lei non è un avvocato.</font>
+
+1405
+01:24:18,291 --> 01:24:22,000
+<font size="20">Forse non ho le qualifiche,
+ma ho la preparazione necessaria.</font>
+
+1406
+01:24:22,083 --> 01:24:25,166
+<font size="20">Mi sono difeso contro di voi
+un sacco di volte.</font>
+
+1407
+01:24:25,250 --> 01:24:28,208
+<font size="20">- Oddio.
+- Sta trattenendo un innocente.</font>
+
+1408
+01:24:28,291 --> 01:24:31,125
+<font size="20">E tutte le prove
+sono al massimo circostanziali.</font>
+
+1409
+01:24:31,750 --> 01:24:33,875
+<font size="20">Non ha un alibi, Ron.</font>
+
+1410
+01:24:33,958 --> 01:24:36,000
+<font size="20">Lasci che mi presenti.</font>
+
+1411
+01:24:36,083 --> 01:24:37,041
+<font size="20">Ibrahim!</font>
+
+1412
+01:24:37,125 --> 01:24:41,750
+<font size="20">L'avvocato di Jason mi ha chiesto
+di presiedere alla valutazione del figlio.</font>
+
+1413
+01:24:41,833 --> 01:24:44,666
+<font size="20">Vede, soffre di un forte stress.</font>
+
+1414
+01:24:44,750 --> 01:24:46,875
+<font size="20">- Eh?
+- Ha chiari sintomi di PTSD.</font>
+
+1415
+01:24:46,958 --> 01:24:48,625
+<font size="20">Se continua senza di me,</font>
+
+1416
+01:24:49,583 --> 01:24:51,666
+<font size="20">rischia un'accusa di negligenza.</font>
+
+1417
+01:24:51,750 --> 01:24:54,083
+<font size="20">- Ispettore, so che ama le torte.
+- No!</font>
+
+1418
+01:24:54,166 --> 01:24:56,000
+<font size="20">Ho preparato quella al limone.</font>
+
+1419
+01:24:56,083 --> 01:25:00,333
+<font size="20">Avete un lavoro importante da fare.
+Vi servono energie. Volete una fetta?</font>
+
+1420
+01:25:00,416 --> 01:25:02,833
+<font size="20">Fuori dal mio ufficio o vi arresto tutti!</font>
+
+1421
+01:25:02,916 --> 01:25:06,291
+<font size="20">Ehi! Pensavo fossimo nel Regno Unito.</font>
+
+1422
+01:25:06,375 --> 01:25:09,708
+<font size="20">E nel Regno Unito,
+un uomo ha diritto a un avvocato.</font>
+
+1423
+01:25:09,791 --> 01:25:13,916
+<font size="20">Ha parlato al telefono con Ventham
+poco prima dell'omicidio di Curran.</font>
+
+1424
+01:25:14,000 --> 01:25:15,916
+<font size="20">I giovani sono sempre al telefono.</font>
+
+1425
+01:25:16,000 --> 01:25:18,041
+<font size="20">Dov'era quando Curran è morto?</font>
+
+1426
+01:25:18,125 --> 01:25:21,416
+<font size="20">Si rifiuta di dircelo,
+il che indica che è colpevole.</font>
+
+1427
+01:25:23,166 --> 01:25:25,166
+<font size="20">- Beh?
+- Cosa?</font>
+
+1428
+01:25:25,250 --> 01:25:27,916
+<font size="20">- Dov'eri?
+- Non sono affari tuoi.</font>
+
+1429
+01:25:28,000 --> 01:25:30,541
+<font size="20">- Sei il mio avvocato.
+- Ora sono tuo padre.</font>
+
+1430
+01:25:30,625 --> 01:25:33,500
+<font size="20">Basta con queste sciocchezze
+e di' a tutti noi</font>
+
+1431
+01:25:33,583 --> 01:25:35,875
+<font size="20">dov'eri quando Curran è stato ucciso.</font>
+
+1432
+01:25:36,375 --> 01:25:38,750
+<font size="20">Così andiamo a casa a vedere la partita.</font>
+
+1433
+01:25:38,833 --> 01:25:40,166
+<font size="20">Forza. Avanti.</font>
+
+1434
+01:25:43,166 --> 01:25:45,083
+<font size="20">Ero con la moglie di Ventham.</font>
+
+1435
+01:25:46,541 --> 01:25:47,541
+<font size="20">Gemma Ventham?</font>
+
+1436
+01:25:48,958 --> 01:25:50,916
+<font size="20">- Avevamo…
+- Una relazione?</font>
+
+1437
+01:25:51,416 --> 01:25:52,500
+<font size="20">Oh, Jason.</font>
+
+1438
+01:25:55,000 --> 01:25:56,208
+<font size="20">Lei confermerà?</font>
+
+1439
+01:25:57,416 --> 01:26:00,250
+<font size="20">Sì. Mi dispiace, papà.</font>
+
+1440
+01:26:00,333 --> 01:26:03,083
+<font size="20">Non importa. Ho conosciuto così tua madre.</font>
+
+1441
+01:26:03,166 --> 01:26:06,125
+<font size="20">Ecco, amico mio. Ecco il suo alibi.</font>
+
+1442
+01:26:06,833 --> 01:26:07,916
+<font size="20">Può dimostrarlo?</font>
+
+1443
+01:26:10,125 --> 01:26:13,291
+<font size="20">Sì, in realtà.
+Posso avere il mio telefono?</font>
+
+1444
+01:26:23,791 --> 01:26:27,791
+<font size="20">Ci sono data e ora.
+Può chiedere anche a Gemma, se deve.</font>
+
+1445
+01:26:29,458 --> 01:26:31,833
+<font size="20">Ispettore Hudson, ecco qua.</font>
+
+1446
+01:26:31,916 --> 01:26:34,208
+<font size="20">Non può trattenere un uomo innocente.</font>
+
+1447
+01:26:34,291 --> 01:26:37,041
+<font size="20">Le suggerisco
+di cercare il vero assassino.</font>
+
+1448
+01:26:39,916 --> 01:26:40,750
+<font size="20">Fuori.</font>
+
+1449
+01:26:42,000 --> 01:26:43,750
+<font size="20">Tutti fuori dal mio ufficio.</font>
+
+1450
+01:26:43,833 --> 01:26:45,625
+<font size="20">- Le lascio la torta.
+- Fuori!</font>
+
+1451
+01:26:46,500 --> 01:26:49,166
+<font size="20">- Papà, sei un mito.
+- È un piacere. Ibs…</font>
+
+1452
+01:26:49,250 --> 01:26:51,708
+<font size="20">- Anche tu, De Freitas.
+- Sì.</font>
+
+1453
+01:26:55,541 --> 01:26:58,208
+<font size="20">VORREBBE FARE UNA VISITA A BOBBY TANNER?</font>
+
+1454
+01:27:07,083 --> 01:27:10,416
+<font size="20">- Non sapevo avesse un'auto.
+- Un regalo per la pensione.</font>
+
+1455
+01:27:11,416 --> 01:27:12,583
+<font size="20">Dall'MI6.</font>
+
+1456
+01:27:20,250 --> 01:27:22,666
+<font size="20">Pensa davvero che Bobby Tanner sia qui?</font>
+
+1457
+01:27:22,750 --> 01:27:24,541
+<font size="20">Lo cerchiamo da anni.</font>
+
+1458
+01:27:24,625 --> 01:27:28,916
+<font size="20">Ne sono sicura.
+Amo seguire l'intuito, correre rischi.</font>
+
+1459
+01:27:29,000 --> 01:27:32,083
+<font size="20">Con il tempo, scoprirà che a volte paga.</font>
+
+1460
+01:27:32,166 --> 01:27:36,375
+<font size="20">- Come l'ha capito?
+- Giorni fa, mi hanno mandato dei fiori.</font>
+
+1461
+01:27:36,458 --> 01:27:40,625
+<font size="20">Erano gigli, giacinti,
+garofani, tulipani e ranuncoli.</font>
+
+1462
+01:27:40,708 --> 01:27:42,375
+<font size="20">- Che belli.
+- Sì.</font>
+
+1463
+01:27:42,875 --> 01:27:46,875
+<font size="20">Molto belli, ma c'era un biglietto
+con scritto: "Stai alla larga".</font>
+
+1464
+01:27:46,958 --> 01:27:50,958
+<font size="20">E quei fiori insieme
+sono una composizione molto tossica.</font>
+
+1465
+01:27:51,041 --> 01:27:52,666
+<font size="20">Era un chiaro avvertimento.</font>
+
+1466
+01:27:53,291 --> 01:27:54,416
+<font size="20">Un attimo.</font>
+
+1467
+01:27:54,500 --> 01:27:57,791
+<font size="20">Pensa che c'entri
+l'investitore di Coopers Chase?</font>
+
+1468
+01:27:58,791 --> 01:28:00,625
+<font size="20">Mi ha letto nel pensiero.</font>
+
+1469
+01:28:01,708 --> 01:28:04,208
+<font size="20">Erano freschi
+e li hanno consegnati a mano,</font>
+
+1470
+01:28:04,291 --> 01:28:06,708
+<font size="20">quindi venivano da vicino Coopers Chase.</font>
+
+1471
+01:28:06,791 --> 01:28:09,291
+<font size="20">- E ho ricordato il biglietto.
+- Biglietto?</font>
+
+1472
+01:28:09,375 --> 01:28:13,708
+<font size="20">Il biglietto sui fiori di Maud
+in memoria di Curran era firmato "B.T.",</font>
+
+1473
+01:28:13,791 --> 01:28:17,416
+<font size="20">e il disegno sul biglietto
+era identico a quello sul mio.</font>
+
+1474
+01:28:18,958 --> 01:28:22,000
+<font size="20">È molto particolare.
+Ho fatto una ricerca online.</font>
+
+1475
+01:28:22,500 --> 01:28:27,125
+<font size="20">Thorny Blooms a Moreton,
+gestito da un certo Derek Ward.</font>
+
+1476
+01:28:28,166 --> 01:28:30,083
+<font size="20">E crede che Bobby Tanner sia lì?</font>
+
+1477
+01:28:30,708 --> 01:28:32,958
+<font size="20">- Sì.
+- E Derek Ward?</font>
+
+1478
+01:28:34,166 --> 01:28:37,708
+<font size="20">Dubito fortemente che vedrà mai
+Bobby Tanner e Derek Ward</font>
+
+1479
+01:28:37,791 --> 01:28:39,458
+<font size="20">insieme nella stessa stanza.</font>
+
+1480
+01:28:41,375 --> 01:28:43,833
+<font size="20">Pare che Tanner tagli le dita ai nemici.</font>
+
+1481
+01:28:44,750 --> 01:28:48,583
+<font size="20">Mia cara ragazza.
+Ho visto molto di peggio.</font>
+
+1482
+01:28:53,375 --> 01:28:55,583
+<font size="20">Salve, posso aiutarvi?</font>
+
+1483
+01:28:56,083 --> 01:28:59,333
+<font size="20">Salve. Ho chiamato
+per un ordine per un matrimonio.</font>
+
+1484
+01:28:59,416 --> 01:29:01,166
+<font size="20">C'è Derek Ward?</font>
+
+1485
+01:29:01,791 --> 01:29:02,875
+<font size="20">È di sotto.</font>
+
+1486
+01:29:18,625 --> 01:29:20,291
+<font size="20">Alfiere in E6.</font>
+
+1487
+01:29:23,083 --> 01:29:24,750
+<font size="20">Cos'ha in mente, Bogdan?</font>
+
+1488
+01:29:25,666 --> 01:29:30,000
+<font size="20">Le piacerebbe saperlo, eh?
+Ma dovrà indovinare.</font>
+
+1489
+01:29:30,083 --> 01:29:31,208
+<font size="20">Ha ragione.</font>
+
+1490
+01:29:32,833 --> 01:29:36,291
+<font size="20">In realtà, vorrei chiederle qualcos'altro.</font>
+
+1491
+01:29:36,375 --> 01:29:38,833
+<font size="20">- Le dispiace?
+- Prego.</font>
+
+1492
+01:29:39,416 --> 01:29:43,541
+<font size="20">Il primo che è stato ucciso,
+il costruttore…</font>
+
+1493
+01:29:43,625 --> 01:29:45,250
+<font size="20">Ehm, quello…</font>
+
+1494
+01:29:45,750 --> 01:29:47,500
+<font size="20">Oddio, no.</font>
+
+1495
+01:29:48,833 --> 01:29:50,250
+<font size="20">Il nome mi sfugge.</font>
+
+1496
+01:29:50,875 --> 01:29:53,541
+<font size="20">- Tony Curran.
+- Proprio lui.</font>
+
+1497
+01:29:53,625 --> 01:29:56,208
+<font size="20">Beh, da quello che ho sentito,</font>
+
+1498
+01:29:57,250 --> 01:29:59,291
+<font size="20">credo di sapere chi l'ha ucciso.</font>
+
+1499
+01:30:13,541 --> 01:30:16,875
+<font size="20">- Come posso aiutarvi?
+- Vorrei presentarmi, Derek.</font>
+
+1500
+01:30:16,958 --> 01:30:21,125
+<font size="20">Scusi, posso chiamarla Derek?
+O preferisce Bobby?</font>
+
+1501
+01:30:22,583 --> 01:30:25,666
+<font size="20">Elizabeth Best.
+Mi chiedevo quando sarebbe venuta.</font>
+
+1502
+01:30:30,166 --> 01:30:32,625
+<font size="20">Ha fatto uccidere Ventham e Curran?</font>
+
+1503
+01:30:33,833 --> 01:30:35,041
+<font size="20">Dritta al punto.</font>
+
+1504
+01:30:36,250 --> 01:30:39,916
+<font size="20">L'ha fatto?
+Per avere le quote di Coopers Chase?</font>
+
+1505
+01:30:41,375 --> 01:30:42,291
+<font size="20">No, mie care.</font>
+
+1506
+01:30:42,375 --> 01:30:45,250
+<font size="20">Non li ho fatti uccidere. Ma avrei voluto.</font>
+
+1507
+01:30:45,333 --> 01:30:48,250
+<font size="20">Dov'era al momento
+dell'omicidio di Tony Curran?</font>
+
+1508
+01:30:48,333 --> 01:30:52,916
+<font size="20">Ero al Dorchester Hotel,
+a preparare le composizioni floreali</font>
+
+1509
+01:30:53,000 --> 01:30:56,416
+<font size="20">per il ventunesimo compleanno
+del principe Khalid Al-Berro.</font>
+
+1510
+01:30:56,500 --> 01:30:59,791
+<font size="20">Ho almeno 200 testimoni
+che possono confermarlo.</font>
+
+1511
+01:30:59,875 --> 01:31:01,291
+<font size="20">Non è una copertura?</font>
+
+1512
+01:31:03,208 --> 01:31:04,541
+<font size="20">È davvero un fioraio?</font>
+
+1513
+01:31:06,000 --> 01:31:09,041
+<font size="20">Disporre fiori freschi, spuntare i gambi,</font>
+
+1514
+01:31:09,625 --> 01:31:13,833
+<font size="20">è la mia unica vera passione,
+la mia unica attività onesta.</font>
+
+1515
+01:31:15,208 --> 01:31:19,291
+<font size="20">Sappiamo che ora
+è l'unico proprietario di Coopers Chase.</font>
+
+1516
+01:31:19,375 --> 01:31:20,875
+<font size="20">Sì, purtroppo.</font>
+
+1517
+01:31:21,833 --> 01:31:24,500
+<font size="20">È un investimento
+che non mi interessa più.</font>
+
+1518
+01:31:25,750 --> 01:31:27,958
+<font size="20">Quindi cosa intende farne?</font>
+
+1519
+01:31:29,000 --> 01:31:32,833
+<font size="20">Vendere il terreno il prima possibile,
+alla cifra più alta.</font>
+
+1520
+01:31:37,041 --> 01:31:40,625
+<font size="20">Ascolto Elizabeth quando parla, Bogdan.</font>
+
+1521
+01:31:41,750 --> 01:31:43,166
+<font size="20">E, se ho capito bene,</font>
+
+1522
+01:31:44,041 --> 01:31:47,125
+<font size="20">anche lei
+è in una situazione difficile, no?</font>
+
+1523
+01:31:47,791 --> 01:31:49,000
+<font size="20">Con sua madre, dico.</font>
+
+1524
+01:31:54,083 --> 01:31:54,916
+<font size="20">Sì.</font>
+
+1525
+01:31:56,875 --> 01:31:58,375
+<font size="20">Cavallo in E4.</font>
+
+1526
+01:32:01,125 --> 01:32:04,125
+<font size="20">Non voglio essere scortese, Bogdan.</font>
+
+1527
+01:32:06,166 --> 01:32:08,041
+<font size="20">Ma ha ucciso lei Tony Curran?</font>
+
+1528
+01:32:11,625 --> 01:32:14,291
+<font size="20">Crede che abbia ucciso Tony Curran?</font>
+
+1529
+01:32:15,250 --> 01:32:16,458
+<font size="20">Sì, mio caro.</font>
+
+1530
+01:32:17,166 --> 01:32:18,250
+<font size="20">Temo di sì.</font>
+
+1531
+01:32:23,125 --> 01:32:25,041
+<font size="20">Cavallo in E2.</font>
+
+1532
+01:32:28,458 --> 01:32:31,708
+<font size="20">Donna, le dispiacerebbe uscire
+per un momento?</font>
+
+1533
+01:32:32,750 --> 01:32:35,500
+<font size="20">- Cosa vuole fare?
+- Tranquilla, me la caverò.</font>
+
+1534
+01:32:43,083 --> 01:32:43,916
+<font size="20">Dunque,</font>
+
+1535
+01:32:45,166 --> 01:32:46,750
+<font size="20">lei tiene alla privacy.</font>
+
+1536
+01:32:47,416 --> 01:32:49,958
+<font size="20">Mi sta minacciando? Non glielo consiglio.</font>
+
+1537
+01:32:50,041 --> 01:32:53,541
+<font size="20">Abbiamo preso altri tre operai polacchi
+ad Amsterdam, capo.</font>
+
+1538
+01:32:53,625 --> 01:32:54,916
+<font size="20">Ecco i passaporti…</font>
+
+1539
+01:33:02,125 --> 01:33:04,125
+<font size="20">Prendete operai ad Amsterdam?</font>
+
+1540
+01:33:04,208 --> 01:33:06,875
+<font size="20">E perché lui
+le dà i loro passaporti, Bobby?</font>
+
+1541
+01:33:07,625 --> 01:33:08,625
+<font size="20">Per precauzione.</font>
+
+1542
+01:33:08,708 --> 01:33:10,750
+<font size="20">Sì, che shock terribile.</font>
+
+1543
+01:33:11,250 --> 01:33:12,583
+<font size="20">Siamo uomini d'affari.</font>
+
+1544
+01:33:13,500 --> 01:33:16,333
+<font size="20">Portare qui gente
+per farla lavorare illegalmente</font>
+
+1545
+01:33:16,416 --> 01:33:18,541
+<font size="20">e sottrarle i documenti all'arrivo</font>
+
+1546
+01:33:18,625 --> 01:33:22,166
+<font size="20">è un reato molto grave, Bobby.</font>
+
+1547
+01:33:22,666 --> 01:33:27,166
+<font size="20">Le darebbero almeno 25 anni di prigione.</font>
+
+1548
+01:33:28,333 --> 01:33:30,791
+<font size="20">Quindi… mi ascolti.</font>
+
+1549
+01:33:31,500 --> 01:33:34,000
+<font size="20">Mandi a monte tutta questa operazione.</font>
+
+1550
+01:33:34,625 --> 01:33:36,333
+<font size="20">I passaporti, gli operai.</font>
+
+1551
+01:33:37,416 --> 01:33:43,083
+<font size="20">E venda Coopers Chase a un offerente
+di mia scelta, al valore di mercato.</font>
+
+1552
+01:33:43,166 --> 01:33:47,666
+<font size="20">In cambio, manterrò segrete
+la sua identità e la sua posizione.</font>
+
+1553
+01:33:48,750 --> 01:33:51,541
+<font size="20">Sarà meglio
+che non senta puzza di polizia.</font>
+
+1554
+01:33:51,625 --> 01:33:55,041
+<font size="20">Mi aspetto che si occupi
+della nostra amichetta in divisa.</font>
+
+1555
+01:33:55,541 --> 01:33:57,291
+<font size="20">Altrimenti, lo farò io.</font>
+
+1556
+01:33:59,541 --> 01:34:01,666
+<font size="20">Se fa del male alla mia amica Donna,</font>
+
+1557
+01:34:01,750 --> 01:34:06,166
+<font size="20">metterò personalmente una dozzina
+di rose rosso sangue sulla sua bara.</font>
+
+1558
+01:34:08,458 --> 01:34:10,958
+<font size="20">Non so perché abbia ucciso Tony.</font>
+
+1559
+01:34:12,291 --> 01:34:14,083
+<font size="20">Forse aveva un buon motivo.</font>
+
+1560
+01:34:15,083 --> 01:34:17,083
+<font size="20">Ma so che è stato lei.</font>
+
+1561
+01:34:19,583 --> 01:34:21,416
+<font size="20">Lei è un uomo intelligente.</font>
+
+1562
+01:34:22,416 --> 01:34:24,666
+<font size="20">Immagino non abbia lasciato indizi.</font>
+
+1563
+01:34:31,083 --> 01:34:32,833
+<font size="20">Deve capire, Stephen,</font>
+
+1564
+01:34:34,000 --> 01:34:35,500
+<font size="20">che è stato un incidente.</font>
+
+1565
+01:34:37,208 --> 01:34:39,833
+<font size="20">Non avevo intenzione di uccidere Tony.</font>
+
+1566
+01:34:39,916 --> 01:34:42,666
+<font size="20">Volevo solo il mio passaporto.
+Deve capirlo.</font>
+
+1567
+01:34:44,000 --> 01:34:45,833
+<font size="20">Deve credermi, Stephen.</font>
+
+1568
+01:34:47,250 --> 01:34:48,166
+<font size="20">Stephen.</font>
+
+1569
+01:34:54,333 --> 01:34:55,583
+<font size="20">Oddio, mi scusi.</font>
+
+1570
+01:34:56,083 --> 01:34:57,083
+<font size="20">Scusi, caro…</font>
+
+1571
+01:34:58,166 --> 01:34:59,208
+<font size="20">Oddio.</font>
+
+1572
+01:34:59,833 --> 01:35:01,625
+<font size="20">Di cosa stavamo parlando?</font>
+
+1573
+01:35:05,833 --> 01:35:08,791
+<font size="20">Mi stava parlando di storia.</font>
+
+1574
+01:35:09,958 --> 01:35:10,791
+<font size="20">Sì.</font>
+
+1575
+01:35:13,000 --> 01:35:16,083
+<font size="20">- Vuole dell'altro tè?
+- Oh, sì. Magari.</font>
+
+1576
+01:35:17,208 --> 01:35:18,041
+<font size="20">Grazie.</font>
+
+1577
+01:35:18,750 --> 01:35:20,375
+<font size="20">Una zolletta. Oh, no.</font>
+
+1578
+01:35:21,000 --> 01:35:23,750
+<font size="20">Elizabeth non c'è. Quattro zollette.</font>
+
+1579
+01:35:24,416 --> 01:35:27,333
+<font size="20">Allora, siamo d'accordo?</font>
+
+1580
+01:35:32,833 --> 01:35:33,666
+<font size="20">D'accordo.</font>
+
+1581
+01:35:40,500 --> 01:35:44,458
+<font size="20">Ha detto: "Siamo uomini d'affari",
+al plurale. Lei e chi?</font>
+
+1582
+01:35:45,250 --> 01:35:48,166
+<font size="20">Io e il mio socio Tony Curran.
+Riposi in pace.</font>
+
+1583
+01:35:48,750 --> 01:35:52,208
+<font size="20">Curran era coinvolto
+in questo losco giro dei passaporti?</font>
+
+1584
+01:35:52,791 --> 01:35:54,416
+<font size="20">Ci dividevamo gli operai.</font>
+
+1585
+01:35:54,500 --> 01:35:57,791
+<font size="20">Alcuni rimanevano qui
+a consegnare fiori per me.</font>
+
+1586
+01:35:57,875 --> 01:36:02,416
+<font size="20">- Tony portava gli altri a Coopers Chase.
+- Parliamo di esseri umani.</font>
+
+1587
+01:36:02,500 --> 01:36:05,583
+<font size="20">Almeno io, ogni tanto,
+ridavo loro i passaporti,</font>
+
+1588
+01:36:05,666 --> 01:36:07,083
+<font size="20">per vedere le famiglie.</font>
+
+1589
+01:36:07,708 --> 01:36:10,458
+<font size="20">Tony no. Bastardo avido di potere.</font>
+
+1590
+01:36:10,541 --> 01:36:13,375
+<font size="20">Raramente glieli ridava, se mai lo faceva.</font>
+
+1591
+01:36:16,375 --> 01:36:17,208
+<font size="20">Oh, Gesù.</font>
+
+1592
+01:36:35,041 --> 01:36:37,958
+<font size="20">Chiama tutti, Donna.
+Ron, Ibrahim, Joyce, Hudson.</font>
+
+1593
+01:36:38,041 --> 01:36:39,958
+<font size="20">- Ora. Servono rinforzi.
+- Dove?</font>
+
+1594
+01:36:40,041 --> 01:36:43,208
+<font size="20">Al mio appartamento.
+Saremo lì tra sette minuti.</font>
+
+1595
+01:36:45,000 --> 01:36:47,125
+<font size="20">- Lo beva finché è caldo.
+- Grazie.</font>
+
+1596
+01:36:47,625 --> 01:36:48,458
+<font size="20">Che buono.</font>
+
+1597
+01:37:16,083 --> 01:37:18,875
+<font size="20">Stephen, non berlo.
+Potrebbe essere avvelenato.</font>
+
+1598
+01:37:18,958 --> 01:37:21,958
+<font size="20">- Cosa? Di che parli?
+- L'hai bevuto.</font>
+
+1599
+01:37:22,958 --> 01:37:24,875
+<font size="20">Mio Dio.</font>
+
+1600
+01:37:27,458 --> 01:37:29,416
+<font size="20">- Va da qualche parte?
+- Non oggi.</font>
+
+1601
+01:37:29,500 --> 01:37:30,583
+<font size="20">In guardia.</font>
+
+1602
+01:37:32,541 --> 01:37:33,708
+<font size="20">Ci so ancora fare.</font>
+
+1603
+01:37:36,166 --> 01:37:39,125
+<font size="20">Joyce, forse Bogdan ha avvelenato Stephen.</font>
+
+1604
+01:37:41,875 --> 01:37:42,875
+<font size="20">Va tutto bene.</font>
+
+1605
+01:37:44,166 --> 01:37:45,458
+<font size="20">Il polso è buono.</font>
+
+1606
+01:37:45,958 --> 01:37:48,125
+<font size="20">Ma dobbiamo farlo visitare.</font>
+
+1607
+01:37:48,208 --> 01:37:50,208
+<font size="20">- Chiamo il medico di turno.
+- Sì.</font>
+
+1608
+01:37:52,500 --> 01:37:57,291
+<font size="20">Bogdan Jankowski, è in arresto
+per l'omicidio di Tony Curran.</font>
+
+1609
+01:37:57,375 --> 01:37:59,916
+<font size="20">Non avete prove. Non ho detto niente.</font>
+
+1610
+01:38:00,000 --> 01:38:03,416
+<font size="20">Stephen non sa quello che dice.
+Non si ricorda.</font>
+
+1611
+01:38:03,500 --> 01:38:04,333
+<font size="20">Un momento.</font>
+
+1612
+01:38:05,041 --> 01:38:08,166
+<font size="20">Se ha detto qualcosa a Stephen,
+non serve che ricordi.</font>
+
+1613
+01:38:08,250 --> 01:38:12,500
+<font size="20">Di cosa stai parlando?
+Perché non ci lasci finire la partita?</font>
+
+1614
+01:38:13,708 --> 01:38:16,333
+<font size="20">Stephen registra le partite a scacchi.</font>
+
+1615
+01:38:17,916 --> 01:38:19,333
+<font size="20">Cavallo in E4.</font>
+
+1616
+01:38:19,416 --> 01:38:22,416
+<font size="20">Gli piace riascoltarle dopo
+per capire la strategia.</font>
+
+1617
+01:38:24,291 --> 01:38:26,625
+<font size="20">Non avevo intenzione di uccidere Tony.</font>
+
+1618
+01:38:26,708 --> 01:38:29,458
+<font size="20">Volevo solo il mio passaporto.
+Deve capirlo.</font>
+
+1619
+01:38:30,208 --> 01:38:31,833
+<font size="20">Deve credermi, Stephen.</font>
+
+1620
+01:38:34,500 --> 01:38:35,500
+<font size="20">Oh, Bogdan.</font>
+
+1621
+01:38:37,541 --> 01:38:38,875
+<font size="20">Perché l'ha fatto?</font>
+
+1622
+01:38:40,791 --> 01:38:42,041
+<font size="20">È stato un incidente.</font>
+
+1623
+01:38:43,500 --> 01:38:45,166
+<font size="20">Volevo il mio passaporto.</font>
+
+1624
+01:38:46,583 --> 01:38:50,416
+<font size="20">Ce l'aveva Tony. Sono andato da lui,
+ma non voleva ridarmelo.</font>
+
+1625
+01:38:51,083 --> 01:38:54,500
+<font size="20">Non mi ascoltava.
+Poi si è arrabbiato. Mi ha aggredito.</font>
+
+1626
+01:38:54,583 --> 01:38:58,416
+<font size="20">Dovevo difendermi.
+O lui o me. Non avevo scelta.</font>
+
+1627
+01:38:59,791 --> 01:39:01,958
+<font size="20">Quindi, sì, ho ucciso Tony.</font>
+
+1628
+01:39:02,041 --> 01:39:07,375
+<font size="20">Ma non volevo farlo.
+Non volevo che accadesse. Mi dispiace.</font>
+
+1629
+01:39:09,375 --> 01:39:12,000
+<font size="20">E non ha avvelenato Stephen, vero?</font>
+
+1630
+01:39:12,541 --> 01:39:15,125
+<font size="20">Certo che non ho avvelenato Stephen.</font>
+
+1631
+01:39:15,208 --> 01:39:17,000
+<font size="20">È mio amico.</font>
+
+1632
+01:39:18,041 --> 01:39:19,791
+<font size="20">Sì, lo so.</font>
+
+1633
+01:39:21,500 --> 01:39:23,000
+<font size="20">Bene, portalo via.</font>
+
+1634
+01:39:31,416 --> 01:39:34,666
+<font size="20">JASON RITCHIE BATTE IL CAMPIONE
+NELL'INCONTRO DELL'ANNO</font>
+
+1635
+01:39:41,708 --> 01:39:43,625
+<font size="20">Da quanto tempo lo fa?</font>
+
+1636
+01:39:43,708 --> 01:39:46,041
+<font size="20">- Sei mesi, un anno.
+- È così rilassato.</font>
+
+1637
+01:39:46,125 --> 01:39:49,166
+<font size="20">Infatti. Non sembra affatto agitato.</font>
+
+1638
+01:39:49,250 --> 01:39:51,166
+<font size="20">- Che bello!
+- Io sono agitato.</font>
+
+1639
+01:39:52,875 --> 01:39:55,166
+<font size="20">- Mi agito.
+- È come un ballerino.</font>
+
+1640
+01:39:55,250 --> 01:39:56,250
+<font size="20">Sì, vero?</font>
+
+1641
+01:39:57,458 --> 01:39:59,416
+<font size="20">- Lo adoro.
+- Guarda.</font>
+
+1642
+01:39:59,500 --> 01:40:03,458
+<font size="20">- Ma come atterra senza cadere?
+- E continua a sorridere. Rilassato.</font>
+
+1643
+01:40:04,708 --> 01:40:06,000
+<font size="20">Oddio, che ansia.</font>
+
+1644
+01:40:09,875 --> 01:40:12,125
+<font size="20">- Che atterraggio!
+- È mio figlio!</font>
+
+1645
+01:40:12,208 --> 01:40:13,500
+<font size="20">Bravo!</font>
+
+1646
+01:40:13,583 --> 01:40:16,000
+<font size="20">- Ronnie, complimenti.
+- Grazie.</font>
+
+1647
+01:40:16,500 --> 01:40:17,666
+<font size="20">Oh, mio Dio.</font>
+
+1648
+01:40:18,500 --> 01:40:20,375
+<font size="20">- Complimenti.
+- Grazie.</font>
+
+1649
+01:40:31,125 --> 01:40:33,541
+<font size="20">Scusa se piombiamo qui così, John.</font>
+
+1650
+01:40:34,458 --> 01:40:35,875
+<font size="20">C'è tutta la banda.</font>
+
+1651
+01:40:36,583 --> 01:40:38,208
+<font size="20">A che dobbiamo il piacere?</font>
+
+1652
+01:40:39,375 --> 01:40:41,166
+<font size="20">Ho trovato questo fascicolo.</font>
+
+1653
+01:40:41,250 --> 01:40:43,916
+<font size="20">È l'attuale caso,
+la donna vestita di bianco.</font>
+
+1654
+01:40:44,625 --> 01:40:46,583
+<font size="20">Occultato, nascosto.</font>
+
+1655
+01:40:46,666 --> 01:40:49,416
+<font size="20">E Penny non ha mai proposto di esaminarlo.</font>
+
+1656
+01:40:50,166 --> 01:40:51,750
+<font size="20">Perché, secondo te?</font>
+
+1657
+01:40:53,750 --> 01:40:56,458
+<font size="20">Ricordi il caso di Angela Hughes, Pen?</font>
+
+1658
+01:40:57,875 --> 01:41:00,125
+<font size="20">Fu uccisa durante una rapina.</font>
+
+1659
+01:41:00,208 --> 01:41:03,541
+<font size="20">Un intruso mascherato la pugnalò
+e cadde dalla finestra.</font>
+
+1660
+01:41:03,625 --> 01:41:06,250
+<font size="20">Ma non c'era alcun intruso mascherato.</font>
+
+1661
+01:41:06,333 --> 01:41:09,166
+<font size="20">Il fidanzato Peter Mercer
+era il vero assassino.</font>
+
+1662
+01:41:09,250 --> 01:41:12,208
+<font size="20">La polizia non lo accusò
+perché gli credette.</font>
+
+1663
+01:41:12,291 --> 01:41:14,291
+<font size="20">A loro piaceva. Era uno di loro.</font>
+
+1664
+01:41:15,583 --> 01:41:18,083
+<font size="20">Ma tu sapevi la verità, vero, Pen?</font>
+
+1665
+01:41:18,166 --> 01:41:22,458
+<font size="20">Sapevi che era colpevole.
+Per te era chiaro.</font>
+
+1666
+01:41:26,458 --> 01:41:28,333
+<font size="20">Penny uccise Peter Mercer,</font>
+
+1667
+01:41:29,208 --> 01:41:30,291
+<font size="20">non è vero, John?</font>
+
+1668
+01:41:32,291 --> 01:41:36,625
+<font size="20">Sapeva che l'avrebbe fatta franca,
+così lo trovò e lo uccise.</font>
+
+1669
+01:41:37,750 --> 01:41:42,125
+<font size="20">Poi seppellì il suo corpo al cimitero.
+E credo che tu la aiutasti.</font>
+
+1670
+01:41:42,208 --> 01:41:46,208
+<font size="20">Erano sue le ossa che Bogdan
+ha dissotterrato involontariamente.</font>
+
+1671
+01:41:48,375 --> 01:41:53,416
+<font size="20">Mi hai detto tu stesso che andavate
+alla messa di Padre Mackie negli anni '70.</font>
+
+1672
+01:41:53,500 --> 01:41:58,708
+<font size="20">Quindi entrambi frequentavate il cimitero
+quando Peter Mercer scomparve.</font>
+
+1673
+01:41:59,666 --> 01:42:05,583
+<font size="20">Ma, sai, la prova schiacciante
+sono le foto della scena del crimine.</font>
+
+1674
+01:42:05,666 --> 01:42:08,166
+<font size="20">Perché Penny è in tutte quante.</font>
+
+1675
+01:42:09,750 --> 01:42:13,541
+<font size="20">- Questo cosa prova?
+- Niente, ufficialmente. Ma guarda.</font>
+
+1676
+01:42:14,041 --> 01:42:18,125
+<font size="20">Guarda come osserva Peter Mercer.
+La sua espressione.</font>
+
+1677
+01:42:18,708 --> 01:42:21,208
+<font size="20">Sappiamo che,
+quando lei ha quello sguardo,</font>
+
+1678
+01:42:22,291 --> 01:42:24,750
+<font size="20">sta per passare all'azione.</font>
+
+1679
+01:42:26,208 --> 01:42:30,541
+<font size="20">Penny non poteva restare a guardare
+mentre quel bullo la faceva franca.</font>
+
+1680
+01:42:31,583 --> 01:42:34,041
+<font size="20">Aveva visto troppi colpevoli liberi.</font>
+
+1681
+01:42:35,041 --> 01:42:37,458
+<font size="20">Lo capisco, John. Davvero. Ma è…</font>
+
+1682
+01:42:38,375 --> 01:42:39,833
+<font size="20">È un omicidio.</font>
+
+1683
+01:42:40,875 --> 01:42:42,916
+<font size="20">Hai ucciso Ian Ventham, John.</font>
+
+1684
+01:42:44,208 --> 01:42:48,708
+<font size="20">Sapevi che, dissotterrando il corpo,
+sarebbe venuta a galla tutta la storia.</font>
+
+1685
+01:42:49,208 --> 01:42:52,000
+<font size="20">Ventham doveva morire
+per proteggere Penny.</font>
+
+1686
+01:42:52,500 --> 01:42:53,916
+<font size="20">Avrei fatto lo stesso.</font>
+
+1687
+01:42:57,250 --> 01:43:00,666
+<font size="20">Tieni delle siringhe nel cassetto,
+vero, John? Le ho viste.</font>
+
+1688
+01:43:11,125 --> 01:43:15,291
+<font size="20">Cosa contengono, John?
+Una dose massiccia di fentanyl?</font>
+
+1689
+01:43:15,375 --> 01:43:20,375
+<font size="20">E tu sai usarlo, vero?
+Perché fai il veterinario da una vita.</font>
+
+1690
+01:43:30,666 --> 01:43:31,916
+<font size="20">Io amo Penny…</font>
+
+1691
+01:43:33,291 --> 01:43:34,291
+<font size="20">da impazzire.</font>
+
+1692
+01:43:35,583 --> 01:43:37,125
+<font size="20">Ma a cosa le servo?</font>
+
+1693
+01:43:38,416 --> 01:43:40,625
+<font size="20">Sto qui tutto il giorno, ogni giorno.</font>
+
+1694
+01:43:41,166 --> 01:43:43,250
+<font size="20">Leggo per lei, le tengo la mano.</font>
+
+1695
+01:43:44,250 --> 01:43:45,458
+<font size="20">Le do la buonanotte.</font>
+
+1696
+01:43:47,000 --> 01:43:48,416
+<font size="20">Ma non posso guarirla.</font>
+
+1697
+01:43:50,708 --> 01:43:52,541
+<font size="20">Non posso riportarla indietro.</font>
+
+1698
+01:43:55,208 --> 01:43:57,041
+<font size="20">Potevo fare una sola cosa.</font>
+
+1699
+01:43:58,583 --> 01:43:59,916
+<font size="20">Potevi proteggerla.</font>
+
+1700
+01:44:03,750 --> 01:44:06,083
+<font size="20">E, alla fine, non ci sono riuscito.</font>
+
+1701
+01:44:12,125 --> 01:44:14,333
+<font size="20">Ovviamente dovrai dirlo alla polizia.</font>
+
+1702
+01:44:16,166 --> 01:44:17,000
+<font size="20">Ma puoi…</font>
+
+1703
+01:44:18,666 --> 01:44:21,875
+<font size="20">Puoi farmi stare
+un po' di tempo con Penny,</font>
+
+1704
+01:44:23,375 --> 01:44:26,291
+<font size="20">come amica, prima di chiamare?</font>
+
+1705
+01:44:36,875 --> 01:44:37,708
+<font size="20">Ma certo.</font>
+
+1706
+01:44:38,958 --> 01:44:42,583
+<font size="20">Vi lasciamo soli
+per darvi l'ultimo saluto. Insieme.</font>
+
+1707
+01:44:44,375 --> 01:44:45,208
+<font size="20">Grazie.</font>
+
+1708
+01:44:50,875 --> 01:44:52,541
+<font size="20">Oh, Pen.</font>
+
+1709
+01:44:53,541 --> 01:44:54,625
+<font size="20">Mi mancherai.</font>
+
+1710
+01:45:00,000 --> 01:45:01,333
+<font size="20">Sogni d'oro, cara.</font>
+
+1711
+01:45:03,875 --> 01:45:05,083
+<font size="20">Che avventura.</font>
+
+1712
+01:45:20,625 --> 01:45:25,125
+<font size="20">Il club dei delitti del giovedì
+ha risolto il caso di Angela Hughes,</font>
+
+1713
+01:45:25,625 --> 01:45:27,250
+<font size="20">la donna vestita di bianco.</font>
+
+1714
+01:45:30,458 --> 01:45:32,958
+<font size="20">Abbiamo trovato le risposte che cercavamo.</font>
+
+1715
+01:45:34,916 --> 01:45:36,666
+<font size="20">Ma ne è valsa la pena?</font>
+
+1716
+01:45:38,166 --> 01:45:39,000
+<font size="20">Il dolore?</font>
+
+1717
+01:45:41,000 --> 01:45:41,833
+<font size="20">Il lutto?</font>
+
+1718
+01:45:48,250 --> 01:45:49,875
+<font size="20">Siamo fatti d'amore,</font>
+
+1719
+01:45:50,708 --> 01:45:53,833
+<font size="20">tutti noi, su questo non c'è dubbio.</font>
+
+1720
+01:45:53,916 --> 01:45:57,208
+<font size="20">Quando guardo le persone qui riunite,
+io vedo l'amore</font>
+
+1721
+01:45:58,208 --> 01:45:59,916
+<font size="20">di un padre per suo figlio…</font>
+
+1722
+01:46:02,041 --> 01:46:03,875
+<font size="20">di una madre per sua figlia…</font>
+
+1723
+01:46:06,041 --> 01:46:08,666
+<font size="20">di una moglie
+per il marito che stringe a sé.</font>
+
+1724
+01:46:09,666 --> 01:46:13,541
+<font size="20">Vedo anche il potente amore dell'amicizia.</font>
+
+1725
+01:46:15,083 --> 01:46:16,083
+<font size="20">Amicizie nuove.</font>
+
+1726
+01:46:17,000 --> 01:46:18,333
+<font size="20">Amicizie improbabili.</font>
+
+1727
+01:46:18,833 --> 01:46:22,750
+<font size="20">Un'amicizia che permette a un uomo,
+dopo tanto girovagare,</font>
+
+1728
+01:46:24,083 --> 01:46:26,250
+<font size="20">di sentirsi finalmente a casa.</font>
+
+1729
+01:46:26,958 --> 01:46:29,583
+<font size="20">A volte le persone buone
+fanno cose cattive.</font>
+
+1730
+01:46:30,083 --> 01:46:32,291
+<font size="20">Ma John ha agito per amore.</font>
+
+1731
+01:46:34,333 --> 01:46:35,750
+<font size="20">Per amore di Penny.</font>
+
+1732
+01:46:37,041 --> 01:46:41,166
+<font size="20">E il loro amore eterno
+attraverserà il tempo e lo spazio,</font>
+
+1733
+01:46:41,958 --> 01:46:44,291
+<font size="20">e danzeranno insieme tra le stelle.</font>
+
+1734
+01:46:45,958 --> 01:46:47,083
+<font size="20">Ci mancheranno.</font>
+
+1735
+01:46:49,708 --> 01:46:52,041
+<font size="20">E li ricorderemo per sempre.</font>
+
+1736
+01:46:59,875 --> 01:47:00,708
+<font size="20">Ibrahim,</font>
+
+1737
+01:47:01,708 --> 01:47:03,500
+<font size="20">è stato un discorso splendido.</font>
+
+1738
+01:47:04,000 --> 01:47:06,291
+<font size="20">Grazie per aver preso il mio posto.</font>
+
+1739
+01:47:06,375 --> 01:47:08,083
+<font size="20">Di nulla, mia cara.</font>
+
+1740
+01:47:09,000 --> 01:47:10,916
+<font size="20">Non avrei finito una sola frase.</font>
+
+1741
+01:47:12,291 --> 01:47:13,166
+<font size="20">Già.</font>
+
+1742
+01:47:14,750 --> 01:47:16,083
+<font size="20">- Joyce?
+- Sì?</font>
+
+1743
+01:47:18,708 --> 01:47:20,708
+<font size="20">Questa è per te.</font>
+
+1744
+01:47:25,125 --> 01:47:26,125
+<font size="20">Era di Penny.</font>
+
+1745
+01:47:27,000 --> 01:47:28,916
+<font size="20">Ma vogliamo che ora l'abbia tu.</font>
+
+1746
+01:47:35,541 --> 01:47:37,666
+<font size="20">Benvenuta nel club
+dei delitti del giovedì.</font>
+
+1747
+01:47:38,250 --> 01:47:39,083
+<font size="20">Grazie.</font>
+
+1748
+01:47:39,166 --> 01:47:42,000
+<font size="20">È bello averti ufficialmente con noi.</font>
+
+1749
+01:47:43,208 --> 01:47:45,333
+<font size="20">Non vedo l'ora di indagare insieme.</font>
+
+1750
+01:47:45,416 --> 01:47:47,916
+<font size="20">- E non dimenticare le basi.
+- Cioè?</font>
+
+1751
+01:47:48,500 --> 01:47:50,583
+<font size="20">Le basi per le torte.</font>
+
+1752
+01:47:53,625 --> 01:47:57,291
+<font size="20">Joanna, guarda.
+Sono diventata un membro ufficiale.</font>
+
+1753
+01:47:58,125 --> 01:47:59,583
+<font size="20">Congratulazioni, mamma.</font>
+
+1754
+01:48:01,666 --> 01:48:04,833
+<font size="20">Ricordi quando ti ho detto
+che sbagliavi a vivere qui?</font>
+
+1755
+01:48:06,083 --> 01:48:07,000
+<font size="20">Avevo torto.</font>
+
+1756
+01:48:07,791 --> 01:48:09,458
+<font size="20">C'è sempre una prima volta.</font>
+
+1757
+01:48:11,666 --> 01:48:14,125
+<font size="20">Hai ritrovato la felicità
+dopo la morte di papà.</font>
+
+1758
+01:48:14,958 --> 01:48:16,583
+<font size="20">Ed è grazie a Elizabeth</font>
+
+1759
+01:48:17,333 --> 01:48:18,166
+<font size="20">e a Ron</font>
+
+1760
+01:48:19,000 --> 01:48:19,916
+<font size="20">e a Ibrahim.</font>
+
+1761
+01:48:20,625 --> 01:48:22,458
+<font size="20">Ed è grazie a Coopers Chase.</font>
+
+1762
+01:48:23,500 --> 01:48:25,791
+<font size="20">Beh, perché non la compri?</font>
+
+1763
+01:48:25,875 --> 01:48:29,041
+<font size="20">- Prego?
+- Ho saputo che è in vendita.</font>
+
+1764
+01:48:29,541 --> 01:48:31,458
+<font size="20">- Da chi?
+- Un fioraio.</font>
+
+1765
+01:48:32,333 --> 01:48:33,541
+<font size="20">Cosa ne pensi?</font>
+
+1766
+01:48:35,208 --> 01:48:36,833
+<font size="20">Ci farai restare a casa?</font>
+
+1767
+01:48:39,000 --> 01:48:40,791
+<font size="20">È una proposta interessante.</font>
+
+1768
+01:48:42,416 --> 01:48:43,250
+<font size="20">Parliamone.</font>
+
+1769
+01:48:44,500 --> 01:48:47,208
+<font size="20">- Oh, Joanna.
+- Mamma.</font>
+
+1770
+01:48:52,375 --> 01:48:53,208
+<font size="20">Grazie.</font>
+
+1771
+01:49:04,458 --> 01:49:08,375
+<font size="20">- Buon anniversario, caro.
+- Buon anniversario. A un altro anno.</font>
+
+1772
+01:49:15,791 --> 01:49:16,708
+<font size="20">Vuoi ballare?</font>
+
+1773
+01:49:17,625 --> 01:49:19,958
+<font size="20">- Perché no?
+- Forza, balliamo.</font>
+
+1774
+01:49:20,875 --> 01:49:23,083
+<font size="20">La vita è troppo breve per non farlo.</font>
+
+1775
+01:49:53,041 --> 01:49:56,666
+<font size="20">Guarda. Devi venire a vederlo. È assurdo.</font>
+
+1776
+01:49:56,750 --> 01:49:58,250
+<font size="20">Sì, che vuoi che ti dica?</font>
+
+1777
+01:49:59,416 --> 01:50:01,416
+<font size="20">- Tieni.
+- Bene, grazie.</font>
+
+1778
+01:50:02,250 --> 01:50:04,750
+<font size="20">- Guarda.
+- Gli ha dato un secondo.</font>
+
+1779
+01:50:05,500 --> 01:50:06,458
+<font size="20">- Beh…
+- Cavolo.</font>
+
+1780
+01:50:06,541 --> 01:50:09,625
+<font size="20">- Non ha speranze. Salute, papà.
+- Alla salute.</font>
+
+1781
+01:50:10,833 --> 01:50:14,375
+<font size="20">Sono vecchissime.
+Mi sono sposata molto giovane.</font>
+
+1782
+01:50:14,458 --> 01:50:16,541
+<font size="20">Non credo che Joanna si sposerà.</font>
+
+1783
+01:50:17,125 --> 01:50:20,666
+<font size="20">Gerry era molto nervoso,
+ma era un uomo dolcissimo.</font>
+
+1784
+01:50:28,166 --> 01:50:31,333
+<font size="20">Oh, Ibrahim, guardati.</font>
+
+1785
+01:50:32,708 --> 01:50:35,958
+<font size="20">- Quanti anni avevi qui?
+- Ventidue, e avevo i capelli.</font>
+
+1786
+01:50:37,166 --> 01:50:38,583
+<font size="20">Sei ancora bello.</font>
+
+1787
+01:57:45,541 --> 01:57:50,541
+<font size="20">Sottotitoli: Federica Neri</font>
+

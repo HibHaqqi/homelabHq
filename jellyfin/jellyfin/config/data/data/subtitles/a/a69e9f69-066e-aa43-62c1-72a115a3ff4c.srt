@@ -1,0 +1,2395 @@
+1
+00:00:42,375 --> 00:00:44,961
+HIERARCHY
+
+2
+00:01:02,145 --> 00:01:04,647
+Tous des fous !
+
+3
+00:01:06,274 --> 00:01:08,818
+C'est un lycée de fous !
+
+4
+00:01:10,236 --> 00:01:11,738
+Je vais tout révéler !
+
+5
+00:01:16,910 --> 00:01:18,286
+Tout le monde est fou !
+
+6
+00:01:24,542 --> 00:01:28,463
+Les profs, les élèves,
+tout le monde est cinglé !
+
+7
+00:01:28,546 --> 00:01:29,839
+Je vais tout révéler.
+
+8
+00:01:30,965 --> 00:01:34,385
+Je vais révéler
+ce qui s'est passé dans ce lycée de fous.
+
+9
+00:01:56,282 --> 00:01:58,409
+LYCÉE JOOSHIN
+
+10
+00:01:58,493 --> 00:02:00,078
+KANG IN-HAN
+
+11
+00:02:01,412 --> 00:02:06,084
+ÉPISODE 1
+SOIRÉE DES DÉBUTANTS : ACTION OU VÉRITÉ
+
+12
+00:02:16,136 --> 00:02:18,429
+FRISE CHRONOLOGIQUE
+
+13
+00:02:27,897 --> 00:02:30,483
+On résout le problème en déterminant
+
+14
+00:02:30,567 --> 00:02:32,152
+la valeur absolue de f(x)…
+
+15
+00:02:34,612 --> 00:02:35,488
+SALLE DE MUSIQUE
+
+16
+00:02:39,075 --> 00:02:40,326
+La réponse…
+
+17
+00:02:40,410 --> 00:02:43,621
+"Je te vis pleurer.
+Une épaisse et brillante larme
+
+18
+00:02:43,705 --> 00:02:45,331
+"vint couvrir cet œil bleu,
+
+19
+00:02:46,374 --> 00:02:48,459
+"et je crus voir une goutte…"
+
+20
+00:03:24,829 --> 00:03:26,331
+CÉRÉMONIE D'OUVERTURE
+
+21
+00:03:33,588 --> 00:03:37,926
+Le plus illustre établissement privé
+de Corée du Sud, le lycée Jooshin,
+
+22
+00:03:38,551 --> 00:03:42,972
+réputé pour son histoire
+et ses traditions, rouvre ses portes.
+
+23
+00:03:47,227 --> 00:03:50,563
+À l'orée de ce nouveau chapitre,
+mettons en pratique
+
+24
+00:03:50,647 --> 00:03:52,941
+notre devise "noblesse oblige"
+
+25
+00:03:53,691 --> 00:03:55,902
+pour marquer le début du semestre.
+
+26
+00:03:56,653 --> 00:03:58,863
+Voici notre nouvel élève boursier,
+
+27
+00:03:58,947 --> 00:04:00,907
+que l'on a sélectionné au terme…
+
+28
+00:04:03,284 --> 00:04:04,911
+d'un rigoureux processus.
+
+29
+00:04:08,748 --> 00:04:09,624
+M. Kang Ha ?
+
+30
+00:04:10,792 --> 00:04:11,626
+Oui, madame.
+
+31
+00:04:17,173 --> 00:04:21,010
+Quel est l'intérêt ?
+Les boursiers ne font jamais long feu.
+
+32
+00:04:21,094 --> 00:04:23,513
+"Les pauvres aussi méritent une chance.
+
+33
+00:04:23,596 --> 00:04:26,516
+"Noblesse oblige." Ils y tiennent.
+
+34
+00:04:27,183 --> 00:04:28,851
+- La proviseure ?
+- Non.
+
+35
+00:04:28,935 --> 00:04:31,896
+Les propriétaires de Jooshin,
+les parents de Ri-an.
+
+36
+00:04:32,397 --> 00:04:37,151
+Bonjour chers élèves
+de seconde, première et terminale.
+
+37
+00:04:39,195 --> 00:04:40,196
+Je suis Kang Ha.
+
+38
+00:04:43,658 --> 00:04:46,077
+J'ai obtenu la note maximale…
+
+39
+00:04:53,001 --> 00:04:54,127
+Regarde !
+
+40
+00:05:10,101 --> 00:05:12,103
+Étant le premier élève à obtenir…
+
+41
+00:05:18,860 --> 00:05:20,695
+- Te voilà.
+- Tu es en retard.
+
+42
+00:05:24,991 --> 00:05:25,992
+Continuez.
+
+43
+00:05:26,993 --> 00:05:28,036
+Ça fonctionne.
+
+44
+00:05:28,661 --> 00:05:30,413
+Bref, comme je le disais,
+
+45
+00:05:30,496 --> 00:05:33,750
+j'ai obtenu la note maximale.
+
+46
+00:05:33,833 --> 00:05:36,461
+- Il a un joli sourire.
+- C'est un honneur…
+
+47
+00:05:36,544 --> 00:05:38,463
+Il me fait penser à un chiot.
+
+48
+00:05:38,546 --> 00:05:42,508
+… de rejoindre le lycée Jooshin,
+le meilleur lycée privé de Corée.
+
+49
+00:05:42,592 --> 00:05:44,802
+J'ai un excellent dossier scolaire
+
+50
+00:05:45,386 --> 00:05:48,765
+et je compte bien
+maintenir ce niveau d'excellence.
+
+51
+00:05:48,848 --> 00:05:50,808
+J'ai hâte de commencer l'année.
+
+52
+00:05:57,440 --> 00:05:58,941
+QUE SE PASSE-T-IL ?
+
+53
+00:05:59,025 --> 00:06:01,486
+RÉPONDS, JAE-I.
+POURQUOI TU RÉPONDS PAS ?
+
+54
+00:06:04,989 --> 00:06:07,241
+La cérémonie est terminée.
+
+55
+00:06:07,325 --> 00:06:10,870
+J'invite chaque élève à aller en classe.
+
+56
+00:06:12,830 --> 00:06:14,499
+- Rassieds-toi.
+- Pourquoi ?
+
+57
+00:06:14,582 --> 00:06:15,416
+Discute pas.
+
+58
+00:06:16,292 --> 00:06:17,126
+Qu'y a-t-il ?
+
+59
+00:06:18,836 --> 00:06:20,046
+Putain, quel nase !
+
+60
+00:06:29,889 --> 00:06:32,767
+Tu faisais quoi ?
+J'envoyais un texto à Ye-ji.
+
+61
+00:06:37,063 --> 00:06:37,939
+Excuse-moi.
+
+62
+00:06:38,564 --> 00:06:41,484
+Salut. Tu me reconnais ?
+Je suis l'élève boursier.
+
+63
+00:06:41,567 --> 00:06:42,610
+J'ai anglais,
+
+64
+00:06:42,693 --> 00:06:45,446
+mais je ne sais pas où c'est.
+Tu as anglais ?
+
+65
+00:06:46,406 --> 00:06:47,323
+T'es trop zélé.
+
+66
+00:06:48,574 --> 00:06:51,119
+Tu vas devoir apprendre
+à rester à ta place.
+
+67
+00:06:51,994 --> 00:06:54,455
+De quoi ? Je comprends pas. Tu t'en vas ?
+
+68
+00:07:01,129 --> 00:07:03,714
+Les filles vont te montrer
+où est ta classe.
+
+69
+00:07:04,757 --> 00:07:07,927
+- Tu me files ton numéro ?
+- Mon numéro ?
+
+70
+00:07:08,761 --> 00:07:10,012
+Fais pas cette tête.
+
+71
+00:07:10,555 --> 00:07:12,640
+Tu dois avoir plein de questions.
+
+72
+00:07:12,723 --> 00:07:14,183
+J'y répondrai.
+
+73
+00:07:14,267 --> 00:07:15,268
+C'est vrai ?
+
+74
+00:07:16,602 --> 00:07:17,437
+Merci.
+
+75
+00:07:17,520 --> 00:07:19,605
+- Ton identifiant ?
+- Qu'on te suive.
+
+76
+00:07:20,189 --> 00:07:22,233
+- Je n'ai pas de compte.
+- Ah non ?
+
+77
+00:07:22,316 --> 00:07:23,151
+Non.
+
+78
+00:07:25,278 --> 00:07:27,905
+Voilà mon numéro. Merci et à plus.
+
+79
+00:07:31,951 --> 00:07:33,453
+Il est trop bizarre.
+
+80
+00:07:35,288 --> 00:07:36,497
+SALLE A SPÉCIFIQUE
+
+81
+00:07:42,712 --> 00:07:43,880
+La vache !
+
+82
+00:07:50,219 --> 00:07:51,053
+Bon, allez.
+
+83
+00:07:55,433 --> 00:07:56,392
+Bonjour, madame.
+
+84
+00:07:57,101 --> 00:07:59,604
+Cette salle est réservée
+aux non-boursiers.
+
+85
+00:07:59,687 --> 00:08:03,399
+- Mais j'ai anglais, là.
+- La salle A est au bout du couloir.
+
+86
+00:08:03,483 --> 00:08:06,360
+- Ça, c'est la salle spécifique.
+- C'est pas ici.
+
+87
+00:08:08,905 --> 00:08:11,240
+- Salut.
+- Le boursier.
+
+88
+00:08:11,324 --> 00:08:12,283
+Que fait-il là ?
+
+89
+00:08:13,159 --> 00:08:14,994
+SALLE A
+
+90
+00:08:27,173 --> 00:08:28,216
+C'est ma place.
+
+91
+00:08:29,300 --> 00:08:30,468
+Ah bon ?
+
+92
+00:08:30,551 --> 00:08:33,888
+- Pardon.
+- Mon amie s'assoit là.
+
+93
+00:08:36,057 --> 00:08:37,308
+Ah oui ?
+
+94
+00:08:37,391 --> 00:08:38,476
+Quelle touche !
+
+95
+00:08:39,352 --> 00:08:40,561
+T'as vu sa cravate ?
+
+96
+00:08:42,522 --> 00:08:44,815
+C'est un plouc, et ça se voit.
+
+97
+00:08:46,776 --> 00:08:48,319
+En plus, il sent mauvais.
+
+98
+00:08:48,402 --> 00:08:50,029
+Comme un SDF.
+
+99
+00:08:57,537 --> 00:08:58,913
+Y a pas de crochet.
+
+100
+00:09:34,949 --> 00:09:36,742
+Tu as gagné 1,25 seconde.
+
+101
+00:09:38,369 --> 00:09:40,329
+Ri-an, tu viens manger ?
+
+102
+00:09:44,041 --> 00:09:45,042
+Vous avez cours ?
+
+103
+00:09:47,295 --> 00:09:48,337
+Moi, non.
+
+104
+00:09:48,838 --> 00:09:53,259
+- Ri-an, il te reste un cours, non ?
+- J'ai politique internationale à 16 h.
+
+105
+00:10:01,726 --> 00:10:04,854
+Woo-jin est bizarre en ce moment.
+Il a une copine ?
+
+106
+00:10:06,397 --> 00:10:09,150
+Et Jae-i ? Toujours pas de nouvelles ?
+
+107
+00:10:26,834 --> 00:10:29,211
+Si vous êtes toujours en froid,
+
+108
+00:10:30,421 --> 00:10:36,636
+je devrais peut-être
+détrôner la reine en son absence.
+
+109
+00:10:38,137 --> 00:10:40,181
+Comment je pourrais te conquérir ?
+
+110
+00:10:41,557 --> 00:10:43,351
+J'ai fait pas mal de sport.
+
+111
+00:10:44,185 --> 00:10:47,396
+Tu veux voir ?
+Tu me diras si ça en valait la peine.
+
+112
+00:10:50,483 --> 00:10:51,817
+Inutile.
+
+113
+00:10:52,818 --> 00:10:56,364
+Je sais que tu es mieux foutue
+que la plupart des mannequins.
+
+114
+00:10:57,406 --> 00:10:58,240
+Alors,
+
+115
+00:10:59,533 --> 00:11:00,660
+arrête de déconner.
+
+116
+00:11:02,745 --> 00:11:06,082
+Je déconnais pas.
+Mais on n'a qu'à faire comme si.
+
+117
+00:11:08,668 --> 00:11:09,585
+Tu vas où ?
+
+118
+00:11:09,669 --> 00:11:10,961
+J'ai un truc à faire.
+
+119
+00:11:11,754 --> 00:11:13,589
+Je ne m'enfuis pas de honte.
+
+120
+00:11:19,595 --> 00:11:20,763
+ARRIVÉES
+
+121
+00:11:39,657 --> 00:11:40,574
+Jae-i !
+
+122
+00:11:58,759 --> 00:12:01,220
+Tu as passé trois mois aux États-Unis ?
+
+123
+00:12:01,303 --> 00:12:03,431
+Oui, chez des cousins.
+
+124
+00:12:03,973 --> 00:12:05,015
+J'étais occupée.
+
+125
+00:12:06,475 --> 00:12:09,270
+Tu aurais pu répondre à mes messages.
+
+126
+00:12:09,353 --> 00:12:14,316
+Woo-jin et moi, c'est pas trop grave,
+mais Ri-an, tu l'as aussi ignoré ?
+
+127
+00:12:17,069 --> 00:12:20,406
+Je comprends
+pourquoi il était de mauvais poil.
+
+128
+00:12:20,489 --> 00:12:22,324
+Vous vous êtes engueulés ?
+
+129
+00:12:22,408 --> 00:12:27,663
+Comment vous pouvez sortir ensemble
+et ne pas vous parler pendant trois mois ?
+
+130
+00:12:27,747 --> 00:12:29,832
+J'ai une annonce à faire au groupe.
+
+131
+00:12:29,915 --> 00:12:30,750
+Ah bon ?
+
+132
+00:12:30,833 --> 00:12:34,253
+On se retrouve
+dimanche après-midi au circuit.
+
+133
+00:12:35,296 --> 00:12:36,380
+Au circuit ?
+
+134
+00:12:40,760 --> 00:12:43,929
+Pourquoi là-bas ?
+Et pourquoi je dois tout organiser ?
+
+135
+00:12:52,938 --> 00:12:55,524
+Député Lee, faisons une photo de groupe.
+
+136
+00:12:55,608 --> 00:12:56,692
+Dites "ouistiti".
+
+137
+00:12:56,776 --> 00:12:59,779
+- Un, deux, trois.
+- Ouistiti !
+
+138
+00:12:59,862 --> 00:13:01,781
+C'est fait ! On applaudit.
+
+139
+00:13:01,864 --> 00:13:03,032
+Tu as été adorable.
+
+140
+00:13:03,532 --> 00:13:05,284
+- Au revoir.
+- Merci.
+
+141
+00:13:05,367 --> 00:13:07,244
+- C'est mon aîné.
+- Oh là là !
+
+142
+00:13:07,328 --> 00:13:09,789
+Vous êtes libres dimanche après-midi ?
+
+143
+00:13:09,872 --> 00:13:11,582
+On devrait tous se retrouver.
+
+144
+00:13:12,875 --> 00:13:17,797
+Les ventes de portables
+de la marque Jooshin sont en hausse.
+
+145
+00:13:17,880 --> 00:13:19,465
+Surtout à Barcelone.
+
+146
+00:13:19,548 --> 00:13:21,050
+J'ai lu ça ce matin.
+
+147
+00:13:21,133 --> 00:13:23,761
+Quelle est la situation en France ?
+
+148
+00:13:23,844 --> 00:13:26,222
+Notre marque de pâtisserie sera lancée…
+
+149
+00:13:26,305 --> 00:13:27,139
+Attendez.
+
+150
+00:13:28,516 --> 00:13:30,768
+Notre chère Jae-i est enfin rentrée.
+
+151
+00:13:31,644 --> 00:13:34,563
+Rendez-vous dimanche au circuit.
+Soyez ponctuels.
+
+152
+00:13:45,533 --> 00:13:47,576
+Et celle-ci, Mlle Jae-i ?
+
+153
+00:13:47,660 --> 00:13:49,578
+Elle ira bien avec votre teint.
+
+154
+00:13:55,000 --> 00:13:56,210
+Je vais la prendre.
+
+155
+00:14:09,807 --> 00:14:14,562
+- J'espère que le repas est à votre goût.
+- Je fais rarement de pareils festins.
+
+156
+00:14:14,645 --> 00:14:17,565
+Rien ne vaut
+un bon repas dans un beau jardin,
+
+157
+00:14:17,648 --> 00:14:20,651
+qui plus est
+en votre compagnie, président Jung.
+
+158
+00:14:20,734 --> 00:14:21,777
+Merci.
+
+159
+00:14:21,861 --> 00:14:25,197
+Le député Lee avait suggéré
+d'organiser un repas,
+
+160
+00:14:25,281 --> 00:14:27,783
+mais nous étions débordés.
+Il était temps !
+
+161
+00:14:27,867 --> 00:14:30,911
+Votre fille est d'une incroyable beauté.
+
+162
+00:14:31,579 --> 00:14:33,372
+Elle tient de sa mère.
+
+163
+00:14:35,291 --> 00:14:36,959
+Vous trouvez ?
+
+164
+00:14:37,668 --> 00:14:39,420
+Moi, je la trouve…
+
+165
+00:14:42,006 --> 00:14:43,424
+bien plus belle que moi.
+
+166
+00:14:45,885 --> 00:14:49,513
+Et en plus, elle est bonne élève.
+Vous devez être fiers.
+
+167
+00:14:50,180 --> 00:14:53,893
+Woo-jin m'a dit
+que Jae-i était la meilleure de sa classe.
+
+168
+00:14:55,060 --> 00:14:59,106
+Les enfants remplissent leur rôle
+sans qu'on ait à intervenir.
+
+169
+00:14:59,189 --> 00:15:01,400
+Nous sommes aussi fiers de Jae-hyeok.
+
+170
+00:15:01,483 --> 00:15:04,653
+L'an dernier,
+il a terminé en tête du collège Hanguk.
+
+171
+00:15:04,737 --> 00:15:09,366
+- J'ai obtenu mon diplôme l'an dernier.
+- Tu es diplômé du collège Hanguk ?
+
+172
+00:15:09,450 --> 00:15:13,329
+J'y suis allé. Je ne m'attendais pas
+à rencontrer un ancien élève.
+
+173
+00:15:22,129 --> 00:15:23,422
+Jae-i !
+
+174
+00:15:26,634 --> 00:15:28,135
+Ça ne va pas ?
+
+175
+00:15:29,053 --> 00:15:31,347
+Tu as à peine mangé.
+
+176
+00:15:31,430 --> 00:15:32,514
+Si, ça va.
+
+177
+00:15:33,557 --> 00:15:36,435
+On va prendre le thé en haut. On t'attend.
+
+178
+00:15:37,019 --> 00:15:38,312
+D'accord. J'arrive.
+
+179
+00:15:40,105 --> 00:15:41,190
+Au fait, ta tenue…
+
+180
+00:15:44,902 --> 00:15:46,695
+c'est toi qui l'as choisie ?
+
+181
+00:15:50,199 --> 00:15:51,867
+Va te changer.
+
+182
+00:15:52,451 --> 00:15:55,287
+Ce n'est pas une tenue appropriée.
+
+183
+00:15:55,788 --> 00:16:00,584
+On t'examine dans les moindres détails :
+les tenues que tu portes, ton style.
+
+184
+00:16:01,418 --> 00:16:05,965
+Tu devrais mettre des tenues chic,
+comme ta mère.
+
+185
+00:16:06,799 --> 00:16:08,342
+De quelle mère tu parles ?
+
+186
+00:16:11,011 --> 00:16:13,097
+- De ma belle-mère ?
+- Ça suffit !
+
+187
+00:16:16,433 --> 00:16:20,729
+Je parle de ma femme,
+celle qui t'a élevée.
+
+188
+00:16:21,313 --> 00:16:23,023
+Pas ta mère biologique.
+
+189
+00:16:29,697 --> 00:16:32,324
+Allez, va te changer. Tout de suite.
+
+190
+00:16:33,283 --> 00:16:34,368
+J'y vais.
+
+191
+00:16:36,036 --> 00:16:37,287
+Tant que tu y es…
+
+192
+00:16:44,003 --> 00:16:46,422
+mets un autre rouge à lèvres.
+
+193
+00:16:46,505 --> 00:16:48,257
+Regarde-moi cette couleur !
+
+194
+00:16:49,425 --> 00:16:50,676
+C'est d'un vulgaire !
+
+195
+00:16:52,219 --> 00:16:54,263
+Comme celle qui t'a mise au monde.
+
+196
+00:16:58,183 --> 00:16:59,852
+J'aimerais que ma fille
+
+197
+00:16:59,935 --> 00:17:02,104
+soit davantage à mon image.
+
+198
+00:17:03,022 --> 00:17:07,359
+Que son style fasse honneur
+au titre de fille aînée du groupe Jaeyul.
+
+199
+00:17:14,199 --> 00:17:15,659
+Prépare-toi et reviens.
+
+200
+00:17:30,841 --> 00:17:33,177
+LYCÉE JOOSHIN :
+PLUS DE CANDIDATURES EN 2024
+
+201
+00:18:49,795 --> 00:18:50,838
+On m'a…
+
+202
+00:18:52,047 --> 00:18:55,217
+engagé aujourd'hui pour jouer du piano.
+
+203
+00:18:59,638 --> 00:19:02,683
+Je faisais une petite pause.
+Je m'en vais.
+
+204
+00:19:04,059 --> 00:19:05,185
+Je vais y aller.
+
+205
+00:19:09,606 --> 00:19:11,692
+Tenez, vous pouvez vous en servir.
+
+206
+00:19:13,694 --> 00:19:15,028
+Je n'en ai pas besoin.
+
+207
+00:19:16,405 --> 00:19:17,531
+Enlevez-la.
+
+208
+00:19:19,241 --> 00:19:22,369
+- De quoi ?
+- Votre chemise, prêtez-la-moi.
+
+209
+00:19:23,287 --> 00:19:24,121
+Ma chemise ?
+
+210
+00:19:24,204 --> 00:19:27,749
+On m'attend,
+et je ne suis pas habillée comme il faut.
+
+211
+00:19:29,168 --> 00:19:31,170
+Bon, d'accord.
+
+212
+00:19:32,045 --> 00:19:36,133
+Le problème, c'est que si je l'enlève,
+je ne pourrai aller nulle part.
+
+213
+00:19:38,343 --> 00:19:39,261
+Attendez.
+
+214
+00:19:55,402 --> 00:19:56,278
+Manifestement,
+
+215
+00:19:58,155 --> 00:19:59,823
+vous en avez plus besoin.
+
+216
+00:20:08,832 --> 00:20:09,708
+Ça caille.
+
+217
+00:20:29,269 --> 00:20:32,105
+Ils n'ont pas peur ?
+Je ne vois pas l'intérêt.
+
+218
+00:20:34,066 --> 00:20:35,150
+Moi non plus.
+
+219
+00:20:36,360 --> 00:20:39,154
+C'est exaltant.
+Ça donne des sensations fortes.
+
+220
+00:20:40,614 --> 00:20:41,949
+Jung Jae-i !
+
+221
+00:20:44,660 --> 00:20:45,619
+Ça fait un bail.
+
+222
+00:20:47,412 --> 00:20:49,373
+- Tu m'as manqué.
+- Tu vas bien ?
+
+223
+00:20:50,916 --> 00:20:53,126
+C'est original comme tenue.
+
+224
+00:21:32,332 --> 00:21:35,752
+On ne s'est pas vus
+depuis longtemps. Et si on sortait ?
+
+225
+00:21:36,336 --> 00:21:38,130
+On s'amuserait bien.
+
+226
+00:21:38,213 --> 00:21:39,047
+Jung Jae-i…
+
+227
+00:21:41,091 --> 00:21:42,467
+dis quelque chose.
+
+228
+00:21:46,013 --> 00:21:47,556
+- He-ra.
+- Oui ?
+
+229
+00:21:47,639 --> 00:21:49,308
+Je lance un défi à Ri-an.
+
+230
+00:21:50,934 --> 00:21:54,604
+- Quel genre de défi ?
+- Le gagnant verra son vœu exaucé.
+
+231
+00:21:55,772 --> 00:21:56,606
+Quel vœu ?
+
+232
+00:21:58,275 --> 00:21:59,234
+Gagne d'abord.
+
+233
+00:22:00,235 --> 00:22:03,030
+On fait trois tours.
+Je conduis sur l'intérieur.
+
+234
+00:22:03,113 --> 00:22:04,781
+Pas le droit d'objecter.
+
+235
+00:22:04,865 --> 00:22:06,033
+Te fatigue pas.
+
+236
+00:22:06,616 --> 00:22:07,659
+Si je gagne,
+
+237
+00:22:08,994 --> 00:22:10,996
+tu devras m'expliquer
+
+238
+00:22:12,039 --> 00:22:13,457
+à quoi tu joues.
+
+239
+00:24:15,203 --> 00:24:17,622
+Mais qu'est-ce qui leur prend ?
+
+240
+00:24:18,999 --> 00:24:21,293
+- Ils y vont fort.
+- Va savoir.
+
+241
+00:26:15,198 --> 00:26:19,202
+Tu as conduit comme une malade !
+Tu aurais pu te blesser.
+
+242
+00:26:19,286 --> 00:26:20,537
+J'ai gagné.
+
+243
+00:26:21,955 --> 00:26:22,998
+Tu as entendu ?
+
+244
+00:26:24,833 --> 00:26:25,667
+Alors…
+
+245
+00:26:27,711 --> 00:26:28,712
+voici mon vœu.
+
+246
+00:26:31,923 --> 00:26:34,217
+Je veux qu'on se sépare.
+
+247
+00:26:51,651 --> 00:26:52,611
+He-ra.
+
+248
+00:26:52,694 --> 00:26:53,820
+- Quoi ?
+- Allons-y.
+
+249
+00:26:58,158 --> 00:27:01,411
+Il lui est arrivé un truc
+avant d'aller aux États-Unis ?
+
+250
+00:27:02,621 --> 00:27:04,998
+Aucune idée.
+
+251
+00:27:06,625 --> 00:27:08,585
+Je ne les ai jamais vus comme ça.
+
+252
+00:27:12,964 --> 00:27:13,882
+Répète.
+
+253
+00:27:15,550 --> 00:27:17,844
+Je veux qu'on se sépare.
+
+254
+00:27:18,887 --> 00:27:19,888
+Mais pourquoi ?
+
+255
+00:27:21,556 --> 00:27:23,683
+Pourquoi tu te comportes comme ça ?
+
+256
+00:27:24,684 --> 00:27:28,104
+Quand on était ensemble,
+tu as changé du jour au lendemain.
+
+257
+00:27:28,188 --> 00:27:31,316
+Tu as disparu pendant trois mois
+sans un dire un mot,
+
+258
+00:27:31,399 --> 00:27:33,109
+et là, tu me dis ça ?
+
+259
+00:27:34,277 --> 00:27:36,071
+On s'est rencontrés à six ans.
+
+260
+00:27:37,155 --> 00:27:39,282
+L'été de nos 15 ans,
+
+261
+00:27:39,991 --> 00:27:41,993
+tu m'as avoué tes sentiments.
+
+262
+00:27:44,329 --> 00:27:45,163
+Pourquoi ?
+
+263
+00:27:46,915 --> 00:27:49,793
+- Pourquoi je te plaisais ?
+- Je sais pas trop.
+
+264
+00:27:49,876 --> 00:27:50,710
+Exactement.
+
+265
+00:27:50,794 --> 00:27:52,045
+C'est pas rationnel.
+
+266
+00:27:52,796 --> 00:27:57,175
+On ne sait jamais vraiment pourquoi
+quelqu'un nous attire ou nous répugne.
+
+267
+00:27:57,258 --> 00:27:58,635
+T'en va pas !
+
+268
+00:28:00,428 --> 00:28:01,554
+On reste amis.
+
+269
+00:28:02,639 --> 00:28:04,057
+Mais c'est tout.
+
+270
+00:28:05,517 --> 00:28:07,477
+Je t'ai battu.
+
+271
+00:28:08,478 --> 00:28:11,106
+- Tu dois respecter notre pacte.
+- Jae-i !
+
+272
+00:28:12,148 --> 00:28:13,191
+Jung Jae-i !
+
+273
+00:28:14,567 --> 00:28:15,485
+Fait chier !
+
+274
+00:28:51,563 --> 00:28:52,480
+Il déchire.
+
+275
+00:28:52,564 --> 00:28:55,525
+Il est trop sexy
+avec son look de mauvais garçon.
+
+276
+00:28:55,608 --> 00:28:58,403
+Il a la main bandée. Il s'est blessé ?
+
+277
+00:29:01,573 --> 00:29:03,324
+Jae-i, tu veux du thé rouge ?
+
+278
+00:29:04,868 --> 00:29:07,787
+- Merci.
+- Tu es bien rentrée, hier ?
+
+279
+00:29:09,998 --> 00:29:11,291
+Ri-an est blessé.
+
+280
+00:29:11,374 --> 00:29:13,209
+- Que s'est-il passé ?
+- He-ra…
+
+281
+00:29:14,502 --> 00:29:15,545
+Arrête avec ça.
+
+282
+00:29:18,339 --> 00:29:20,550
+Très bien. On se parlera plus tard.
+
+283
+00:29:44,824 --> 00:29:46,451
+Je n'ai rien à annoncer.
+
+284
+00:29:47,494 --> 00:29:50,747
+La date butoir
+pour changer de cours est cette semaine.
+
+285
+00:29:51,247 --> 00:29:54,375
+Je compte sur vous
+pour réussir votre semestre.
+
+286
+00:29:54,876 --> 00:29:56,961
+Travaillez bien en cours.
+
+287
+00:29:59,881 --> 00:30:02,258
+À présent, j'aimerais parler au délégué.
+
+288
+00:30:06,721 --> 00:30:08,723
+Tu joues du violoncelle ?
+
+289
+00:30:08,807 --> 00:30:11,226
+J'ai pas le temps de jouer autre chose.
+
+290
+00:30:11,309 --> 00:30:15,730
+Je peux te poser une question ?
+On fait comment pour changer de cours ?
+
+291
+00:30:16,356 --> 00:30:17,190
+Quoi ?
+
+292
+00:30:17,273 --> 00:30:20,360
+J'aimerais faire de l'aviron
+et de l'escrime.
+
+293
+00:30:20,443 --> 00:30:22,070
+Me demande pas à moi.
+
+294
+00:30:23,404 --> 00:30:24,864
+Demande à tes copains.
+
+295
+00:30:25,865 --> 00:30:26,783
+Mes "copains" ?
+
+296
+00:30:32,705 --> 00:30:34,123
+- Hé !
+- Quoi ?
+
+297
+00:30:34,207 --> 00:30:36,084
+Comment on change de cours ?
+
+298
+00:30:38,169 --> 00:30:39,587
+Voici le programme.
+
+299
+00:30:42,715 --> 00:30:43,675
+Ju-won,
+
+300
+00:30:43,758 --> 00:30:46,052
+tu peux garder un œil sur le nouveau ?
+
+301
+00:30:46,135 --> 00:30:49,931
+J'aimerais que tu l'aides à s'intégrer.
+
+302
+00:30:50,932 --> 00:30:55,103
+Ce qui s'est passé la dernière fois
+ne doit pas se reproduire.
+
+303
+00:30:58,022 --> 00:30:59,023
+Bien, madame.
+
+304
+00:31:04,696 --> 00:31:07,574
+- Je me suis trop maquillée ?
+- Non, ça va.
+
+305
+00:31:08,157 --> 00:31:09,868
+Qu'est-ce qu'elle a, Jae-i ?
+
+306
+00:31:11,870 --> 00:31:14,622
+C'est pas rationnel.
+On ne sait jamais pourquoi
+
+307
+00:31:16,040 --> 00:31:18,293
+quelqu'un nous attire ou nous répugne.
+
+308
+00:31:23,381 --> 00:31:26,217
+Elle s'est mise à t'éviter,
+puis elle est partie.
+
+309
+00:31:26,301 --> 00:31:28,928
+Vous êtes en froid
+depuis mon anniversaire.
+
+310
+00:31:29,012 --> 00:31:30,722
+Tu n'as pas une petite idée ?
+
+311
+00:31:31,347 --> 00:31:33,892
+Tu l'as contrariée ?
+
+312
+00:31:36,603 --> 00:31:37,729
+J'en sais rien.
+
+313
+00:31:37,812 --> 00:31:40,607
+On a beau réfléchir, on ne comprend pas.
+
+314
+00:31:40,690 --> 00:31:43,985
+C'est ça, les filles.
+On les énerve sans savoir pourquoi.
+
+315
+00:31:44,569 --> 00:31:47,447
+- Hé !
+- Demande-lui pardon.
+
+316
+00:31:47,530 --> 00:31:48,907
+Même si t'as rien fait.
+
+317
+00:31:48,990 --> 00:31:50,575
+Et là, elle s'expliquera.
+
+318
+00:31:50,658 --> 00:31:53,161
+"Voilà ce qui m'énerve. Tu m'as déçue."
+
+319
+00:31:53,244 --> 00:31:55,330
+Moi, ça me dépasse toujours.
+
+320
+00:31:59,751 --> 00:32:00,919
+Yun-seok a raison.
+
+321
+00:32:01,628 --> 00:32:03,338
+Demande-lui pardon,
+
+322
+00:32:03,421 --> 00:32:05,340
+histoire de lui ôter ses doutes.
+
+323
+00:32:06,382 --> 00:32:07,216
+Comment ça ?
+
+324
+00:32:07,300 --> 00:32:08,801
+Même si elle te repousse,
+
+325
+00:32:08,885 --> 00:32:12,221
+tu dis : "Je suis désolé.
+Je ne peux pas vivre sans toi."
+
+326
+00:32:12,305 --> 00:32:14,349
+Les filles fantasment là-dessus.
+
+327
+00:32:15,099 --> 00:32:17,352
+- Même Jae-i ?
+- C'est une fille, non ?
+
+328
+00:32:17,852 --> 00:32:20,188
+Dis-lui demain,
+à la maison de vacances.
+
+329
+00:32:20,271 --> 00:32:22,690
+On va faire une fête digne de ce nom.
+
+330
+00:32:22,774 --> 00:32:24,108
+Ça me dit bien.
+
+331
+00:32:24,192 --> 00:32:25,234
+- Non ?
+- Oui.
+
+332
+00:32:25,318 --> 00:32:26,611
+Apporte-lui un truc.
+
+333
+00:32:26,694 --> 00:32:29,739
+Il ne compte pas s'asseoir ici, j'espère !
+
+334
+00:32:31,950 --> 00:32:33,326
+Pauvre crétin !
+
+335
+00:32:37,038 --> 00:32:37,872
+Pousse-toi.
+
+336
+00:32:45,004 --> 00:32:48,007
+Les mondanités vous échappent,
+monsieur Kang Ha ?
+
+337
+00:32:49,133 --> 00:32:49,968
+Ah bon ?
+
+338
+00:32:50,051 --> 00:32:52,887
+Dans la grande salle,
+tu t'es levé avant Ri-an.
+
+339
+00:32:53,513 --> 00:32:57,517
+Tu entres dans les salles spécifiques,
+tu t'assois n'importe où,
+
+340
+00:32:57,600 --> 00:33:00,603
+et là, tu cherches
+à t'asseoir dans les gradins ?
+
+341
+00:33:01,896 --> 00:33:03,648
+Oui. Où est le problème ?
+
+342
+00:33:04,232 --> 00:33:05,900
+C'est comme un nouveau-né.
+
+343
+00:33:05,984 --> 00:33:09,112
+Il ne sait rien à rien.
+Il est inconscient.
+
+344
+00:33:09,195 --> 00:33:13,783
+- Il a même parlé à Gil Ye-ji.
+- Son père gère les épiceries Jooshin ?
+
+345
+00:33:18,079 --> 00:33:21,040
+Il y a des cours que tu aimerais changer ?
+
+346
+00:33:21,624 --> 00:33:24,919
+Ceux d'escrime et d'aviron m'intéressent.
+
+347
+00:33:25,837 --> 00:33:26,671
+Ces cours-là ?
+
+348
+00:33:26,754 --> 00:33:30,800
+Il n'y en avait pas où j'étais avant.
+C'est clairement un bon lycée.
+
+349
+00:33:30,883 --> 00:33:32,385
+Va à la salle des profs.
+
+350
+00:33:33,177 --> 00:33:36,889
+Mais ces cours,
+tu as les moyens de les payer ?
+
+351
+00:33:36,973 --> 00:33:41,352
+L'aviron, c'est 40 millions de wons
+par semestre. L'escrime, un peu moins.
+
+352
+00:33:41,436 --> 00:33:42,854
+Quarante millions ?
+
+353
+00:33:43,438 --> 00:33:44,897
+C'est pas donné.
+
+354
+00:33:50,319 --> 00:33:52,321
+Écoute bien, jeune Kang Ha.
+
+355
+00:33:53,698 --> 00:33:56,492
+Ce lycée n'est pas comme les autres.
+
+356
+00:33:56,576 --> 00:33:58,161
+Il a ses propres règles.
+
+357
+00:33:59,162 --> 00:34:00,204
+Lesquelles ?
+
+358
+00:34:00,788 --> 00:34:02,707
+Ne jamais énerver les élèves.
+
+359
+00:34:03,750 --> 00:34:04,584
+Quels élèves ?
+
+360
+00:34:04,667 --> 00:34:09,172
+Ceux de la haute société
+comme Jae-i, He-ra, Woo-jin et Ri-an.
+
+361
+00:34:09,255 --> 00:34:10,715
+Pourquoi ça ?
+
+362
+00:34:10,798 --> 00:34:13,092
+C'est évident, non ?
+
+363
+00:34:13,176 --> 00:34:16,095
+Ils sont différents de nous,
+les élèves boursiers.
+
+364
+00:34:16,596 --> 00:34:20,099
+On porte une cravate différente
+parce qu'on est différents.
+
+365
+00:34:20,183 --> 00:34:23,352
+La nôtre est bleu marine,
+la leur est bordeaux.
+
+366
+00:34:23,978 --> 00:34:27,440
+Le fondateur du lycée,
+c'est l'arrière-grand-père de Ri-an.
+
+367
+00:34:27,523 --> 00:34:30,193
+Les autres y vont
+de génération en génération.
+
+368
+00:34:30,860 --> 00:34:33,362
+Leurs familles font des dons.
+
+369
+00:34:34,030 --> 00:34:36,324
+Si on a des bourses, c'est grâce à ça.
+
+370
+00:34:37,867 --> 00:34:40,119
+Ils méritent bien notre respect, non ?
+
+371
+00:34:43,081 --> 00:34:45,416
+- "Notre respect."
+- Ne réfléchis pas.
+
+372
+00:34:45,500 --> 00:34:47,919
+Enfonce-toi-le dans le crâne, c'est tout.
+
+373
+00:34:48,002 --> 00:34:49,670
+Arrête de fouiner
+
+374
+00:34:49,754 --> 00:34:52,173
+et évite à tout prix de les importuner.
+
+375
+00:34:52,256 --> 00:34:54,467
+- C'est pas compliqué !
+- Non.
+
+376
+00:34:54,550 --> 00:34:58,554
+Le respect, ça je peux comprendre.
+
+377
+00:34:58,638 --> 00:35:01,057
+Mais éviter d'énerver d'autres élèves,
+
+378
+00:35:01,557 --> 00:35:03,309
+c'est un peu extrême, non ?
+
+379
+00:35:04,227 --> 00:35:06,479
+Libre à toi de considérer ça extrême.
+
+380
+00:35:07,146 --> 00:35:10,441
+Mais tu ferais bien de t'y tenir.
+
+381
+00:35:16,531 --> 00:35:18,282
+Tu sais pourquoi tu es là ?
+
+382
+00:35:22,537 --> 00:35:24,831
+Une place de boursier s'est libérée.
+
+383
+00:35:26,499 --> 00:35:28,209
+Pourquoi ça ?
+
+384
+00:35:30,044 --> 00:35:31,045
+L'ancien boursier
+
+385
+00:35:32,964 --> 00:35:35,216
+a ignoré mes consignes et a déconné.
+
+386
+00:35:40,596 --> 00:35:42,181
+Ri-an l'a tué.
+
+387
+00:36:03,619 --> 00:36:04,829
+Je vois.
+
+388
+00:36:07,165 --> 00:36:09,667
+Je comprends, Chan-min. En gros,
+
+389
+00:36:11,043 --> 00:36:15,298
+je dois bien m'entendre avec eux
+pour me faciliter la vie.
+
+390
+00:36:17,925 --> 00:36:19,552
+Merci pour le conseil.
+
+391
+00:36:25,349 --> 00:36:27,226
+Tu crois qu'il a compris ?
+
+392
+00:36:27,310 --> 00:36:29,312
+Il a trop d'assurance, ce con.
+
+393
+00:36:36,444 --> 00:36:38,946
+Il est grand temps que je me présente.
+
+394
+00:36:42,617 --> 00:36:44,869
+Tu te rappelles mon prénom ? Kang Ha.
+
+395
+00:36:46,245 --> 00:36:47,747
+Enchanté, Kim Ri-an.
+
+396
+00:36:58,925 --> 00:37:00,134
+Il est fou ou quoi ?
+
+397
+00:37:00,801 --> 00:37:02,261
+À quoi vous jouez, là ?
+
+398
+00:37:03,095 --> 00:37:05,139
+- Faites-le déguerpir.
+- Désolé.
+
+399
+00:37:06,182 --> 00:37:07,141
+Connard !
+
+400
+00:37:07,225 --> 00:37:08,643
+Que se passe-t-il ?
+
+401
+00:37:08,726 --> 00:37:10,853
+- C'est un canular ?
+- Non, bien sûr.
+
+402
+00:37:10,937 --> 00:37:13,439
+Ils t'ont dit qu'on est des monstres ?
+
+403
+00:37:13,522 --> 00:37:15,775
+Que tu dois nous cirer les pompes ?
+
+404
+00:37:18,569 --> 00:37:21,572
+C'était une blague.
+Ils t'ont fait marcher.
+
+405
+00:37:22,907 --> 00:37:26,118
+On aurait dû organiser la fête
+plus tôt pour éviter ça.
+
+406
+00:37:26,619 --> 00:37:30,373
+Tu es libre demain ?
+On organise une soirée en ton honneur.
+
+407
+00:37:30,957 --> 00:37:34,669
+- En mon honneur ?
+- À demain. Je t'enverrai mon chauffeur.
+
+408
+00:37:36,295 --> 00:37:37,213
+À plus.
+
+409
+00:37:38,172 --> 00:37:39,924
+On compte sur toi.
+
+410
+00:38:06,701 --> 00:38:07,952
+Ça fera l'affaire.
+
+411
+00:38:08,035 --> 00:38:11,414
+Tu es sûre que ça va plaire à Jae-i ?
+
+412
+00:38:12,164 --> 00:38:13,082
+Sûrement.
+
+413
+00:38:14,292 --> 00:38:15,459
+Je la contacte.
+
+414
+00:38:18,629 --> 00:38:20,715
+Jae-i va détester.
+
+415
+00:38:45,948 --> 00:38:49,910
+Jung Jae-i, on t'attend.
+La fête ne commencera pas sans toi.
+
+416
+00:38:51,871 --> 00:38:52,997
+Rejoins-nous vite.
+
+417
+00:39:24,570 --> 00:39:26,614
+Les smartphones sont interdits.
+
+418
+00:39:26,697 --> 00:39:31,369
+Vous le récupérerez en partant.
+
+419
+00:39:31,452 --> 00:39:32,703
+Ah d'accord.
+
+420
+00:39:48,010 --> 00:39:48,844
+Ça alors !
+
+421
+00:39:49,387 --> 00:39:52,431
+Il est venu, ce con !
+Juste parce qu'on t'a invité ?
+
+422
+00:39:53,808 --> 00:39:54,642
+Allez, vas-y.
+
+423
+00:39:54,725 --> 00:39:57,103
+- Dépêche, Chan-min.
+- J'arrive, Rin-a.
+
+424
+00:40:03,526 --> 00:40:07,029
+- Mince alors, il est venu !
+- Le taré ! T'es venu comment ?
+
+425
+00:40:07,113 --> 00:40:08,989
+Il est incroya-bulle, ce con.
+
+426
+00:40:38,227 --> 00:40:40,104
+Ouah ! Tu as vu He-Ra ?
+
+427
+00:40:40,187 --> 00:40:41,522
+Elle est trop belle.
+
+428
+00:40:50,906 --> 00:40:53,367
+Voilà enfin notre invité d'honneur !
+
+429
+00:40:55,995 --> 00:40:57,371
+Ça alors ! Le chiot !
+
+430
+00:40:58,247 --> 00:41:00,875
+- Il a un sacré culot.
+- Il s'est pointé.
+
+431
+00:41:01,709 --> 00:41:04,044
+On va s'éclater.
+
+432
+00:41:09,383 --> 00:41:13,429
+Bon, allez, on la commence,
+cette soirée de bienvenue ?
+
+433
+00:41:16,974 --> 00:41:18,809
+- Un petit verre ?
+- Des shots !
+
+434
+00:41:18,893 --> 00:41:20,436
+Des verres de bienvenue.
+
+435
+00:41:22,438 --> 00:41:24,231
+C'est un tirage au sort.
+
+436
+00:41:24,315 --> 00:41:27,401
+C'est une tradition
+aux soirées de bienvenue.
+
+437
+00:41:27,485 --> 00:41:30,154
+- Comment ça ?
+- Tous ont de l'alcool normal.
+
+438
+00:41:30,237 --> 00:41:33,491
+Sauf un qui contient
+un truc vraiment spécial.
+
+439
+00:41:36,118 --> 00:41:38,037
+- C'est quoi ?
+- Tu verras.
+
+440
+00:41:39,121 --> 00:41:41,248
+- Je commence.
+- OK.
+
+441
+00:41:44,001 --> 00:41:45,503
+Allez, He-ra !
+
+442
+00:41:46,003 --> 00:41:49,006
+Vas-y, bois !
+
+443
+00:41:53,761 --> 00:41:54,678
+Bravo.
+
+444
+00:41:56,972 --> 00:41:58,182
+C'était de l'alcool.
+
+445
+00:42:05,064 --> 00:42:06,106
+Je ne bois pas.
+
+446
+00:42:11,237 --> 00:42:14,823
+Bois !
+
+447
+00:42:22,331 --> 00:42:25,292
+Allez, pense à ceux
+qui ont tout organisé.
+
+448
+00:42:32,007 --> 00:42:33,592
+Allez, grouille !
+
+449
+00:42:33,676 --> 00:42:35,386
+Mais décide-toi !
+
+450
+00:42:36,136 --> 00:42:38,889
+- Prends-en deux !
+- Allez ! Cul sec !
+
+451
+00:42:38,973 --> 00:42:40,057
+Voilà !
+
+452
+00:42:41,559 --> 00:42:43,227
+Allez, vas-y !
+
+453
+00:42:43,310 --> 00:42:44,144
+Cul sec !
+
+454
+00:42:52,152 --> 00:42:54,280
+- Dépêche !
+- Allez, le boursier !
+
+455
+00:42:55,406 --> 00:42:57,825
+- Et voilà !
+- Ça y est !
+
+456
+00:43:00,744 --> 00:43:02,037
+C'est fait !
+
+457
+00:43:05,374 --> 00:43:06,875
+Ouah, il a bu.
+
+458
+00:43:06,959 --> 00:43:08,836
+Il se débrouille pas si mal.
+
+459
+00:43:08,919 --> 00:43:10,421
+Il est beau et il assure.
+
+460
+00:43:11,297 --> 00:43:12,548
+Il tient l'alcool.
+
+461
+00:43:12,631 --> 00:43:14,550
+- Quel homme !
+- Recommence.
+
+462
+00:43:14,633 --> 00:43:18,512
+J'en reviens pas qu'il l'ait fait.
+Il devrait en reprendre un.
+
+463
+00:43:18,596 --> 00:43:20,014
+Il est trop mignon.
+
+464
+00:43:27,938 --> 00:43:30,608
+Regardez, un tour de magie
+avec des kleenex !
+
+465
+00:43:30,691 --> 00:43:33,110
+- De la magie ?
+- C'est quoi, ce délire ?
+
+466
+00:43:33,193 --> 00:43:34,987
+- Il fait quoi ?
+- Mange !
+
+467
+00:43:35,070 --> 00:43:37,031
+- Sérieux ?
+- Allez, bouffe !
+
+468
+00:43:41,368 --> 00:43:42,953
+Ça n'en finit pas.
+
+469
+00:43:51,003 --> 00:43:52,087
+Ça alors !
+
+470
+00:43:56,175 --> 00:43:57,176
+Vas-y !
+
+471
+00:43:57,259 --> 00:43:58,761
+Y a plus de magie.
+
+472
+00:43:59,928 --> 00:44:02,931
+- C'est fini.
+- Un petit défi entre Chan-min et toi.
+
+473
+00:44:05,476 --> 00:44:07,269
+Le perdant devra 500 000 wons.
+
+474
+00:44:07,770 --> 00:44:08,646
+Allez.
+
+475
+00:44:08,729 --> 00:44:09,647
+C'est parti !
+
+476
+00:44:13,108 --> 00:44:15,819
+Quel taré !
+Tu sais combien ça coûte, connard ?
+
+477
+00:44:15,903 --> 00:44:17,988
+- Arrête de tout casser.
+- Oh non !
+
+478
+00:44:18,072 --> 00:44:20,199
+Il est dans la merde.
+
+479
+00:44:20,282 --> 00:44:23,702
+- Ça coûte une fortune.
+- Appelle ta mère. C'est sérieux !
+
+480
+00:44:23,786 --> 00:44:26,955
+- Appelle tes parents.
+- Comment tu vas faire ?
+
+481
+00:44:28,290 --> 00:44:29,667
+Pauvre abruti !
+
+482
+00:44:29,750 --> 00:44:32,378
+- Va gerber à l'intérieur !
+- La honte !
+
+483
+00:44:35,339 --> 00:44:36,882
+Il me fait marrer.
+
+484
+00:44:56,610 --> 00:44:58,404
+À moi de faire tourner !
+
+485
+00:44:58,487 --> 00:44:59,488
+Vas-y !
+
+486
+00:44:59,571 --> 00:45:01,073
+Bon, allez.
+
+487
+00:45:01,156 --> 00:45:02,199
+Et ça tourne !
+
+488
+00:45:05,244 --> 00:45:06,662
+- C'est Ba-da !
+- Ba-da.
+
+489
+00:45:07,996 --> 00:45:09,707
+C'est tombé sur Ryu Ba-da.
+
+490
+00:45:10,416 --> 00:45:13,877
+On demande quoi ?
+C'était quand ton dernier rapport ?
+
+491
+00:45:14,503 --> 00:45:17,172
+- Action ou vérité ?
+- Vérité.
+
+492
+00:45:18,507 --> 00:45:21,427
+- Ou bien action ?
+- Bon, allez.
+
+493
+00:45:21,510 --> 00:45:23,429
+On va pas y passer la nuit.
+
+494
+00:45:23,512 --> 00:45:25,806
+Ne me dis pas que c'était ce matin !
+
+495
+00:45:25,889 --> 00:45:27,808
+- Ça doit être ça.
+- Je sais pas.
+
+496
+00:45:27,891 --> 00:45:30,769
+- Je vais prendre ce foutu shot.
+- Sérieux ?
+
+497
+00:45:31,812 --> 00:45:32,646
+Je me dévoue.
+
+498
+00:45:36,984 --> 00:45:39,319
+C'était trop cool ! J'en reviens pas !
+
+499
+00:45:40,028 --> 00:45:41,029
+Sans déconner !
+
+500
+00:45:41,113 --> 00:45:41,947
+C'était cool.
+
+501
+00:45:43,532 --> 00:45:45,951
+Tu es enfin rentrée, Jung Jae-i.
+
+502
+00:45:46,827 --> 00:45:47,786
+Bon, allez.
+
+503
+00:45:48,704 --> 00:45:49,538
+Et ça tourne !
+
+504
+00:45:58,213 --> 00:46:00,591
+Tu te souviens du 27 octobre ?
+
+505
+00:46:00,674 --> 00:46:02,134
+Je n'en revenais pas.
+
+506
+00:46:02,217 --> 00:46:05,345
+Tu crois que la vidéo
+plairait à ton père ?
+
+507
+00:46:08,891 --> 00:46:09,725
+RI-AN
+
+508
+00:46:09,808 --> 00:46:11,059
+Je peux te parler ?
+
+509
+00:46:16,106 --> 00:46:18,567
+Cette fois, c'est la dernière.
+
+510
+00:46:19,151 --> 00:46:19,985
+Et ça tourne !
+
+511
+00:47:07,074 --> 00:47:07,908
+Bon,
+
+512
+00:47:09,535 --> 00:47:12,496
+je sais que tu n'aimes pas
+ce genre de chose, mais…
+
+513
+00:47:13,997 --> 00:47:15,833
+je me devais de tenter un truc.
+
+514
+00:47:20,254 --> 00:47:21,088
+Pardon.
+
+515
+00:47:23,590 --> 00:47:24,424
+Pour quoi ?
+
+516
+00:47:24,508 --> 00:47:28,011
+Quoi que j'aie fait, j'en suis désolé.
+
+517
+00:47:28,095 --> 00:47:29,721
+Tu n'as rien fait de mal.
+
+518
+00:47:31,306 --> 00:47:32,224
+Mais…
+
+519
+00:47:32,891 --> 00:47:34,476
+il faut que tu l'acceptes.
+
+520
+00:47:35,686 --> 00:47:37,771
+Tu n'auras aucune explication.
+
+521
+00:47:39,064 --> 00:47:42,568
+- Que si je meurs.
+- Tu te rends compte de ce que tu dis ?
+
+522
+00:47:42,651 --> 00:47:45,320
+Dis-moi ce qui se passe, enfin !
+
+523
+00:47:45,404 --> 00:47:48,907
+Il me faut une raison
+pour pouvoir accepter les choses.
+
+524
+00:48:04,006 --> 00:48:05,132
+C'est Kang Ha !
+
+525
+00:48:05,215 --> 00:48:07,759
+- Le boursier !
+- Au tour du petit nouveau.
+
+526
+00:48:08,677 --> 00:48:12,431
+Il y a des filles ici
+avec qui tu aimerais coucher ?
+
+527
+00:48:15,309 --> 00:48:16,727
+Réfléchis bien.
+
+528
+00:48:16,810 --> 00:48:19,521
+Si tu en choisis une,
+ça pourrait même arriver.
+
+529
+00:48:23,233 --> 00:48:24,192
+Vérité.
+
+530
+00:48:36,580 --> 00:48:37,414
+Non, action.
+
+531
+00:48:38,582 --> 00:48:39,541
+Très bien.
+
+532
+00:48:40,709 --> 00:48:44,546
+Roule une pelle à qui tu veux
+pendant trois minutes.
+
+533
+00:48:44,630 --> 00:48:46,089
+Oh là là, une pelle !
+
+534
+00:48:46,173 --> 00:48:49,343
+Une pelle !
+
+535
+00:48:54,723 --> 00:48:56,683
+- Ça l'a calmé.
+- Oh mon Dieu !
+
+536
+00:49:21,166 --> 00:49:23,794
+- Mais enfin !
+- Tu vas où, là ?
+
+537
+00:49:23,877 --> 00:49:26,046
+Il en a déjà une en vue, l'enfoiré !
+
+538
+00:49:26,129 --> 00:49:27,381
+- On y va.
+- Attends !
+
+539
+00:49:27,464 --> 00:49:28,465
+Allons voir ça !
+
+540
+00:49:36,556 --> 00:49:39,351
+La promesse que je t'ai faite,
+tu t'en souviens,
+
+541
+00:49:39,977 --> 00:49:40,811
+frérot ?
+
+542
+00:49:46,525 --> 00:49:47,359
+In-han !
+
+543
+00:49:53,949 --> 00:49:55,492
+J'ai juré de retrouver…
+
+544
+00:49:57,494 --> 00:49:59,162
+la personne qui t'a fait ça.
+
+545
+00:50:01,790 --> 00:50:04,251
+Kang Ha…
+
+546
+00:50:06,378 --> 00:50:07,462
+Kang…
+
+547
+00:50:15,387 --> 00:50:16,805
+Le salaud qui t'a tué.
+
+548
+00:50:19,266 --> 00:50:20,934
+Une place s'est libérée.
+
+549
+00:50:22,144 --> 00:50:25,313
+L'ancien boursier
+a ignoré mes consignes et a déconné.
+
+550
+00:50:25,814 --> 00:50:27,691
+Ri-an l'a tué.
+
+551
+00:50:34,448 --> 00:50:35,532
+Tu fais quoi, là ?
+
+552
+00:50:36,199 --> 00:50:40,245
+Je vais révéler
+tout ce que cet enfoiré t'a fait.
+
+553
+00:50:40,328 --> 00:50:42,164
+Qu'est-ce que tu fous là ?
+
+554
+00:50:58,764 --> 00:51:01,641
+Je ne reculerai devant rien
+pour y parvenir.
+
+555
+00:56:14,537 --> 00:56:17,457
+Sous-titres : Marjorie Seguin
+
