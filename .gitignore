@@ -9,57 +9,96 @@
 jellyfin/jellystat/postgres/
 *.webp
 *.cache-9
- =============== JELLYFIN ===============
-# Folder data database & cache
+# =============== JELLYFIN ===============
+# Folder database (PostgreSQL)
 jellyfin/jellystat/postgres/
+jellyfin/jellystat/postgres/data/
+jellyfin/jellystat/postgres/pg_wal/
+jellyfin/jellystat/postgres/pg_log/
+
+# Database dan file cache
 jellyfin/config/*.db
 jellyfin/cache/
 jellyfin/logs/
 jellyfin/temp/
+jellyfin/tmp/
 
-# Konfigurasi lokal yang bisa berbeda antar instalasi
+# File konfigurasi lokal khusus
 jellyfin/config/config.xml
 jellyfin/config/ffmpeg-settings.json
 jellyfin/config/license.json
+jellyfin/config/encryption-key.json
+jellyfin/config/userconfig.json
 
-# File backup atau otomatis yang tidak perlu di version control
+# Backup & otomatis
 jellyfin/config/backup-*.zip
 jellyfin/config/*.backup
+jellyfin/config/*.save
+jellyfin/config/restore-*.json
+
+# Plugin & ekstensi lokal (bisa berbeda per instalasi)
+jellyfin/plugins/
+jellyfin/addons/
+
+# Direktori yang dibuat otomatis & tidak perlu di-version control
+jellyfin/media/
+jellyfin/backup/
+jellyfin/archive/
+
+# =============== JELLYFIN RADAR ===============
+# Database dan cache Radar
+radar/Data/radar.db*
+radar/Data/radar.db-journal
+radar/Logs/
+radar/Temp/
+radar/Cache/
+radar/temp/
+
+# File konfigurasi lokal
+radar/config.json
+radar/settings.json
+radar/user-config.json
 
 # =============== SONARR ===============
 # Database Sonarr
 sonarr/Data/sonarr.db*
+sonarr/Data/sonarr.db-journal
+sonarr/Data/sonarr.db-wal
 sonarr/Logs/
 sonarr/Temp/
+sonarr/Cache/
 
-# Konfigurasi personal
+# Konfigurasi lokal
 sonarr/config.json
 sonarr/sonarr.config
+sonarr/sonarr.settings
+
+# Download & temp file
+sonarr/downloads/
+sonarr/Downloaded/
+sonarr/Incomplete/
 
 # =============== PROWLARR ===============
 # Database Prowlarr
 prowlarr/Data/prowlarr.db*
+prowlarr/Data/prowlarr.db-journal
+prowlarr/Data/prowlarr.db-wal
 prowlarr/Logs/
 prowlarr/Temp/
+prowlarr/Cache/
 
-# Konfigurasi personal
+# Config khusus
 prowlarr/config.json
+prowlarr/prowlarr.config
 
-# =============== RADAR ===============
-# Database Radar (dari Jellyfin Radar)
-radar/Data/radar.db*
-radar/Logs/
-radar/Temp/
-
-# Konfigurasi personal
-radar/config.json
-
-# =============== UMUM ===============
-# File sementara
+# =============== BERSAMAAN (COMMON) ===============
+# File sementara & log
 *.tmp
 *.temp
 *.log
 *.dump
+*.bak
+*.backup
 
 # OS & editor
 .DS_Store
@@ -67,17 +106,48 @@ Thumbs.db
 *.swp
 *.swo
 *~
+*.lock
 
-# Build & dist
+# Build & dependency
 dist/
 build/
 node_modules/
+bower_components/
+vendor/
 *.min.js
 *.min.css
+*.min.map
 
-# Environment files
+# Environment & secrets
 .env
 .env.local
 .env.development
 .env.production
+.env.backup
+secret-key.txt
+private-key.pem
+id_rsa
+id_rsa.pub
+
+# Docker & container
+docker-compose.override.yml
+.docker/
+docker-entrypoint.sh
+
+# Jekyll / Static site builds
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# IDE configs
+.idea/
+.vs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git metadata
+.gitignore
+.git/
 

@@ -5245,3 +5245,29 @@
 {"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-08-31T13:35:08.856Z"}
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:36:00.014Z"}
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:37:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:38:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:39:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:40:00.011Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-08-31T13:40:00.014Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"1178fda1-2e81-4126-823c-7d865dd32d4a","timestamp":"2025-08-31T13:40:00.015Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-08-31T13:40:00.017Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Fast X","timestamp":"2025-08-31T13:40:00.033Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Osiris","timestamp":"2025-08-31T13:40:00.060Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Legends of the Condor Heroes: The Gallants","timestamp":"2025-08-31T13:40:00.064Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Wrath of Man","timestamp":"2025-08-31T13:40:00.064Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found The Beekeeper","timestamp":"2025-08-31T13:40:00.064Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found How to Train Your Dragon","timestamp":"2025-08-31T13:40:00.065Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found F1","timestamp":"2025-08-31T13:40:00.065Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Thunderbolts*","timestamp":"2025-08-31T13:40:00.065Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Superman","timestamp":"2025-08-31T13:40:00.066Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Nobody 2","timestamp":"2025-08-31T13:40:00.988Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-08-31T13:40:04.989Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: Hierarchy","timestamp":"2025-08-31T13:40:05.030Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: Vigilante","timestamp":"2025-08-31T13:40:05.033Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: A Shop for Killers","timestamp":"2025-08-31T13:40:05.035Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: Tulsa King","timestamp":"2025-08-31T13:40:05.043Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: The Witcher","timestamp":"2025-08-31T13:40:05.048Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-08-31T13:40:09.050Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:41:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:42:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:43:00.011Z"}
