@@ -5219,3 +5219,29 @@
 {"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: The Witcher","timestamp":"2025-08-31T13:30:05.092Z"}
 {"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-08-31T13:30:09.095Z"}
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:31:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:32:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:33:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:34:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:35:00.013Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-08-31T13:35:00.015Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"87f87142-ee4a-4f19-a315-50854df65f74","timestamp":"2025-08-31T13:35:00.015Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-08-31T13:35:00.017Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Nobody 2","timestamp":"2025-08-31T13:35:00.049Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Fast X","timestamp":"2025-08-31T13:35:00.634Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Superman","timestamp":"2025-08-31T13:35:00.713Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Osiris","timestamp":"2025-08-31T13:35:00.718Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found F1","timestamp":"2025-08-31T13:35:00.728Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found How to Train Your Dragon","timestamp":"2025-08-31T13:35:00.728Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Wrath of Man","timestamp":"2025-08-31T13:35:00.729Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Thunderbolts*","timestamp":"2025-08-31T13:35:00.731Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found The Beekeeper","timestamp":"2025-08-31T13:35:00.731Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no new media types found Legends of the Condor Heroes: The Gallants","timestamp":"2025-08-31T13:35:00.732Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-08-31T13:35:04.735Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: Hierarchy","timestamp":"2025-08-31T13:35:04.826Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: A Shop for Killers","timestamp":"2025-08-31T13:35:04.827Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: Vigilante","timestamp":"2025-08-31T13:35:04.827Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: Tulsa King","timestamp":"2025-08-31T13:35:04.841Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: The Witcher","timestamp":"2025-08-31T13:35:04.852Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-08-31T13:35:08.856Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:36:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2025-08-31T13:37:00.012Z"}

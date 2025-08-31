@@ -9,3 +9,75 @@
 jellyfin/jellystat/postgres/
 *.webp
 *.cache-9
+ =============== JELLYFIN ===============
+# Folder data database & cache
+jellyfin/jellystat/postgres/
+jellyfin/config/*.db
+jellyfin/cache/
+jellyfin/logs/
+jellyfin/temp/
+
+# Konfigurasi lokal yang bisa berbeda antar instalasi
+jellyfin/config/config.xml
+jellyfin/config/ffmpeg-settings.json
+jellyfin/config/license.json
+
+# File backup atau otomatis yang tidak perlu di version control
+jellyfin/config/backup-*.zip
+jellyfin/config/*.backup
+
+# =============== SONARR ===============
+# Database Sonarr
+sonarr/Data/sonarr.db*
+sonarr/Logs/
+sonarr/Temp/
+
+# Konfigurasi personal
+sonarr/config.json
+sonarr/sonarr.config
+
+# =============== PROWLARR ===============
+# Database Prowlarr
+prowlarr/Data/prowlarr.db*
+prowlarr/Logs/
+prowlarr/Temp/
+
+# Konfigurasi personal
+prowlarr/config.json
+
+# =============== RADAR ===============
+# Database Radar (dari Jellyfin Radar)
+radar/Data/radar.db*
+radar/Logs/
+radar/Temp/
+
+# Konfigurasi personal
+radar/config.json
+
+# =============== UMUM ===============
+# File sementara
+*.tmp
+*.temp
+*.log
+*.dump
+
+# OS & editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Build & dist
+dist/
+build/
+node_modules/
+*.min.js
+*.min.css
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+

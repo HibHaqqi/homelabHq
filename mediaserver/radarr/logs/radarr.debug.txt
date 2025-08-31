@@ -1240,3 +1240,572 @@
 2025-08-31 20:30:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
 2025-08-31 20:30:45.5|Debug|AggregateLanguages|Selected languages: English
 2025-08-31 20:31:15.4|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-08-31 20:32:15.4|Debug|Parser|Parsing string 'How to Train Your Dragon 2025 BDRip x264 D3US CheerfulTomato'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. How to Train Your Dragon - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'How to Train Your Dragon 2025 BDRip x264 D3US CheerfulTomato'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: Bluray-480p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Ligaw 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Ligaw - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Tagalog
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Ligaw 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: Tagalog
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'The Beekeeper 2024 1080p AMZN WEBRip 1400MB DD5 1 x264 GalaxyRG'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. The Beekeeper - 2024 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'The Beekeeper 2024 1080p AMZN WEBRip 1400MB DD5 1 x264 GalaxyRG'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'The.Thursday.Murder.Club.2025.WEB.H264.RBB.mp4'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. The Thursday Murder Club - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'The.Thursday.Murder.Club.2025.WEB.H264.RBB.mp4'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBDL-480p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'F1 The Movie 2025 INTERNAL 1080p 10bit WEBRip 2CH X265 HEVC-PSA'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. F1 The Movie - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: PSA
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'F1 The Movie 2025 INTERNAL 1080p 10bit WEBRip 2CH X265 HEVC-PSA'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Thunderbolts 2025 576p WEBRip x265 AAC-SSN'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Thunderbolts - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: SSN
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Thunderbolts 2025 576p WEBRip x265 AAC-SSN'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBRip-480p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Jurassic World Rebirth (2025) 720p WEBRip-LAMA'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Jurassic World Rebirth - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: LAMA
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Jurassic World Rebirth (2025) 720p WEBRip-LAMA'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Nobody 2021 1080p BluRay x265 RARBG ORARBG'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Nobody - 2021 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Nobody 2021 1080p BluRay x265 RARBG ORARBG'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Sorority 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Sorority - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Tagalog
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Sorority 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|ParsingService|No matching movie for titles 'Sorority (2025)'
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Unable to aggregate languages, using parsed values: Tagalog
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Nobody 2 2025 1080p HDTS x264-RGB'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Nobody 2 - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: RGB
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Nobody 2 2025 1080p HDTS x264-RGB'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: TELESYNC v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Wrath.of.Man.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG ⭐'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Wrath of Man - 2021 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: GalaxyRG
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Wrath.of.Man.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG ⭐'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'A Working Man 2025 BDRiP x264 D3US'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. A Working Man - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'A Working Man 2025 BDRiP x264 D3US'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: Bluray-480p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Osiris 2025 1080p 10bit WEBRip 6CH x265 HEVC-PSA'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Osiris - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: PSA
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Osiris 2025 1080p 10bit WEBRip 6CH x265 HEVC-PSA'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Mission Impossible The Final Reckoning 2025 IMAX WebRip 720p x264'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Mission Impossible The Final Reckoning - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Mission Impossible The Final Reckoning 2025 IMAX WebRip 720p x264'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: IMAX
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'Legends of The Condor Heroes The Gallants 2025 1080p Chinese WEB'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. Legends of The Condor Heroes The Gallants - 2025 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Chinese
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'Legends of The Condor Heroes The Gallants 2025 1080p Chinese WEB'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: Chinese
+2025-08-31 20:32:15.5|Debug|Parser|Parsing string 'American.Pie.Presents.Girls.Rules.2020.1080p.BluRay.H264.AAC'
+2025-08-31 20:32:15.5|Debug|Parser|Movie Parsed. American Pie Presents Girls Rules - 2020 
+2025-08-31 20:32:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:32:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:32:15.5|Debug|QualityParser|Trying to parse quality for 'American.Pie.Presents.Girls.Rules.2020.1080p.BluRay.H264.AAC'
+2025-08-31 20:32:15.5|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-08-31 20:32:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:32:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'How to Train Your Dragon 2025 BDRip x264 D3US CheerfulTomato'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. How to Train Your Dragon - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'How to Train Your Dragon 2025 BDRip x264 D3US CheerfulTomato'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: Bluray-480p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Ligaw 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Ligaw - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Tagalog
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Ligaw 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: Tagalog
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'The Beekeeper 2024 1080p AMZN WEBRip 1400MB DD5 1 x264 GalaxyRG'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. The Beekeeper - 2024 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'The Beekeeper 2024 1080p AMZN WEBRip 1400MB DD5 1 x264 GalaxyRG'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'The.Thursday.Murder.Club.2025.WEB.H264.RBB.mp4'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. The Thursday Murder Club - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'The.Thursday.Murder.Club.2025.WEB.H264.RBB.mp4'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBDL-480p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'F1 The Movie 2025 INTERNAL 1080p 10bit WEBRip 2CH X265 HEVC-PSA'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. F1 The Movie - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: PSA
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'F1 The Movie 2025 INTERNAL 1080p 10bit WEBRip 2CH X265 HEVC-PSA'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Thunderbolts 2025 576p WEBRip x265 AAC-SSN'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Thunderbolts - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: SSN
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Thunderbolts 2025 576p WEBRip x265 AAC-SSN'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBRip-480p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Jurassic World Rebirth (2025) 720p WEBRip-LAMA'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Jurassic World Rebirth - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: LAMA
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Jurassic World Rebirth (2025) 720p WEBRip-LAMA'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Nobody 2021 1080p BluRay x265 RARBG ORARBG'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Nobody - 2021 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Nobody 2021 1080p BluRay x265 RARBG ORARBG'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Sorority 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Sorority - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Tagalog
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Sorority 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|ParsingService|No matching movie for titles 'Sorority (2025)'
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Unable to aggregate languages, using parsed values: Tagalog
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Nobody 2 2025 1080p HDTS x264-RGB'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Nobody 2 - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: RGB
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Nobody 2 2025 1080p HDTS x264-RGB'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: TELESYNC v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Wrath.of.Man.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG ⭐'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Wrath of Man - 2021 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: GalaxyRG
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Wrath.of.Man.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG ⭐'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'A Working Man 2025 BDRiP x264 D3US'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. A Working Man - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'A Working Man 2025 BDRiP x264 D3US'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: Bluray-480p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Osiris 2025 1080p 10bit WEBRip 6CH x265 HEVC-PSA'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Osiris - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: PSA
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Osiris 2025 1080p 10bit WEBRip 6CH x265 HEVC-PSA'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Mission Impossible The Final Reckoning 2025 IMAX WebRip 720p x264'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Mission Impossible The Final Reckoning - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Mission Impossible The Final Reckoning 2025 IMAX WebRip 720p x264'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: IMAX
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'Legends of The Condor Heroes The Gallants 2025 1080p Chinese WEB'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. Legends of The Condor Heroes The Gallants - 2025 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Chinese
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'Legends of The Condor Heroes The Gallants 2025 1080p Chinese WEB'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: Chinese
+2025-08-31 20:33:45.5|Debug|Parser|Parsing string 'American.Pie.Presents.Girls.Rules.2020.1080p.BluRay.H264.AAC'
+2025-08-31 20:33:45.5|Debug|Parser|Movie Parsed. American Pie Presents Girls Rules - 2020 
+2025-08-31 20:33:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:33:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:33:45.5|Debug|QualityParser|Trying to parse quality for 'American.Pie.Presents.Girls.Rules.2020.1080p.BluRay.H264.AAC'
+2025-08-31 20:33:45.5|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-08-31 20:33:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:33:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'How to Train Your Dragon 2025 BDRip x264 D3US CheerfulTomato'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. How to Train Your Dragon - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'How to Train Your Dragon 2025 BDRip x264 D3US CheerfulTomato'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: Bluray-480p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Ligaw 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Ligaw - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Tagalog
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Ligaw 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: Tagalog
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'The Beekeeper 2024 1080p AMZN WEBRip 1400MB DD5 1 x264 GalaxyRG'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. The Beekeeper - 2024 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'The Beekeeper 2024 1080p AMZN WEBRip 1400MB DD5 1 x264 GalaxyRG'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'The.Thursday.Murder.Club.2025.WEB.H264.RBB.mp4'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. The Thursday Murder Club - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'The.Thursday.Murder.Club.2025.WEB.H264.RBB.mp4'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBDL-480p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'F1 The Movie 2025 INTERNAL 1080p 10bit WEBRip 2CH X265 HEVC-PSA'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. F1 The Movie - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: PSA
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'F1 The Movie 2025 INTERNAL 1080p 10bit WEBRip 2CH X265 HEVC-PSA'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Thunderbolts 2025 576p WEBRip x265 AAC-SSN'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Thunderbolts - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: SSN
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Thunderbolts 2025 576p WEBRip x265 AAC-SSN'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBRip-480p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Jurassic World Rebirth (2025) 720p WEBRip-LAMA'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Jurassic World Rebirth - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: LAMA
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Jurassic World Rebirth (2025) 720p WEBRip-LAMA'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Nobody 2021 1080p BluRay x265 RARBG ORARBG'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Nobody - 2021 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Nobody 2021 1080p BluRay x265 RARBG ORARBG'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Sorority 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Sorority - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Tagalog
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Sorority 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|ParsingService|No matching movie for titles 'Sorority (2025)'
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Unable to aggregate languages, using parsed values: Tagalog
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Nobody 2 2025 1080p HDTS x264-RGB'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Nobody 2 - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: RGB
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Nobody 2 2025 1080p HDTS x264-RGB'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: TELESYNC v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Wrath.of.Man.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG ⭐'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Wrath of Man - 2021 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: GalaxyRG
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Wrath.of.Man.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG ⭐'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'A Working Man 2025 BDRiP x264 D3US'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. A Working Man - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'A Working Man 2025 BDRiP x264 D3US'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: Bluray-480p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Osiris 2025 1080p 10bit WEBRip 6CH x265 HEVC-PSA'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Osiris - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: PSA
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Osiris 2025 1080p 10bit WEBRip 6CH x265 HEVC-PSA'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Mission Impossible The Final Reckoning 2025 IMAX WebRip 720p x264'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Mission Impossible The Final Reckoning - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Mission Impossible The Final Reckoning 2025 IMAX WebRip 720p x264'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: IMAX
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'Legends of The Condor Heroes The Gallants 2025 1080p Chinese WEB'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. Legends of The Condor Heroes The Gallants - 2025 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Chinese
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'Legends of The Condor Heroes The Gallants 2025 1080p Chinese WEB'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: Chinese
+2025-08-31 20:35:15.5|Debug|Parser|Parsing string 'American.Pie.Presents.Girls.Rules.2020.1080p.BluRay.H264.AAC'
+2025-08-31 20:35:15.5|Debug|Parser|Movie Parsed. American Pie Presents Girls Rules - 2020 
+2025-08-31 20:35:15.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:35:15.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:35:15.5|Debug|QualityParser|Trying to parse quality for 'American.Pie.Presents.Girls.Rules.2020.1080p.BluRay.H264.AAC'
+2025-08-31 20:35:15.5|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-08-31 20:35:15.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:35:15.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:15.5|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'How to Train Your Dragon 2025 BDRip x264 D3US CheerfulTomato'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. How to Train Your Dragon - 2025 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'How to Train Your Dragon 2025 BDRip x264 D3US CheerfulTomato'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: Bluray-480p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'Ligaw 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. Ligaw - 2025 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Tagalog
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'Ligaw 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Selected languages: Tagalog
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'The Beekeeper 2024 1080p AMZN WEBRip 1400MB DD5 1 x264 GalaxyRG'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. The Beekeeper - 2024 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'The Beekeeper 2024 1080p AMZN WEBRip 1400MB DD5 1 x264 GalaxyRG'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'The.Thursday.Murder.Club.2025.WEB.H264.RBB.mp4'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. The Thursday Murder Club - 2025 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'The.Thursday.Murder.Club.2025.WEB.H264.RBB.mp4'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: WEBDL-480p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'F1 The Movie 2025 INTERNAL 1080p 10bit WEBRip 2CH X265 HEVC-PSA'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. F1 The Movie - 2025 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: PSA
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'F1 The Movie 2025 INTERNAL 1080p 10bit WEBRip 2CH X265 HEVC-PSA'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'Thunderbolts 2025 576p WEBRip x265 AAC-SSN'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. Thunderbolts - 2025 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: SSN
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'Thunderbolts 2025 576p WEBRip x265 AAC-SSN'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: WEBRip-480p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'Jurassic World Rebirth (2025) 720p WEBRip-LAMA'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. Jurassic World Rebirth - 2025 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: LAMA
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'Jurassic World Rebirth (2025) 720p WEBRip-LAMA'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'Nobody 2021 1080p BluRay x265 RARBG ORARBG'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. Nobody - 2021 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'Nobody 2021 1080p BluRay x265 RARBG ORARBG'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'Sorority 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. Sorority - 2025 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Tagalog
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'Sorority 2025 1080p Tagalog WEB DL HEVC x265 BONE'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|ParsingService|No matching movie for titles 'Sorority (2025)'
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Unable to aggregate languages, using parsed values: Tagalog
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'Nobody 2 2025 1080p HDTS x264-RGB'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. Nobody 2 - 2025 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: RGB
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'Nobody 2 2025 1080p HDTS x264-RGB'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: TELESYNC v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.5|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.5|Debug|Parser|Parsing string 'Wrath.of.Man.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG ⭐'
+2025-08-31 20:36:45.5|Debug|Parser|Movie Parsed. Wrath of Man - 2021 
+2025-08-31 20:36:45.5|Debug|Parser|Release Group parsed: GalaxyRG
+2025-08-31 20:36:45.5|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.5|Debug|QualityParser|Trying to parse quality for 'Wrath.of.Man.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG ⭐'
+2025-08-31 20:36:45.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:36:45.5|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.6|Debug|Parser|Parsing string 'A Working Man 2025 BDRiP x264 D3US'
+2025-08-31 20:36:45.6|Debug|Parser|Movie Parsed. A Working Man - 2025 
+2025-08-31 20:36:45.6|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.6|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.6|Debug|QualityParser|Trying to parse quality for 'A Working Man 2025 BDRiP x264 D3US'
+2025-08-31 20:36:45.6|Debug|Parser|Quality parsed: Bluray-480p v1
+2025-08-31 20:36:45.6|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.6|Debug|Parser|Parsing string 'Osiris 2025 1080p 10bit WEBRip 6CH x265 HEVC-PSA'
+2025-08-31 20:36:45.6|Debug|Parser|Movie Parsed. Osiris - 2025 
+2025-08-31 20:36:45.6|Debug|Parser|Release Group parsed: PSA
+2025-08-31 20:36:45.6|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.6|Debug|QualityParser|Trying to parse quality for 'Osiris 2025 1080p 10bit WEBRip 6CH x265 HEVC-PSA'
+2025-08-31 20:36:45.6|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-08-31 20:36:45.6|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.6|Debug|Parser|Parsing string 'Mission Impossible The Final Reckoning 2025 IMAX WebRip 720p x264'
+2025-08-31 20:36:45.6|Debug|Parser|Movie Parsed. Mission Impossible The Final Reckoning - 2025 
+2025-08-31 20:36:45.6|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.6|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.6|Debug|QualityParser|Trying to parse quality for 'Mission Impossible The Final Reckoning 2025 IMAX WebRip 720p x264'
+2025-08-31 20:36:45.6|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-08-31 20:36:45.6|Debug|Parser|Edition parsed: IMAX
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Selected languages: English
+2025-08-31 20:36:45.6|Debug|Parser|Parsing string 'Legends of The Condor Heroes The Gallants 2025 1080p Chinese WEB'
+2025-08-31 20:36:45.6|Debug|Parser|Movie Parsed. Legends of The Condor Heroes The Gallants - 2025 
+2025-08-31 20:36:45.6|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.6|Debug|Parser|Languages parsed: Chinese
+2025-08-31 20:36:45.6|Debug|QualityParser|Trying to parse quality for 'Legends of The Condor Heroes The Gallants 2025 1080p Chinese WEB'
+2025-08-31 20:36:45.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-08-31 20:36:45.6|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Selected languages: Chinese
+2025-08-31 20:36:45.6|Debug|Parser|Parsing string 'American.Pie.Presents.Girls.Rules.2020.1080p.BluRay.H264.AAC'
+2025-08-31 20:36:45.6|Debug|Parser|Movie Parsed. American Pie Presents Girls Rules - 2020 
+2025-08-31 20:36:45.6|Debug|Parser|Release Group parsed: 
+2025-08-31 20:36:45.6|Debug|Parser|Languages parsed: Unknown
+2025-08-31 20:36:45.6|Debug|QualityParser|Trying to parse quality for 'American.Pie.Presents.Girls.Rules.2020.1080p.BluRay.H264.AAC'
+2025-08-31 20:36:45.6|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-08-31 20:36:45.6|Debug|Parser|Edition parsed: 
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-08-31 20:36:45.6|Debug|AggregateLanguages|Selected languages: English
