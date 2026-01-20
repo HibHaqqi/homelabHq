@@ -5,10 +5,10 @@
   vars:
     pg_user: "postgres"
     pg_password: "rahasia"
-    pg_database: "financetrack"       # Change accordingly to your database to restore
+    pg_database: "kosmanage"       # Change accordingly to your database to restore
     container_name: "bizkos-db"  # Change to the container where you want to restore
-    backup_dir: "/home/haqqi/app/Financetrack/backup"  # Directory on host where backup resides
-    backup_file: "17012026_financetrack_backup.dump"              # Backup filename
+    backup_dir: "/home/haqqi/app/biztrackkos-2/backup"  # Directory on host where backup resides
+    backup_file: "17012026_bizkos_backup.dump"              # Backup filename
 
   tasks:
     - name: Copy backup file from host to container
