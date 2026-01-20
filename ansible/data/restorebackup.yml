@@ -8,7 +8,7 @@
     pg_database: "kosmanage"       # Change accordingly to your database to restore
     container_name: "bizkos-db"  # Change to the container where you want to restore
     backup_dir: "/home/haqqi/app/biztrackkos-2/backup"  # Directory on host where backup resides
-    backup_file: "17012026_bizkos_backup.dump"              # Backup filename
+    backup_file: "190126_bizkos_backup.dump"              # Backup filename
 
   tasks:
     - name: Copy backup file from host to container
