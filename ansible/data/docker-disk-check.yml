@@ -1,7 +1,5 @@
----
 # Ansible Playbook: Docker Disk Space Check & Optimization
 # Usage: ansible-playbook -i inventory docker-disk-check.yml --ask-become-pass
-# For dry run: ansible-playbook -i inventory docker-disk-check.yml --check
 
 - name: Docker Disk Space Check & Optimization
   hosts: all
@@ -9,38 +7,30 @@
   gather_facts: true
 
   vars:
-    # Thresholds (percentage)
     disk_warning_threshold: 80
     disk_critical_threshold: 90
     docker_image_age_days: 30
 
   tasks:
     # ============================================
-    # System Disk Space Check
+    # System Disk Space Check (Using Native Facts)
     # ============================================
-    - name: Get disk usage information
-      ansible.builtin.shell: |
-        df -h | grep -E "^/dev/" | awk '{print $1, $2, $3, $4, $5, $6}'
-      register: disk_usage
-      changed_when: false
+    - name: Calculate root filesystem usage
+      ansible.builtin.set_fact:
+        root_usage_percent: "{{ ((item.size_total - item.size_available) / item.size_total * 100) | round(1) }}"
+      loop: "{{ ansible_mounts }}"
+      when: item.mount == "/"
 
     - name: Display disk usage
       ansible.builtin.debug:
-        msg: "{{ disk_usage.stdout_lines }}"
-
-    - name: Check root filesystem usage
-      ansible.builtin.shell: |
-        df / | tail -1 | awk '{print $5}' | sed 's/%//'
-      register: root_usage_percent
-      changed_when: false
+        msg: "Root filesystem usage is currently {{ root_usage_percent }}%"
 
     - name: Alert if disk usage is high
       ansible.builtin.debug:
         msg: |
-          ⚠️  WARNING: Root filesystem usage is {{ root_usage_percent.stdout }}%
-          Warning threshold: {{ disk_warning_threshold }}%
-          Critical threshold: {{ disk_critical_threshold }}%
-      when: root_usage_percent.stdout|int >= disk_warning_threshold
+          ⚠️  WARNING: Root filesystem usage is {{ root_usage_percent }}%
+          Threshold: {{ disk_warning_threshold }}%
+      when: root_usage_percent | float >= disk_warning_threshold
 
     # ============================================
     # Docker System Information
@@ -49,159 +39,55 @@
       ansible.builtin.systemd:
         name: docker
       register: docker_service
-      failed_when: false
+      ignore_errors: true
 
     - name: Get Docker system disk usage
       ansible.builtin.shell: docker system df
       register: docker_system_df
       changed_when: false
-      when: docker_service.status.ActiveState == "active"
+      when: docker_service.status is defined and docker_service.status.ActiveState == "active"
 
-    - name: Display Docker system disk usage
-      ansible.builtin.debug:
-        msg: "{{ docker_system_df.stdout_lines }}"
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Get detailed Docker disk usage (verbose)
+    - name: Get detailed Docker disk usage
       ansible.builtin.shell: docker system df -v
       register: docker_system_df_v
       changed_when: false
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Display detailed Docker disk usage
-      ansible.builtin.debug:
-        msg: "{{ docker_system_df_v.stdout_lines }}"
-      when: docker_service.status.ActiveState == "active"
+      when: docker_service.status is defined and docker_service.status.ActiveState == "active"
 
     # ============================================
-    # Docker Images Analysis
+    # Docker Images Analysis (FIXED TAGS)
     # ============================================
     - name: List all Docker images
-      ansible.builtin.shell: docker images --format "table {{.Repository}}\t{{.Tag}}\t{{.Size}}\t{{.CreatedAt}}"
+      ansible.builtin.shell: >
+        docker images --format "{% raw %}table {{.Repository}}\t{{.Tag}}\t{{.Size}}\t{{.CreatedAt}}{% endraw %}"
       register: docker_images
       changed_when: false
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Display Docker images
-      ansible.builtin.debug:
-        msg: "{{ docker_images.stdout_lines }}"
-      when: docker_service.status.ActiveState == "active"
+      when: docker_service.status is defined and docker_service.status.ActiveState == "active"
 
     - name: Find dangling Docker images
       ansible.builtin.shell: docker images -f "dangling=true" -q
       register: dangling_images
       changed_when: false
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Count dangling images
-      ansible.builtin.set_fact:
-        dangling_image_count: "{{ dangling_images.stdout_lines | length }}"
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Alert about dangling images
-      ansible.builtin.debug:
-        msg: "Found {{ dangling_image_count }} dangling images (can be safely removed with 'docker image prune')"
-      when:
-        - docker_service.status.ActiveState == "active"
-        - dangling_image_count | int > 0
-
-    - name: Find old Docker images (> {{ docker_image_age_days }} days)
-      ansible.builtin.shell: |
-        docker images --format "{{.ID}} {{.CreatedAt}}" | \
-        awk -v days={{ docker_image_age_days }} \
-        '{cmd="date -d \""$2"\" +%s"; cmd | getline ts1; close(cmd);
-          cmd="date -d \"-"days" days\" +%s"; cmd | getline ts2; close(cmd);
-          if (ts1 < ts2) print $1}'
-      register: old_images
-      changed_when: false
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Display old images
-      ansible.builtin.debug:
-        msg: "Old images found ({{ docker_image_age_days }}+ days): {{ old_images.stdout_lines }}"
-      when:
-        - docker_service.status.ActiveState == "active"
-        - old_images.stdout_lines | length > 0
+      when: docker_service.status is defined and docker_service.status.ActiveState == "active"
 
     # ============================================
-    # Docker Containers Analysis
+    # Docker Containers Analysis (FIXED TAGS)
     # ============================================
-    - name: List all Docker containers (including stopped)
-      ansible.builtin.shell: docker ps -a --format "table {{.Names}}\t{{.Status}}\t{{.Size}}"
+    - name: List all Docker containers
+      ansible.builtin.shell: >
+        docker ps -a --format "{% raw %}table {{.Names}}\t{{.Status}}\t{{.Size}}{% endraw %}"
       register: docker_containers
       changed_when: false
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Display Docker containers
-      ansible.builtin.debug:
-        msg: "{{ docker_containers.stdout_lines }}"
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Find exited containers
-      ansible.builtin.shell: docker ps -a -f "status=exited" --format "{{.Names}}"
-      register: exited_containers
-      changed_when: false
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Count exited containers
-      ansible.builtin.set_fact:
-        exited_container_count: "{{ exited_containers.stdout_lines | length }}"
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Alert about exited containers
-      ansible.builtin.debug:
-        msg: "Found {{ exited_container_count }} exited containers (can be removed with 'docker container prune')"
-      when:
-        - docker_service.status.ActiveState == "active"
-        - exited_container_count | int > 0
+      when: docker_service.status is defined and docker_service.status.ActiveState == "active"
 
     # ============================================
-    # Docker Volumes Analysis
-    # ============================================
-    - name: List Docker volumes
-      ansible.builtin.shell: docker volume ls --format "table {{.Name}}\t{{.Driver}}\t{{.Scope}}"
-      register: docker_volumes
-      changed_when: false
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Display Docker volumes
-      ansible.builtin.debug:
-        msg: "{{ docker_volumes.stdout_lines }}"
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Find unused Docker volumes
-      ansible.builtin.shell: docker volume ls -f dangling=true -q
-      register: unused_volumes
-      changed_when: false
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Count unused volumes
-      ansible.builtin.set_fact:
-        unused_volume_count: "{{ unused_volumes.stdout_lines | length }}"
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Alert about unused volumes
-      ansible.builtin.debug:
-        msg: "Found {{ unused_volume_count }} unused volumes (WARNING: removing volumes deletes data!)"
-      when:
-        - docker_service.status.ActiveState == "active"
-        - unused_volume_count | int > 0
-
-    # ============================================
-    # Docker Build Cache Analysis
+    # Docker Build Cache Analysis (FIXED TAGS)
     # ============================================
     - name: Check Docker build cache size
-      ansible.builtin.shell: docker system df --format "{{.BuildCache}}" | head -1
+      ansible.builtin.shell: >
+        docker system df --format "{% raw %}{{.BuildCache}}{% endraw %}" | head -1
       register: build_cache_size
       changed_when: false
-      when: docker_service.status.ActiveState == "active"
-
-    - name: Display build cache size
-      ansible.builtin.debug:
-        msg: "Docker build cache size: {{ build_cache_size.stdout }}"
-      when:
-        - docker_service.status.ActiveState == "active"
-        - build_cache_size.stdout | length > 0
+      when: docker_service.status is defined and docker_service.status.ActiveState == "active"
 
     # ============================================
     # Optimization Report
@@ -212,65 +98,11 @@
           ══════════════════════════════════════════════════════════
           🧹 DOCKER DISK OPTIMIZATION REPORT
           ══════════════════════════════════════════════════════════
-
-          Root filesystem usage: {{ root_usage_percent.stdout }}%
-          Warning threshold: {{ disk_warning_threshold }}%
-          Critical threshold: {{ disk_critical_threshold }}%
-
-          Dangling images: {{ dangling_image_count | default(0) }}
-          Exited containers: {{ exited_container_count | default(0) }}
-          Unused volumes: {{ unused_volume_count | default(0) }}
-
+          Root Usage: {{ root_usage_percent }}%
+          Build Cache: {{ build_cache_size.stdout | default('N/A') }}
+          
+          CLEANUP SUGGESTIONS:
+          - docker image prune (Safe)
+          - docker system prune -a (Aggressive)
           ══════════════════════════════════════════════════════════
-          📋 CLEANUP COMMANDS (review before running!)
-          ══════════════════════════════════════════════════════════
-
-          # Safe: Remove dangling images
-          docker image prune
-
-          # Safe: Remove stopped containers
-          docker container prune
-
-          # SAFE: Remove unused volumes (BE CAREFUL - deletes data!)
-          docker volume prune
-
-          # AGGRESSIVE: Remove all unused images (not just dangling)
-          docker image prune -a
-
-          # AGGRESSIVE: Remove all unused data (images, containers, volumes, networks, build cache)
-          docker system prune -a --volumes
-
-          # Preview what would be removed (dry run)
-          docker system prune --dry-run
-
-          ══════════════════════════════════════════════════════════
-      when: docker_service.status.ActiveState == "active"
-
-    # ============================================
-    # Optional: Automated Cleanup (COMMENTED BY DEFAULT)
-    # ============================================
-    # Uncomment the tasks below to enable automated cleanup
-
-    # - name: Remove dangling Docker images
-    #   ansible.builtin.shell: docker image prune -f
-    #   register: prune_images
-    #   when: docker_service.status.ActiveState == "active"
-
-    # - name: Remove exited Docker containers
-    #   ansible.builtin.shell: docker container prune -f
-    #   register: prune_containers
-    #   when: docker_service.status.ActiveState == "active"
-
-    # - name: Remove unused Docker volumes
-    #   ansible.builtin.shell: docker volume prune -f
-    #   register: prune_volumes
-    #   when: docker_service.status.ActiveState == "active"
-    #   # WARNING: This deletes data! Uncomment only if you're sure!
-
-    # - name: Display cleanup results
-    #   ansible.builtin.debug:
-    #     msg: |
-    #       Images cleaned: {{ prune_images.stdout | default('N/A') }}
-    #       Containers cleaned: {{ prune_containers.stdout | default('N/A') }}
-    #       Volumes cleaned: {{ prune_volumes.stdout | default('N/A') }}
-    #   when: docker_service.status.ActiveState == "active"
+      when: docker_service.status is defined and docker_service.status.ActiveState == "active"
