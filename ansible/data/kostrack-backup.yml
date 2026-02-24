@@ -7,7 +7,7 @@
     pg_password: "rahasia"
     pg_database: "kosmanage"
     container_name: "bizkos-db"
-    backup_dir: "/home/haqqi/app/nextjs/backup"
+    backup_dir: "/home/haqqi/app/nextjs-apps/backup"
     backup_file_prefix: "bizkos_backup"
     backup_file_suffix: ".dump"
     retention_days: 7
