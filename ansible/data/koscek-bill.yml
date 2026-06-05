@@ -1,88 +1,36 @@
 ---
-# Ansible Playbook: Configure KosCek Billing Generation Cron Job
+# Ansible Playbook: KosCek Billing Generation Cron Job
 #
-# This playbook sets up a daily cron job to automatically generate
-# billing records and send WhatsApp reminders 7 days before due date.
+# This playbook is designed for Semaphore (or any Ansible setup with existing inventory).
+# No external files required - all variables are passed via extra-vars.
 #
-# Usage:
-#   ansible-playbook -i inventory.ini ansible-playbooks/cron-billing.yml
+# SEMAPHORE SETUP:
+# 1. Upload this playbook to your Semaphore project
+# 2. In Semaphore Task > Extra Variables, add:
+#    - app_url: https://koscek.id
+#    - vault_cron_secret: YOUR_CRON_SECRET (from .env)
+#    - cron_minute: 0
+#    - cron_hour: 8
+#    - cron_user: www-data
 #
-# Required variables (set in host_vars/koscek-prod.yml or pass via --extra-vars):
-#   - vault_cron_secret: The CRON_SECRET value from .env (REQUIRED)
-#   - app_url: The application URL (default: https://koscek.id)
+# CLI USAGE (for testing):
+#   ansible-playbook cron-billing.yml \
+#     --extra-vars "app_url=https://koscek.id vault_cron_secret=YOUR_SECRET"
 
 - name: Configure KosCek Billing Generation Cron Job
-  hosts: koscek_servers
+  hosts: all
   become: yes
   vars:
-    # Default values - override in host_vars or group_vars
+    # REQUIRED VARIABLES - Set these in Semaphore Extra Variables
     app_url: "{{ app_url | default('https://koscek.id') }}"
-    cron_secret_key: "{{ vault_cron_secret | default('AYtGuNumPfxhdjk0pJIgFH7V/FsD91g7K8wMX+Jbh8Q=') }}"
+    vault_cron_secret: "{{ vault_cron_secret | default('AYtGuNumPfxhdjk0pJIgFH7V/FsD91g7K8wMX+Jbh8Q=') }}"
+
+    # OPTIONAL VARIABLES - Override in Semaphore if needed
     cron_minute: "{{ cron_minute | default('0') }}"
     cron_hour: "{{ cron_hour | default('8') }}"
+    cron_day: "{{ cron_day | default('*') }}"
+    cron_month: "{{ cron_month | default('*') }}"
+    cron_weekday: "{{ cron_weekday | default('*') }}"
     cron_user: "{{ cron_user | default('www-data') }}"
+    cron_job_name: "{{ cron_job_name | default('koscek-billing') }}"
 
-  pre_tasks:
-    - name: Display configuration
-      debug:
-        msg:
-          - "App URL: {{ app_url }}"
-          - "Cron Schedule: {{ cron_minute }} {{ cron_hour }} * * *"
-          - "Cron User: {{ cron_user }}"
-          - "Secret: {{ (cron_secret_key | length) }} characters"
-
-    - name: Verify CRON_SECRET is set
-      fail:
-        msg: "vault_cron_secret must be set! Pass via --extra-vars or set in host_vars/"
-      when: cron_secret_key == 'CHANGE_ME_IN_PRODUCTION'
-
-  tasks:
-    - name: Ensure curl is installed
-      apt:
-        name: curl
-        state: present
-        update_cache: yes
-      when: ansible_os_family == "Debian"
-
-    - name: Ensure curl is installed (RHEL)
-      yum:
-        name: curl
-        state: present
-      when: ansible_os_family == "RedHat"
-
-    - name: Create cron job for billing generation
-      ansible.builtin.cron:
-        name: "KosCek Daily Billing Generation"
-        minute: "{{ cron_minute }}"
-        hour: "{{ cron_hour }}"
-        job: >
-          curl -s -S -X GET {{ app_url }}/api/cron/generate-billings
-          -H "Authorization: Bearer {{ cron_secret_key }}"
-        user: "{{ cron_user }}"
-        state: present
-        cron_file: koscek-billing
-
-    - name: Verify cron job was created
-      command: crontab -u {{ cron_user }} -l
-      register: cron_result
-      changed_when: false
-      failed_when: false
-
-    - name: Display cron job status
-      debug:
-        msg: "{{ cron_result.stdout_lines }}"
-      when: cron_result.stdout_lines is defined
-
-  post_tasks:
-    - name: Display next steps
-      debug:
-        msg:
-          - "✓ Cron job configured successfully!"
-          - ""
-          - "To test manually, run:"
-          - "  curl -X GET {{ app_url }}/api/cron/generate-billings -H 'Authorization: Bearer YOUR_SECRET'"
-          - ""
-          - "To view cron logs:"
-          - "  grep CRON /var/log/syslog"
-          - ""
-          - "Next execution: Tomorrow at {{ cron_hour }}:{{ cron_minute }} AM"
