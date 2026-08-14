@@ -1,0 +1,16 @@
+
+---
+- name: Schedule server wake-up
+  hosts: all
+  become: yes
+  become_user: root
+  tasks:
+    - name: Check current user id
+      command: whoami
+
+    - name: Get tomorrow 11 AM timestamp
+      command: date -d "tomorrow 11:00" +%s
+      register: wakeup_time
+
+    - name: Set RTC wake-up time for tomorrow at 11 AM
+      command: /usr/sbin/rtcwake -m no -t {{ wakeup_time.stdout }}
