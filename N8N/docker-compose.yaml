@@ -15,7 +15,7 @@ services:
     environment:
       - DB_POSTGRESDB_DATABASE=n8n
       - DB_POSTGRESDB_HOST=db-n8n
-      - DB_POSTGRESDB_PASSWORD=haQQi1003
+      - DB_POSTGRESDB_PASSWORD=
       - DB_POSTGRESDB_PORT=5432
       - DB_POSTGRESDB_USER=bigbearcasaos
       - DB_TYPE=postgresdb
